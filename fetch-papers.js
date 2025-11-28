@@ -159,11 +159,16 @@ async function fetchAbstractFromURL(url) {
                 if (elements.length > 0) {
                     let combinedText = '';
                     elements.each((i, elem) => {
-                        combinedText += $(elem).text() + ' ';
+                        const text = $(elem).text().trim();
+                        // Skip empty elements and navigation text
+                        if (text && text.length > 20) {
+                            combinedText += text + ' ';
+                        }
                     });
                     combinedText = combinedText.trim();
 
-                    if (combinedText && combinedText.length > 100) {
+                    // Accept abstracts that are at least 100 chars
+                    if (combinedText && combinedText.length >= 100) {
                         abstract = combinedText;
                         console.log(`    ✓ Found abstract via ${selector} (${abstract.length} chars)`);
                         break;
@@ -177,12 +182,29 @@ async function fetchAbstractFromURL(url) {
             $('h2, h3, h4, div.section-title, span.section-title').each((i, elem) => {
                 const heading = $(elem).text().trim().toLowerCase();
                 if (heading === 'abstract' || heading.includes('abstract')) {
-                    // Get the next sibling or parent's next content
-                    let content = $(elem).next().text().trim();
-                    if (!content) {
+                    // Try multiple ways to get the content after the heading
+                    let content = '';
+
+                    // Method 1: Get all following paragraphs until next heading
+                    let nextElem = $(elem).next();
+                    while (nextElem.length > 0 && !nextElem.is('h1, h2, h3, h4, h5, h6')) {
+                        const text = nextElem.text().trim();
+                        if (text && text.length > 20) {
+                            content += text + ' ';
+                        }
+                        nextElem = nextElem.next();
+                        // Stop after collecting enough content or 5 elements
+                        if (content.length > 200 || content.split(' ').length > 50) {
+                            break;
+                        }
+                    }
+
+                    // Method 2: Try parent's next sibling if method 1 didn't work
+                    if (!content || content.length < 100) {
                         content = $(elem).parent().next().text().trim();
                     }
-                    if (content && content.length > 100) {
+
+                    if (content && content.length >= 100) {
                         abstract = content;
                         console.log(`    ✓ Found abstract via heading search (${abstract.length} chars)`);
                         return false; // break the loop
