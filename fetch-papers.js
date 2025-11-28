@@ -95,26 +95,54 @@ async function fetchAbstractFromURL(url) {
 
         const response = await axios.get(url, {
             headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                'Accept-Language': 'en-US,en;q=0.9',
             },
-            timeout: 10000
+            timeout: 15000,
+            maxRedirects: 5
         });
 
         const $ = cheerio.load(response.data);
         let abstract = null;
 
-        // Try multiple common abstract selectors
+        // Try multiple common abstract selectors (ordered by specificity)
         const selectors = [
+            // Elsevier/ScienceDirect selectors (for JFE, JAE, etc.)
+            'div.abstract.author p',
+            'div.abstract.author div',
+            'div[class*="abstract"] div.author',
+            'section[id="abstracts"] div',
+            'section[id="abstract"] div',
+            'div#abstracts p',
+            'div#abstract p',
+
+            // Wiley selectors (for JF, RFS, JAR, TAR)
+            'section.article-section__abstract p',
+            'div.article-section__content p',
+            'section.abstract div',
+
+            // AEA/Oxford selectors (for AER, QJE, JPE)
+            'section.abstract p',
+            'div.abstractSection p',
+            'div.abstract p',
+
+            // Generic selectors
             'section[class*="abstract"] p',
             'div[class*="abstract"] p',
             'div[id*="abstract"] p',
             'section[id*="abstract"] p',
             '.abstract-content p',
             '.article-abstract p',
+            'article section p',
+
+            // Meta tags as fallback
+            'meta[name="dc.description"]',
+            'meta[name="DC.Description"]',
             'meta[name="description"]',
             'meta[property="og:description"]',
-            'meta[name="DC.Description"]',
-            'div.abstractSection p'
+            'meta[name="citation_abstract"]',
+            'meta[property="article:abstract"]'
         ];
 
         for (const selector of selectors) {
@@ -122,15 +150,45 @@ async function fetchAbstractFromURL(url) {
                 const content = $(selector).attr('content');
                 if (content && content.length > 100) {
                     abstract = content;
+                    console.log(`    ✓ Found abstract via ${selector} (${abstract.length} chars)`);
                     break;
                 }
             } else {
-                const text = $(selector).text().trim();
-                if (text && text.length > 100) {
-                    abstract = text;
-                    break;
+                // Try to get all matching elements and combine their text
+                const elements = $(selector);
+                if (elements.length > 0) {
+                    let combinedText = '';
+                    elements.each((i, elem) => {
+                        combinedText += $(elem).text() + ' ';
+                    });
+                    combinedText = combinedText.trim();
+
+                    if (combinedText && combinedText.length > 100) {
+                        abstract = combinedText;
+                        console.log(`    ✓ Found abstract via ${selector} (${abstract.length} chars)`);
+                        break;
+                    }
                 }
             }
+        }
+
+        // If still no abstract, try searching for "Abstract" heading and get next content
+        if (!abstract) {
+            $('h2, h3, h4, div.section-title, span.section-title').each((i, elem) => {
+                const heading = $(elem).text().trim().toLowerCase();
+                if (heading === 'abstract' || heading.includes('abstract')) {
+                    // Get the next sibling or parent's next content
+                    let content = $(elem).next().text().trim();
+                    if (!content) {
+                        content = $(elem).parent().next().text().trim();
+                    }
+                    if (content && content.length > 100) {
+                        abstract = content;
+                        console.log(`    ✓ Found abstract via heading search (${abstract.length} chars)`);
+                        return false; // break the loop
+                    }
+                }
+            });
         }
 
         // Clean the abstract
@@ -141,13 +199,23 @@ async function fetchAbstractFromURL(url) {
                 .replace(/&amp;/g, '&')
                 .replace(/&lt;/g, '<')
                 .replace(/&gt;/g, '>')
+                .replace(/&quot;/g, '"')
+                .replace(/&#39;/g, "'")
                 .replace(/\s+/g, ' ')
+                .replace(/^abstract\s*/i, '') // Remove "Abstract" prefix if present
                 .trim();
 
-            console.log(`    ✓ Found abstract (${abstract.length} chars)`);
-            return abstract;
+            // Validate the abstract isn't just navigation/junk text
+            const junkPhrases = ['cookie', 'javascript', 'browser', 'download', 'purchase', 'subscribe'];
+            const hasJunk = junkPhrases.some(phrase => abstract.toLowerCase().includes(phrase));
+
+            if (!hasJunk && abstract.length > 100) {
+                console.log(`    ✓ Final abstract: ${abstract.substring(0, 100)}...`);
+                return abstract;
+            }
         }
 
+        console.log(`    ✗ No abstract found`);
         return null;
     } catch (error) {
         console.log(`    ✗ Could not fetch abstract: ${error.message}`);
@@ -266,10 +334,10 @@ async function fetchFromCrossRef(journal, limit = 100) {
             };
         });
 
-        // Try to fetch abstracts for papers that don't have them (limit to first 10 to avoid rate limiting)
+        // Try to fetch abstracts for papers that don't have them (limit to first 30 to avoid rate limiting)
         const papersNeedingAbstracts = papers.filter(p =>
             (!p.abstract || p.abstract.length < 100) && p.url
-        ).slice(0, 10);
+        ).slice(0, 30);
 
         if (papersNeedingAbstracts.length > 0) {
             console.log(`  Attempting to fetch ${papersNeedingAbstracts.length} missing abstracts...`);
