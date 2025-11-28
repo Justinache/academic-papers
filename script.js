@@ -296,20 +296,6 @@ function attachEventListeners() {
 
 // Search functionality with highlighting
 function performSearch() {
-    const searchTerm = searchInput.value.toLowerCase().trim();
-
-    if (searchTerm === '') {
-        applyFilters();
-        return;
-    }
-
-    filteredPapers = papers.filter(paper => {
-        const titleMatch = paper.title.toLowerCase().includes(searchTerm);
-        const authorMatch = paper.authors.toLowerCase().includes(searchTerm);
-        const abstractMatch = paper.abstract && paper.abstract.toLowerCase().includes(searchTerm);
-        return titleMatch || authorMatch || abstractMatch;
-    });
-
     applyFilters();
 }
 
