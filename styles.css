@@ -42,36 +42,25 @@ body {
 .header {
     background: var(--card);
     border-bottom: 2px solid var(--border);
-    padding: 40px 0;
-    margin-bottom: 50px;
+    padding: 24px 0;
+    margin-bottom: 40px;
 }
 
 .header-content {
-    text-align: center;
-}
-
-.logo-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 16px;
-    margin-bottom: 12px;
-}
-
-.logo-icon {
-    font-size: 48px;
+    text-align: left;
 }
 
 .site-title {
-    font-size: 48px;
+    font-size: 28px;
     font-weight: 700;
     color: var(--foreground);
-    letter-spacing: -1px;
+    letter-spacing: -0.5px;
     font-family: 'EB Garamond', Georgia, serif;
+    margin-bottom: 4px;
 }
 
 .site-subtitle {
-    font-size: 20px;
+    font-size: 15px;
     color: rgba(51, 41, 31, 0.6);
     font-weight: 400;
     font-style: italic;
