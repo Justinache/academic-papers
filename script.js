@@ -433,16 +433,21 @@ function createPaperCardContent(paper) {
     const formattedDate = formatDate(paper.date);
     const searchTerm = searchInput.value.trim();
 
-    // Get abstract preview (first 200 characters)
-    const abstractText = paper.abstract || 'No abstract available';
-    const abstractPreview = abstractText.length > 200
-        ? abstractText.substring(0, 200) + '...'
+    // Get abstract preview (first 500 characters for better context)
+    const abstractText = paper.abstract || '';
+    const abstractPreview = abstractText.length > 500
+        ? abstractText.substring(0, 500) + '...'
         : abstractText;
+
+    // Only show abstract section if we have one
+    const abstractHTML = abstractPreview
+        ? `<p class="paper-abstract">${highlightText(abstractPreview, searchTerm)}</p>`
+        : '';
 
     return `
         <h3 class="paper-title">${highlightText(paper.title, searchTerm)}</h3>
         <p class="paper-authors">${highlightText(paper.authors, searchTerm)}</p>
-        <p class="paper-abstract">${highlightText(abstractPreview, searchTerm)}</p>
+        ${abstractHTML}
         <div class="paper-meta">
             <span class="paper-journal">${escapeHtml(paper.journal)}</span>
             <span class="paper-field">${escapeHtml(paper.field)}</span>
