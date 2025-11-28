@@ -4,76 +4,99 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Academic Papers Repository</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
+    <!-- Header -->
+    <header class="header">
         <div class="container">
-            <h1>Academic Papers Repository</h1>
-            <p class="subtitle">Latest publications from leading journals</p>
+            <div class="header-content">
+                <div class="logo-section">
+                    <span class="logo-icon">📚</span>
+                    <h1 class="site-title">Academic Papers</h1>
+                </div>
+                <p class="site-subtitle">Latest publications from leading journals</p>
+            </div>
         </div>
     </header>
 
-    <main class="container">
-        <!-- Search and Filter Section -->
-        <div class="controls-section">
-            <div class="search-box">
-                <input type="text" id="searchInput" placeholder="Search by title or author name...">
-                <button id="searchBtn">Search</button>
-            </div>
-
-            <div class="filters">
-                <div class="filter-group">
-                    <label for="journalFilter">Journal:</label>
-                    <select id="journalFilter">
-                        <option value="">All Journals</option>
-                        <option value="American Economic Review">American Economic Review</option>
-                        <option value="Quarterly Journal of Economics">Quarterly Journal of Economics</option>
-                        <option value="Journal of Political Economy">Journal of Political Economy</option>
-                        <option value="Journal of Finance">Journal of Finance</option>
-                        <option value="Journal of Financial Economics">Journal of Financial Economics</option>
-                        <option value="Review of Financial Studies">Review of Financial Studies</option>
-                        <option value="Journal of Accounting and Economics">Journal of Accounting and Economics</option>
-                        <option value="Journal of Accounting Research">Journal of Accounting Research</option>
-                        <option value="The Accounting Review">The Accounting Review</option>
-                        <option value="Nature">Nature</option>
-                    </select>
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Search and Filters -->
+            <div class="controls-wrapper">
+                <div class="search-section">
+                    <div class="search-container">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                        <input type="text" id="searchInput" class="search-input" placeholder="Search papers by title or author...">
+                    </div>
                 </div>
 
-                <div class="filter-group">
-                    <label for="fieldFilter">Field:</label>
-                    <select id="fieldFilter">
-                        <option value="">All Fields</option>
-                        <option value="Economics">Economics</option>
-                        <option value="Finance">Finance</option>
-                        <option value="Accounting">Accounting</option>
-                        <option value="Science">Science</option>
-                    </select>
+                <div class="filters-section">
+                    <div class="filter-group">
+                        <label for="journalFilter">Journal</label>
+                        <select id="journalFilter" class="select-input">
+                            <option value="">All Journals</option>
+                            <option value="American Economic Review">American Economic Review</option>
+                            <option value="Quarterly Journal of Economics">Quarterly Journal of Economics</option>
+                            <option value="Journal of Political Economy">Journal of Political Economy</option>
+                            <option value="Journal of Finance">Journal of Finance</option>
+                            <option value="Journal of Financial Economics">Journal of Financial Economics</option>
+                            <option value="Review of Financial Studies">Review of Financial Studies</option>
+                            <option value="Journal of Accounting and Economics">Journal of Accounting and Economics</option>
+                            <option value="Journal of Accounting Research">Journal of Accounting Research</option>
+                            <option value="The Accounting Review">The Accounting Review</option>
+                            <option value="Nature">Nature</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="fieldFilter">Field</label>
+                        <select id="fieldFilter" class="select-input">
+                            <option value="">All Fields</option>
+                            <option value="Economics">Economics</option>
+                            <option value="Finance">Finance</option>
+                            <option value="Accounting">Accounting</option>
+                            <option value="Science">Science</option>
+                        </select>
+                    </div>
+
+                    <button id="resetBtn" class="btn-reset">Reset</button>
                 </div>
-
-                <button id="resetBtn" class="reset-btn">Reset Filters</button>
             </div>
-        </div>
 
-        <!-- Results Summary -->
-        <div class="results-summary">
-            <p id="resultCount">Showing <span id="count">0</span> papers</p>
-        </div>
+            <!-- Results Info -->
+            <div class="results-header">
+                <p class="results-count">Showing <strong id="count">0</strong> papers</p>
+                <div id="updateTime" class="update-time"></div>
+            </div>
 
-        <!-- Papers Grid -->
-        <div id="papersContainer" class="papers-grid">
-            <!-- Papers will be dynamically inserted here -->
-        </div>
+            <!-- Papers Grid -->
+            <div id="papersContainer" class="papers-grid">
+                <!-- Papers will be dynamically inserted here -->
+            </div>
 
-        <!-- No Results Message -->
-        <div id="noResults" class="no-results" style="display: none;">
-            <p>No papers found matching your criteria.</p>
+            <!-- No Results -->
+            <div id="noResults" class="no-results" style="display: none;">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                    <circle cx="12" cy="12" r="10" stroke-width="2"/>
+                    <path d="M12 8v4M12 16h.01" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+                <h3>No papers found</h3>
+                <p>Try adjusting your search or filter criteria</p>
+            </div>
         </div>
     </main>
 
-    <footer>
+    <!-- Footer -->
+    <footer class="footer">
         <div class="container">
-            <p>&copy; 2025 Academic Papers Repository. Data updated monthly.</p>
+            <p>&copy; 2025 Academic Papers Repository • Data updated daily via GitHub Actions</p>
         </div>
     </footer>
 

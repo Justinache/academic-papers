@@ -55,13 +55,9 @@ async function loadPapers() {
 
 // Show when data was last updated
 function showUpdateTime(lastUpdated) {
-    const updateEl = document.createElement('div');
-    updateEl.className = 'update-time';
-    updateEl.textContent = `Last updated: ${new Date(lastUpdated).toLocaleString()}`;
-
-    const container = document.querySelector('.results-summary');
-    if (container && !document.querySelector('.update-time')) {
-        container.appendChild(updateEl);
+    const updateEl = document.getElementById('updateTime');
+    if (updateEl) {
+        updateEl.textContent = `Last updated: ${new Date(lastUpdated).toLocaleString()}`;
     }
 }
 
@@ -191,10 +187,10 @@ async function init() {
 
 // Attach event listeners
 function attachEventListeners() {
-    searchBtn.addEventListener('click', performSearch);
-    searchInput.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') performSearch();
-    });
+    // Search functionality - search as you type
+    searchInput.addEventListener('keyup', performSearch);
+    searchInput.addEventListener('search', performSearch);
+
     journalFilter.addEventListener('change', applyFilters);
     fieldFilter.addEventListener('change', applyFilters);
     resetBtn.addEventListener('click', resetFilters);
@@ -253,12 +249,14 @@ function renderPapers(papersToRender) {
 
     if (papersToRender.length === 0) {
         noResults.style.display = 'block';
-        resultCount.querySelector('#count').textContent = '0';
+        const countEl = document.getElementById('count');
+        if (countEl) countEl.textContent = '0';
         return;
     }
 
     noResults.style.display = 'none';
-    resultCount.querySelector('#count').textContent = papersToRender.length;
+    const countEl = document.getElementById('count');
+    if (countEl) countEl.textContent = papersToRender.length;
 
     papersToRender.forEach(paper => {
         const paperCard = createPaperCard(paper);
@@ -268,23 +266,44 @@ function renderPapers(papersToRender) {
 
 // Create a paper card element
 function createPaperCard(paper) {
-    const card = document.createElement('div');
+    const card = document.createElement('a');
     card.className = 'paper-card';
 
+    // Set URL - use paper.url if available, otherwise use DOI or fallback
+    if (paper.url) {
+        card.href = paper.url;
+    } else if (paper.doi) {
+        card.href = `https://doi.org/${paper.doi}`;
+    } else {
+        // If no URL available, make it not clickable
+        const div = document.createElement('div');
+        div.className = 'paper-card';
+        div.style.cursor = 'default';
+        div.innerHTML = createPaperCardContent(paper);
+        return div;
+    }
+
+    card.target = '_blank';
+    card.rel = 'noopener noreferrer';
+
+    card.innerHTML = createPaperCardContent(paper);
+
+    return card;
+}
+
+// Create paper card content HTML
+function createPaperCardContent(paper) {
     const formattedDate = formatDate(paper.date);
 
-    card.innerHTML = `
+    return `
         <h3 class="paper-title">${escapeHtml(paper.title)}</h3>
         <p class="paper-authors">${escapeHtml(paper.authors)}</p>
         <div class="paper-meta">
             <span class="paper-journal">${escapeHtml(paper.journal)}</span>
             <span class="paper-field">${escapeHtml(paper.field)}</span>
-            <span class="paper-date">Published: ${formattedDate}</span>
+            <span class="paper-date">${formattedDate}</span>
         </div>
-        ${paper.url ? `<a href="${escapeHtml(paper.url)}" target="_blank" class="paper-link">View Paper →</a>` : ''}
     `;
-
-    return card;
 }
 
 // Format date to readable format
