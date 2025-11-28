@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-28T01:53:27.125Z",
+  "lastUpdated": "2025-11-28T02:05:14.260Z",
   "count": 100,
   "papers": [
     {
@@ -223,16 +223,6 @@
       "url": "https://doi.org/10.20431/2349-0381.0303001"
     },
     {
-      "title": "Title Pending 10019",
-      "authors": "Unknown",
-      "journal": "Journal of Political Ecology",
-      "field": "Economics",
-      "date": "2035-11-5",
-      "abstract": "No abstract available",
-      "doi": "10.2458/jpe.10019",
-      "url": "https://doi.org/10.2458/jpe.10019"
-    },
-    {
       "title": "Title Pending 6424",
       "authors": "Unknown",
       "journal": "Journal of Political Ecology",
@@ -241,6 +231,16 @@
       "abstract": "No abstract available",
       "doi": "10.2458/jpe.6424",
       "url": "https://doi.org/10.2458/jpe.6424"
+    },
+    {
+      "title": "Title Pending 10019",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-11-5",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.10019",
+      "url": "https://doi.org/10.2458/jpe.10019"
     },
     {
       "title": "Title Pending 10005",
