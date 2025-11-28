@@ -1,20 +1,20 @@
 // Load papers from live data or fallback to samples
 let papers = [];
 let filteredPapers = [];
-let selectedMonths = new Set();
 
 // DOM elements
 const searchInput = document.getElementById('searchInput');
+const yearFilter = document.getElementById('yearFilter');
+const monthFilter = document.getElementById('monthFilter');
 const journalFilter = document.getElementById('journalFilter');
 const fieldFilter = document.getElementById('fieldFilter');
 const resetBtn = document.getElementById('resetBtn');
 const papersContainer = document.getElementById('papersContainer');
 const resultCount = document.getElementById('count');
 const noResults = document.getElementById('noResults');
-const monthFiltersContainer = document.getElementById('monthFilters');
 
-// Generate month checkboxes based on paper dates
-function generateMonthFilters() {
+// Generate month dropdown options based on paper dates
+function generateMonthFilter() {
     const monthsMap = new Map();
 
     papers.forEach(paper => {
@@ -35,36 +35,64 @@ function generateMonthFilters() {
     const sortedMonths = Array.from(monthsMap.values())
         .sort((a, b) => b.date - a.date);
 
-    monthFiltersContainer.innerHTML = '';
+    // Clear existing options except "All Months"
+    monthFilter.innerHTML = '<option value="">All Months</option>';
 
     sortedMonths.forEach(month => {
-        const checkboxDiv = document.createElement('div');
-        checkboxDiv.className = 'month-checkbox';
-
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.id = `month-${month.key}`;
-        checkbox.value = month.key;
-        checkbox.addEventListener('change', handleMonthChange);
-
-        const label = document.createElement('label');
-        label.htmlFor = `month-${month.key}`;
-        label.textContent = month.name;
-
-        checkboxDiv.appendChild(checkbox);
-        checkboxDiv.appendChild(label);
-        monthFiltersContainer.appendChild(checkboxDiv);
+        const option = document.createElement('option');
+        option.value = month.key;
+        option.textContent = month.name;
+        monthFilter.appendChild(option);
     });
 }
 
-// Handle month checkbox changes
-function handleMonthChange(event) {
-    if (event.target.checked) {
-        selectedMonths.add(event.target.value);
-    } else {
-        selectedMonths.delete(event.target.value);
+// Generate year dropdown options based on paper dates
+function generateYearFilter() {
+    const yearsSet = new Set();
+
+    papers.forEach(paper => {
+        const date = new Date(paper.date);
+        const year = date.getFullYear();
+        yearsSet.add(year);
+    });
+
+    // Sort years (newest first)
+    const sortedYears = Array.from(yearsSet).sort((a, b) => b - a);
+
+    // Clear existing options except "All Years"
+    yearFilter.innerHTML = '<option value="">All Years</option>';
+
+    sortedYears.forEach(year => {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        yearFilter.appendChild(option);
+    });
+}
+
+// Clean abstract text - remove HTML/XML tags and entities
+function cleanAbstract(abstract) {
+    if (!abstract || abstract === 'No abstract available') {
+        return '';
     }
-    applyFilters();
+
+    return abstract
+        // Remove all XML/HTML tags including jats: tags
+        .replace(/<[^>]*>/g, '')
+        // Replace common HTML entities
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&rsquo;/g, "'")
+        .replace(/&lsquo;/g, "'")
+        .replace(/&rdquo;/g, '"')
+        .replace(/&ldquo;/g, '"')
+        // Remove extra whitespace
+        .replace(/\s+/g, ' ')
+        .trim();
 }
 
 // Load papers from JSON file
@@ -88,8 +116,16 @@ async function loadPapers() {
             // Show update time
             showUpdateTime(data.lastUpdated);
 
-            // Generate month filters
-            generateMonthFilters();
+            // Generate year and month filter dropdowns
+            generateYearFilter();
+            generateMonthFilter();
+
+            // Clean all abstracts
+            papers.forEach(paper => {
+                if (paper.abstract) {
+                    paper.abstract = cleanAbstract(paper.abstract);
+                }
+            });
         } else {
             throw new Error('No papers in data file');
         }
@@ -106,7 +142,8 @@ async function loadPapers() {
         filteredPapers = [...papers];
         hideLoadingState();
         renderPapers(papers);
-        generateMonthFilters();
+        generateYearFilter();
+        generateMonthFilter();
 
         showNotification('Using sample data. Live data will be available after first GitHub Actions run.', 'info');
     }
@@ -250,6 +287,8 @@ function attachEventListeners() {
     searchInput.addEventListener('keyup', performSearch);
     searchInput.addEventListener('search', performSearch);
 
+    yearFilter.addEventListener('change', applyFilters);
+    monthFilter.addEventListener('change', applyFilters);
     journalFilter.addEventListener('change', applyFilters);
     fieldFilter.addEventListener('change', applyFilters);
     resetBtn.addEventListener('click', resetFilters);
@@ -287,28 +326,43 @@ function highlightText(text, searchTerm) {
 
 // Filter functionality
 function applyFilters() {
+    const yearValue = yearFilter.value;
+    const monthValue = monthFilter.value;
     const journalValue = journalFilter.value;
     const fieldValue = fieldFilter.value;
     const searchTerm = searchInput.value.toLowerCase().trim();
 
     filteredPapers = papers.filter(paper => {
+        // Search match (title, authors, abstract)
         const searchMatch = searchTerm === '' ||
             paper.title.toLowerCase().includes(searchTerm) ||
             paper.authors.toLowerCase().includes(searchTerm) ||
             (paper.abstract && paper.abstract.toLowerCase().includes(searchTerm));
 
+        // Journal match
         const journalMatch = journalValue === '' || paper.journal === journalValue;
+
+        // Field match
         const fieldMatch = fieldValue === '' || paper.field === fieldValue;
 
-        // Month filter
-        let monthMatch = true;
-        if (selectedMonths.size > 0) {
+        // Year match
+        let yearMatch = true;
+        if (yearValue !== '') {
             const paperDate = new Date(paper.date);
-            const paperMonthYear = `${paperDate.getFullYear()}-${String(paperDate.getMonth() + 1).padStart(2, '0')}`;
-            monthMatch = selectedMonths.has(paperMonthYear);
+            const paperYear = paperDate.getFullYear();
+            yearMatch = paperYear.toString() === yearValue;
         }
 
-        return searchMatch && journalMatch && fieldMatch && monthMatch;
+        // Month match
+        let monthMatch = true;
+        if (monthValue !== '') {
+            const paperDate = new Date(paper.date);
+            const paperMonthYear = `${paperDate.getFullYear()}-${String(paperDate.getMonth() + 1).padStart(2, '0')}`;
+            monthMatch = paperMonthYear === monthValue;
+        }
+
+        // All filters must match (AND logic for multiple filters)
+        return searchMatch && journalMatch && fieldMatch && yearMatch && monthMatch;
     });
 
     renderPapers(filteredPapers);
@@ -317,14 +371,10 @@ function applyFilters() {
 // Reset all filters
 function resetFilters() {
     searchInput.value = '';
+    yearFilter.value = '';
+    monthFilter.value = '';
     journalFilter.value = '';
     fieldFilter.value = '';
-
-    // Uncheck all month checkboxes
-    selectedMonths.clear();
-    document.querySelectorAll('.month-checkbox input[type="checkbox"]').forEach(checkbox => {
-        checkbox.checked = false;
-    });
 
     filteredPapers = [...papers];
     renderPapers(papers);
