@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Papers Repository</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Academic Papers Repository</h1>
+            <p class="subtitle">Latest publications from leading journals</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Search and Filter Section -->
+        <div class="controls-section">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search by title or author name...">
+                <button id="searchBtn">Search</button>
+            </div>
+
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="journalFilter">Journal:</label>
+                    <select id="journalFilter">
+                        <option value="">All Journals</option>
+                        <option value="American Economic Review">American Economic Review</option>
+                        <option value="Quarterly Journal of Economics">Quarterly Journal of Economics</option>
+                        <option value="Journal of Political Economy">Journal of Political Economy</option>
+                        <option value="Journal of Finance">Journal of Finance</option>
+                        <option value="Journal of Financial Economics">Journal of Financial Economics</option>
+                        <option value="Review of Financial Studies">Review of Financial Studies</option>
+                        <option value="Journal of Accounting and Economics">Journal of Accounting and Economics</option>
+                        <option value="Journal of Accounting Research">Journal of Accounting Research</option>
+                        <option value="The Accounting Review">The Accounting Review</option>
+                        <option value="Nature">Nature</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="fieldFilter">Field:</label>
+                    <select id="fieldFilter">
+                        <option value="">All Fields</option>
+                        <option value="Economics">Economics</option>
+                        <option value="Finance">Finance</option>
+                        <option value="Accounting">Accounting</option>
+                        <option value="Science">Science</option>
+                    </select>
+                </div>
+
+                <button id="resetBtn" class="reset-btn">Reset Filters</button>
+            </div>
+        </div>
+
+        <!-- Results Summary -->
+        <div class="results-summary">
+            <p id="resultCount">Showing <span id="count">0</span> papers</p>
+        </div>
+
+        <!-- Papers Grid -->
+        <div id="papersContainer" class="papers-grid">
+            <!-- Papers will be dynamically inserted here -->
+        </div>
+
+        <!-- No Results Message -->
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>No papers found matching your criteria.</p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Academic Papers Repository. Data updated monthly.</p>
+        </div>
+    </footer>
+
+    <script src="script-standalone.js"></script>
+</body>
+</html>

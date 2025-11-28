@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Backend files (GitHub Pages doesn't support Node.js)
+server.js
+journal-config.js
+
+# Development files
+.DS_Store
+*.log
+
+# Deployment configs for other platforms
+vercel.json
+netlify.toml
+
+# Optional: Keep these if you want documentation
+# README-API.md
+# SETUP.md
