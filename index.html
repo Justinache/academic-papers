@@ -23,29 +23,32 @@
     <!-- Main Content -->
     <main class="main-content">
         <div class="container">
-            <!-- Search Bar (Full Width) -->
-            <div class="search-section-full">
-                <div class="search-container-full">
-                    <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
-                        <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                    <input type="text" id="searchInput" class="search-input" placeholder="Search papers by title or author...">
-                </div>
-            </div>
-
             <!-- Main Layout with Sidebar -->
             <div class="main-layout">
-                <!-- Sidebar -->
+                <!-- Left Sidebar - Filters -->
                 <aside class="sidebar">
+                    <h2 class="sidebar-main-title">Refine Results</h2>
+
+                    <!-- Search Within Results -->
                     <div class="sidebar-section">
-                        <h3 class="sidebar-title">Year</h3>
+                        <h3 class="sidebar-title">Search Within Results</h3>
+                        <div class="search-container">
+                            <input type="text" id="searchInput" class="search-input" placeholder="Search...">
+                            <svg class="search-icon" width="18" height="18" viewBox="0 0 20 20" fill="none">
+                                <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Filters -->
+                    <div class="sidebar-section">
+                        <h3 class="sidebar-title">Date</h3>
                         <select id="yearFilter" class="select-input">
                             <option value="">All Years</option>
                         </select>
                     </div>
 
                     <div class="sidebar-section">
-                        <h3 class="sidebar-title">Month</h3>
                         <select id="monthFilter" class="select-input">
                             <option value="">All Months</option>
                         </select>
@@ -76,20 +79,24 @@
                             <option value="Accounting">Accounting</option>
                         </select>
                     </div>
-
-                    <button id="resetBtn" class="btn-reset">Reset All Filters</button>
                 </aside>
 
-                <!-- Content Area -->
+                <!-- Right Content Area -->
                 <div class="content-area">
-                    <!-- Results Info -->
-                    <div class="results-header">
-                        <p class="results-count">Showing <strong id="count">0</strong> papers</p>
+                    <!-- Results Count -->
+                    <div class="results-top">
+                        <h1 class="results-count"><span id="count">0</span> results</h1>
                         <div id="updateTime" class="update-time"></div>
                     </div>
 
-                    <!-- Papers Grid -->
-                    <div id="papersContainer" class="papers-grid">
+                    <!-- Sort Bar -->
+                    <div class="sort-bar">
+                        <button id="resetBtn" class="filter-tag">All Filters <span class="remove-icon">×</span></button>
+                        <span class="reset-link" onclick="document.getElementById('resetBtn').click()">Remove all filters</span>
+                    </div>
+
+                    <!-- Papers List -->
+                    <div id="papersContainer" class="papers-list">
                         <!-- Papers will be dynamically inserted here -->
                     </div>
 

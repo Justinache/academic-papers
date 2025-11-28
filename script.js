@@ -403,33 +403,19 @@ function renderPapers(papersToRender) {
 
 // Create a paper card element
 function createPaperCard(paper) {
-    const card = document.createElement('a');
+    const card = document.createElement('div');
     card.className = 'paper-card';
 
-    // Set URL - use paper.url if available, otherwise use DOI or fallback
-    if (paper.url) {
-        card.href = paper.url;
-    } else if (paper.doi) {
-        card.href = `https://doi.org/${paper.doi}`;
-    } else {
-        // If no URL available, make it not clickable
-        const div = document.createElement('div');
-        div.className = 'paper-card';
-        div.style.cursor = 'default';
-        div.innerHTML = createPaperCardContent(paper);
-        return div;
-    }
+    // Get paper URL
+    const paperUrl = paper.url || (paper.doi ? `https://doi.org/${paper.doi}` : null);
 
-    card.target = '_blank';
-    card.rel = 'noopener noreferrer';
-
-    card.innerHTML = createPaperCardContent(paper);
+    card.innerHTML = createPaperCardContent(paper, paperUrl);
 
     return card;
 }
 
 // Create paper card content HTML
-function createPaperCardContent(paper) {
+function createPaperCardContent(paper, paperUrl) {
     const formattedDate = formatDate(paper.date);
     const searchTerm = searchInput.value.trim();
 
@@ -444,13 +430,43 @@ function createPaperCardContent(paper) {
         ? `<p class="paper-abstract">${highlightText(abstractPreview, searchTerm)}</p>`
         : '';
 
+    // Action buttons
+    const readButton = paperUrl
+        ? `<a href="${paperUrl}" target="_blank" rel="noopener noreferrer" class="paper-btn paper-btn-primary" onclick="event.stopPropagation()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+            </svg>
+            Read online
+           </a>`
+        : '';
+
     return `
-        <h3 class="paper-title">${highlightText(paper.title, searchTerm)}</h3>
-        <p class="paper-authors">${highlightText(paper.authors, searchTerm)}</p>
-        <div class="paper-meta">
-            <span class="paper-journal">${escapeHtml(paper.journal)}</span>, ${formattedDate}
+        <div class="paper-card-content">
+            <div class="paper-type-label">JOURNAL ARTICLE</div>
+            <h3 class="paper-title">${highlightText(paper.title, searchTerm)}</h3>
+            <p class="paper-authors">${highlightText(paper.authors, searchTerm)}</p>
+            <div class="paper-meta">
+                <span class="paper-journal">${escapeHtml(paper.journal)}</span>, ${formattedDate}
+            </div>
+            ${abstractHTML}
         </div>
-        ${abstractHTML}
+        <div class="paper-card-actions">
+            ${readButton}
+            <button class="paper-btn paper-btn-secondary" onclick="event.stopPropagation()">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                </svg>
+                Save
+            </button>
+            <button class="paper-btn paper-btn-secondary" onclick="event.stopPropagation()">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                </svg>
+                Cite
+            </button>
+        </div>
     `;
 }
 
