@@ -441,6 +441,16 @@ function createPaperCardContent(paper, paperUrl) {
            </a>`
         : '';
 
+    // Escape quotes for JSON data attribute
+    const paperData = JSON.stringify({
+        title: paper.title,
+        authors: paper.authors,
+        journal: paper.journal,
+        date: paper.date,
+        doi: paper.doi,
+        url: paperUrl
+    }).replace(/"/g, '&quot;');
+
     return `
         <div class="paper-card-content">
             <div class="paper-type-label">JOURNAL ARTICLE</div>
@@ -453,13 +463,7 @@ function createPaperCardContent(paper, paperUrl) {
         </div>
         <div class="paper-card-actions">
             ${readButton}
-            <button class="paper-btn paper-btn-secondary" onclick="event.stopPropagation()">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
-                </svg>
-                Save
-            </button>
-            <button class="paper-btn paper-btn-secondary" onclick="event.stopPropagation()">
+            <button class="paper-btn paper-btn-secondary" onclick="showCitation(event, this)" data-paper="${paperData}">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
                     <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
@@ -485,6 +489,99 @@ function escapeHtml(text) {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
+}
+
+// Show citation modal
+function showCitation(event, button) {
+    event.stopPropagation();
+
+    const paperData = JSON.parse(button.getAttribute('data-paper').replace(/&quot;/g, '"'));
+
+    // Parse date
+    const date = new Date(paperData.date);
+    const year = date.getFullYear();
+
+    // Format authors for citation
+    const authors = paperData.authors;
+    const firstAuthor = authors.split(',')[0].trim();
+    const authorCount = authors.split(',').length;
+
+    // Generate citations
+    const apaCitation = `${authors} (${year}). ${paperData.title}. <em>${paperData.journal}</em>. ${paperData.doi ? 'https://doi.org/' + paperData.doi : paperData.url || ''}`;
+
+    const mlaCitation = `${authors}. "${paperData.title}." <em>${paperData.journal}</em>, ${year}. ${paperData.doi ? 'https://doi.org/' + paperData.doi : paperData.url || ''}`;
+
+    const chicagoCitation = `${authors}. "${paperData.title}." <em>${paperData.journal}</em> (${year}). ${paperData.doi ? 'https://doi.org/' + paperData.doi : paperData.url || ''}`;
+
+    const bibtexCitation = `@article{${firstAuthor.toLowerCase().replace(/\s+/g, '')}${year},
+  title={${paperData.title}},
+  author={${authors}},
+  journal={${paperData.journal}},
+  year={${year}},
+  ${paperData.doi ? 'doi={' + paperData.doi + '}' : paperData.url ? 'url={' + paperData.url + '}' : ''}
+}`;
+
+    // Create modal
+    const modal = document.createElement('div');
+    modal.className = 'citation-modal';
+    modal.innerHTML = `
+        <div class="citation-modal-content">
+            <div class="citation-modal-header">
+                <h3>Cite this article</h3>
+                <button class="citation-modal-close" onclick="this.closest('.citation-modal').remove()">&times;</button>
+            </div>
+            <div class="citation-modal-body">
+                <div class="citation-format">
+                    <h4>APA</h4>
+                    <p>${apaCitation}</p>
+                    <button class="copy-btn" onclick="copyCitation(this, \`${apaCitation.replace(/`/g, '\\`')}\`)">Copy</button>
+                </div>
+                <div class="citation-format">
+                    <h4>MLA</h4>
+                    <p>${mlaCitation}</p>
+                    <button class="copy-btn" onclick="copyCitation(this, \`${mlaCitation.replace(/`/g, '\\`')}\`)">Copy</button>
+                </div>
+                <div class="citation-format">
+                    <h4>Chicago</h4>
+                    <p>${chicagoCitation}</p>
+                    <button class="copy-btn" onclick="copyCitation(this, \`${chicagoCitation.replace(/`/g, '\\`')}\`)">Copy</button>
+                </div>
+                <div class="citation-format">
+                    <h4>BibTeX</h4>
+                    <pre>${bibtexCitation}</pre>
+                    <button class="copy-btn" onclick="copyCitation(this, \`${bibtexCitation.replace(/`/g, '\\`')}\`)">Copy</button>
+                </div>
+            </div>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    // Close on backdrop click
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            modal.remove();
+        }
+    });
+}
+
+// Copy citation to clipboard
+function copyCitation(button, text) {
+    // Remove HTML tags for plain text copy
+    const plainText = text.replace(/<[^>]*>/g, '');
+
+    navigator.clipboard.writeText(plainText).then(() => {
+        const originalText = button.textContent;
+        button.textContent = 'Copied!';
+        button.style.background = var(--primary);
+
+        setTimeout(() => {
+            button.textContent = originalText;
+            button.style.background = '';
+        }, 2000);
+    }).catch(err => {
+        console.error('Failed to copy:', err);
+    });
 }
 
 // Initialize on page load
