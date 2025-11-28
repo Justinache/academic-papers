@@ -221,8 +221,8 @@ async function fetchFromCrossRef(journal, limit = 100) {
                    hasValidAuthors;
         });
 
-        // Map items to paper objects with async abstract fetching
-        const papers = await Promise.all(filteredItems.map(async (item) => {
+        // Map items to paper objects (without async abstract fetching for now to avoid rate limiting)
+        const papers = filteredItems.map((item) => {
             // Normalize author names (convert from ALL CAPS to proper case)
             const authors = item.author
                 ?.map(a => {
@@ -254,14 +254,6 @@ async function fetchFromCrossRef(journal, limit = 100) {
             // Get abstract from CrossRef
             let abstract = item.abstract || '';
 
-            // If no abstract or too short, try to fetch from URL
-            if ((!abstract || abstract === 'No abstract available' || abstract.length < 100) && item.URL) {
-                const fetchedAbstract = await fetchAbstractFromURL(item.URL);
-                if (fetchedAbstract) {
-                    abstract = fetchedAbstract;
-                }
-            }
-
             return {
                 title: cleanTitle,
                 authors: authors,
@@ -272,7 +264,25 @@ async function fetchFromCrossRef(journal, limit = 100) {
                 doi: item.DOI || null,
                 url: item.URL || null
             };
-        }));
+        });
+
+        // Try to fetch abstracts for papers that don't have them (limit to first 10 to avoid rate limiting)
+        const papersNeedingAbstracts = papers.filter(p =>
+            (!p.abstract || p.abstract.length < 100) && p.url
+        ).slice(0, 10);
+
+        if (papersNeedingAbstracts.length > 0) {
+            console.log(`  Attempting to fetch ${papersNeedingAbstracts.length} missing abstracts...`);
+
+            for (const paper of papersNeedingAbstracts) {
+                const fetchedAbstract = await fetchAbstractFromURL(paper.url);
+                if (fetchedAbstract) {
+                    paper.abstract = fetchedAbstract;
+                }
+                // Add delay to avoid rate limiting
+                await new Promise(resolve => setTimeout(resolve, 2000));
+            }
+        }
 
         return papers;
     } catch (error) {
