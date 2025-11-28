@@ -140,11 +140,23 @@ async function fetchFromCrossRef(journal, limit = 20) {
                     'finance association',
                     'economic association',
                     'accounting association',
-                    'expanding our insights'
+                    'expanding our insights',
+                    'acknowledgement',
+                    'acknowledgment',
+                    'recent referees',
+                    'referee',
+                    'references',
+                    'bibliography'
                 ];
 
+                // Check if paper has valid authors
+                const hasValidAuthors = item.author &&
+                                       item.author.length > 0 &&
+                                       item.author.some(a => (a.given || a.family));
+
                 return title.length > 10 &&
-                       !invalidTitles.some(invalid => titleLower.includes(invalid));
+                       !invalidTitles.some(invalid => titleLower.includes(invalid)) &&
+                       hasValidAuthors;
             })
             .map(item => {
                 // Normalize author names (convert from ALL CAPS to proper case)
@@ -216,7 +228,13 @@ async function fetchFromRSS(feedUrl, journalName) {
             'finance association',
             'economic association',
             'accounting association',
-            'expanding our insights'
+            'expanding our insights',
+            'acknowledgement',
+            'acknowledgment',
+            'recent referees',
+            'referee',
+            'references',
+            'bibliography'
         ];
 
         // Filter for papers from past 6 months and filter out non-papers
@@ -229,10 +247,15 @@ async function fetchFromRSS(feedUrl, journalName) {
                 const title = item.title || '';
                 const titleLower = title.toLowerCase();
 
+                // Check if has valid authors
+                const authors = item.creator || item.author || '';
+                const hasValidAuthors = authors.toLowerCase() !== 'unknown' && authors.trim().length > 0;
+
                 // Check date and filter out invalid titles
                 return pubDate >= sixMonthsAgo &&
                        title.length > 10 &&
-                       !invalidTitles.some(invalid => titleLower.includes(invalid));
+                       !invalidTitles.some(invalid => titleLower.includes(invalid)) &&
+                       hasValidAuthors;
             })
             .slice(0, 20)
             .map(item => {
