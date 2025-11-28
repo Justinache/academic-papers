@@ -344,12 +344,24 @@ async function fetchFromCrossRef(journal, limit = 100) {
             // Get abstract from CrossRef
             let abstract = item.abstract || '';
 
+            // Format date properly (ensure YYYY-MM-DD format)
+            let formattedDate;
+            const dateParts = item.published?.['date-parts']?.[0];
+            if (dateParts && dateParts.length >= 2) {
+                const year = dateParts[0];
+                const month = String(dateParts[1]).padStart(2, '0');
+                const day = dateParts[2] ? String(dateParts[2]).padStart(2, '0') : '01';
+                formattedDate = `${year}-${month}-${day}`;
+            } else {
+                formattedDate = new Date().toISOString().split('T')[0];
+            }
+
             return {
                 title: cleanTitle,
                 authors: authors,
                 journal: journal.name,
                 field: journal.field,
-                date: item.published?.['date-parts']?.[0]?.join('-') || new Date().toISOString().split('T')[0],
+                date: formattedDate,
                 abstract: abstract,
                 doi: item.DOI || null,
                 url: item.URL || null
