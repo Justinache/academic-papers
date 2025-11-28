@@ -255,7 +255,7 @@ function attachEventListeners() {
     resetBtn.addEventListener('click', resetFilters);
 }
 
-// Search functionality
+// Search functionality with highlighting
 function performSearch() {
     const searchTerm = searchInput.value.toLowerCase().trim();
 
@@ -267,10 +267,22 @@ function performSearch() {
     filteredPapers = papers.filter(paper => {
         const titleMatch = paper.title.toLowerCase().includes(searchTerm);
         const authorMatch = paper.authors.toLowerCase().includes(searchTerm);
-        return titleMatch || authorMatch;
+        const abstractMatch = paper.abstract && paper.abstract.toLowerCase().includes(searchTerm);
+        return titleMatch || authorMatch || abstractMatch;
     });
 
     applyFilters();
+}
+
+// Highlight search terms in text
+function highlightText(text, searchTerm) {
+    if (!searchTerm || searchTerm.trim() === '') {
+        return escapeHtml(text);
+    }
+
+    const escapedText = escapeHtml(text);
+    const regex = new RegExp(`(${escapeHtml(searchTerm)})`, 'gi');
+    return escapedText.replace(regex, '<mark class="highlight">$1</mark>');
 }
 
 // Filter functionality
@@ -282,7 +294,8 @@ function applyFilters() {
     filteredPapers = papers.filter(paper => {
         const searchMatch = searchTerm === '' ||
             paper.title.toLowerCase().includes(searchTerm) ||
-            paper.authors.toLowerCase().includes(searchTerm);
+            paper.authors.toLowerCase().includes(searchTerm) ||
+            (paper.abstract && paper.abstract.toLowerCase().includes(searchTerm));
 
         const journalMatch = journalValue === '' || paper.journal === journalValue;
         const fieldMatch = fieldValue === '' || paper.field === fieldValue;
@@ -368,10 +381,18 @@ function createPaperCard(paper) {
 // Create paper card content HTML
 function createPaperCardContent(paper) {
     const formattedDate = formatDate(paper.date);
+    const searchTerm = searchInput.value.trim();
+
+    // Get abstract preview (first 200 characters)
+    const abstractText = paper.abstract || 'No abstract available';
+    const abstractPreview = abstractText.length > 200
+        ? abstractText.substring(0, 200) + '...'
+        : abstractText;
 
     return `
-        <h3 class="paper-title">${escapeHtml(paper.title)}</h3>
-        <p class="paper-authors">${escapeHtml(paper.authors)}</p>
+        <h3 class="paper-title">${highlightText(paper.title, searchTerm)}</h3>
+        <p class="paper-authors">${highlightText(paper.authors, searchTerm)}</p>
+        <p class="paper-abstract">${highlightText(abstractPreview, searchTerm)}</p>
         <div class="paper-meta">
             <span class="paper-journal">${escapeHtml(paper.journal)}</span>
             <span class="paper-field">${escapeHtml(paper.field)}</span>
