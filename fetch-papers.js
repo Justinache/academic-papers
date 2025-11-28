@@ -134,7 +134,13 @@ async function fetchFromCrossRef(journal, limit = 20) {
                     'erratum',
                     'corrigendum',
                     'retraction',
-                    'cover'
+                    'cover',
+                    'correction',
+                    'author correction',
+                    'finance association',
+                    'economic association',
+                    'accounting association',
+                    'expanding our insights'
                 ];
 
                 return title.length > 10 &&
