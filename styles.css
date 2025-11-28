@@ -230,20 +230,20 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 32px;
-    padding: 0 4px;
+    margin-bottom: 24px;
+    padding: 0;
 }
 
 .results-count {
-    font-size: 17px;
-    color: rgba(51, 41, 31, 0.7);
+    font-size: 16px;
+    color: rgba(51, 41, 31, 0.65);
     font-weight: 400;
 }
 
 .results-count strong {
-    color: var(--primary);
-    font-weight: 700;
-    font-size: 19px;
+    color: var(--foreground);
+    font-weight: 600;
+    font-size: 16px;
 }
 
 .update-time {
@@ -257,105 +257,100 @@ body {
 .papers-grid {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 0;
+    background: white;
+    padding: 20px 32px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
 }
 
 .paper-card {
-    background: linear-gradient(135deg, rgba(125, 139, 77, 0.08) 0%, rgba(86, 140, 111, 0.05) 100%);
-    border-radius: var(--radius);
-    padding: 24px;
-    border: 3px solid var(--primary);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    background: white;
+    border-radius: 0;
+    padding: 28px 0;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    transition: all 0.2s ease;
     cursor: pointer;
     position: relative;
     text-decoration: none;
     color: inherit;
     display: block;
-    box-shadow: 0 2px 8px rgba(125, 139, 77, 0.1);
+    box-shadow: none;
 }
 
 .paper-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(125, 139, 77, 0.25);
-    border-color: var(--accent);
+    background: rgba(125, 139, 77, 0.02);
 }
 
 .paper-title {
-    font-size: 19px;
+    font-size: 24px;
     font-weight: 600;
     color: var(--foreground);
-    margin-bottom: 10px;
-    line-height: 1.4;
-    letter-spacing: -0.2px;
+    margin-bottom: 12px;
+    line-height: 1.35;
+    letter-spacing: -0.3px;
 }
 
 .paper-authors {
-    font-size: 15px;
-    color: rgba(51, 41, 31, 0.65);
-    margin-bottom: 12px;
+    font-size: 16px;
+    color: rgba(51, 41, 31, 0.6);
+    margin-bottom: 16px;
     font-weight: 400;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .paper-abstract {
-    font-size: 14px;
-    color: rgba(51, 41, 31, 0.7);
-    margin-bottom: 14px;
+    font-size: 15px;
+    color: rgba(51, 41, 31, 0.75);
+    margin-bottom: 16px;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 1.65;
     font-family: 'EB Garamond', Georgia, serif;
 }
 
 .highlight {
-    background-color: rgba(125, 139, 77, 0.3);
+    background-color: rgba(125, 139, 77, 0.25);
     color: var(--foreground);
-    font-weight: 600;
-    padding: 2px 4px;
-    border-radius: 3px;
+    font-weight: 500;
+    padding: 1px 3px;
+    border-radius: 2px;
 }
 
 .paper-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 12px;
     align-items: center;
-    margin-top: 16px;
-    padding-top: 16px;
-    border-top: 2px solid rgba(125, 139, 77, 0.2);
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
 }
 
 .paper-journal {
     display: inline-flex;
     align-items: center;
-    background: var(--primary);
-    color: var(--primary-foreground);
-    padding: 5px 12px;
-    border-radius: calc(var(--radius) - 0.25rem);
-    font-size: 12px;
-    font-weight: 600;
-    font-family: 'Inter', sans-serif;
-    border: 2px solid var(--primary);
+    background: transparent;
+    color: rgba(51, 41, 31, 0.6);
+    padding: 0;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'EB Garamond', Georgia, serif;
+    border: none;
+    font-style: italic;
 }
 
 .paper-field {
-    display: inline-flex;
-    align-items: center;
-    background: var(--accent);
-    color: var(--accent-foreground);
-    padding: 5px 12px;
-    border-radius: calc(var(--radius) - 0.25rem);
-    font-size: 12px;
-    font-weight: 600;
-    font-family: 'Inter', sans-serif;
-    border: 2px solid var(--accent);
+    display: none;
 }
 
 .paper-date {
     color: rgba(51, 41, 31, 0.5);
-    font-size: 13px;
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: 400;
     margin-left: auto;
-    font-family: 'Inter', sans-serif;
+    font-family: 'EB Garamond', Georgia, serif;
 }
 
 /* No Results */
