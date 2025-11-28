@@ -4,6 +4,7 @@
 const axios = require('axios');
 const Parser = require('rss-parser');
 const fs = require('fs').promises;
+const cheerio = require('cheerio');
 const parser = new Parser();
 
 // Journal configuration with ISSN for exact matching
@@ -70,13 +71,6 @@ const journals = [
         field: "Accounting",
         rss: null,
         useAPI: true
-    },
-    {
-        name: "Nature",
-        issn: "0028-0836",
-        field: "Science",
-        rss: "https://www.nature.com/nature.rss",
-        useAPI: true
     }
 ];
 
@@ -90,6 +84,75 @@ function getFieldFromJournal(journalName) {
     if (journalName.toLowerCase().includes('accounting')) return 'Accounting';
     if (journalName.toLowerCase().includes('nature') || journalName.toLowerCase().includes('science')) return 'Science';
     return 'Other';
+}
+
+// Fetch abstract from paper URL
+async function fetchAbstractFromURL(url) {
+    if (!url) return null;
+
+    try {
+        console.log(`    Fetching abstract from ${url}...`);
+
+        const response = await axios.get(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            },
+            timeout: 10000
+        });
+
+        const $ = cheerio.load(response.data);
+        let abstract = null;
+
+        // Try multiple common abstract selectors
+        const selectors = [
+            'section[class*="abstract"] p',
+            'div[class*="abstract"] p',
+            'div[id*="abstract"] p',
+            'section[id*="abstract"] p',
+            '.abstract-content p',
+            '.article-abstract p',
+            'meta[name="description"]',
+            'meta[property="og:description"]',
+            'meta[name="DC.Description"]',
+            'div.abstractSection p'
+        ];
+
+        for (const selector of selectors) {
+            if (selector.startsWith('meta')) {
+                const content = $(selector).attr('content');
+                if (content && content.length > 100) {
+                    abstract = content;
+                    break;
+                }
+            } else {
+                const text = $(selector).text().trim();
+                if (text && text.length > 100) {
+                    abstract = text;
+                    break;
+                }
+            }
+        }
+
+        // Clean the abstract
+        if (abstract) {
+            abstract = abstract
+                .replace(/<[^>]*>/g, '')
+                .replace(/&nbsp;/g, ' ')
+                .replace(/&amp;/g, '&')
+                .replace(/&lt;/g, '<')
+                .replace(/&gt;/g, '>')
+                .replace(/\s+/g, ' ')
+                .trim();
+
+            console.log(`    ✓ Found abstract (${abstract.length} chars)`);
+            return abstract;
+        }
+
+        return null;
+    } catch (error) {
+        console.log(`    ✗ Could not fetch abstract: ${error.message}`);
+        return null;
+    }
 }
 
 // Fetch from CrossRef API
@@ -116,88 +179,102 @@ async function fetchFromCrossRef(journal, limit = 100) {
         const items = response.data.message.items || [];
 
         // Filter out non-papers and normalize data
-        return items
-            .filter(item => {
-                const title = item.title?.[0] || '';
-                const titleLower = title.toLowerCase();
+        const filteredItems = items.filter(item => {
+            const title = item.title?.[0] || '';
+            const titleLower = title.toLowerCase();
 
-                // Filter out non-research papers
-                const invalidTitles = [
-                    'untitled',
-                    'announcement',
-                    'issue information',
-                    'front matter',
-                    'back matter',
-                    'table of contents',
-                    'editorial board',
-                    'index',
-                    'erratum',
-                    'corrigendum',
-                    'retraction',
-                    'cover',
-                    'correction',
-                    'author correction',
-                    'finance association',
-                    'economic association',
-                    'accounting association',
-                    'expanding our insights',
-                    'acknowledgement',
-                    'acknowledgment',
-                    'recent referees',
-                    'referee',
-                    'references',
-                    'bibliography'
-                ];
+            // Filter out non-research papers
+            const invalidTitles = [
+                'untitled',
+                'announcement',
+                'issue information',
+                'front matter',
+                'back matter',
+                'table of contents',
+                'editorial board',
+                'index',
+                'erratum',
+                'corrigendum',
+                'retraction',
+                'cover',
+                'correction',
+                'author correction',
+                'finance association',
+                'economic association',
+                'accounting association',
+                'expanding our insights',
+                'acknowledgement',
+                'acknowledgment',
+                'recent referees',
+                'referee',
+                'references',
+                'bibliography'
+            ];
 
-                // Check if paper has valid authors
-                const hasValidAuthors = item.author &&
-                                       item.author.length > 0 &&
-                                       item.author.some(a => (a.given || a.family));
+            // Check if paper has valid authors
+            const hasValidAuthors = item.author &&
+                                   item.author.length > 0 &&
+                                   item.author.some(a => (a.given || a.family));
 
-                return title.length > 10 &&
-                       !invalidTitles.some(invalid => titleLower.includes(invalid)) &&
-                       hasValidAuthors;
-            })
-            .map(item => {
-                // Normalize author names (convert from ALL CAPS to proper case)
-                const authors = item.author
-                    ?.map(a => {
-                        const given = a.given || '';
-                        const family = a.family || '';
-                        const fullName = `${given} ${family}`.trim();
+            return title.length > 10 &&
+                   !invalidTitles.some(invalid => titleLower.includes(invalid)) &&
+                   hasValidAuthors;
+        });
 
-                        // If name is all caps, convert to title case
-                        if (fullName === fullName.toUpperCase()) {
-                            return fullName.toLowerCase()
-                                .split(' ')
-                                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-                                .join(' ');
-                        }
-                        return fullName;
-                    })
-                    .join(', ') || 'Unknown';
+        // Map items to paper objects with async abstract fetching
+        const papers = await Promise.all(filteredItems.map(async (item) => {
+            // Normalize author names (convert from ALL CAPS to proper case)
+            const authors = item.author
+                ?.map(a => {
+                    const given = a.given || '';
+                    const family = a.family || '';
+                    const fullName = `${given} ${family}`.trim();
 
-                // Clean title by removing HTML tags
-                const rawTitle = item.title?.[0] || 'Untitled';
-                const cleanTitle = rawTitle
-                    .replace(/<[^>]*>/g, '') // Remove all HTML tags
-                    .replace(/&nbsp;/g, ' ')  // Replace &nbsp; with space
-                    .replace(/&amp;/g, '&')   // Replace &amp; with &
-                    .replace(/&lt;/g, '<')    // Replace &lt; with <
-                    .replace(/&gt;/g, '>')    // Replace &gt; with >
-                    .trim();
+                    // If name is all caps, convert to title case
+                    if (fullName === fullName.toUpperCase()) {
+                        return fullName.toLowerCase()
+                            .split(' ')
+                            .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                            .join(' ');
+                    }
+                    return fullName;
+                })
+                .join(', ') || 'Unknown';
 
-                return {
-                    title: cleanTitle,
-                    authors: authors,
-                    journal: journal.name,
-                    field: journal.field,
-                    date: item.published?.['date-parts']?.[0]?.join('-') || new Date().toISOString().split('T')[0],
-                    abstract: item.abstract || 'No abstract available',
-                    doi: item.DOI || null,
-                    url: item.URL || null
-                };
-            });
+            // Clean title by removing HTML tags
+            const rawTitle = item.title?.[0] || 'Untitled';
+            const cleanTitle = rawTitle
+                .replace(/<[^>]*>/g, '') // Remove all HTML tags
+                .replace(/&nbsp;/g, ' ')  // Replace &nbsp; with space
+                .replace(/&amp;/g, '&')   // Replace &amp; with &
+                .replace(/&lt;/g, '<')    // Replace &lt; with <
+                .replace(/&gt;/g, '>')    // Replace &gt; with >
+                .trim();
+
+            // Get abstract from CrossRef
+            let abstract = item.abstract || '';
+
+            // If no abstract or too short, try to fetch from URL
+            if ((!abstract || abstract === 'No abstract available' || abstract.length < 100) && item.URL) {
+                const fetchedAbstract = await fetchAbstractFromURL(item.URL);
+                if (fetchedAbstract) {
+                    abstract = fetchedAbstract;
+                }
+            }
+
+            return {
+                title: cleanTitle,
+                authors: authors,
+                journal: journal.name,
+                field: journal.field,
+                date: item.published?.['date-parts']?.[0]?.join('-') || new Date().toISOString().split('T')[0],
+                abstract: abstract,
+                doi: item.DOI || null,
+                url: item.URL || null
+            };
+        }));
+
+        return papers;
     } catch (error) {
         console.error(`Error fetching from CrossRef for ${journal.name}:`, error.message);
         return [];
