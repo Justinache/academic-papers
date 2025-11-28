@@ -93,7 +93,7 @@ function getFieldFromJournal(journalName) {
 }
 
 // Fetch from CrossRef API
-async function fetchFromCrossRef(journal, limit = 20) {
+async function fetchFromCrossRef(journal, limit = 100) {
     try {
         // Fetch papers from past 6 months
         const sixMonthsAgo = new Date();
@@ -257,7 +257,7 @@ async function fetchFromRSS(feedUrl, journalName) {
                        !invalidTitles.some(invalid => titleLower.includes(invalid)) &&
                        hasValidAuthors;
             })
-            .slice(0, 20)
+            .slice(0, 100)
             .map(item => {
                 // Clean title
                 const rawTitle = item.title || 'Untitled';
@@ -353,7 +353,7 @@ async function fetchAllPapers() {
 
         // Fallback to CrossRef API with ISSN
         if (journal.useAPI && journal.issn) {
-            const papers = await fetchFromCrossRef(journal, 20);
+            const papers = await fetchFromCrossRef(journal, 100);
             if (papers.length > 0) {
                 allPapers.push(...papers);
                 console.log(`  ✓ Found ${papers.length} papers from CrossRef`);
