@@ -448,8 +448,7 @@ function createPaperCardContent(paper) {
         <h3 class="paper-title">${highlightText(paper.title, searchTerm)}</h3>
         <p class="paper-authors">${highlightText(paper.authors, searchTerm)}</p>
         <div class="paper-meta">
-            <span class="paper-journal">${escapeHtml(paper.journal)}</span>
-            <span class="paper-date">${formattedDate}</span>
+            <span class="paper-journal">${escapeHtml(paper.journal)}</span>, ${formattedDate}
         </div>
         ${abstractHTML}
     `;

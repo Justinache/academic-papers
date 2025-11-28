@@ -258,19 +258,20 @@ body {
     display: flex;
     flex-direction: column;
     gap: 0;
-    background: white;
-    padding: 20px 32px;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    border: none;
 }
 
 .paper-card {
-    background: white;
+    background: transparent;
     border-radius: 0;
-    padding: 28px 0;
+    padding: 24px 20px;
     border: none;
-    border-bottom: 1px solid var(--border);
-    transition: all 0.2s ease;
+    border-left: 4px solid transparent;
+    border-bottom: 1px solid rgba(180, 170, 150, 0.3);
+    transition: all 0.15s ease;
     cursor: pointer;
     position: relative;
     text-decoration: none;
@@ -280,32 +281,34 @@ body {
 }
 
 .paper-card:hover {
-    background: rgba(125, 139, 77, 0.02);
+    background: rgba(249, 246, 238, 0.5);
+    border-left-color: var(--primary);
 }
 
 .paper-title {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
     color: var(--foreground);
-    margin-bottom: 12px;
-    line-height: 1.35;
-    letter-spacing: -0.3px;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    letter-spacing: -0.2px;
 }
 
 .paper-authors {
-    font-size: 16px;
-    color: rgba(51, 41, 31, 0.6);
-    margin-bottom: 16px;
+    font-size: 15px;
+    color: rgba(51, 41, 31, 0.65);
+    margin-bottom: 6px;
     font-weight: 400;
     line-height: 1.5;
 }
 
 .paper-abstract {
     font-size: 15px;
-    color: rgba(51, 41, 31, 0.75);
-    margin-bottom: 16px;
+    color: rgba(51, 41, 31, 0.8);
+    margin-bottom: 0;
+    margin-top: 12px;
     font-weight: 400;
-    line-height: 1.65;
+    line-height: 1.6;
     font-family: 'EB Garamond', Georgia, serif;
 }
 
@@ -313,23 +316,24 @@ body {
     background-color: rgba(125, 139, 77, 0.25);
     color: var(--foreground);
     font-weight: 500;
-    padding: 1px 3px;
+    padding: 1px 2px;
     border-radius: 2px;
 }
 
 .paper-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 0;
     align-items: center;
     margin-top: 0;
     padding-top: 0;
     border-top: none;
+    font-size: 14px;
+    color: rgba(51, 41, 31, 0.6);
 }
 
 .paper-journal {
-    display: inline-flex;
-    align-items: center;
+    display: inline;
     background: transparent;
     color: rgba(51, 41, 31, 0.6);
     padding: 0;
@@ -346,11 +350,23 @@ body {
 }
 
 .paper-date {
-    color: rgba(51, 41, 31, 0.5);
+    color: rgba(51, 41, 31, 0.6);
     font-size: 14px;
     font-weight: 400;
-    margin-left: auto;
+    margin-left: 0;
     font-family: 'EB Garamond', Georgia, serif;
+}
+
+.paper-meta::before {
+    content: '';
+}
+
+.paper-card:first-child {
+    border-top: 1px solid rgba(180, 170, 150, 0.3);
+}
+
+.paper-card:last-child {
+    border-bottom: 1px solid rgba(180, 170, 150, 0.3);
 }
 
 /* No Results */
