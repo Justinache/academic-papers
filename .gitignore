@@ -2,18 +2,15 @@
 node_modules/
 package-lock.json
 
-# Backend files (GitHub Pages doesn't support Node.js)
-server.js
-journal-config.js
-
 # Development files
 .DS_Store
 *.log
 
-# Deployment configs for other platforms
-vercel.json
-netlify.toml
+# Don't commit the generated papers data (GitHub Actions will create it)
+# papers-data.json
 
-# Optional: Keep these if you want documentation
-# README-API.md
-# SETUP.md
+# Keep these files - they're needed for GitHub Actions to fetch papers
+# server.js (needed by fetch-papers.js)
+# journal-config.js (needed by fetch-papers.js)
+# vercel.json (needed if deploying to Vercel)
+# netlify.toml (needed if deploying to Netlify)

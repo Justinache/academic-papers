@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2025-11-27T20:00:00.000Z",
+  "count": 11,
+  "papers": [
+    {
+      "title": "The Impact of Artificial Intelligence on Labor Markets: Evidence from Manufacturing",
+      "authors": "Sarah Johnson, Michael Chen, Lisa Anderson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-11-15",
+      "abstract": "This paper examines the effects of AI adoption on employment and wages in manufacturing sectors."
+    },
+    {
+      "title": "Climate Change and Economic Growth: A Global Analysis",
+      "authors": "David Martinez, Emma Thompson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-11-08",
+      "abstract": "We analyze the relationship between climate change indicators and economic growth across countries."
+    },
+    {
+      "title": "Universal Basic Income: Experimental Evidence from Finland",
+      "authors": "Anna Korhonen, Mikko Virtanen",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-11-01",
+      "abstract": "Analysis of Finland's UBI experiment and its effects on employment and well-being."
+    },
+    {
+      "title": "Network Effects in Digital Platform Markets",
+      "authors": "Robert Williams, Jennifer Lee, Thomas Zhang",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2025-11-20",
+      "abstract": "Examining how network effects shape competition and pricing in digital platforms."
+    },
+    {
+      "title": "Cryptocurrency Market Efficiency and Price Discovery",
+      "authors": "Alexander Schmidt, Laura Peterson, Marcus Chang",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-11-22",
+      "abstract": "Investigating market efficiency and price formation in cryptocurrency markets."
+    },
+    {
+      "title": "ESG Investing and Portfolio Performance: Long-term Evidence",
+      "authors": "Emily Roberts, Jack Morrison",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-11-14",
+      "abstract": "Examining the long-term performance implications of ESG investment strategies."
+    },
+    {
+      "title": "Machine Learning in Credit Risk Assessment",
+      "authors": "Kevin Anderson, Priya Sharma, Nathan Brooks",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2025-11-25",
+      "abstract": "Evaluating machine learning models for predicting credit defaults."
+    },
+    {
+      "title": "Earnings Management and Audit Quality: New Evidence",
+      "authors": "Patricia Davis, Richard Thompson, Susan Miller",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-11-19",
+      "abstract": "Investigating the relationship between audit quality and earnings manipulation."
+    },
+    {
+      "title": "Blockchain Technology in Accounting Information Systems",
+      "authors": "Ryan O'Brien, Mei Lin, Gabriel Santos",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2025-11-23",
+      "abstract": "Exploring blockchain applications for financial reporting and auditing."
+    },
+    {
+      "title": "CRISPR-Based Gene Therapy for Sickle Cell Disease: Clinical Trial Results",
+      "authors": "Jennifer Walsh, Akira Tanaka, Maria Fernandez, David Singh",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-26",
+      "abstract": "Breakthrough results from clinical trials using CRISPR gene editing to treat sickle cell disease."
+    },
+    {
+      "title": "Quantum Computing Achieves Error Correction Milestone",
+      "authors": "Thomas Mueller, Lisa Zhou, Ahmed Rahman",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-20",
+      "abstract": "Major advancement in quantum error correction enabling more stable quantum computations."
+    }
+  ]
+}

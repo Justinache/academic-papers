@@ -328,3 +328,34 @@ footer {
     background: #4caf50;
     color: white;
 }
+
+/* Update Time */
+.update-time {
+    display: inline-block;
+    margin-left: 15px;
+    color: #4a90e2;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+/* Paper Link */
+.paper-link {
+    display: inline-block;
+    margin-top: 12px;
+    color: #4a90e2;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+}
+
+.paper-link:hover {
+    color: #3a7bc8;
+    text-decoration: underline;
+}
+
+/* Fade out animation for notifications */
+.notification.fade-out {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
