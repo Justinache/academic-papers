@@ -165,8 +165,18 @@ async function fetchFromCrossRef(journal, limit = 20) {
                     })
                     .join(', ') || 'Unknown';
 
+                // Clean title by removing HTML tags
+                const rawTitle = item.title?.[0] || 'Untitled';
+                const cleanTitle = rawTitle
+                    .replace(/<[^>]*>/g, '') // Remove all HTML tags
+                    .replace(/&nbsp;/g, ' ')  // Replace &nbsp; with space
+                    .replace(/&amp;/g, '&')   // Replace &amp; with &
+                    .replace(/&lt;/g, '<')    // Replace &lt; with <
+                    .replace(/&gt;/g, '>')    // Replace &gt; with >
+                    .trim();
+
                 return {
-                    title: item.title?.[0] || 'Untitled',
+                    title: cleanTitle,
                     authors: authors,
                     journal: journal.name,
                     field: journal.field,
