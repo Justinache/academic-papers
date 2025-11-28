@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-28T02:59:10.144Z",
+  "lastUpdated": "2025-11-28T03:09:46.833Z",
   "count": 570,
   "papers": [
     {
@@ -4321,16 +4321,6 @@
       "url": "https://doi.org/10.1086/735513"
     },
     {
-      "title": "Bidding for Firms: Subsidy Competition in the United States",
-      "authors": "Cailin Slattery",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-8-1",
-      "abstract": "No abstract available",
-      "doi": "10.1086/735509",
-      "url": "https://doi.org/10.1086/735509"
-    },
-    {
       "title": "Soil Heterogeneity, Social Learning, and the Formation of Close-Knit Communities",
       "authors": "Itzchak Tzachi Raz",
       "journal": "Journal of Political Economy",
@@ -4339,6 +4329,16 @@
       "abstract": "No abstract available",
       "doi": "10.1086/735506",
       "url": "https://doi.org/10.1086/735506"
+    },
+    {
+      "title": "Bidding for Firms: Subsidy Competition in the United States",
+      "authors": "Cailin Slattery",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-8-1",
+      "abstract": "No abstract available",
+      "doi": "10.1086/735509",
+      "url": "https://doi.org/10.1086/735509"
     },
     {
       "title": "The Allocation of Incentives in Multilayered Organizations: Evidence from a Community Health Program in Sierra Leone",
@@ -4471,16 +4471,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101800"
     },
     {
-      "title": "Tax enforcement and R&D credits",
-      "authors": "Mary Cowx",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-8",
-      "abstract": "No abstract available",
-      "doi": "10.1016/j.jacceco.2025.101784",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101784"
-    },
-    {
       "title": "Tax administration quality and foreign investment in developing countries: Evidence from participation in tax inspectors without borders",
       "authors": "Duke Ferguson, Trent J. Krupa, Rick C. Laux",
       "journal": "Journal of Accounting and Economics",
@@ -4489,6 +4479,16 @@
       "abstract": "No abstract available",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Tax enforcement and R&D credits",
+      "authors": "Mary Cowx",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-8",
+      "abstract": "No abstract available",
+      "doi": "10.1016/j.jacceco.2025.101784",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101784"
     },
     {
       "title": "Reporting regulation and corporate innovation",
@@ -4621,16 +4621,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101781"
     },
     {
-      "title": "Signaling long-term information using short-term forecasts",
-      "authors": "Mirko S. Heinle, Chongho Kim, Daniel J. Taylor, Frank S. Zhou",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-8",
-      "abstract": "No abstract available",
-      "doi": "10.1016/j.jacceco.2025.101768",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101768"
-    },
-    {
       "title": "Gone but not forgotten: Investor reaction to “excluded” recurring expenses",
       "authors": "Laura Griffin, John McInnis",
       "journal": "Journal of Accounting and Economics",
@@ -4639,6 +4629,16 @@
       "abstract": "No abstract available",
       "doi": "10.1016/j.jacceco.2025.101799",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101799"
+    },
+    {
+      "title": "Signaling long-term information using short-term forecasts",
+      "authors": "Mirko S. Heinle, Chongho Kim, Daniel J. Taylor, Frank S. Zhou",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-8",
+      "abstract": "No abstract available",
+      "doi": "10.1016/j.jacceco.2025.101768",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101768"
     },
     {
       "title": "Assessing the objective function of the SEC against financial misconduct: A structural approach",
