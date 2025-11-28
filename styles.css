@@ -222,13 +222,13 @@ body {
 .papers-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
-    gap: 24px;
+    gap: 20px;
 }
 
 .paper-card {
     background: linear-gradient(135deg, rgba(125, 139, 77, 0.08) 0%, rgba(86, 140, 111, 0.05) 100%);
     border-radius: var(--radius);
-    padding: 28px;
+    padding: 24px;
     border: 3px solid var(--primary);
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
@@ -236,65 +236,40 @@ body {
     text-decoration: none;
     color: inherit;
     display: block;
-    box-shadow: 0 4px 12px rgba(125, 139, 77, 0.15);
-}
-
-.paper-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(135deg, rgba(125, 139, 77, 0.15) 0%, rgba(86, 140, 111, 0.1) 100%);
-    border-radius: calc(var(--radius) - 3px);
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    pointer-events: none;
+    box-shadow: 0 2px 8px rgba(125, 139, 77, 0.1);
 }
 
 .paper-card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 12px 32px rgba(125, 139, 77, 0.3);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(125, 139, 77, 0.25);
     border-color: var(--accent);
 }
 
-.paper-card:hover::before {
-    opacity: 1;
-}
-
 .paper-title {
-    font-size: 22px;
-    font-weight: 700;
+    font-size: 19px;
+    font-weight: 600;
     color: var(--foreground);
-    margin-bottom: 14px;
+    margin-bottom: 10px;
     line-height: 1.4;
-    letter-spacing: -0.3px;
-    position: relative;
-    z-index: 1;
+    letter-spacing: -0.2px;
 }
 
 .paper-authors {
-    font-size: 17px;
-    color: rgba(51, 41, 31, 0.7);
-    margin-bottom: 18px;
+    font-size: 15px;
+    color: rgba(51, 41, 31, 0.65);
+    margin-bottom: 14px;
     font-weight: 400;
-    line-height: 1.5;
-    font-style: italic;
-    position: relative;
-    z-index: 1;
+    line-height: 1.4;
 }
 
 .paper-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 8px;
     align-items: center;
-    margin-top: 20px;
-    padding-top: 20px;
-    border-top: 2px solid rgba(125, 139, 77, 0.3);
-    position: relative;
-    z-index: 1;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 2px solid rgba(125, 139, 77, 0.2);
 }
 
 .paper-journal {
@@ -302,9 +277,9 @@ body {
     align-items: center;
     background: var(--primary);
     color: var(--primary-foreground);
-    padding: 6px 14px;
+    padding: 5px 12px;
     border-radius: calc(var(--radius) - 0.25rem);
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
     font-family: 'Inter', sans-serif;
     border: 2px solid var(--primary);
@@ -315,9 +290,9 @@ body {
     align-items: center;
     background: var(--accent);
     color: var(--accent-foreground);
-    padding: 6px 14px;
+    padding: 5px 12px;
     border-radius: calc(var(--radius) - 0.25rem);
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
     font-family: 'Inter', sans-serif;
     border: 2px solid var(--accent);
@@ -325,7 +300,7 @@ body {
 
 .paper-date {
     color: rgba(51, 41, 31, 0.5);
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 500;
     margin-left: auto;
     font-family: 'Inter', sans-serif;

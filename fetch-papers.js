@@ -114,16 +114,62 @@ async function fetchFromCrossRef(journal, limit = 20) {
         });
 
         const items = response.data.message.items || [];
-        return items.map(item => ({
-            title: item.title?.[0] || 'Untitled',
-            authors: item.author?.map(a => `${a.given || ''} ${a.family || ''}`).join(', ') || 'Unknown',
-            journal: journal.name,
-            field: journal.field,
-            date: item.published?.['date-parts']?.[0]?.join('-') || new Date().toISOString().split('T')[0],
-            abstract: item.abstract || 'No abstract available',
-            doi: item.DOI || null,
-            url: item.URL || null
-        }));
+
+        // Filter out non-papers and normalize data
+        return items
+            .filter(item => {
+                const title = item.title?.[0] || '';
+                const titleLower = title.toLowerCase();
+
+                // Filter out non-research papers
+                const invalidTitles = [
+                    'untitled',
+                    'announcement',
+                    'issue information',
+                    'front matter',
+                    'back matter',
+                    'table of contents',
+                    'editorial board',
+                    'index',
+                    'erratum',
+                    'corrigendum',
+                    'retraction',
+                    'cover'
+                ];
+
+                return title.length > 10 &&
+                       !invalidTitles.some(invalid => titleLower.includes(invalid));
+            })
+            .map(item => {
+                // Normalize author names (convert from ALL CAPS to proper case)
+                const authors = item.author
+                    ?.map(a => {
+                        const given = a.given || '';
+                        const family = a.family || '';
+                        const fullName = `${given} ${family}`.trim();
+
+                        // If name is all caps, convert to title case
+                        if (fullName === fullName.toUpperCase()) {
+                            return fullName.toLowerCase()
+                                .split(' ')
+                                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                                .join(' ');
+                        }
+                        return fullName;
+                    })
+                    .join(', ') || 'Unknown';
+
+                return {
+                    title: item.title?.[0] || 'Untitled',
+                    authors: authors,
+                    journal: journal.name,
+                    field: journal.field,
+                    date: item.published?.['date-parts']?.[0]?.join('-') || new Date().toISOString().split('T')[0],
+                    abstract: item.abstract || 'No abstract available',
+                    doi: item.DOI || null,
+                    url: item.URL || null
+                };
+            });
     } catch (error) {
         console.error(`Error fetching from CrossRef for ${journal.name}:`, error.message);
         return [];
