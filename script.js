@@ -19,6 +19,11 @@ function generateMonthFilter() {
 
     papers.forEach(paper => {
         const date = new Date(paper.date);
+        if (isNaN(date.getTime())) {
+            console.warn('Invalid date for month filter:', paper.title, paper.date);
+            return;
+        }
+
         const monthYear = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
 
         if (!monthsMap.has(monthYear)) {
@@ -34,6 +39,8 @@ function generateMonthFilter() {
     // Sort months by date (newest first)
     const sortedMonths = Array.from(monthsMap.values())
         .sort((a, b) => b.date - a.date);
+
+    console.log('Months found:', sortedMonths.map(m => m.name));
 
     // Clear existing checkboxes
     monthFilter.innerHTML = '';
@@ -54,6 +61,8 @@ function generateMonthFilter() {
         label.appendChild(span);
         monthFilter.appendChild(label);
     });
+
+    console.log(`Generated ${sortedMonths.length} month filters`);
 }
 
 // Generate year checkboxes based on paper dates
@@ -63,11 +72,17 @@ function generateYearFilter() {
     papers.forEach(paper => {
         const date = new Date(paper.date);
         const year = date.getFullYear();
-        yearsSet.add(year);
+        if (!isNaN(year)) {
+            yearsSet.add(year);
+        } else {
+            console.warn('Invalid date for paper:', paper.title, paper.date);
+        }
     });
 
     // Sort years (newest first)
     const sortedYears = Array.from(yearsSet).sort((a, b) => b - a);
+
+    console.log('Years found:', sortedYears);
 
     // Clear existing checkboxes
     yearFilter.innerHTML = '';
@@ -88,6 +103,8 @@ function generateYearFilter() {
         label.appendChild(span);
         yearFilter.appendChild(label);
     });
+
+    console.log(`Generated ${sortedYears.length} year filters`);
 }
 
 // Clean abstract text - remove HTML/XML tags and entities
@@ -402,9 +419,11 @@ function resetFilters() {
 
 // Render papers to the DOM
 function renderPapers(papersToRender) {
+    console.log(`Rendering ${papersToRender.length} papers`);
     papersContainer.innerHTML = '';
 
     if (papersToRender.length === 0) {
+        console.warn('No papers to render');
         noResults.style.display = 'block';
         const countEl = document.getElementById('count');
         if (countEl) countEl.textContent = '0';
