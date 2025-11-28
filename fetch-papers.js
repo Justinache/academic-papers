@@ -6,64 +6,74 @@ const Parser = require('rss-parser');
 const fs = require('fs').promises;
 const parser = new Parser();
 
-// Journal configuration
+// Journal configuration with ISSN for exact matching
 const journals = [
     {
         name: "American Economic Review",
+        issn: "0002-8282",
         field: "Economics",
         rss: "https://www.aeaweb.org/journals/aer/feed",
         useAPI: true
     },
     {
         name: "Quarterly Journal of Economics",
+        issn: "0033-5533",
         field: "Economics",
         rss: null,
         useAPI: true
     },
     {
         name: "Journal of Political Economy",
+        issn: "0022-3808",
         field: "Economics",
         rss: null,
         useAPI: true
     },
     {
         name: "Journal of Finance",
+        issn: "0022-1082",
         field: "Finance",
         rss: null,
         useAPI: true
     },
     {
         name: "Journal of Financial Economics",
+        issn: "0304-405X",
         field: "Finance",
         rss: null,
         useAPI: true
     },
     {
         name: "Review of Financial Studies",
+        issn: "0893-9454",
         field: "Finance",
         rss: null,
         useAPI: true
     },
     {
         name: "Journal of Accounting and Economics",
+        issn: "0165-4101",
         field: "Accounting",
         rss: null,
         useAPI: true
     },
     {
         name: "Journal of Accounting Research",
+        issn: "0021-8456",
         field: "Accounting",
         rss: null,
         useAPI: true
     },
     {
         name: "The Accounting Review",
+        issn: "0001-4826",
         field: "Accounting",
         rss: null,
         useAPI: true
     },
     {
         name: "Nature",
+        issn: "0028-0836",
         field: "Science",
         rss: "https://www.nature.com/nature.rss",
         useAPI: true
@@ -83,23 +93,23 @@ function getFieldFromJournal(journalName) {
 }
 
 // Fetch from CrossRef API
-async function fetchFromCrossRef(journalName, limit = 20) {
+async function fetchFromCrossRef(journal, limit = 20) {
     try {
         // Fetch papers from past 6 months
         const sixMonthsAgo = new Date();
         sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
         const fromDate = sixMonthsAgo.toISOString().split('T')[0];
 
+        // Use ISSN for exact journal matching
         const response = await axios.get('https://api.crossref.org/works', {
             params: {
-                query: journalName,
-                filter: `from-pub-date:${fromDate}`,
+                filter: `issn:${journal.issn},from-pub-date:${fromDate}`,
                 rows: limit,
                 sort: 'published',
                 order: 'desc'
             },
             headers: {
-                'User-Agent': 'AcademicPapersBot/1.0 (mailto:your-email@example.com)'
+                'User-Agent': 'AcademicPapersBot/1.0 (mailto:research@example.com)'
             }
         });
 
@@ -107,15 +117,15 @@ async function fetchFromCrossRef(journalName, limit = 20) {
         return items.map(item => ({
             title: item.title?.[0] || 'Untitled',
             authors: item.author?.map(a => `${a.given || ''} ${a.family || ''}`).join(', ') || 'Unknown',
-            journal: item['container-title']?.[0] || journalName,
-            field: getFieldFromJournal(journalName),
+            journal: journal.name,
+            field: journal.field,
             date: item.published?.['date-parts']?.[0]?.join('-') || new Date().toISOString().split('T')[0],
             abstract: item.abstract || 'No abstract available',
             doi: item.DOI || null,
             url: item.URL || null
         }));
     } catch (error) {
-        console.error(`Error fetching from CrossRef for ${journalName}:`, error.message);
+        console.error(`Error fetching from CrossRef for ${journal.name}:`, error.message);
         return [];
     }
 }
@@ -215,9 +225,9 @@ async function fetchAllPapers() {
             }
         }
 
-        // Fallback to CrossRef API
-        if (journal.useAPI) {
-            const papers = await fetchFromCrossRef(journal.name, 20);
+        // Fallback to CrossRef API with ISSN
+        if (journal.useAPI && journal.issn) {
+            const papers = await fetchFromCrossRef(journal, 20);
             if (papers.length > 0) {
                 allPapers.push(...papers);
                 console.log(`  ✓ Found ${papers.length} papers from CrossRef`);
