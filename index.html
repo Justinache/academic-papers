@@ -39,44 +39,82 @@
                 <aside class="sidebar">
                     <h2 class="sidebar-main-title">Refine Results</h2>
 
-                    <!-- Filters -->
+                    <!-- Year Filter -->
                     <div class="sidebar-section">
-                        <h3 class="sidebar-title">Date</h3>
-                        <select id="yearFilter" class="select-input">
-                            <option value="">All Years</option>
-                        </select>
+                        <h3 class="sidebar-title">Year</h3>
+                        <div id="yearFilter" class="checkbox-group">
+                            <!-- Generated dynamically -->
+                        </div>
                     </div>
 
+                    <!-- Month Filter -->
                     <div class="sidebar-section">
-                        <select id="monthFilter" class="select-input">
-                            <option value="">All Months</option>
-                        </select>
+                        <h3 class="sidebar-title">Month</h3>
+                        <div id="monthFilter" class="checkbox-group">
+                            <!-- Generated dynamically -->
+                        </div>
                     </div>
 
+                    <!-- Journal Filter -->
                     <div class="sidebar-section">
                         <h3 class="sidebar-title">Journal</h3>
-                        <select id="journalFilter" class="select-input">
-                            <option value="">All Journals</option>
-                            <option value="American Economic Review">American Economic Review</option>
-                            <option value="Quarterly Journal of Economics">Quarterly Journal of Economics</option>
-                            <option value="Journal of Political Economy">Journal of Political Economy</option>
-                            <option value="Journal of Finance">Journal of Finance</option>
-                            <option value="Journal of Financial Economics">Journal of Financial Economics</option>
-                            <option value="Review of Financial Studies">Review of Financial Studies</option>
-                            <option value="Journal of Accounting and Economics">Journal of Accounting and Economics</option>
-                            <option value="Journal of Accounting Research">Journal of Accounting Research</option>
-                            <option value="The Accounting Review">The Accounting Review</option>
-                        </select>
+                        <div id="journalFilter" class="checkbox-group">
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="American Economic Review">
+                                <span>American Economic Review</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Quarterly Journal of Economics">
+                                <span>Quarterly Journal of Economics</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Journal of Political Economy">
+                                <span>Journal of Political Economy</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Journal of Finance">
+                                <span>Journal of Finance</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Journal of Financial Economics">
+                                <span>Journal of Financial Economics</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Review of Financial Studies">
+                                <span>Review of Financial Studies</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Journal of Accounting and Economics">
+                                <span>Journal of Accounting and Economics</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Journal of Accounting Research">
+                                <span>Journal of Accounting Research</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="The Accounting Review">
+                                <span>The Accounting Review</span>
+                            </label>
+                        </div>
                     </div>
 
+                    <!-- Field Filter -->
                     <div class="sidebar-section">
                         <h3 class="sidebar-title">Field</h3>
-                        <select id="fieldFilter" class="select-input">
-                            <option value="">All Fields</option>
-                            <option value="Economics">Economics</option>
-                            <option value="Finance">Finance</option>
-                            <option value="Accounting">Accounting</option>
-                        </select>
+                        <div id="fieldFilter" class="checkbox-group">
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Economics">
+                                <span>Economics</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Finance">
+                                <span>Finance</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" value="Accounting">
+                                <span>Accounting</span>
+                            </label>
+                        </div>
                     </div>
                 </aside>
 
