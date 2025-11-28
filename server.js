@@ -44,13 +44,17 @@ function getFieldFromJournal(journalName) {
 }
 
 // Fetch papers from CrossRef API
-async function fetchFromCrossRef(journalName, limit = 10) {
+async function fetchFromCrossRef(journalName, limit = 20) {
     try {
-        // CrossRef query by journal title
+        // Fetch papers from past 6 months
+        const sixMonthsAgo = new Date();
+        sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+        const fromDate = sixMonthsAgo.toISOString().split('T')[0];
+
         const response = await axios.get(journalConfig.apis.crossref.baseUrl, {
             params: {
                 query: journalName,
-                filter: `from-pub-date:${journalConfig.config.fromDate}`,
+                filter: `from-pub-date:${fromDate}`,
                 rows: limit,
                 sort: 'published',
                 order: 'desc'
@@ -81,11 +85,11 @@ async function fetchFromRSS(feedUrl, journalName) {
 
         return feed.items
             .filter(item => {
-                // Filter for papers from the last month
+                // Filter for papers from the past 6 months
                 const pubDate = new Date(item.pubDate || item.isoDate);
-                const oneMonthAgo = new Date();
-                oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
-                return pubDate >= oneMonthAgo;
+                const sixMonthsAgo = new Date();
+                sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+                return pubDate >= sixMonthsAgo;
             })
             .map(item => ({
                 title: item.title || 'Untitled',

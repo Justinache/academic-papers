@@ -83,11 +83,12 @@ function getFieldFromJournal(journalName) {
 }
 
 // Fetch from CrossRef API
-async function fetchFromCrossRef(journalName, limit = 10) {
+async function fetchFromCrossRef(journalName, limit = 20) {
     try {
-        const oneMonthAgo = new Date();
-        oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
-        const fromDate = oneMonthAgo.toISOString().split('T')[0];
+        // Fetch papers from past 6 months
+        const sixMonthsAgo = new Date();
+        sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+        const fromDate = sixMonthsAgo.toISOString().split('T')[0];
 
         const response = await axios.get('https://api.crossref.org/works', {
             params: {
@@ -124,14 +125,15 @@ async function fetchFromRSS(feedUrl, journalName) {
     try {
         const feed = await parser.parseURL(feedUrl);
 
+        // Filter for papers from past 6 months
         return feed.items
             .filter(item => {
                 const pubDate = new Date(item.pubDate || item.isoDate);
-                const oneMonthAgo = new Date();
-                oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
-                return pubDate >= oneMonthAgo;
+                const sixMonthsAgo = new Date();
+                sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+                return pubDate >= sixMonthsAgo;
             })
-            .slice(0, 10)
+            .slice(0, 20)
             .map(item => ({
                 title: item.title || 'Untitled',
                 authors: item.creator || item.author || 'Unknown',
@@ -145,6 +147,51 @@ async function fetchFromRSS(feedUrl, journalName) {
         console.error(`Error fetching RSS for ${journalName}:`, error.message);
         return [];
     }
+}
+
+// Load existing papers from file
+async function loadExistingPapers() {
+    try {
+        const data = await fs.readFile('papers-data.json', 'utf8');
+        const json = JSON.parse(data);
+        return json.papers || [];
+    } catch (error) {
+        console.log('No existing papers file found, starting fresh.');
+        return [];
+    }
+}
+
+// Filter out papers older than 3 months
+function filterRecentPapers(papers) {
+    const threeMonthsAgo = new Date();
+    threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
+
+    return papers.filter(paper => {
+        const paperDate = new Date(paper.date);
+        return paperDate >= threeMonthsAgo;
+    });
+}
+
+// Merge and deduplicate papers
+function mergePapers(existingPapers, newPapers) {
+    const paperMap = new Map();
+
+    // Add existing papers first
+    existingPapers.forEach(paper => {
+        const key = paper.doi || paper.title.toLowerCase().trim();
+        paperMap.set(key, paper);
+    });
+
+    // Add or update with new papers
+    newPapers.forEach(paper => {
+        const key = paper.doi || paper.title.toLowerCase().trim();
+        paperMap.set(key, paper);
+    });
+
+    // Convert back to array and sort by date (newest first)
+    return Array.from(paperMap.values()).sort((a, b) => {
+        return new Date(b.date) - new Date(a.date);
+    });
 }
 
 // Main function
@@ -170,7 +217,7 @@ async function fetchAllPapers() {
 
         // Fallback to CrossRef API
         if (journal.useAPI) {
-            const papers = await fetchFromCrossRef(journal.name, 10);
+            const papers = await fetchFromCrossRef(journal.name, 20);
             if (papers.length > 0) {
                 allPapers.push(...papers);
                 console.log(`  ✓ Found ${papers.length} papers from CrossRef`);
@@ -188,19 +235,32 @@ async function fetchAllPapers() {
 // Run and save to file
 (async () => {
     try {
-        const papers = await fetchAllPapers();
+        console.log('Loading existing papers...');
+        const existingPapers = await loadExistingPapers();
+        console.log(`Found ${existingPapers.length} existing papers`);
+
+        console.log('Filtering papers (keeping only last 3 months)...');
+        const recentPapers = filterRecentPapers(existingPapers);
+        console.log(`Kept ${recentPapers.length} papers from last 3 months`);
+
+        console.log('\nFetching new papers from journals...');
+        const newPapers = await fetchAllPapers();
+
+        console.log('\nMerging and deduplicating papers...');
+        const allPapers = mergePapers(recentPapers, newPapers);
+        console.log(`Final count: ${allPapers.length} unique papers`);
 
         const output = {
             lastUpdated: new Date().toISOString(),
-            count: papers.length,
-            papers: papers
+            count: allPapers.length,
+            papers: allPapers
         };
 
         await fs.writeFile('papers-data.json', JSON.stringify(output, null, 2));
         console.log('\n✓ Successfully saved papers to papers-data.json');
 
-        if (papers.length === 0) {
-            console.warn('⚠ Warning: No papers were fetched. Using fallback data.');
+        if (allPapers.length === 0) {
+            console.warn('⚠ Warning: No papers in final output.');
             process.exit(1);
         }
 
