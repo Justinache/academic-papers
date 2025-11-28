@@ -24,9 +24,7 @@
 
 body {
     font-family: 'EB Garamond', Georgia, serif;
-    background: var(--background);
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(180,170,150,0.1)" stroke-width="0.5"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
-    background-attachment: fixed;
+    background: white;
     color: var(--foreground);
     line-height: 1.6;
     min-height: 100vh;
@@ -40,8 +38,8 @@ body {
 
 /* Header */
 .header {
-    background: var(--card);
-    border-bottom: 2px solid var(--border);
+    background: white;
+    border-bottom: 1px solid var(--border);
     padding: 24px 0;
     margin-bottom: 40px;
 }
@@ -71,6 +69,46 @@ body {
     padding-bottom: 80px;
 }
 
+/* Full Width Search Bar */
+.search-section-full {
+    margin-bottom: 32px;
+}
+
+.search-container-full {
+    position: relative;
+    width: 100%;
+}
+
+.search-input-full {
+    width: 100%;
+    padding: 14px 50px 14px 18px;
+    font-size: 16px;
+    font-family: 'EB Garamond', Georgia, serif;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: white;
+    color: var(--foreground);
+    transition: all 0.2s ease;
+}
+
+.search-input-full::placeholder {
+    color: rgba(51, 41, 31, 0.4);
+}
+
+.search-input-full:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(125, 139, 77, 0.1);
+}
+
+.search-container-full .search-icon {
+    position: absolute;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgba(51, 41, 31, 0.4);
+    pointer-events: none;
+}
 
 /* Main Layout with Sidebar */
 .main-layout {
@@ -84,10 +122,10 @@ body {
 
 /* Sidebar */
 .sidebar {
-    background: rgba(242, 238, 225, 0.3);
-    border: none;
-    border-radius: 0;
-    padding: 20px;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 24px;
     position: sticky;
     top: 20px;
 }
@@ -119,31 +157,6 @@ body {
     letter-spacing: 0.3px;
 }
 
-/* Sidebar Search */
-.sidebar .search-container {
-    position: relative;
-    width: 100%;
-}
-
-.sidebar .search-input {
-    width: 100%;
-    padding: 10px 35px 10px 12px;
-    font-size: 14px;
-    font-family: 'EB Garamond', Georgia, serif;
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    background: white;
-    color: var(--foreground);
-}
-
-.sidebar .search-icon {
-    position: absolute;
-    right: 12px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: rgba(51, 41, 31, 0.4);
-    pointer-events: none;
-}
 
 .month-filters {
     display: flex;
@@ -177,11 +190,11 @@ body {
 .sidebar .select-input {
     width: 100%;
     padding: 10px 12px;
-    font-size: 15px;
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: 400;
     font-family: 'EB Garamond', Georgia, serif;
-    border: 2px solid var(--border);
-    border-radius: calc(var(--radius) - 0.25rem);
+    border: 1px solid var(--border);
+    border-radius: 4px;
     background: white;
     color: var(--foreground);
     cursor: pointer;
@@ -191,7 +204,7 @@ body {
 .sidebar .select-input:focus {
     outline: none;
     border-color: var(--primary);
-    box-shadow: 0 0 0 3px var(--ring);
+    box-shadow: 0 0 0 2px rgba(125, 139, 77, 0.1);
 }
 
 
@@ -300,7 +313,10 @@ body {
 
 .paper-card:hover {
     background: rgba(249, 246, 238, 0.5);
-    border-left-color: var(--primary);
+}
+
+.paper-card:hover .paper-title {
+    color: var(--primary);
 }
 
 .paper-card-content {
@@ -321,6 +337,7 @@ body {
     margin-bottom: 8px;
     line-height: 1.4;
     letter-spacing: -0.2px;
+    transition: color 0.15s ease;
 }
 
 .paper-authors {
@@ -449,9 +466,9 @@ body {
 .no-results {
     text-align: center;
     padding: 100px 40px;
-    background: var(--card);
-    border-radius: var(--radius);
-    border: 2px solid var(--border);
+    background: white;
+    border-radius: 4px;
+    border: 1px solid var(--border);
 }
 
 .no-results svg {
@@ -475,9 +492,9 @@ body {
 .loading {
     text-align: center;
     padding: 100px 40px;
-    background: var(--card);
-    border-radius: var(--radius);
-    border: 2px solid var(--border);
+    background: white;
+    border-radius: 4px;
+    border: 1px solid var(--border);
     font-size: 20px;
     color: rgba(51, 41, 31, 0.7);
     font-weight: 400;
@@ -491,8 +508,8 @@ body {
 
 /* Footer */
 .footer {
-    background: var(--card);
-    border-top: 2px solid var(--border);
+    background: white;
+    border-top: 1px solid var(--border);
     padding: 32px 0;
     text-align: center;
     margin-top: 60px;
