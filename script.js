@@ -120,7 +120,8 @@ async function loadPapers() {
     try {
         showLoadingState('Loading latest papers...');
 
-        const response = await fetch('papers-data.json');
+        // Add cache-busting parameter to force fresh data
+        const response = await fetch(`papers-data.json?v=${Date.now()}`);
 
         if (!response.ok) {
             throw new Error('Failed to load papers data');
