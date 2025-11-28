@@ -23,20 +23,29 @@
     <!-- Main Content -->
     <main class="main-content">
         <div class="container">
-            <!-- Search and Filters -->
-            <div class="controls-wrapper">
-                <div class="search-section">
-                    <div class="search-container">
-                        <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
-                            <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                        <input type="text" id="searchInput" class="search-input" placeholder="Search papers by title or author...">
-                    </div>
+            <!-- Search Bar (Full Width) -->
+            <div class="search-section-full">
+                <div class="search-container-full">
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                    <input type="text" id="searchInput" class="search-input" placeholder="Search papers by title or author...">
                 </div>
+            </div>
 
-                <div class="filters-section">
-                    <div class="filter-group">
-                        <label for="journalFilter">Journal</label>
+            <!-- Main Layout with Sidebar -->
+            <div class="main-layout">
+                <!-- Sidebar -->
+                <aside class="sidebar">
+                    <div class="sidebar-section">
+                        <h3 class="sidebar-title">Months</h3>
+                        <div id="monthFilters" class="month-filters">
+                            <!-- Month checkboxes will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <div class="sidebar-section">
+                        <h3 class="sidebar-title">Journal</h3>
                         <select id="journalFilter" class="select-input">
                             <option value="">All Journals</option>
                             <option value="American Economic Review">American Economic Review</option>
@@ -52,8 +61,8 @@
                         </select>
                     </div>
 
-                    <div class="filter-group">
-                        <label for="fieldFilter">Field</label>
+                    <div class="sidebar-section">
+                        <h3 class="sidebar-title">Field</h3>
                         <select id="fieldFilter" class="select-input">
                             <option value="">All Fields</option>
                             <option value="Economics">Economics</option>
@@ -63,29 +72,32 @@
                         </select>
                     </div>
 
-                    <button id="resetBtn" class="btn-reset">Reset</button>
+                    <button id="resetBtn" class="btn-reset">Reset All Filters</button>
+                </aside>
+
+                <!-- Content Area -->
+                <div class="content-area">
+                    <!-- Results Info -->
+                    <div class="results-header">
+                        <p class="results-count">Showing <strong id="count">0</strong> papers</p>
+                        <div id="updateTime" class="update-time"></div>
+                    </div>
+
+                    <!-- Papers Grid -->
+                    <div id="papersContainer" class="papers-grid">
+                        <!-- Papers will be dynamically inserted here -->
+                    </div>
+
+                    <!-- No Results -->
+                    <div id="noResults" class="no-results" style="display: none;">
+                        <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <circle cx="12" cy="12" r="10" stroke-width="2"/>
+                            <path d="M12 8v4M12 16h.01" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                        <h3>No papers found</h3>
+                        <p>Try adjusting your search or filter criteria</p>
+                    </div>
                 </div>
-            </div>
-
-            <!-- Results Info -->
-            <div class="results-header">
-                <p class="results-count">Showing <strong id="count">0</strong> papers</p>
-                <div id="updateTime" class="update-time"></div>
-            </div>
-
-            <!-- Papers Grid -->
-            <div id="papersContainer" class="papers-grid">
-                <!-- Papers will be dynamically inserted here -->
-            </div>
-
-            <!-- No Results -->
-            <div id="noResults" class="no-results" style="display: none;">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                    <circle cx="12" cy="12" r="10" stroke-width="2"/>
-                    <path d="M12 8v4M12 16h.01" stroke-width="2" stroke-linecap="round"/>
-                </svg>
-                <h3>No papers found</h3>
-                <p>Try adjusting your search or filter criteria</p>
             </div>
         </div>
     </main>

@@ -1,16 +1,65 @@
 // Load papers from live data or fallback to samples
 let papers = [];
 let filteredPapers = [];
+let selectedMonths = new Set();
 
 // DOM elements
 const searchInput = document.getElementById('searchInput');
-const searchBtn = document.getElementById('searchBtn');
 const journalFilter = document.getElementById('journalFilter');
 const fieldFilter = document.getElementById('fieldFilter');
 const resetBtn = document.getElementById('resetBtn');
 const papersContainer = document.getElementById('papersContainer');
 const resultCount = document.getElementById('count');
 const noResults = document.getElementById('noResults');
+const monthFiltersContainer = document.getElementById('monthFilters');
+
+// Generate month checkboxes based on paper dates
+function generateMonthFilters() {
+    const months = new Set();
+
+    papers.forEach(paper => {
+        const date = new Date(paper.date);
+        const monthYear = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+        const monthName = date.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+        months.add(JSON.stringify({ key: monthYear, name: monthName, date: date.getTime() }));
+    });
+
+    // Sort months by date (newest first)
+    const sortedMonths = Array.from(months)
+        .map(m => JSON.parse(m))
+        .sort((a, b) => b.date - a.date);
+
+    monthFiltersContainer.innerHTML = '';
+
+    sortedMonths.forEach(month => {
+        const checkboxDiv = document.createElement('div');
+        checkboxDiv.className = 'month-checkbox';
+
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.id = `month-${month.key}`;
+        checkbox.value = month.key;
+        checkbox.addEventListener('change', handleMonthChange);
+
+        const label = document.createElement('label');
+        label.htmlFor = `month-${month.key}`;
+        label.textContent = month.name;
+
+        checkboxDiv.appendChild(checkbox);
+        checkboxDiv.appendChild(label);
+        monthFiltersContainer.appendChild(checkboxDiv);
+    });
+}
+
+// Handle month checkbox changes
+function handleMonthChange(event) {
+    if (event.target.checked) {
+        selectedMonths.add(event.target.value);
+    } else {
+        selectedMonths.delete(event.target.value);
+    }
+    applyFilters();
+}
 
 // Load papers from JSON file
 async function loadPapers() {
@@ -32,6 +81,9 @@ async function loadPapers() {
 
             // Show update time
             showUpdateTime(data.lastUpdated);
+
+            // Generate month filters
+            generateMonthFilters();
         } else {
             throw new Error('No papers in data file');
         }
@@ -48,6 +100,7 @@ async function loadPapers() {
         filteredPapers = [...papers];
         hideLoadingState();
         renderPapers(papers);
+        generateMonthFilters();
 
         showNotification('Using sample data. Live data will be available after first GitHub Actions run.', 'info');
     }
@@ -228,7 +281,15 @@ function applyFilters() {
         const journalMatch = journalValue === '' || paper.journal === journalValue;
         const fieldMatch = fieldValue === '' || paper.field === fieldValue;
 
-        return searchMatch && journalMatch && fieldMatch;
+        // Month filter
+        let monthMatch = true;
+        if (selectedMonths.size > 0) {
+            const paperDate = new Date(paper.date);
+            const paperMonthYear = `${paperDate.getFullYear()}-${String(paperDate.getMonth() + 1).padStart(2, '0')}`;
+            monthMatch = selectedMonths.has(paperMonthYear);
+        }
+
+        return searchMatch && journalMatch && fieldMatch && monthMatch;
     });
 
     renderPapers(filteredPapers);
@@ -239,6 +300,13 @@ function resetFilters() {
     searchInput.value = '';
     journalFilter.value = '';
     fieldFilter.value = '';
+
+    // Uncheck all month checkboxes
+    selectedMonths.clear();
+    document.querySelectorAll('.month-checkbox input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
+
     filteredPapers = [...papers];
     renderPapers(papers);
 }

@@ -297,14 +297,14 @@ async function loadExistingPapers() {
     }
 }
 
-// Filter out papers older than 3 months
+// Filter out papers older than 6 months
 function filterRecentPapers(papers) {
-    const threeMonthsAgo = new Date();
-    threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
+    const sixMonthsAgo = new Date();
+    sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
 
     return papers.filter(paper => {
         const paperDate = new Date(paper.date);
-        return paperDate >= threeMonthsAgo;
+        return paperDate >= sixMonthsAgo;
     });
 }
 
@@ -375,9 +375,9 @@ async function fetchAllPapers() {
         const existingPapers = await loadExistingPapers();
         console.log(`Found ${existingPapers.length} existing papers`);
 
-        console.log('Filtering papers (keeping only last 3 months)...');
+        console.log('Filtering papers (keeping only last 6 months)...');
         const recentPapers = filterRecentPapers(existingPapers);
-        console.log(`Kept ${recentPapers.length} papers from last 3 months`);
+        console.log(`Kept ${recentPapers.length} papers from last 6 months`);
 
         console.log('\nFetching new papers from journals...');
         const newPapers = await fetchAllPapers();
