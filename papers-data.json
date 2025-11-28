@@ -1,94 +1,996 @@
 {
-  "lastUpdated": "2025-11-27T20:00:00.000Z",
-  "count": 11,
+  "lastUpdated": "2025-11-28T01:45:06.499Z",
+  "count": 100,
   "papers": [
     {
-      "title": "The Impact of Artificial Intelligence on Labor Markets: Evidence from Manufacturing",
-      "authors": "Sarah Johnson, Michael Chen, Lisa Anderson",
-      "journal": "American Economic Review",
+      "title": "Are the mosquito and vector control programs economic effective?",
+      "authors": "Lambros Tsourgiannis, Despoina Chatzipanagiotou",
+      "journal": "International Journal of Strategic Innovative Marketing",
       "field": "Economics",
-      "date": "2025-11-15",
-      "abstract": "This paper examines the effects of AI adoption on employment and wages in manufacturing sectors."
+      "date": "2117-1-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.04.03.002",
+      "url": "https://doi.org/10.15556/ijsim.04.03.002"
     },
     {
-      "title": "Climate Change and Economic Growth: A Global Analysis",
-      "authors": "David Martinez, Emma Thompson",
-      "journal": "American Economic Review",
+      "title": "Religion in the context of economic crisis: The generation’s z perspective",
+      "authors": "Aikaterini Stavrianea, Irene Kamenidou",
+      "journal": "International Journal of Strategic Innovative Marketing",
       "field": "Economics",
-      "date": "2025-11-08",
-      "abstract": "We analyze the relationship between climate change indicators and economic growth across countries."
+      "date": "2116-12-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.03.03.005",
+      "url": "https://doi.org/10.15556/ijsim.03.03.005"
     },
     {
-      "title": "Universal Basic Income: Experimental Evidence from Finland",
-      "authors": "Anna Korhonen, Mikko Virtanen",
-      "journal": "American Economic Review",
+      "title": "Conflict Management Research and Cross-Functional Relationships: An Integrative Review and Synthesis",
+      "authors": "Panagiotis Polychroniou, Panagiotis Trivellas, Aggelos Baxevanis",
+      "journal": "International Journal of Strategic Innovative Marketing",
       "field": "Economics",
-      "date": "2025-11-01",
-      "abstract": "Analysis of Finland's UBI experiment and its effects on employment and well-being."
+      "date": "2116-7-4",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.03.02.004",
+      "url": "https://doi.org/10.15556/ijsim.03.02.004"
     },
     {
-      "title": "Network Effects in Digital Platform Markets",
-      "authors": "Robert Williams, Jennifer Lee, Thomas Zhang",
-      "journal": "Quarterly Journal of Economics",
+      "title": "Consumers’ Buying Behaviour Towards Local Food in Greece During Economic Depression Period",
+      "authors": "Lambros Tsourgiannis, Efstratios Loizou, Anastasios Karasavoglou, Christos Antonios Tsourgiannis",
+      "journal": "International Journal of Strategic Innovative Marketing",
       "field": "Economics",
-      "date": "2025-11-20",
-      "abstract": "Examining how network effects shape competition and pricing in digital platforms."
+      "date": "2116-1-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.04.003",
+      "url": "https://doi.org/10.15556/ijsim.02.04.003"
     },
     {
-      "title": "Cryptocurrency Market Efficiency and Price Discovery",
-      "authors": "Alexander Schmidt, Laura Peterson, Marcus Chang",
-      "journal": "Journal of Finance",
+      "title": "Sex Determination in Papaya: A mini review",
+      "authors": "Unknown",
+      "journal": "Progress in Chemical and Biochemical Research",
+      "field": "Economics",
+      "date": "2109-10-1",
+      "abstract": "No abstract available",
+      "doi": "10.33945/sami/pcbr.2019.4.8",
+      "url": "https://doi.org/10.33945/sami/pcbr.2019.4.8"
+    },
+    {
+      "title": "Description of Eocader major n. sp. of Phatnomatini, with brief bionomic and taxonomic commentaries of other South American species of the tribe and of Stenocader (Cantacaderinae: Carldrakeanini) (Heteroptera: Tingidae)",
+      "authors": "Diego Carpintero, Sebastián De Biase",
+      "journal": "Revista del Museo Argentino de Ciencias Naturales",
+      "field": "Economics",
+      "date": "2108",
+      "abstract": "No abstract available",
+      "doi": "10.22179/revmacn.20.484",
+      "url": "https://doi.org/10.22179/revmacn.20.484"
+    },
+    {
+      "title": "Behavioral Screening Tests to Detect Hearing Loss in School Aged Children: A Review",
+      "authors": "Ratul Dey, Jai Lal Davessar, Satish Kumar, Tijender Sharma",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Economics",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.11",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.11"
+    },
+    {
+      "title": "Giant Cells in Health and Disease-A Review",
+      "authors": "Sonal Gupta",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Economics",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.10",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.10"
+    },
+    {
+      "title": "Glaucoma: Risk Factors and Prevalence: A Review",
+      "authors": "Shaurya Sharma, Harpriya Singh",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Economics",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.12",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.12"
+    },
+    {
+      "title": "The Relationship between Long-Term Incentives and Corporate Performance: A Theoretical Review",
+      "authors": "Unknown",
+      "journal": "International Journal of Humanities, Social Sciences and Education",
+      "field": "Economics",
+      "date": "2106",
+      "abstract": "No abstract available",
+      "doi": "10.20431/2349-0381.0303004",
+      "url": "https://doi.org/10.20431/2349-0381.0303004"
+    },
+    {
+      "title": "A criticism of the paradigm of rational choice in uncertain conditions through the lens of behavioral economics",
+      "authors": "Jaroslav Dachel, Eva Duchácková, Jarmila Radová",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Economics",
+      "date": "2115-7-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.02.002",
+      "url": "https://doi.org/10.15556/ijsim.02.02.002"
+    },
+    {
+      "title": "Untitled",
+      "authors": "Unknown",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2013.522",
+      "url": "https://doi.org/10.12927/hcq.2013.522"
+    },
+    {
+      "title": "Facts-at-a-Glance",
+      "authors": "Unknown",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2008.19504",
+      "url": "https://doi.org/10.12927/hcq.2008.19504"
+    },
+    {
+      "title": "Organizing Healthcare Delivery Systems for Persons with Ongoing Care Needs and Their Families: A Best Practices Framework",
+      "authors": "Marcus Hollander, Michael Prince",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2013.19497",
+      "url": "https://doi.org/10.12927/hcq.2013.19497"
+    },
+    {
+      "title": "Awards and Appointments",
+      "authors": "Unknown",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2008.19489",
+      "url": "https://doi.org/10.12927/hcq.2008.19489"
+    },
+    {
+      "title": "Contemporary Disease Management in Quebec",
+      "authors": "Amédé Gogovor, Michelle Savoie, Yola Moride, Marilyn Krelenbaum, Terrence Montague",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2013.19495",
+      "url": "https://doi.org/10.12927/hcq.2013.19495"
+    },
+    {
+      "title": "From Policy to Practice: Assessing the Impact of Staging Policies for Recording Cancer Stage across Canada",
+      "authors": "David Wiljer, Lisa Le, Heather Logan, David Neligan, James Brierley",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2013.19505",
+      "url": "https://doi.org/10.12927/hcq.2013.19505"
+    },
+    {
+      "title": "Chronic Disease Prevention and Management: Implications for Health Human Resources in 2020",
+      "authors": "Margo Orchard, Esther Green, Terrence Sullivan, Anna Greenberg, Verna Mai",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2013.19496",
+      "url": "https://doi.org/10.12927/hcq.2013.19496"
+    },
+    {
+      "title": "Points of Interest",
+      "authors": "Unknown",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2008.19488",
+      "url": "https://doi.org/10.12927/hcq.2008.19488"
+    },
+    {
+      "title": "Opinions: The Campbell Commission: A Missed Opportunity",
+      "authors": "Ronn Goldberg",
+      "journal": "Healthcare Quarterly",
+      "field": "Economics",
+      "date": "2088-1-15",
+      "abstract": "No abstract available",
+      "doi": "10.12927/hcq.2008.19487",
+      "url": "https://doi.org/10.12927/hcq.2008.19487"
+    },
+    {
+      "title": "When political marketing strategy ignores delivery: Lessons from the Greek experience",
+      "authors": "Iordanis Kotzaivazoglou",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Economics",
+      "date": "2115-7-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.02.003",
+      "url": "https://doi.org/10.15556/ijsim.02.02.003"
+    },
+    {
+      "title": "Education and Social Structure in a Restructuring Economy: Vietnam as Case Study",
+      "authors": "Unknown",
+      "journal": "International Journal of Humanities, Social Sciences and Education",
+      "field": "Economics",
+      "date": "2106",
+      "abstract": "No abstract available",
+      "doi": "10.20431/2349-0381.0303001",
+      "url": "https://doi.org/10.20431/2349-0381.0303001"
+    },
+    {
+      "title": "Title Pending 10019",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-11-5",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.10019",
+      "url": "https://doi.org/10.2458/jpe.10019"
+    },
+    {
+      "title": "Title Pending 6424",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-11-5",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.6424",
+      "url": "https://doi.org/10.2458/jpe.6424"
+    },
+    {
+      "title": "Title Pending 10005",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-10-16",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.10005",
+      "url": "https://doi.org/10.2458/jpe.10005"
+    },
+    {
+      "title": "Title Pending 10006",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-9-30",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.10006",
+      "url": "https://doi.org/10.2458/jpe.10006"
+    },
+    {
+      "title": "Title Pending 7584",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-9-7",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.7584",
+      "url": "https://doi.org/10.2458/jpe.7584"
+    },
+    {
+      "title": "Title Pending 7108",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-8-20",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.7108",
+      "url": "https://doi.org/10.2458/jpe.7108"
+    },
+    {
+      "title": "Title Pending 7106",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-8-17",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.7106",
+      "url": "https://doi.org/10.2458/jpe.7106"
+    },
+    {
+      "title": "Title Pending 7082",
+      "authors": "Unknown",
+      "journal": "Journal of Political Ecology",
+      "field": "Economics",
+      "date": "2035-8-16",
+      "abstract": "No abstract available",
+      "doi": "10.2458/jpe.7082",
+      "url": "https://doi.org/10.2458/jpe.7082"
+    },
+    {
+      "title": "Not all Analysts are Created Equal: Evidence from Seasoned Equity Offerings",
+      "authors": "Pascal Dumontier, Hassan Raza Kazmi",
+      "journal": "Finance",
       "field": "Finance",
-      "date": "2025-11-22",
-      "abstract": "Investigating market efficiency and price formation in cryptocurrency markets."
+      "date": "2029-8-31",
+      "abstract": "<jats:p>Cette étude examine le comportement des analystes financiers face à la gestion des chiffres comptables, en se concentrant sur les offres d'actions secondaires, où une gestion significative à la hausse des résultats financiers est souvent soupçonnée. Les analystes sont classés en deux groupes : ceux qui privilégient l'exactitude (en alignant leurs prévisions sur les résultats déclarés) et ceux qui favorisent l'informativité (en prévoyant les résultats non gérés ou reflétant la véritable performance de l’entreprise). En analysant 1 733 offres d’actions en Europe entre 2000 et 2016, l’étude révèle que les analystes informatifs révisent leurs prévisions à la baisse après l'annonce des offres, tandis que ceux recherchant l'exactitude maintiennent leurs prévisions inchangées. Les analystes informatifs ajustent davantage leurs prévisions pour les entreprises présentant une probabilité accrue de gestion des chiffres comptables, notamment celles avec des accruals discrétionnaires élevés ou des émissions de grande envergure. Les résultats soulignent l'influence des caractéristiques des entreprises et des prévisions sur ces comportements différenciés. Par exemple, les grandes entreprises et celles suivies par de nombreux analystes voient une réduction moins marquée des prévisions informatives, en raison d’une moindre probabilité de gestion des chiffres comptables. Par ailleurs, la directive européenne sur les abus de marché (MAD) a réduit les conflits d'intérêts parmi les analystes affiliés. Cette recherche enrichit la littérature en différenciant les approches des analystes face aux offres d’actions et en offrant une nouvelle perspective sur l’influence de l’informativité dans leurs prévisions, ouvrant ainsi la voie à une meilleure compréhension des comportements des analystes financiers.</jats:p>",
+      "doi": "10.3917/fina.pr.045",
+      "url": "https://doi.org/10.3917/fina.pr.045"
     },
     {
-      "title": "ESG Investing and Portfolio Performance: Long-term Evidence",
-      "authors": "Emily Roberts, Jack Morrison",
-      "journal": "Journal of Finance",
+      "title": "Cross-border supervisory cooperation: a progress report and research agenda",
+      "authors": "Thorsten Beck",
+      "journal": "Finance",
       "field": "Finance",
-      "date": "2025-11-14",
-      "abstract": "Examining the long-term performance implications of ESG investment strategies."
+      "date": "2029-8-31",
+      "abstract": "<jats:p>Dans un monde de marchés financiers intégrés et de banques transfrontalières, les superviseurs nationaux sont confrontés à des informations limitées et à des incitations biaisées, ce qui peut exacerber la fragilité financière. Même si les autorités de contrôle ont commencé à coopérer au-delà des frontières, cette coopération reste largement en deçà d’une surveillance supranationale comme dans la zone euro. Cet article résume les recherches théoriques et empiriques récentes dans ce domaine ; il présente des données sur la coopération en matière de surveillance transfrontalière, montre l'impact (limité) sur la stabilité d'une telle coopération et les réactions des groupes bancaires mondiaux à une coopération accrue en matière de surveillance.</jats:p>",
+      "doi": "10.3917/fina.pr.037",
+      "url": "https://doi.org/10.3917/fina.pr.037"
     },
     {
-      "title": "Machine Learning in Credit Risk Assessment",
-      "authors": "Kevin Anderson, Priya Sharma, Nathan Brooks",
-      "journal": "Journal of Financial Economics",
+      "title": "The Market Timing of Mergers and Acquisitions – Evidence from Ramadan",
+      "authors": "Helen Bollaert, Muhammad Farooq Ahmad",
+      "journal": "Finance",
       "field": "Finance",
-      "date": "2025-11-25",
-      "abstract": "Evaluating machine learning models for predicting credit defaults."
+      "date": "2029-8-31",
+      "abstract": "<jats:p>Nous étudions les stratégies de timing de marché par les dirigeants d'entreprise. Pendant le Ramadan, la surévaluation perçue des entreprises peut inciter les dirigeants à choisir cette période pour réaliser des acquisitions. Nous constatons que, conformément à l'hypothèse de timing de marché, l'activité cumulée des fusions et acquisitions est plus élevée en moyenne pendant le Ramadan, les dirigeants sont moins susceptibles d'écouter le marché et la performance post-acquisition est plus faible. Des analyses supplémentaires montrent des résultats différents pour les trois principaux pays de fusions et acquisitions de notre échantillon. Les résultats pour la Malaisie témoignent d'une stratégie de timing de marché désavantageuse pendant le Ramadan : pour les transactions annoncées pendant cette période, les dirigeants sont moins susceptibles d'écouter le marché, la probabilité de paiement en actions est plus élevée ainsi que la probabilité d'achèvement de l'opération, et la performance opérationnelle post-fusion est moins bonne. En revanche, il n'y a pas de preuve de timing de marché en Turquie et en Arabie saoudite. Nous sommes amenés à interpréter les résultats pour ces deux derniers pays comme étant cohérents avec le sentiment religieux conduisant à des transactions de meilleure qualité pendant le Ramadan.</jats:p>",
+      "doi": "10.3917/fina.pr.038",
+      "url": "https://doi.org/10.3917/fina.pr.038"
     },
     {
-      "title": "Earnings Management and Audit Quality: New Evidence",
-      "authors": "Patricia Davis, Richard Thompson, Susan Miller",
-      "journal": "Journal of Accounting and Economics",
+      "title": "Heterogeneity of Family Firms and Carbon Emissions: Which Factors Matter?",
+      "authors": "Faten Lakhal, Assil Guizani, Florence Depoers, Emna Brahem",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "<jats:p>Notre étude examine si les entreprises familiales émettent moins de carbone que les entreprises non familiales et comment l’hétérogénéité au sein des entreprises familiales affecte leurs émissions de carbone. En utilisant un échantillon de 308 sociétés françaises cotées dans l’indice CAC-All Shares de 2002 à 2020, nous constatons que les entreprises familiales sont plus susceptibles de réduire leur empreinte carbone que les entreprises non familiales. Cependant, le comportement carbone des entreprises familiales n’est pas homogène. L’éponymie familiale influence négativement les émissions de carbone. Étonnamment, l’effet du stade générationnel familial est positif, suggérant que les entreprises familiales des premières générations sont plus vertueuses que celles des générations suivantes. Des tests supplémentaires démontrent que la présence des fondateurs en tant que PDG ou président de conseil d’administration est associée à la réduction des émissions carbone. Nous montrons également que l’innovation verte, la présence de l’entreprise dans un secteur polluant, l’Accord de Paris et la loi sur la transition énergétique en 2015 ont renforcé les réductions d’émissions des entreprises familiales. Enfin, nous soutenons que l’engagement à réduire les émissions de carbone est un facteur d’augmentation de la valeur des entreprises familiales.</jats:p>",
+      "doi": "10.3917/fina.pr.041.0001",
+      "url": "https://doi.org/10.3917/fina.pr.041.0001"
+    },
+    {
+      "title": "Private Information And Trading Speed",
+      "authors": "Laurent Germain, Hervé Boco, Fabrice Rousseau",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "No abstract available",
+      "doi": "10.3917/fina.pr.036",
+      "url": "https://doi.org/10.3917/fina.pr.036"
+    },
+    {
+      "title": "Are ESG Ratings Informative To Forecast Idiosyncratic Risk?",
+      "authors": "Wassim Le Lann, Christophe Boucher, Stéphane Matton, Sessi Tokpavi",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "No abstract available",
+      "doi": "10.3917/fina.pr.035",
+      "url": "https://doi.org/10.3917/fina.pr.035"
+    },
+    {
+      "title": "Debt and Wages: The Role of Labor Regulation",
+      "authors": "Christophe Moussu, David Thomas",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "<jats:p>Dans cet article, nous étudions la manière dont la rémunération des salariés est influencée par l’effet croisé de la réglementation du travail et de l’endettement financier des entreprises. La dette tend à augmenter le risque de licenciement des employés et à diminuer leur pouvoir de négociation, alors que la réglementation du travail a les effets inverses. L’hypothèse centrale de l’article est qu’un durcissement de la réglementation du travail induit un effet modérateur de la dette sur les salaires. Nous testons cette hypothèse sur un large échantillon d’entreprises de l’OCDE sur la période 1990-2018 et montrons que la corrélation entre la dette et les salaires est systématiquement plus faible dans les pays où la réglementation du travail est plus protectrice. Une méthodologie de différence de différences empilées (stacked DiD) exploitant les principales réformes du marché du travail sur notre échantillon, démontre la robustesse de nos résultats. Des tests empiriques complémentaires révèlent que nos résultats peuvent s’expliquer tant par le canal de la prime de risque que celui du pouvoir de négociation. Nous montrons aussi qu’un droit des créanciers plus fort, une centralisation plus importante de la fixation des salaires et un pouvoir plus fort des syndicats tend à diminuer l’effet joint de la dette et de la réglementation du travail sur les salaires.</jats:p>",
+      "doi": "10.3917/fina.pr.043",
+      "url": "https://doi.org/10.3917/fina.pr.043"
+    },
+    {
+      "title": "How trust shapes the structure of banks",
+      "authors": "Frédéric Lobez, Ly Hoang Vu, Jean-Christophe Statnik",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "No abstract available",
+      "doi": "10.3917/fina.pr.030",
+      "url": "https://doi.org/10.3917/fina.pr.030"
+    },
+    {
+      "title": "Stock Markets Reactions to Women Appointments and National Culture as a Moderator",
+      "authors": "Hind Sami, Loïc Dubois, Loredana Ureche-Rangau",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "<jats:p>Cet article analyse la réaction des marchés financiers à l’annonce de la nomination d’une femme plutôt que d’un homme à un poste de direction au sein des échelons supérieurs d’une entreprise, et examine le rôle modérateur de la culture nationale. À partir d’un échantillon de 16 871 nominations dans 43 pays sur la période 2002-2019 (post-loi Sarbanes-Oxley et pré-Covid-19), nous réalisons une étude d’événement qui révèle des variations significatives des réactions boursières selon le pays d’origine des entreprises. En utilisant les dimensions culturelles du projet GLOBE et des analyses de régressions multivariées, nous montrons que la culture nationale influence ces réactions. Plus précisément, dans les cultures collectivistes, orientées vers l’avenir et centrées sur l’humain, les marchés réagissent positivement aux nominations de femmes. Nous soulignons également que le type de poste pour lequel une femme est nommée joue un rôle dans ces réactions. Cette recherche enrichit la littérature sur la diversité de genre dans les instances dirigeantes en offrant une perspective interculturelle sur l’impact du genre des dirigeants sur la réaction des marchés financiers. Elle propose des pistes nouvelles pour les chercheurs et les praticiens en mettant en lumière l’importance des normes, traditions sociales et pratiques culturelles dans l’évaluation des effets de la diversité de genre sur la performance des entreprises.</jats:p>",
+      "doi": "10.3917/fina.pr.042",
+      "url": "https://doi.org/10.3917/fina.pr.042"
+    },
+    {
+      "title": "The Welfare Costs of Energy Inflation",
+      "authors": "Libo Xu, Apostolos Serletis",
+      "journal": "Finance",
+      "field": "Finance",
+      "date": "2029-8-31",
+      "abstract": "No abstract available",
+      "doi": "10.3917/fina.pr.046",
+      "url": "https://doi.org/10.3917/fina.pr.046"
+    },
+    {
+      "title": "A criticism of the paradigm of rational choice in uncertain conditions through the lens of behavioral economics",
+      "authors": "Jaroslav Dachel, Eva Duchácková, Jarmila Radová",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Finance",
+      "date": "2115-7-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.02.002",
+      "url": "https://doi.org/10.15556/ijsim.02.02.002"
+    },
+    {
+      "title": "THE ROLE OF FINANCIAL STATEMENT ANALYSIS IN THE DECISION MAKING PROCEDURES OF HOTEL UNITS",
+      "authors": "Panagiota Dionyssopoulou, Stiliani Asvesta",
+      "journal": "International Journal on Integrated Information Management",
+      "field": "Finance",
+      "date": "2114-12-10",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijiim.01.01.001",
+      "url": "https://doi.org/10.15556/ijiim.01.01.001"
+    },
+    {
+      "title": "CSR communication and financial performance : the moderating role of public authorities and the rule of law",
+      "authors": "Mohammed Benlemlih, Elias Erragragui, Véronique Blum, Saria Awadallah",
+      "journal": "Gestion et management public",
+      "field": "Finance",
+      "date": "2050-1-4",
+      "abstract": "<jats:p>L’article analyse le rôle modérateur des modes de régulation et de gouvernance publique et en particulier l’efficacité des pouvoirs publics et de l’État de droit dans la relation entre la communication RSE et la performance financière des entreprises. En s’appuyant sur les travaux examinant la complémentarité entre hard et soft law , notre étude se propose d’éclairer la manière dont l’implication des pouvoirs publics dans l’encadrement des acteurs privés influence leur perception du rôle instrumental de la communication RSE. À partir de données recueillies auprès d’un échantillon d’entreprises internationales totalisant 11743 observations couvrant 30 pays entre 2007 et 2018, notre analyse empirique montre que la relation entre la communication de l’information RSE et la performance financière des entreprises apparaît plus significative dans les pays caractérisés par une faible efficacité des pouvoirs publics et un État de droit plus fort. Nos résultats indiquent que la perception des acteurs privés d'un faible leadership de la gouvernance publique est de nature à les inciter à davantage considérer la qualité de l'information RSE comme un levier stratégique de performance dans une logique substitutive de la hard law par la soft law .</jats:p>",
+      "doi": "10.3917/e.gmp.pr1.0022",
+      "url": "https://doi.org/10.3917/e.gmp.pr1.0022"
+    },
+    {
+      "title": "Title Pending 1652",
+      "authors": "Unknown",
+      "journal": "UCL Journal of Economics",
+      "field": "Finance",
+      "date": "2033-9-29",
+      "abstract": "No abstract available",
+      "doi": "10.14324/111.444.2755-0877.1652",
+      "url": "https://doi.org/10.14324/111.444.2755-0877.1652"
+    },
+    {
+      "title": "Title Pending 1653",
+      "authors": "Unknown",
+      "journal": "UCL Journal of Economics",
+      "field": "Finance",
+      "date": "2033-9-19",
+      "abstract": "No abstract available",
+      "doi": "10.14324/111.444.2755-0877.1653",
+      "url": "https://doi.org/10.14324/111.444.2755-0877.1653"
+    },
+    {
+      "title": "The Effect of Conflict and Termination of Employment on Employee's Work Spirit",
+      "authors": " , Christin Natalia Sianipar",
+      "journal": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
+      "field": "Finance",
+      "date": "2031-2-19",
+      "abstract": "<jats:p>This study aims to find out the conflict and termination of employment both partially and simultaneously have a significant effect on the morale of employees at PT. The benefits of Medan Technique and how much it affects. The method used in this research is quantitative method with several tests namely reliability analysis, classical assumption deviation test and linear regression. Based on the results of primary data regression processed using SPSS 20, multiple linear regression equations were obtained as follows: Y = 1,031 + 0.329 X1+ 0.712 X2.In part, the conflict variable (X1)has a significant effect on the employee's work spirit (Y) at PT. Medan Technical Benefits. This means that the hypothesis in this study was accepted, proven from the value of t calculate &gt; t table (3,952 &lt; 2,052). While the variable termination of employment (X2) has a significant influence on the work spirit of employees (Y) in PT. Medan Technical Benefits. This means that the hypothesis in this study was accepted, proven from the value of t calculate &gt; t table (7,681 &gt; 2,052). Simultaneously, variable conflict (X1) and termination of employment (X2) have a significant influence on the morale of employees (Y) in PT. Medan Technical Benefits. This means that the hypothesis in this study was accepted, as evidenced by the calculated F value &gt; F table (221,992 &gt; 3.35). Conflict variables (X1) and termination of employment (X2) were able to contribute an influence on employee morale variables (Y) of 94.3% while the remaining 5.7% was influenced by other variables not studied in this study. From the above conclusions, the author advises that employees and leaders should reduce prolonged conflict so that the spirit of work can increase. Leaders should be more selective in severing employment relationships so that decent employees are not dismissed unilaterally. Employees should work in a high spirit so that the company can see the quality that employees have.</jats:p>",
+      "doi": "10.47191/ijmra/v4-i2-15",
+      "url": "https://doi.org/10.47191/ijmra/v4-i2-15"
+    },
+    {
+      "title": "Peran Moderasi Financial Access Pada Pengaruh Human Capital Dan Social Capital Terhadap Kinerja UMKM",
+      "authors": "Abdul Azis Safii, Latifah Anom",
+      "journal": "Jurnal Manajemen dan Penelitian Akuntansi",
+      "field": "Finance",
+      "date": "2029-5-29",
+      "abstract": "<jats:p>Human capital, social capital dan financial access telah diidentifikasi sebagai sumber daya utama yang mempengaruhi kinerja usaha mikro, kecil, dan menengah (UMKM), variabel-variabel ini jarang dipelajari. Makalah ini, oleh karena itu, menguji hubungan antara modal manusia, modal sosial pada kinerja perusahaan dengan akses ke keuangan sebagai moderating variable. 378 UMKM penghasil Batik Jonegoroan digunakan sebagai sampel penelitian. Pemodelan Persamaan Struktural menggunakan Partial Least Square (PLS) digunakan untuk menganalisis data yang dikumpulkan menggunakan sampling area. Hasil penelitian menunjukkan bahwa modal manusia, modal sosial, dan akses keuangan berpengaruh langsung terhadap kinerja perusahaan.Akses keuangan terbukti menguatkan pengaruh dari social capital terhadap kinerja UMKM. Sementara Akses keuangan tidak memiliki peran moderasi pada pengaruh dari human capital terhadap kinerja UMKM. Disarankan agar pengusaha didorong untuk membangun lebih banyak hubungan dalam jaringan mereka. Serta berupaya untuk mendapatkan akses permodalan baik dari perbankan ataupun lembaga keuangan lain karena akses fianancial terbukti memberi dampak positif terhadap kinerja UMKM. Selain itu, lembaga pemerintah dan lembaga keuangan harus menyusun strategi yang akan mengurangi tingkat bunga sehingga UMKM dapat mengakses sumber keuangan.</jats:p>",
+      "doi": "10.58431/jumpa.v14i1.225",
+      "url": "https://doi.org/10.58431/jumpa.v14i1.225"
+    },
+    {
+      "title": "Predicting Financial Distress in Microfinance Institutions: the Outperformance of Undersampling-Based Models",
+      "authors": "Maya Tutki, Sina Belkhiria, Yassin Hachaichi, Taher Hamza",
+      "journal": "International Journal of Managerial and Financial Accounting",
+      "field": "Finance",
+      "date": "2028",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijmfa.2028.10074646",
+      "url": "https://doi.org/10.1504/ijmfa.2028.10074646"
+    },
+    {
+      "title": "Impact of digital transition and corporate governance on the financial performance: an empirical analysis during the post-pandemic period",
+      "authors": "Gagandeep Singh, Jasdeep Singh Walia, Sushant Gupta",
+      "journal": "International Journal of Electronic Finance",
+      "field": "Finance",
+      "date": "2028",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijef.2028.10074129",
+      "url": "https://doi.org/10.1504/ijef.2028.10074129"
+    },
+    {
+      "title": "Marketing financial sustainability: domestic purchase intention of online shoppers of corporate social responsibility",
+      "authors": "K.J. Vinodini N.A., Sandhiya Karunakaran, S.Shankar Kumar N.A., P.G. Suraj, R. Kavipragash N.A.",
+      "journal": "International Journal of Electronic Finance",
+      "field": "Finance",
+      "date": "2028",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijef.2028.10073255",
+      "url": "https://doi.org/10.1504/ijef.2028.10073255"
+    },
+    {
+      "title": "Conflict Management Research and Cross-Functional Relationships: An Integrative Review and Synthesis",
+      "authors": "Panagiotis Polychroniou, Panagiotis Trivellas, Aggelos Baxevanis",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Finance",
+      "date": "2116-7-4",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.03.02.004",
+      "url": "https://doi.org/10.15556/ijsim.03.02.004"
+    },
+    {
+      "title": "THE ROLE OF FINANCIAL STATEMENT ANALYSIS IN THE DECISION MAKING PROCEDURES OF HOTEL UNITS",
+      "authors": "Panagiota Dionyssopoulou, Stiliani Asvesta",
+      "journal": "International Journal on Integrated Information Management",
+      "field": "Finance",
+      "date": "2114-12-10",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijiim.01.01.001",
+      "url": "https://doi.org/10.15556/ijiim.01.01.001"
+    },
+    {
+      "title": "Sex Determination in Papaya: A mini review",
+      "authors": "Unknown",
+      "journal": "Progress in Chemical and Biochemical Research",
+      "field": "Finance",
+      "date": "2109-10-1",
+      "abstract": "No abstract available",
+      "doi": "10.33945/sami/pcbr.2019.4.8",
+      "url": "https://doi.org/10.33945/sami/pcbr.2019.4.8"
+    },
+    {
+      "title": "Behavioral Screening Tests to Detect Hearing Loss in School Aged Children: A Review",
+      "authors": "Ratul Dey, Jai Lal Davessar, Satish Kumar, Tijender Sharma",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Finance",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.11",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.11"
+    },
+    {
+      "title": "Giant Cells in Health and Disease-A Review",
+      "authors": "Sonal Gupta",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Finance",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.10",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.10"
+    },
+    {
+      "title": "Glaucoma: Risk Factors and Prevalence: A Review",
+      "authors": "Shaurya Sharma, Harpriya Singh",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Finance",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.12",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.12"
+    },
+    {
+      "title": "The Relationship between Long-Term Incentives and Corporate Performance: A Theoretical Review",
+      "authors": "Unknown",
+      "journal": "International Journal of Humanities, Social Sciences and Education",
+      "field": "Finance",
+      "date": "2106",
+      "abstract": "No abstract available",
+      "doi": "10.20431/2349-0381.0303004",
+      "url": "https://doi.org/10.20431/2349-0381.0303004"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "authors": "Joseph Heath",
+      "journal": "Business Ethics Journal Review",
+      "field": "Finance",
+      "date": "2103-3-10",
+      "abstract": "No abstract available",
+      "doi": "10.12747/bejr2013.01.08",
+      "url": "https://doi.org/10.12747/bejr2013.01.08"
+    },
+    {
+      "title": "The Link between Hidden Hearing Loss and Cognitive Decline",
+      "authors": "Srdjan M Vlajkovic, Belinda RongXin Han, Peter R Thorne",
+      "journal": "Remedy Publications LLC.Journal of Neuroscience and Cognitive Studies",
+      "field": "Finance",
+      "date": "2091-6-25",
+      "abstract": "No abstract available",
+      "doi": "10.25107/jncs-v3-id1013",
+      "url": "https://doi.org/10.25107/jncs-v3-id1013"
+    },
+    {
+      "title": "Review. Borders in revolt: Hong Kong youth and contested sovereignty",
+      "authors": "Gio Go, Cao Mang",
+      "journal": "Asia Maior",
+      "field": "Finance",
+      "date": "2058",
+      "abstract": "No abstract available",
+      "doi": "10.52056/9788833138282/26",
+      "url": "https://doi.org/10.52056/9788833138282/26"
+    },
+    {
+      "title": "Barriers to the Teaching of Skills in the Greek Higher Education Accounting Courses: Insight from Accounting Teachers",
+      "authors": "Sofia Asonitou",
+      "journal": "International Journal of Strategic Innovative Marketing",
       "field": "Accounting",
-      "date": "2025-11-19",
-      "abstract": "Investigating the relationship between audit quality and earnings manipulation."
+      "date": "2115-10-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.03.002",
+      "url": "https://doi.org/10.15556/ijsim.02.03.002"
     },
     {
-      "title": "Blockchain Technology in Accounting Information Systems",
-      "authors": "Ryan O'Brien, Mei Lin, Gabriel Santos",
-      "journal": "Journal of Accounting Research",
+      "title": "A criticism of the paradigm of rational choice in uncertain conditions through the lens of behavioral economics",
+      "authors": "Jaroslav Dachel, Eva Duchácková, Jarmila Radová",
+      "journal": "International Journal of Strategic Innovative Marketing",
       "field": "Accounting",
-      "date": "2025-11-23",
-      "abstract": "Exploring blockchain applications for financial reporting and auditing."
+      "date": "2115-7-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.02.002",
+      "url": "https://doi.org/10.15556/ijsim.02.02.002"
     },
     {
-      "title": "CRISPR-Based Gene Therapy for Sickle Cell Disease: Clinical Trial Results",
-      "authors": "Jennifer Walsh, Akira Tanaka, Maria Fernandez, David Singh",
+      "title": "Title Pending 1652",
+      "authors": "Unknown",
+      "journal": "UCL Journal of Economics",
+      "field": "Accounting",
+      "date": "2033-9-29",
+      "abstract": "No abstract available",
+      "doi": "10.14324/111.444.2755-0877.1652",
+      "url": "https://doi.org/10.14324/111.444.2755-0877.1652"
+    },
+    {
+      "title": "Title Pending 1653",
+      "authors": "Unknown",
+      "journal": "UCL Journal of Economics",
+      "field": "Accounting",
+      "date": "2033-9-19",
+      "abstract": "No abstract available",
+      "doi": "10.14324/111.444.2755-0877.1653",
+      "url": "https://doi.org/10.14324/111.444.2755-0877.1653"
+    },
+    {
+      "title": "The Effect of Conflict and Termination of Employment on Employee's Work Spirit",
+      "authors": " , Christin Natalia Sianipar",
+      "journal": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
+      "field": "Accounting",
+      "date": "2031-2-19",
+      "abstract": "<jats:p>This study aims to find out the conflict and termination of employment both partially and simultaneously have a significant effect on the morale of employees at PT. The benefits of Medan Technique and how much it affects. The method used in this research is quantitative method with several tests namely reliability analysis, classical assumption deviation test and linear regression. Based on the results of primary data regression processed using SPSS 20, multiple linear regression equations were obtained as follows: Y = 1,031 + 0.329 X1+ 0.712 X2.In part, the conflict variable (X1)has a significant effect on the employee's work spirit (Y) at PT. Medan Technical Benefits. This means that the hypothesis in this study was accepted, proven from the value of t calculate &gt; t table (3,952 &lt; 2,052). While the variable termination of employment (X2) has a significant influence on the work spirit of employees (Y) in PT. Medan Technical Benefits. This means that the hypothesis in this study was accepted, proven from the value of t calculate &gt; t table (7,681 &gt; 2,052). Simultaneously, variable conflict (X1) and termination of employment (X2) have a significant influence on the morale of employees (Y) in PT. Medan Technical Benefits. This means that the hypothesis in this study was accepted, as evidenced by the calculated F value &gt; F table (221,992 &gt; 3.35). Conflict variables (X1) and termination of employment (X2) were able to contribute an influence on employee morale variables (Y) of 94.3% while the remaining 5.7% was influenced by other variables not studied in this study. From the above conclusions, the author advises that employees and leaders should reduce prolonged conflict so that the spirit of work can increase. Leaders should be more selective in severing employment relationships so that decent employees are not dismissed unilaterally. Employees should work in a high spirit so that the company can see the quality that employees have.</jats:p>",
+      "doi": "10.47191/ijmra/v4-i2-15",
+      "url": "https://doi.org/10.47191/ijmra/v4-i2-15"
+    },
+    {
+      "title": "Predicting Financial Distress in Microfinance Institutions: the Outperformance of Undersampling-Based Models",
+      "authors": "Maya Tutki, Sina Belkhiria, Yassin Hachaichi, Taher Hamza",
+      "journal": "International Journal of Managerial and Financial Accounting",
+      "field": "Accounting",
+      "date": "2028",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijmfa.2028.10074646",
+      "url": "https://doi.org/10.1504/ijmfa.2028.10074646"
+    },
+    {
+      "title": "Money talks: accrual accountings stakeholder impact in government funding",
+      "authors": "Jean François Verdie, Charbel Salloum, Brigitte Pereira, Hajer Jarrar, Mahameru Rosy Rochmatullah",
+      "journal": "International Journal of Managerial and Financial Accounting",
+      "field": "Accounting",
+      "date": "2027",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijmfa.2027.10070628",
+      "url": "https://doi.org/10.1504/ijmfa.2027.10070628"
+    },
+    {
+      "title": "Managerial accounting techniques, cost systems and achieving intermediate profitability in Kosovos manufacturing enterprises",
+      "authors": "Vlora Berisha Dranqolli, Simon Grima",
+      "journal": "International Journal of Business Performance Management",
+      "field": "Accounting",
+      "date": "2027",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijbpm.2027.10070245",
+      "url": "https://doi.org/10.1504/ijbpm.2027.10070245"
+    },
+    {
+      "title": "Building financial resilience: unravelling the influence of financial control, knowledge, and attitude in India",
+      "authors": "Asha Thomas, Kamakhya Narain Singh, Shruti Malik, Domenico Graziano",
+      "journal": "International Journal of Managerial and Financial Accounting",
+      "field": "Accounting",
+      "date": "2027",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijmfa.2027.10070115",
+      "url": "https://doi.org/10.1504/ijmfa.2027.10070115"
+    },
+    {
+      "title": "Enhancing SME competitiveness with FinTech",
+      "authors": "Youcef Meriane, Adel F. Alam, Hajer Jarrar, Makram Chemangui, Charbel Salloum",
+      "journal": "International Journal of Managerial and Financial Accounting",
+      "field": "Accounting",
+      "date": "2027",
+      "abstract": "No abstract available",
+      "doi": "10.1504/ijmfa.2027.10069970",
+      "url": "https://doi.org/10.1504/ijmfa.2027.10069970"
+    },
+    {
+      "title": "Female Portrayals in Advertising Past Research, New Directions",
+      "authors": "Yorgos Zotos, Eirini Tsichla",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Accounting",
+      "date": "2200-11-26",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.01.01.002",
+      "url": "https://doi.org/10.15556/ijsim.01.01.002"
+    },
+    {
+      "title": "Patterns of Cannabis and Alcohol Co-Use: Substitution Versus Complementary Effects",
+      "authors": "R Gunn",
+      "journal": "Alcohol Research: Current Reviews",
+      "field": "Accounting",
+      "date": "2122",
+      "abstract": "No abstract available",
+      "doi": "10.35946/arcr.v42.1.04",
+      "url": "https://doi.org/10.35946/arcr.v42.1.04"
+    },
+    {
+      "title": "Comparing and Prioritizing Different Methods of Collection and Decontamination of Waste in Decentralized Healthcare Centers",
+      "authors": " , Fatemeh Ostadi, Fatemeh Mortezazadeh,  , Fathollah Gholami-Borujeni,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: One of the most critical problems in the safe management of healthcare wastes is using different methods in decentralized centers in Iran. This study aimed to compare and prioritize different methods of collection and decontamination of healthcare waste in decentralized health centers in Iran. Methods: In this descriptive-analytical research, we studied various methods of collecting and decontaminating the healthcare waste of decentralized healthcare centers in Iran in terms of administrative, health, economic and environmental. Also, the opinions and the preferences of experts for selecting each method were collected and analyzed. Results: According to environmental health experts, health issues had the highest priority for decontamination of waste from decentralized health centers. Waste collection by special vehicles with the help of the private sector and transfer to centralized disinfection centers is the best method of collecting waste (33%). Also, decontamination by autoclave was the most desirable method (56%) of decontamination. According to the experts’ opinions, landfilling is the most harmful, and autoclave/hydroclave is the least harmful method to the climate and soil. Based on the environmental health experts, the health aspect was the most important priority in waste management of decentralized healthcare centers (54%). Conclusion: The most appropriate way to decontaminate this type of waste is autoclaving after collection at a centralized location. It is suggested that further studies be conducted on modern collection and disinfection systems along with localization and determination of workplace health policies.</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1217",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1217"
+    },
+    {
+      "title": "Studying the Effluent Quality of Enhanced Modified Ludzack Ettinger-oxic Settling Anaerobic Process (E-MLE-OSA) for Treating Real Municipal Wastewater",
+      "authors": " , Behzad Nikpour, Reza Jalilzadeh Yengejeh,  , Afshin Takdastan,  , Amir Hessam Hassani,  , Mohammad Ali Zazouli,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: Wastewater collection, treatment, discharge, additionally as reusing the treated wastewater in urban are critical factors for maintaining public health preventing contamination of water resources. This study aimed to investigate the performance of enhanced modified Ludzack Ettinger process-oxic settling anaerobic (MLE-OSA) process for treating real municipal wastewater in Sari wastewater Treatment, Sari City, Iran. Methods: To combine the OSA process technique with the MLE system, the Sludge Holding Tanks (SHT) were implemented in the return sludge line of designed pilot studies which comprised 1) MLE, which was regarded as the control system similar; 2) MLE-OSA4 with a 70-L SHT operated at 4-h Hydraulic Retention Time (HRT), and 3) MLEOSA6 with a 107-L SHT operated at 6-h HRT. To start the process, the overflow effluent of the primary settling tank of the Sari wastewater treatment plant was used. After 45-60 days, the reactors reached a steady state. The parameters of Dissolved Oxygen (DO), Oxidation-Reduction Potential (ORP), temperature, pH, Chemical Oxygen Demand (COD), Biochemical Oxygen Demand (BOD5), Total Suspended Solids (TSS), and nutrients were analyzed. Results: The results revealed that the average TSS, COD, BOD, phosphorus, nitrite, nitrate, and total nitrogen in MLEOSA4 effluent decreased 20.1, 14.6, 2.97, 10, 51.1, 19.3, and 20.7%, respectively compared to MLE. Similarly, in MLE-OSA6, the values decreased 34.2, 16.1, 14.6, 16.7, 69.6, 31.3, and 25.8%, respectively compared to the control process. Conclusion: Therefore, using natural wastewater, the enhanced MLE-OSA process showed better performance in removing the study parameters and better quality for the effluent. Furthermore, the quality of effluent is following the Iran Department of Environment (IDE).</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1243",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1243"
+    },
+    {
+      "title": "Effect of Drought Stress, Soil Salinity, P. indica, and MWCNs on Biodegradation of Diesel Oil in the Pb- and Cd-Polluted Soil Under Cultivation of Triticale Plant",
+      "authors": " , Amir Hossein Baghaie",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: Today, soil pollution with heavy metals and petroleum compounds is one of the main environmental problems. This research was done to investigate the effect of drought stress, soil salinity, Piriformospora indica (P. indica), and MWCNs on biodegradation of diesel oil in the soil that contaminated with Pb and Cd under cultivation of triticale plant. Methods: Treatments consisted of applying MWCNs (2% [W/W]) in the Pb- and Cd-polluted soil that was simultaneously polluted with diesel oil (0, 5, and 10% [W/W]), and the plants used in this study were inoculated with P. indica. After 70 days, plants were harvested, and plant and soil Cd were measured using AAS (atomic absorption spectrometry). In addition, the degradation percentage of diesel oil in soil was determined. Results: Soil application of MWCNs at the rate of 2% (W/W) significantly increased the biodegradation of diesel oil in the soil in the drought and salinity (6 dS/m) stress by 11.3% and 15.6%, respectively. In addition, plant inoculation with P. indica significantly increased the biodegradation of diesel oil in the soil by 12.3%. For salinity (6 dS/m) and drought stress, it was increased by 8.3% and 9.4%, respectively. In addition, the Pb and Cd concentrations decreased by 14.3% and 12.8%, respectively, when the MWCNs were added to the soil (2% [W/W]). Conclusion: Soil application of MWCNs and plant inoculation with P. indica not only increased the biodegradation of diesel oil but also decreased the plant Pb and Cd concentrations.</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1232",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1232"
+    },
+    {
+      "title": "Assessment of Human Health Risk and Surface Soil Contamination by Some Toxic Elements in Arak City, Iran",
+      "authors": " , Meghdad Bineshpour, Khoshnaz Payandeh,  , Ahad Nazarpour,  , Sima Sabzalipour,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: Population growth, numerous factories, and many vehicles are the primary sources of environmental pollution and toxic elements in the industrial city of Arak, Iran. Methods: In June 2016, a total of 30 toxic element samples were taken from surface soils to examine their contents of lead (Pb), Zinc (Zn), Copper (Cu), Nickel (Ni), Arsenic (As), Chromium (Cr), and Cadmium (Cd). The samples were collected from 0 to 20 cm depth and measured using Atomic Absorption Spectroscopy (AAS) (PG990 Model). Results: The results showed that the mean concentrations of all toxic elements except arsenic had a higher value than the background values in the world. The Top Enrichment Factor (TEF) of toxic elements of nickel, chromium, lead, and copper was higher than other elements. The Potential Ecological Risk (PER) index showed high and very high risk for the elements. For all elements, the Hazard Index (HI) values were higher for children than for adults. Moreover, the results of carcinogenic health risk assessment (Carcinogenicity Risk [CR]) of the toxic elements for Cr in children with an average value of 0.001 and adults with an average value of 3.81e-04 showed that the CR of chromium for children poses a serious threat to the health of children and adults. Conclusion: In general, the toxic element pollution for the surface soil of Arak is of concern, and significant measures should be taken to reduce the pollutants.</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1233",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1233"
+    },
+    {
+      "title": "Comparing the Performance Evaluation Models of Gas Refineries Using AHP and TOPSIS",
+      "authors": " , Mahmoud Mohammadi, Saber Ghasemi,  , Hossein Parvaresh,  , Mohsen Dehghani Ghanateghestani,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: To basically solve the critical environmental problems, macro and infrastructural perspectives of rational development should be designed following environmental protection rules. Creating the proper performance measurement systems in every organization has had a promising interest in university studies, and many researchers are working on it. Methods: This research intends to compare and rank 4 evaluation performance models used in gas refineries. To achieve the desired model in this study, we employed the grounded theory. The study research consisted of 20 professionals and Health, Safety, and Environmental (HSE) managers of gas refineries who had relevant experience and skills in this area. The normal score was estimated based on the weight obtained from the Analytic Hierarchy Process (AHP) to apply the Technique for Order Preference by Similarity to an Ideal Solution (TOPSIS) process and prioritize the models. Results: The pairwise comparison matrix of 4 research models of the balanced scoring card, European foundation for quality management business excellence model, Iran national quality award, and environmental performance evaluation depicted that the geometric mean of the evaluation criteria includes the following items: the capability to quantify qualitative data for environmental performance, facilitating, efficient implementing, structuring, and mapping a roadmap of organization maturity to select an environmental performance estimated at 1.22, 0.90, 0.95, and 0.96, respectively. Also, the normal weights of these four criteria are estimated at 0.3039423, 0.2242449, 0.2347026, and 0.2371102, respectively. Conclusion: The findings resulting from prioritizing the organization’s Environmental Performance Evaluation (EPE) models based on TOPSIS depicted that the suggested model with relative proximity to 99% is the first choice of EPE for the gas refinery.</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1238",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1238"
+    },
+    {
+      "title": "A Simplified Approach to Evaluate Retinal Blue Light Hazard Using the Correlated Color Temperature of LED Light Sources",
+      "authors": " , Farough Mohammadian, Ahmad Mehri,  , Kamaladdin Abedi,  , Hossein Ebrahimi,  , Fereydoon Laal,  , Hamed Falahi,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: Visible light of short wavelength (blue light) can damage the retina cells, called blue light hazard. To protect the retina, permissible exposure limits have been determined by ICNIRP (the International Commission on Non-Ionizing Radiation Protection) and other health and safety agencies. These limits include complex physical concepts, and their evaluation requires light measuring instruments equipped with a blue light hazard function filter, which is not available at the moment in developing countries. This study aims to assess retinal blue light hazard using the correlated color temperature of Light-Emitting Diode (LED) light sources. Methods: In this study, a new method was proposed for evaluating the retinal blue light hazard using only the Correlated Color Temperature (CCL) of LED light sources for which concern on blue light hazard has currently been reinforced. In the proposed method, the radiometric quantity (blue light effective radiance) in W.m-2.sr-1 was converted to the corresponding photometric quantity (blue light effective luminance) in lm.m-2.sr-1. Then a computer code was developed for relevant calculations. Results: The estimated permissible exposure times applying the new photometry approach were highly reliable and supported by the literature. The proposed method is particularly useful because it eliminates the need to utilize any light measuring device. Conclusion: The new approach makes the concept of blue light hazard straightforward and understandable for all specialists dealing with optical radiation safety.</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1226",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1226"
+    },
+    {
+      "title": "Investigating the Non-carcinogenic Risk and Hazard Quotient of Heavy Metals in High-traffic Districts of Tehran Metropolis, Iran",
+      "authors": " , Azam Mahdipour, Mojgan Zaeimdar,  , Mohammad Sadegh Sekhavatjou,  , Sayed Ali Jozi,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: This study aimed to investigate the concentrations of heavy metals bound to airborne Particulate Matter (PM) in high-traffic districts of Tehran, Iran, and to determine the carcinogenic risk and Hazard Quotient (HQ) of these metals using a descriptive-applied method. Methods: Six indoor/outdoor stations were established in three high-traffic districts of Tehran. Each station was sampled with six replicates in winter 2018 (36 samples in total). After extracting the metals from fiberglass filters by acid digestion based on the ASTM (the American Society for Testing and Materials method), the concentrations of heavy metals were determined by an Inductively Coupled Plasma (ICP-OES) device. The human health risk was evaluated according to the US EPA (Environmental Protection Agency) standard method. The obtained data were analyzed by the Spearman correlation and Multivariate Analysis of Variance (MANOVA) in SPSS. Results: Districts 2, 3, and then 15 were the most high-traffic areas of Tehran in descending order. Average heavy metal concentrations were detected in order of Al&gt;Fe&gt;Pb&gt;Mn&gt;Cu&gt;Zn&gt;Cr&gt;As&gt;Ni&gt;Cd. Also, the heavy metals concentrations were significantly different between indoor and outdoor environments. The correlations between heavy metal concentrations, carcinogenic risk, and HQ were significant in all three districts (P&lt;0.05). Mean carcinogenic risk variables, HQ levels, and heavy metal concentrations in all three regions were in order of districts 15&gt;2&gt;3 and outdoors&gt;indoors. Conclusion: Based on the results, serious measures are recommended to control traffic congestion in Tehran to prevent cancer risk and other health hazards caused by heavy metal bonded TSP (total suspended particulate matter).</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1219",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1219"
+    },
+    {
+      "title": "Investigation and Optimization of Air Pollution Risk by a Multi-criteria Decision Making Method Using Fuzzy TOPSIS: A Case Study of Construction Workers",
+      "authors": " , Eghbal Sekhavati, Reza Jalilzadeh Yengejeh,  ",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "field": "Accounting",
+      "date": "2121-10-1",
+      "abstract": "<jats:p>Background: Investigating human health during work importantly affect the safety and efficiency of the society. Different types of activity, including industrial, constructional, heavy duty ones, etc., affect the health of workers during their activities. In this study, the Multi-Objective Decision-Making (MODM) method was combined with fuzzy TOPSIS to investigate and optimize the air pollution risk affecting the health and safety of construction workers of Lar City, Fars Province, Iran. Methods: The comparison matrices (binary) and the Phillips–Perron test of different criteria and sub-criteria of health risk, including safety view, safety efficiency, understanding the risk, and risk investigation, were assessed to find the most influential factors for the optimization of the health risk of the workers. Results: Accordingly, the results indicated that “understanding the risk” followed by “safety efficiency” affected the health risk of the construction workers the most. However, among the sub-criteria, the most effective ones were “worker knowledge”, “manager knowledge”, “logistic specialized managers”, “modern facilities”, and “modern technology”. The selection of the linear and non-linear models was conducted according to the F values, and the model parameters were estimated using the Newton-Raphson test. Most coefficients were significant at P= 0.99. The model also has a high describing value of 0.97. The final estimated homogeneity coefficient was equal to 1.31, and it ranged from 0.86 to 2.72 for the critical risk investigation. The significance of the present research is to increase the health and safety of workers during work resulting in a more sustainable and healthier environment. Conclusion: Accordingly, the managers could handle the risks, determine the tolerable risks, indicate the risk of each process to control expenses, and take the essential measures for optimization.</jats:p>",
+      "doi": "10.32598/jaehr.9.4.1229",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1229"
+    },
+    {
+      "title": "Conflict Management Research and Cross-Functional Relationships: An Integrative Review and Synthesis",
+      "authors": "Panagiotis Polychroniou, Panagiotis Trivellas, Aggelos Baxevanis",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Accounting",
+      "date": "2116-7-4",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.03.02.004",
+      "url": "https://doi.org/10.15556/ijsim.03.02.004"
+    },
+    {
+      "title": "Barriers to the Teaching of Skills in the Greek Higher Education Accounting Courses: Insight from Accounting Teachers",
+      "authors": "Sofia Asonitou",
+      "journal": "International Journal of Strategic Innovative Marketing",
+      "field": "Accounting",
+      "date": "2115-10-1",
+      "abstract": "No abstract available",
+      "doi": "10.15556/ijsim.02.03.002",
+      "url": "https://doi.org/10.15556/ijsim.02.03.002"
+    },
+    {
+      "title": "Sex Determination in Papaya: A mini review",
+      "authors": "Unknown",
+      "journal": "Progress in Chemical and Biochemical Research",
+      "field": "Accounting",
+      "date": "2109-10-1",
+      "abstract": "No abstract available",
+      "doi": "10.33945/sami/pcbr.2019.4.8",
+      "url": "https://doi.org/10.33945/sami/pcbr.2019.4.8"
+    },
+    {
+      "title": "Behavioral Screening Tests to Detect Hearing Loss in School Aged Children: A Review",
+      "authors": "Ratul Dey, Jai Lal Davessar, Satish Kumar, Tijender Sharma",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Accounting",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.11",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.11"
+    },
+    {
+      "title": "Giant Cells in Health and Disease-A Review",
+      "authors": "Sonal Gupta",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Accounting",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.10",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.10"
+    },
+    {
+      "title": "Glaucoma: Risk Factors and Prevalence: A Review",
+      "authors": "Shaurya Sharma, Harpriya Singh",
+      "journal": "International Journal Of Community Health And Medical Research",
+      "field": "Accounting",
+      "date": "2106-6-20",
+      "abstract": "No abstract available",
+      "doi": "10.21276/ijchmr.2016.2.2.12",
+      "url": "https://doi.org/10.21276/ijchmr.2016.2.2.12"
+    },
+    {
+      "title": "The Relationship between Long-Term Incentives and Corporate Performance: A Theoretical Review",
+      "authors": "Unknown",
+      "journal": "International Journal of Humanities, Social Sciences and Education",
+      "field": "Accounting",
+      "date": "2106",
+      "abstract": "No abstract available",
+      "doi": "10.20431/2349-0381.0303004",
+      "url": "https://doi.org/10.20431/2349-0381.0303004"
+    },
+    {
+      "title": "Market Failure or Government Failure? A Response to Jaworski",
+      "authors": "Joseph Heath",
+      "journal": "Business Ethics Journal Review",
+      "field": "Accounting",
+      "date": "2103-3-10",
+      "abstract": "No abstract available",
+      "doi": "10.12747/bejr2013.01.08",
+      "url": "https://doi.org/10.12747/bejr2013.01.08"
+    },
+    {
+      "title": "Review. Borders in revolt: Hong Kong youth and contested sovereignty",
+      "authors": "Gio Go, Cao Mang",
+      "journal": "Asia Maior",
+      "field": "Accounting",
+      "date": "2058",
+      "abstract": "No abstract available",
+      "doi": "10.52056/9788833138282/26",
+      "url": "https://doi.org/10.52056/9788833138282/26"
+    },
+    {
+      "title": "Review. Japan’s search for a foreign policy path between China and the US",
+      "authors": "Takahiro Yamamoto",
+      "journal": "Asia Maior",
+      "field": "Accounting",
+      "date": "2058",
+      "abstract": "No abstract available",
+      "doi": "10.52056/9788833138282/23",
+      "url": "https://doi.org/10.52056/9788833138282/23"
+    },
+    {
+      "title": "Author Correction: Nasal delivery of an IgM offers broad protection from SARS-CoV-2 variants",
+      "authors": "Zhiqiang Ku",
       "journal": "Nature",
       "field": "Science",
-      "date": "2025-11-26",
-      "abstract": "Breakthrough results from clinical trials using CRISPR gene editing to treat sickle cell disease."
+      "date": "2025-11-27T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/s41586-025-09953-5"
     },
     {
-      "title": "Quantum Computing Achieves Error Correction Milestone",
-      "authors": "Thomas Mueller, Lisa Zhou, Ahmed Rahman",
+      "title": "Author Correction: Matrix viscoelasticity promotes liver cancer progression in the pre-cirrhotic liver",
+      "authors": "Weiguo Fan",
       "journal": "Nature",
       "field": "Science",
-      "date": "2025-11-20",
-      "abstract": "Major advancement in quantum error correction enabling more stable quantum computations."
+      "date": "2025-11-27T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/s41586-025-09947-3"
+    },
+    {
+      "title": "Author Correction: Inhibiting membrane rupture with NINJ1 antibodies limits tissue injury",
+      "authors": "Nobuhiko Kayagaki",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-27T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/s41586-025-09955-3"
+    },
+    {
+      "title": "Large language models are biased — local initiatives are fighting for change",
+      "authors": "Laura Vargas-Parada",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-27T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/d41586-025-03891-y"
+    },
+    {
+      "title": "Major AI conference flooded with peer reviews written fully by AI",
+      "authors": "Miryam Naddaf",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-27T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/d41586-025-03506-6"
+    },
+    {
+      "title": "A structured system: the secrets of Germany’s scientific reputation",
+      "authors": "Katarina Zimmer",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-27T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/d41586-025-03778-y"
+    },
+    {
+      "title": "Author Correction: Photocatalytic low-temperature defluorination of PFASs",
+      "authors": "Hao Zhang",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-26T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/s41586-025-09871-6"
+    },
+    {
+      "title": "This is what lightning on Mars sounds like",
+      "authors": "Benjamin Thompson",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-26T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/d41586-025-03896-7"
+    },
+    {
+      "title": "These ‘programmable’ knots harness physics to make surgical stitches safer",
+      "authors": "Elizabeth Gibney",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-26T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/d41586-025-03892-x"
+    },
+    {
+      "title": "Thalamocortical transcriptional gates coordinate memory stabilization",
+      "authors": "Andrea Terceros",
+      "journal": "Nature",
+      "field": "Science",
+      "date": "2025-11-26T00:00:00.000Z",
+      "abstract": "No abstract available",
+      "url": "https://www.nature.com/articles/s41586-025-09774-6"
     }
   ]
 }
