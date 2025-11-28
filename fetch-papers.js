@@ -197,24 +197,65 @@ async function fetchFromRSS(feedUrl, journalName) {
     try {
         const feed = await parser.parseURL(feedUrl);
 
-        // Filter for papers from past 6 months
+        // Invalid title keywords
+        const invalidTitles = [
+            'untitled',
+            'announcement',
+            'issue information',
+            'front matter',
+            'back matter',
+            'table of contents',
+            'editorial board',
+            'index',
+            'erratum',
+            'corrigendum',
+            'retraction',
+            'cover',
+            'correction',
+            'author correction',
+            'finance association',
+            'economic association',
+            'accounting association',
+            'expanding our insights'
+        ];
+
+        // Filter for papers from past 6 months and filter out non-papers
         return feed.items
             .filter(item => {
                 const pubDate = new Date(item.pubDate || item.isoDate);
                 const sixMonthsAgo = new Date();
                 sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
-                return pubDate >= sixMonthsAgo;
+
+                const title = item.title || '';
+                const titleLower = title.toLowerCase();
+
+                // Check date and filter out invalid titles
+                return pubDate >= sixMonthsAgo &&
+                       title.length > 10 &&
+                       !invalidTitles.some(invalid => titleLower.includes(invalid));
             })
             .slice(0, 20)
-            .map(item => ({
-                title: item.title || 'Untitled',
-                authors: item.creator || item.author || 'Unknown',
-                journal: journalName,
-                field: getFieldFromJournal(journalName),
-                date: item.pubDate || item.isoDate || new Date().toISOString(),
-                abstract: item.contentSnippet || item.content || 'No abstract available',
-                url: item.link || null
-            }));
+            .map(item => {
+                // Clean title
+                const rawTitle = item.title || 'Untitled';
+                const cleanTitle = rawTitle
+                    .replace(/<[^>]*>/g, '')
+                    .replace(/&nbsp;/g, ' ')
+                    .replace(/&amp;/g, '&')
+                    .replace(/&lt;/g, '<')
+                    .replace(/&gt;/g, '>')
+                    .trim();
+
+                return {
+                    title: cleanTitle,
+                    authors: item.creator || item.author || 'Unknown',
+                    journal: journalName,
+                    field: getFieldFromJournal(journalName),
+                    date: item.pubDate || item.isoDate || new Date().toISOString(),
+                    abstract: item.contentSnippet || item.content || 'No abstract available',
+                    url: item.link || null
+                };
+            });
     } catch (error) {
         console.error(`Error fetching RSS for ${journalName}:`, error.message);
         return [];
