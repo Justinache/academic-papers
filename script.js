@@ -15,18 +15,24 @@ const monthFiltersContainer = document.getElementById('monthFilters');
 
 // Generate month checkboxes based on paper dates
 function generateMonthFilters() {
-    const months = new Set();
+    const monthsMap = new Map();
 
     papers.forEach(paper => {
         const date = new Date(paper.date);
         const monthYear = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-        const monthName = date.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
-        months.add(JSON.stringify({ key: monthYear, name: monthName, date: date.getTime() }));
+
+        if (!monthsMap.has(monthYear)) {
+            const monthName = date.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+            monthsMap.set(monthYear, {
+                key: monthYear,
+                name: monthName,
+                date: date.getTime()
+            });
+        }
     });
 
     // Sort months by date (newest first)
-    const sortedMonths = Array.from(months)
-        .map(m => JSON.parse(m))
+    const sortedMonths = Array.from(monthsMap.values())
         .sort((a, b) => b.date - a.date);
 
     monthFiltersContainer.innerHTML = '';
