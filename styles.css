@@ -307,6 +307,18 @@ body {
     background: rgba(242, 238, 225, 0.5);
 }
 
+.active-filter {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+    cursor: default;
+    font-weight: 500;
+}
+
+.active-filter:hover {
+    background: var(--primary);
+}
+
 .remove-icon {
     font-size: 18px;
     font-weight: 300;

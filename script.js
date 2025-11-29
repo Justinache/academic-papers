@@ -1,6 +1,7 @@
 // Load papers from live data or fallback to samples
 let papers = [];
 let filteredPapers = [];
+let activeAdvancedSearchQueries = [];
 
 // DOM elements
 const searchInput = document.getElementById('searchInput');
@@ -418,11 +419,92 @@ function applyFilters() {
         const fieldMatch = selectedFields.length === 0 ||
             selectedFields.includes(paper.field);
 
-        return searchMatch && dateMatch && journalMatch && fieldMatch;
+        // Advanced search match
+        const advancedSearchMatch = matchesAdvancedSearch(paper);
+
+        return searchMatch && dateMatch && journalMatch && fieldMatch && advancedSearchMatch;
     });
 
     console.log(`Filtered to ${filteredPapers.length} papers`);
+    updateActiveFilters();
     renderPapers(filteredPapers);
+}
+
+// Update active filters display
+function updateActiveFilters() {
+    const sortBar = document.querySelector('.sort-bar');
+    if (!sortBar) return;
+
+    // Remove existing filter tags (keep reset button and link)
+    const existingTags = sortBar.querySelectorAll('.filter-tag:not(#resetBtn)');
+    existingTags.forEach(tag => tag.remove());
+
+    const resetBtn = document.getElementById('resetBtn');
+    const filterTags = [];
+
+    // Basic search
+    const searchTerm = searchInput.value.trim();
+    if (searchTerm) {
+        filterTags.push(`Search: "${searchTerm}"`);
+    }
+
+    // Advanced search
+    if (activeAdvancedSearchQueries.length > 0) {
+        activeAdvancedSearchQueries.forEach((query, index) => {
+            const fieldName = query.field === 'all' ? 'All fields' : query.field.charAt(0).toUpperCase() + query.field.slice(1);
+            const prefix = index === 0 ? '' : `${query.boolean} `;
+            filterTags.push(`${prefix}${fieldName}: "${query.term}"`);
+        });
+    }
+
+    // Date range
+    const fromYearValue = fromYear.value;
+    const fromMonthValue = fromMonth.value;
+    const toYearValue = toYear.value;
+    const toMonthValue = toMonth.value;
+
+    if (fromYearValue || toYearValue) {
+        let dateText = 'Date: ';
+        if (fromYearValue) {
+            dateText += fromMonthValue ?
+                `${getMonthName(fromMonthValue)} ${fromYearValue}` :
+                fromYearValue;
+        }
+        if (toYearValue) {
+            dateText += ' - ';
+            dateText += toMonthValue ?
+                `${getMonthName(toMonthValue)} ${toYearValue}` :
+                toYearValue;
+        }
+        filterTags.push(dateText);
+    }
+
+    // Journals
+    const selectedJournals = Array.from(journalFilter.querySelectorAll('input[type="checkbox"]:checked'))
+        .map(cb => cb.value);
+    selectedJournals.forEach(journal => {
+        filterTags.push(`Journal: ${journal}`);
+    });
+
+    // Fields
+    const selectedFields = Array.from(fieldFilter.querySelectorAll('input[type="checkbox"]:checked'))
+        .map(cb => cb.value);
+    selectedFields.forEach(field => {
+        filterTags.push(`Field: ${field}`);
+    });
+
+    // Insert filter tags before reset button
+    filterTags.forEach(tagText => {
+        const tag = document.createElement('span');
+        tag.className = 'filter-tag active-filter';
+        tag.textContent = tagText;
+        sortBar.insertBefore(tag, resetBtn);
+    });
+}
+
+function getMonthName(monthNum) {
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return months[parseInt(monthNum) - 1] || '';
 }
 
 // Reset all filters
@@ -444,7 +526,11 @@ function resetFilters() {
         checkbox.checked = false;
     });
 
+    // Clear advanced search queries
+    activeAdvancedSearchQueries = [];
+
     filteredPapers = [...papers];
+    updateActiveFilters();
     renderPapers(papers);
 }
 
@@ -741,51 +827,51 @@ function submitAdvancedSearch() {
 
 function executeAdvancedSearch(queries) {
     console.log('Advanced search queries:', queries);
-    
-    filteredPapers = papers.filter(paper => {
-        let matches = true;
-        
-        queries.forEach((query, index) => {
-            const { term, field, boolean } = query;
-            const lowerTerm = term.toLowerCase();
-            
-            // Determine which field(s) to search
-            let fieldMatch = false;
-            
-            if (field === 'all') {
-                fieldMatch = 
-                    paper.title.toLowerCase().includes(lowerTerm) ||
-                    paper.authors.toLowerCase().includes(lowerTerm) ||
-                    (paper.abstract && paper.abstract.toLowerCase().includes(lowerTerm));
-            } else if (field === 'title') {
-                fieldMatch = paper.title.toLowerCase().includes(lowerTerm);
-            } else if (field === 'author') {
-                fieldMatch = paper.authors.toLowerCase().includes(lowerTerm);
-            } else if (field === 'abstract') {
-                fieldMatch = paper.abstract && paper.abstract.toLowerCase().includes(lowerTerm);
-            }
-            
-            // Apply boolean logic
-            if (index === 0) {
-                matches = fieldMatch;
-            } else {
-                if (boolean === 'AND') {
-                    matches = matches && fieldMatch;
-                } else if (boolean === 'OR') {
-                    matches = matches || fieldMatch;
-                } else if (boolean === 'NOT') {
-                    matches = matches && !fieldMatch;
-                }
-            }
-        });
-        
-        return matches;
-    });
-    
-    console.log(`Advanced search found ${filteredPapers.length} papers`);
-    
-    // Also apply current sidebar filters
+    activeAdvancedSearchQueries = queries;
     applyFilters();
+}
+
+// Helper function to check if paper matches advanced search queries
+function matchesAdvancedSearch(paper) {
+    if (activeAdvancedSearchQueries.length === 0) return true;
+
+    let matches = true;
+
+    activeAdvancedSearchQueries.forEach((query, index) => {
+        const { term, field, boolean } = query;
+        const lowerTerm = term.toLowerCase();
+
+        // Determine which field(s) to search
+        let fieldMatch = false;
+
+        if (field === 'all') {
+            fieldMatch =
+                paper.title.toLowerCase().includes(lowerTerm) ||
+                paper.authors.toLowerCase().includes(lowerTerm) ||
+                (paper.abstract && paper.abstract.toLowerCase().includes(lowerTerm));
+        } else if (field === 'title') {
+            fieldMatch = paper.title.toLowerCase().includes(lowerTerm);
+        } else if (field === 'author') {
+            fieldMatch = paper.authors.toLowerCase().includes(lowerTerm);
+        } else if (field === 'abstract') {
+            fieldMatch = paper.abstract && paper.abstract.toLowerCase().includes(lowerTerm);
+        }
+
+        // Apply boolean logic
+        if (index === 0) {
+            matches = fieldMatch;
+        } else {
+            if (boolean === 'AND') {
+                matches = matches && fieldMatch;
+            } else if (boolean === 'OR') {
+                matches = matches || fieldMatch;
+            } else if (boolean === 'NOT') {
+                matches = matches && !fieldMatch;
+            }
+        }
+    });
+
+    return matches;
 }
 
 // Setup event listeners for advanced search
