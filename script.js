@@ -656,3 +656,159 @@ function copyCitation(button, text) {
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', init);
+
+// Advanced Search functionality
+let rowCounter = 0;
+
+function openAdvancedSearch() {
+    document.getElementById('advancedSearchModal').style.display = 'flex';
+}
+
+function closeAdvancedSearch() {
+    document.getElementById('advancedSearchModal').style.display = 'none';
+}
+
+function addSearchRow() {
+    rowCounter++;
+    const searchRows = document.getElementById('searchRows');
+    
+    const newRow = document.createElement('div');
+    newRow.className = 'search-row';
+    newRow.setAttribute('data-row', rowCounter);
+    
+    newRow.innerHTML = `
+        <div class="search-row-with-boolean">
+            <div class="search-field-group">
+                <label>BOOLEAN</label>
+                <select class="boolean-select">
+                    <option value="AND">AND</option>
+                    <option value="OR">OR</option>
+                    <option value="NOT">NOT</option>
+                </select>
+            </div>
+            <div class="search-field-group">
+                <label>TERM(S)</label>
+                <input type="text" class="term-input" placeholder="Enter search term">
+            </div>
+            <div class="search-field-group">
+                <label>FIELD</label>
+                <select class="field-select">
+                    <option value="all">All fields</option>
+                    <option value="title">Title</option>
+                    <option value="author">Author</option>
+                    <option value="abstract">Abstract</option>
+                </select>
+            </div>
+            <button class="remove-row-btn" onclick="removeSearchRow(this)" title="Remove row">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708z"/>
+                </svg>
+            </button>
+        </div>
+    `;
+    
+    searchRows.appendChild(newRow);
+}
+
+function removeSearchRow(button) {
+    const row = button.closest('.search-row');
+    row.remove();
+}
+
+function submitAdvancedSearch() {
+    const rows = document.querySelectorAll('.search-row');
+    const queries = [];
+    
+    rows.forEach((row, index) => {
+        const term = row.querySelector('.term-input').value.trim();
+        const field = row.querySelector('.field-select').value;
+        const boolean = index > 0 ? row.querySelector('.boolean-select')?.value : null;
+        
+        if (term) {
+            queries.push({ term, field, boolean });
+        }
+    });
+    
+    if (queries.length === 0) {
+        alert('Please enter at least one search term');
+        return;
+    }
+    
+    // Execute the advanced search
+    executeAdvancedSearch(queries);
+    closeAdvancedSearch();
+}
+
+function executeAdvancedSearch(queries) {
+    console.log('Advanced search queries:', queries);
+    
+    filteredPapers = papers.filter(paper => {
+        let matches = true;
+        
+        queries.forEach((query, index) => {
+            const { term, field, boolean } = query;
+            const lowerTerm = term.toLowerCase();
+            
+            // Determine which field(s) to search
+            let fieldMatch = false;
+            
+            if (field === 'all') {
+                fieldMatch = 
+                    paper.title.toLowerCase().includes(lowerTerm) ||
+                    paper.authors.toLowerCase().includes(lowerTerm) ||
+                    (paper.abstract && paper.abstract.toLowerCase().includes(lowerTerm));
+            } else if (field === 'title') {
+                fieldMatch = paper.title.toLowerCase().includes(lowerTerm);
+            } else if (field === 'author') {
+                fieldMatch = paper.authors.toLowerCase().includes(lowerTerm);
+            } else if (field === 'abstract') {
+                fieldMatch = paper.abstract && paper.abstract.toLowerCase().includes(lowerTerm);
+            }
+            
+            // Apply boolean logic
+            if (index === 0) {
+                matches = fieldMatch;
+            } else {
+                if (boolean === 'AND') {
+                    matches = matches && fieldMatch;
+                } else if (boolean === 'OR') {
+                    matches = matches || fieldMatch;
+                } else if (boolean === 'NOT') {
+                    matches = matches && !fieldMatch;
+                }
+            }
+        });
+        
+        return matches;
+    });
+    
+    console.log(`Advanced search found ${filteredPapers.length} papers`);
+    
+    // Also apply current sidebar filters
+    applyFilters();
+}
+
+// Setup event listeners for advanced search
+document.addEventListener('DOMContentLoaded', () => {
+    const advancedSearchBtn = document.getElementById('advancedSearchBtn');
+    const addRowBtn = document.getElementById('addRowBtn');
+    
+    if (advancedSearchBtn) {
+        advancedSearchBtn.addEventListener('click', openAdvancedSearch);
+    }
+    
+    if (addRowBtn) {
+        addRowBtn.addEventListener('click', addSearchRow);
+    }
+    
+    // Close modal when clicking outside
+    const modal = document.getElementById('advancedSearchModal');
+    if (modal) {
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                closeAdvancedSearch();
+            }
+        });
+    }
+});
+

@@ -30,6 +30,7 @@
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
                         <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
+                    <button id="advancedSearchBtn" class="advanced-search-link">Advanced Search</button>
                 </div>
             </div>
 
@@ -167,6 +168,52 @@
             <p>&copy; 2025 Academic Papers Repository • Data updated daily via GitHub Actions</p>
         </div>
     </footer>
+
+    <!-- Advanced Search Modal -->
+    <div id="advancedSearchModal" class="advanced-search-modal" style="display: none;">
+        <div class="advanced-search-content">
+            <div class="advanced-search-header">
+                <h2>Advanced Search</h2>
+                <button class="modal-close" onclick="closeAdvancedSearch()">&times;</button>
+            </div>
+            <div class="advanced-search-body">
+                <h3>Construct your search query</h3>
+
+                <div id="searchRows">
+                    <!-- First row (always present) -->
+                    <div class="search-row" data-row="0">
+                        <div class="search-row-content">
+                            <div class="search-field-group">
+                                <label>TERM(S)</label>
+                                <input type="text" class="term-input" placeholder="Enter search term">
+                            </div>
+                            <div class="search-field-group">
+                                <label>FIELD</label>
+                                <select class="field-select">
+                                    <option value="all">All fields</option>
+                                    <option value="title">Title</option>
+                                    <option value="author">Author</option>
+                                    <option value="abstract">Abstract</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button id="addRowBtn" class="add-row-btn">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                        <path d="M8 0a1 1 0 0 1 1 1v6h6a1 1 0 1 1 0 2H9v6a1 1 0 1 1-2 0V9H1a1 1 0 0 1 0-2h6V1a1 1 0 0 1 1-1z"/>
+                    </svg>
+                    Add row
+                </button>
+
+                <div class="advanced-search-actions">
+                    <button onclick="submitAdvancedSearch()" class="submit-advanced-btn">Submit Advanced Search</button>
+                    <button onclick="closeAdvancedSearch()" class="cancel-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
