@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-28T23:36:07.739Z",
-  "count": 508,
+  "lastUpdated": "2025-11-29T03:13:35.313Z",
+  "count": 506,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -5061,26 +5061,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I study the effect of industrial policies on industrial development by considering an important episode during the East Asian miracle: South Korea’s heavy and chemical industry (HCI) drive, 1973–1979. Based on newly assembled data, I use the introduction and termination of industrial policies to study their effects during and after the intervention period. I reveal that HCI policies promoted the expansion and dynamic comparative advantage of directly targeted industries. Using variation in exposure to policies through the input-output network, I demonstrate that the policy indirectly benefited downstream users of targeted intermediates. The benefits of HCI persisted even after the policy ended, and some results took time to materialize. The findings suggest that the temporary drive shifted Korean manufacturing into more advanced markets and supported durable change. This study helps clarify the lessons drawn from the East Asian growth miracle.</jats:p>",
       "doi": "10.1093/qje/qjaf025",
       "url": "https://doi.org/10.1093/qje/qjaf025"
-    },
-    {
-      "title": "The Term Structure of Interest Rates in a Heterogeneous Monetary Union",
-      "authors": "James Costain, Galo Nuño, Carlos Thomas",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-05-28",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We build an arbitrage‐based model of the yield curves in a heterogeneous monetary union with sovereign default risk, which accounts for the asymmetric shifts in euro‐area yields during the Covid‐19 pandemic. We derive an affine term structure solution, and decompose yields into expectations, term premium, expected default loss, and credit risk premium components. In an extension, we endogenize the peripheral default probability, showing that it decreases with central bank bond holdings. Calibrating the model to Germany and Italy, we show that both the level and the shifts in the sovereign spread are mainly attributable to the credit risk premium.</jats:p>",
-      "doi": "10.1111/jofi.13463",
-      "url": "https://doi.org/10.1111/jofi.13463"
-    },
-    {
-      "title": "The Value of Bank Lending",
-      "authors": "Thomas Flanagan",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-05-28",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Using a novel data set of realized syndicated loan cash flows and a risk‐adjustment methodology adapted from the private equity literature, I provide a measure of risk‐adjusted returns for bank loan cash flows. Banks, on average, generate 180 basis points in gross risk‐adjusted returns and add $75 million of value annually to their loan portfolios. Banks earn higher returns when they lend to financially constrained borrowers, and the risk‐adjusted performance of bank loan portfolios exhibits persistence. However, banks require higher risk‐adjusted returns when facing their own financing frictions, and shareholders earn nearly zero net risk‐adjusted returns once bank staff are compensated for their lending effort. Overall, these findings suggest that banks provide valuable services to mitigate borrowers' financing frictions, and the present value of loan cash flows pays for the costs of providing these services.</jats:p>",
-      "doi": "10.1111/jofi.13465",
-      "url": "https://doi.org/10.1111/jofi.13465"
     }
   ]
 }
