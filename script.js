@@ -440,12 +440,14 @@ function updateActiveFilters() {
     existingTags.forEach(tag => tag.remove());
 
     const resetBtn = document.getElementById('resetBtn');
-    const filterTags = [];
 
     // Basic search
     const searchTerm = searchInput.value.trim();
     if (searchTerm) {
-        filterTags.push(`Search: "${searchTerm}"`);
+        createFilterTag(`Search: "${searchTerm}"`, () => {
+            searchInput.value = '';
+            applyFilters();
+        }, sortBar, resetBtn);
     }
 
     // Advanced search
@@ -453,7 +455,10 @@ function updateActiveFilters() {
         activeAdvancedSearchQueries.forEach((query, index) => {
             const fieldName = query.field === 'all' ? 'All fields' : query.field.charAt(0).toUpperCase() + query.field.slice(1);
             const prefix = index === 0 ? '' : `${query.boolean} `;
-            filterTags.push(`${prefix}${fieldName}: "${query.term}"`);
+            createFilterTag(`${prefix}${fieldName}: "${query.term}"`, () => {
+                activeAdvancedSearchQueries.splice(index, 1);
+                applyFilters();
+            }, sortBar, resetBtn);
         });
     }
 
@@ -476,30 +481,46 @@ function updateActiveFilters() {
                 `${getMonthName(toMonthValue)} ${toYearValue}` :
                 toYearValue;
         }
-        filterTags.push(dateText);
+        createFilterTag(dateText, () => {
+            fromYear.value = '';
+            fromMonth.value = '';
+            toYear.value = '';
+            toMonth.value = '';
+            populateMonthDropdown(fromMonth, fromYear);
+            populateMonthDropdown(toMonth, toYear);
+            applyFilters();
+        }, sortBar, resetBtn);
     }
 
     // Journals
-    const selectedJournals = Array.from(journalFilter.querySelectorAll('input[type="checkbox"]:checked'))
-        .map(cb => cb.value);
-    selectedJournals.forEach(journal => {
-        filterTags.push(`Journal: ${journal}`);
+    const selectedJournals = Array.from(journalFilter.querySelectorAll('input[type="checkbox"]:checked'));
+    selectedJournals.forEach(checkbox => {
+        createFilterTag(`Journal: ${checkbox.value}`, () => {
+            checkbox.checked = false;
+            applyFilters();
+        }, sortBar, resetBtn);
     });
 
     // Fields
-    const selectedFields = Array.from(fieldFilter.querySelectorAll('input[type="checkbox"]:checked'))
-        .map(cb => cb.value);
-    selectedFields.forEach(field => {
-        filterTags.push(`Field: ${field}`);
+    const selectedFields = Array.from(fieldFilter.querySelectorAll('input[type="checkbox"]:checked'));
+    selectedFields.forEach(checkbox => {
+        createFilterTag(`Field: ${checkbox.value}`, () => {
+            checkbox.checked = false;
+            applyFilters();
+        }, sortBar, resetBtn);
     });
+}
 
-    // Insert filter tags before reset button
-    filterTags.forEach(tagText => {
-        const tag = document.createElement('span');
-        tag.className = 'filter-tag active-filter';
-        tag.textContent = tagText;
-        sortBar.insertBefore(tag, resetBtn);
-    });
+// Helper function to create a clickable filter tag
+function createFilterTag(text, onRemove, sortBar, resetBtn) {
+    const tag = document.createElement('button');
+    tag.className = 'filter-tag active-filter';
+    tag.innerHTML = `
+        ${text}
+        <span class="remove-icon">×</span>
+    `;
+    tag.addEventListener('click', onRemove);
+    sortBar.insertBefore(tag, resetBtn);
 }
 
 function getMonthName(monthNum) {
