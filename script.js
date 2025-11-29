@@ -612,7 +612,7 @@ function copyCitation(button, text) {
     navigator.clipboard.writeText(plainText).then(() => {
         const originalText = button.textContent;
         button.textContent = 'Copied!';
-        button.style.background = var(--primary);
+        button.style.background = 'var(--primary)';
 
         setTimeout(() => {
             button.textContent = originalText;
