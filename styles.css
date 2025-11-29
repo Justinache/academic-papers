@@ -369,6 +369,11 @@ body {
 
 .paper-card:hover .paper-title {
     color: var(--primary);
+    font-weight: 700;
+}
+
+.paper-card:hover .paper-title::after {
+    width: 100%;
 }
 
 .paper-card-content {
@@ -389,7 +394,20 @@ body {
     margin-bottom: 8px;
     line-height: 1.4;
     letter-spacing: -0.2px;
-    transition: color 0.15s ease;
+    transition: color 0.15s ease, font-weight 0.15s ease;
+    position: relative;
+    display: inline-block;
+}
+
+.paper-title::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--primary);
+    transition: width 0.3s ease;
 }
 
 .paper-authors {
