@@ -39,19 +39,29 @@
                 <aside class="sidebar">
                     <h2 class="sidebar-main-title">Refine Results</h2>
 
-                    <!-- Year Filter -->
+                    <!-- Date Range Filter: FROM -->
                     <div class="sidebar-section">
-                        <h3 class="sidebar-title">Year</h3>
-                        <div id="yearFilter" class="checkbox-group">
-                            <!-- Generated dynamically -->
+                        <h3 class="sidebar-title">FROM</h3>
+                        <div class="date-range-row">
+                            <select id="fromMonth" class="select-input select-small">
+                                <option value="">All months</option>
+                            </select>
+                            <select id="fromYear" class="select-input select-small">
+                                <option value="">Year</option>
+                            </select>
                         </div>
                     </div>
 
-                    <!-- Month Filter -->
+                    <!-- Date Range Filter: TO -->
                     <div class="sidebar-section">
-                        <h3 class="sidebar-title">Month</h3>
-                        <div id="monthFilter" class="checkbox-group">
-                            <!-- Generated dynamically -->
+                        <h3 class="sidebar-title">TO</h3>
+                        <div class="date-range-row">
+                            <select id="toMonth" class="select-input select-small">
+                                <option value="">All months</option>
+                            </select>
+                            <select id="toYear" class="select-input select-small">
+                                <option value="">Year</option>
+                            </select>
                         </div>
                     </div>
 

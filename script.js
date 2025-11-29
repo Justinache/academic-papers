@@ -4,8 +4,10 @@ let filteredPapers = [];
 
 // DOM elements
 const searchInput = document.getElementById('searchInput');
-const yearFilter = document.getElementById('yearFilter');
-const monthFilter = document.getElementById('monthFilter');
+const fromMonth = document.getElementById('fromMonth');
+const fromYear = document.getElementById('fromYear');
+const toMonth = document.getElementById('toMonth');
+const toYear = document.getElementById('toYear');
 const journalFilter = document.getElementById('journalFilter');
 const fieldFilter = document.getElementById('fieldFilter');
 const resetBtn = document.getElementById('resetBtn');
@@ -13,60 +15,8 @@ const papersContainer = document.getElementById('papersContainer');
 const resultCount = document.getElementById('count');
 const noResults = document.getElementById('noResults');
 
-// Generate month checkboxes based on paper dates
-function generateMonthFilter() {
-    const monthsMap = new Map();
-
-    papers.forEach(paper => {
-        const date = new Date(paper.date);
-        if (isNaN(date.getTime())) {
-            console.warn('Invalid date for month filter:', paper.title, paper.date);
-            return;
-        }
-
-        const monthYear = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-
-        if (!monthsMap.has(monthYear)) {
-            const monthName = date.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
-            monthsMap.set(monthYear, {
-                key: monthYear,
-                name: monthName,
-                date: date.getTime()
-            });
-        }
-    });
-
-    // Sort months by date (newest first)
-    const sortedMonths = Array.from(monthsMap.values())
-        .sort((a, b) => b.date - a.date);
-
-    console.log('Months found:', sortedMonths.map(m => m.name));
-
-    // Clear existing checkboxes
-    monthFilter.innerHTML = '';
-
-    sortedMonths.forEach(month => {
-        const label = document.createElement('label');
-        label.className = 'filter-checkbox';
-
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.value = month.key;
-        checkbox.addEventListener('change', applyFilters);
-
-        const span = document.createElement('span');
-        span.textContent = month.name;
-
-        label.appendChild(checkbox);
-        label.appendChild(span);
-        monthFilter.appendChild(label);
-    });
-
-    console.log(`Generated ${sortedMonths.length} month filters`);
-}
-
-// Generate year checkboxes based on paper dates
-function generateYearFilter() {
+// Populate year dropdowns (FROM and TO)
+function populateYearFilters() {
     const yearsSet = new Set();
 
     papers.forEach(paper => {
@@ -74,37 +24,72 @@ function generateYearFilter() {
         const year = date.getFullYear();
         if (!isNaN(year)) {
             yearsSet.add(year);
-        } else {
-            console.warn('Invalid date for paper:', paper.title, paper.date);
         }
     });
 
-    // Sort years (newest first)
+    // Sort years (newest first: 2026, 2025, 2024...)
     const sortedYears = Array.from(yearsSet).sort((a, b) => b - a);
 
     console.log('Years found:', sortedYears);
 
-    // Clear existing checkboxes
-    yearFilter.innerHTML = '';
+    // Populate both FROM and TO year dropdowns
+    [fromYear, toYear].forEach(dropdown => {
+        // Keep the first "Year" option
+        dropdown.innerHTML = '<option value="">Year</option>';
 
-    sortedYears.forEach(year => {
-        const label = document.createElement('label');
-        label.className = 'filter-checkbox';
-
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.value = year;
-        checkbox.addEventListener('change', applyFilters);
-
-        const span = document.createElement('span');
-        span.textContent = year;
-
-        label.appendChild(checkbox);
-        label.appendChild(span);
-        yearFilter.appendChild(label);
+        sortedYears.forEach(year => {
+            const option = document.createElement('option');
+            option.value = year;
+            option.textContent = year;
+            dropdown.appendChild(option);
+        });
     });
 
-    console.log(`Generated ${sortedYears.length} year filters`);
+    console.log(`Generated year filters with ${sortedYears.length} years`);
+}
+
+// Populate month dropdown based on selected year
+function populateMonthDropdown(monthDropdown, yearDropdown) {
+    const selectedYear = parseInt(yearDropdown.value);
+
+    // Month names
+    const monthNames = [
+        'January', 'February', 'March', 'April', 'May', 'June',
+        'July', 'August', 'September', 'October', 'November', 'December'
+    ];
+
+    // Clear and add "All months" option
+    monthDropdown.innerHTML = '<option value="">All months</option>';
+
+    // If year is 2026, start from February (skip January)
+    const startMonth = (selectedYear === 2026) ? 1 : 0;
+
+    // Add month options
+    for (let i = startMonth; i < 12; i++) {
+        const option = document.createElement('option');
+        option.value = i + 1; // 1-12
+        option.textContent = monthNames[i];
+        monthDropdown.appendChild(option);
+    }
+}
+
+// Update month options when year changes
+function setupYearMonthSync() {
+    fromYear.addEventListener('change', () => {
+        populateMonthDropdown(fromMonth, fromYear);
+        fromMonth.value = ''; // Reset month selection
+        applyFilters();
+    });
+
+    toYear.addEventListener('change', () => {
+        populateMonthDropdown(toMonth, toYear);
+        toMonth.value = ''; // Reset month selection
+        applyFilters();
+    });
+
+    // Initial population
+    populateMonthDropdown(fromMonth, fromYear);
+    populateMonthDropdown(toMonth, toYear);
 }
 
 // Clean abstract text - remove HTML/XML tags and entities
@@ -154,9 +139,9 @@ async function loadPapers() {
             // Show update time
             showUpdateTime(data.lastUpdated);
 
-            // Generate year and month filter dropdowns
-            generateYearFilter();
-            generateMonthFilter();
+            // Populate year dropdowns and setup month sync
+            populateYearFilters();
+            setupYearMonthSync();
 
             // Clean all abstracts
             papers.forEach(paper => {
@@ -180,8 +165,8 @@ async function loadPapers() {
         filteredPapers = [...papers];
         hideLoadingState();
         renderPapers(papers);
-        generateYearFilter();
-        generateMonthFilter();
+        populateYearFilters();
+        setupYearMonthSync();
 
         showNotification('Using sample data. Live data will be available after first GitHub Actions run.', 'info');
     }
@@ -325,7 +310,11 @@ function attachEventListeners() {
     searchInput.addEventListener('keyup', performSearch);
     searchInput.addEventListener('search', performSearch);
 
-    // Journal and field checkboxes (year/month added dynamically)
+    // Month dropdowns (year dropdowns handled in setupYearMonthSync)
+    fromMonth.addEventListener('change', applyFilters);
+    toMonth.addEventListener('change', applyFilters);
+
+    // Journal and field checkboxes
     journalFilter.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
         checkbox.addEventListener('change', applyFilters);
     });
@@ -353,54 +342,86 @@ function highlightText(text, searchTerm) {
     return escapedText.replace(regex, '<mark class="highlight">$1</mark>');
 }
 
-// Filter functionality
+// Filter functionality with date range
 function applyFilters() {
-    // Get checked values from each filter group
-    const selectedYears = Array.from(yearFilter.querySelectorAll('input[type="checkbox"]:checked'))
-        .map(cb => cb.value);
+    const searchTerm = searchInput.value.toLowerCase().trim();
 
-    const selectedMonths = Array.from(monthFilter.querySelectorAll('input[type="checkbox"]:checked'))
-        .map(cb => cb.value);
+    // Get date range values
+    const fromYearValue = fromYear.value;
+    const fromMonthValue = fromMonth.value;
+    const toYearValue = toYear.value;
+    const toMonthValue = toMonth.value;
 
+    // Get selected journals and fields
     const selectedJournals = Array.from(journalFilter.querySelectorAll('input[type="checkbox"]:checked'))
         .map(cb => cb.value);
-
     const selectedFields = Array.from(fieldFilter.querySelectorAll('input[type="checkbox"]:checked'))
         .map(cb => cb.value);
 
-    const searchTerm = searchInput.value.toLowerCase().trim();
-
     filteredPapers = papers.filter(paper => {
-        // Search match (title, authors, abstract)
+        const paperDate = new Date(paper.date);
+        const paperYear = paperDate.getFullYear();
+        const paperMonth = paperDate.getMonth() + 1; // 1-12
+
+        // Search match
         const searchMatch = searchTerm === '' ||
             paper.title.toLowerCase().includes(searchTerm) ||
             paper.authors.toLowerCase().includes(searchTerm) ||
             (paper.abstract && paper.abstract.toLowerCase().includes(searchTerm));
 
-        // Year match - if any years selected, paper must match one of them
-        const yearMatch = selectedYears.length === 0 ||
-            selectedYears.includes(new Date(paper.date).getFullYear().toString());
+        // Date range filtering
+        let dateMatch = true;
 
-        // Month match - if any months selected, paper must match one of them
-        let monthMatch = true;
-        if (selectedMonths.length > 0) {
-            const paperDate = new Date(paper.date);
-            const paperMonthYear = `${paperDate.getFullYear()}-${String(paperDate.getMonth() + 1).padStart(2, '0')}`;
-            monthMatch = selectedMonths.includes(paperMonthYear);
+        // FROM filtering
+        if (fromYearValue) {
+            const fromY = parseInt(fromYearValue);
+            if (fromMonthValue) {
+                // Specific month+year
+                const fromM = parseInt(fromMonthValue);
+                const paperYearMonth = paperYear * 100 + paperMonth;
+                const fromYearMonth = fromY * 100 + fromM;
+                if (paperYearMonth < fromYearMonth) {
+                    dateMatch = false;
+                }
+            } else {
+                // Entire year (any month in that year or later)
+                if (paperYear < fromY) {
+                    dateMatch = false;
+                }
+            }
         }
 
-        // Journal match - if any journals selected, paper must match one of them
+        // TO filtering
+        if (dateMatch && toYearValue) {
+            const toY = parseInt(toYearValue);
+            if (toMonthValue) {
+                // Specific month+year
+                const toM = parseInt(toMonthValue);
+                const paperYearMonth = paperYear * 100 + paperMonth;
+                const toYearMonth = toY * 100 + toM;
+                if (paperYearMonth > toYearMonth) {
+                    dateMatch = false;
+                }
+            } else {
+                // Entire year (any month in that year or earlier)
+                if (paperYear > toY) {
+                    dateMatch = false;
+                }
+            }
+        }
+
+        // Journal match
         const journalMatch = selectedJournals.length === 0 ||
             selectedJournals.includes(paper.journal);
 
-        // Field match - if any fields selected, paper must match one of them
+        // Field match
         const fieldMatch = selectedFields.length === 0 ||
             selectedFields.includes(paper.field);
 
-        // All filter categories must match (AND logic between categories, OR within categories)
-        return searchMatch && journalMatch && fieldMatch && yearMatch && monthMatch;
+        return searchMatch && dateMatch && journalMatch && fieldMatch;
     });
 
+    console.log(`Filtered to ${filteredPapers.length} papers`);
     renderPapers(filteredPapers);
 }
 
@@ -408,7 +429,17 @@ function applyFilters() {
 function resetFilters() {
     searchInput.value = '';
 
-    // Uncheck all checkboxes
+    // Reset date range dropdowns
+    fromYear.value = '';
+    fromMonth.value = '';
+    toYear.value = '';
+    toMonth.value = '';
+
+    // Reset month dropdowns to default state
+    populateMonthDropdown(fromMonth, fromYear);
+    populateMonthDropdown(toMonth, toYear);
+
+    // Uncheck all journal and field checkboxes
     document.querySelectorAll('.checkbox-group input[type="checkbox"]').forEach(checkbox => {
         checkbox.checked = false;
     });

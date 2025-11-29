@@ -195,6 +195,38 @@ body {
     color: var(--primary);
 }
 
+/* Date Range Row */
+.date-range-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+}
+
+.select-input {
+    width: 100%;
+    padding: 10px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'EB Garamond', Georgia, serif;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: white;
+    color: var(--foreground);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.select-input:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 2px rgba(125, 139, 77, 0.1);
+}
+
+.select-small {
+    font-size: 13px;
+    padding: 8px 10px;
+}
+
 
 /* Content Area */
 .content-area {
