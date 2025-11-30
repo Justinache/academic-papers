@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-29T03:13:35.313Z",
-  "count": 506,
+  "lastUpdated": "2025-11-30T03:28:33.484Z",
+  "count": 505,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -351,6 +351,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104173",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
+    },
+    {
+      "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
+      "authors": "Ali Almelhem, Murat Iyigun, Austin Kennedy, Jared Rubin",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2025-11-29",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-18th century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language—especially those at the science-political economy nexus—were more progress-oriented beginning in the 18th century.</jats:p>",
+      "doi": "10.1093/qje/qjaf054",
+      "url": "https://doi.org/10.1093/qje/qjaf054"
     },
     {
       "title": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock",
@@ -5041,26 +5051,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a continuous-time general equilibrium model with intermediaries at the heart of international financial markets. Global intermediaries bargain with households and extract rents from providing access to foreign claims. By tilting state prices, intermediaries’ market power breaks monetary neutrality and makes international risk-sharing inefficient. Despite having zero net positions, markups charged by intermediaries significantly distort international asset prices, affecting exchange rate dynamics and their response to shocks. Our model can reproduce patterns consistent with several well-known exchange rate puzzles, such as deviations from uncovered and covered interest parity. All equilibrium quantities are derived in closed form, allowing us to pin down the underlying economic mechanisms explicitly.</jats:p>",
       "doi": "10.1093/rfs/hhaf037",
       "url": "https://doi.org/10.1093/rfs/hhaf037"
-    },
-    {
-      "title": "Sexual Harassment in Public Spaces and Police Patrols: Experimental Evidence from Urban India",
-      "authors": "Sofia Amaral, Girija Borker, Nathan Fiala, Anjani Kumar, Nishith Prakash, Maria Micaela Sviatschi",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-05-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We conduct a randomized controlled trial to evaluate the effect of an innovative police patrol program on sexual harassment in public spaces in Hyderabad, India. In collaboration with the Hyderabad City Police, we randomize exposure to police patrols and the visibility of officers by deploying both uniformed and undercover officers across 350 hot spots. To assess the effect, we implement a novel, high-frequency observation exercise to measure sexual harassment at these hot spots, where enumerators recorded all observed instances of sexual harassment and women’s responses in real time. We find that although police patrols had no effect on overall street harassment, uniformed police patrols reduced severe forms of harassment (forceful touching, intimidation) by 27% and reduced the likelihood of women leaving the hot spot due to sexual harassment. We uncovered the underlying mechanisms and found that both police visibility and officers’ attitudes toward sexual harassment are key to understanding its incidence.</jats:p>",
-      "doi": "10.1093/qje/qjaf026",
-      "url": "https://doi.org/10.1093/qje/qjaf026"
-    },
-    {
-      "title": "Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea",
-      "authors": "Nathan Lane",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-05-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I study the effect of industrial policies on industrial development by considering an important episode during the East Asian miracle: South Korea’s heavy and chemical industry (HCI) drive, 1973–1979. Based on newly assembled data, I use the introduction and termination of industrial policies to study their effects during and after the intervention period. I reveal that HCI policies promoted the expansion and dynamic comparative advantage of directly targeted industries. Using variation in exposure to policies through the input-output network, I demonstrate that the policy indirectly benefited downstream users of targeted intermediates. The benefits of HCI persisted even after the policy ended, and some results took time to materialize. The findings suggest that the temporary drive shifted Korean manufacturing into more advanced markets and supported durable change. This study helps clarify the lessons drawn from the East Asian growth miracle.</jats:p>",
-      "doi": "10.1093/qje/qjaf025",
-      "url": "https://doi.org/10.1093/qje/qjaf025"
     }
   ]
 }
