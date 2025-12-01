@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-30T03:28:33.484Z",
-  "count": 505,
+  "lastUpdated": "2025-12-01T03:52:30.756Z",
+  "count": 503,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -71,6 +71,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104208",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104208"
+    },
+    {
+      "title": "Social media as a bank run catalyst",
+      "authors": "J. Anthony Cookson, Corbin Fox, Javier Gil-Bazo, Juan F. Imbet, Christoph Schiller",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104218",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104218"
     },
     {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
@@ -5021,36 +5031,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101802",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101802"
-    },
-    {
-      "title": "Regulating Over‐the‐Counter Markets",
-      "authors": "Tomy Lee, Chaojun Wang",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-05-30",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Over‐the‐counter (OTC) trading thrives despite competition from exchanges. We let OTC dealers cream skim from exchanges in an otherwise standard Glosten and Milgrom framework. Restricting the dealer's ability to cream skim induces “cheap substitution”: some traders exit while others with larger gains from trade enter. Cheap substitution implies trading costs, trade volumes, and market shares are poor policy indicators. In a benchmark case, restricting the dealer raises welfare only if trading cost increases, volume falls, and OTC market share is high. By contrast, the restriction improves welfare when adverse selection risk is low. A simple procedure implements the optimal Pigouvian tax.</jats:p>",
-      "doi": "10.1111/jofi.13461",
-      "url": "https://doi.org/10.1111/jofi.13461"
-    },
-    {
-      "title": "What Is the Cost of Privatization for Workers?",
-      "authors": "Martin Olsson, Joacim Tåg",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-05-30",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Privatization of state‐owned enterprises is on the agenda across the globe. Using Swedish data covering two decades, we show that productivity gains and headcount reductions are associated with economic costs for incumbent workers. Workers experience income losses and higher unemployment, but half of the losses are covered by the social safety net. We also find small positive effects on entrepreneurship and cash holdings but no meaningful effects on other labor market, family, health, or household finance outcomes. Productivity improves when the CEO is replaced, and the gains outweigh workers' income declines by a factor of between two and six.</jats:p>",
-      "doi": "10.1111/jofi.13462",
-      "url": "https://doi.org/10.1111/jofi.13462"
-    },
-    {
-      "title": "An Intermediation-Based Model of Exchange Rates",
-      "authors": "Semyon Malamud, Andreas Schrimpf, Yuan Zhang",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-05-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a continuous-time general equilibrium model with intermediaries at the heart of international financial markets. Global intermediaries bargain with households and extract rents from providing access to foreign claims. By tilting state prices, intermediaries’ market power breaks monetary neutrality and makes international risk-sharing inefficient. Despite having zero net positions, markups charged by intermediaries significantly distort international asset prices, affecting exchange rate dynamics and their response to shocks. Our model can reproduce patterns consistent with several well-known exchange rate puzzles, such as deviations from uncovered and covered interest parity. All equilibrium quantities are derived in closed form, allowing us to pin down the underlying economic mechanisms explicitly.</jats:p>",
-      "doi": "10.1093/rfs/hhaf037",
-      "url": "https://doi.org/10.1093/rfs/hhaf037"
     }
   ]
 }
