@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-01T03:52:30.756Z",
-  "count": 503,
+  "lastUpdated": "2025-12-02T03:20:10.829Z",
+  "count": 494,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -361,6 +361,106 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104173",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
+    },
+    {
+      "title": "US Public Debt and Safe Asset Market Power",
+      "authors": "Jason Choi, Rishabh Kirpalani, Diego J Perez",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739824",
+      "url": "https://doi.org/10.1086/739824"
+    },
+    {
+      "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
+      "authors": "Victor Gay, Paula Gobbi, Marc Goñi",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739821",
+      "url": "https://doi.org/10.1086/739821"
+    },
+    {
+      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
+      "authors": "Rong Hai, James Heckman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739828",
+      "url": "https://doi.org/10.1086/739828"
+    },
+    {
+      "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
+      "authors": "Nicholas Vreugdenhil",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739827",
+      "url": "https://doi.org/10.1086/739827"
+    },
+    {
+      "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
+      "authors": "Elena Capatina, Michael P. Keane",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739831",
+      "url": "https://doi.org/10.1086/739831"
+    },
+    {
+      "title": "On the Nature of Entrepreneurship",
+      "authors": "Anmol Bhandari, Tobey Kass, Thomas May, Ellen McGrattan, Evan Schulz",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739823",
+      "url": "https://doi.org/10.1086/739823"
+    },
+    {
+      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities",
+      "authors": "Ali Cheema, Asim Khwaja, M Farooq Naseer, Jacob N Shapiro",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739830",
+      "url": "https://doi.org/10.1086/739830"
+    },
+    {
+      "title": "Ever Since Allais",
+      "authors": "Aluma Dembo, Shachar Kariv, Matthew Polisson, John K.-H. Quah",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739829",
+      "url": "https://doi.org/10.1086/739829"
+    },
+    {
+      "title": "A Model of Social Duties",
+      "authors": "Tore Ellingsen, Erik Mohlin",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739834",
+      "url": "https://doi.org/10.1086/739834"
+    },
+    {
+      "title": "Private Private Information",
+      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/739833",
+      "url": "https://doi.org/10.1086/739833"
     },
     {
       "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
@@ -4841,196 +4941,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper shows that private equity (PE) ownership, in private-to-private buyouts, leads to a reduction in pollution when the target company faces high potential liabilities for polluting. Conversely, PE-backed firms increase pollution when environmental liability risks are low, as shown by a novel natural experiment that reduced these risks for projects located on federal land. Exploiting specific PE deals within the energy industry, I find that PE governance is the main driver of the results. The results suggest that increasing litigation and regulation-related risks can mitigate the potentially detrimental effects of PE ownership on stakeholders.</jats:p>",
       "doi": "10.1093/rfs/hhaf035",
       "url": "https://doi.org/10.1093/rfs/hhaf035"
-    },
-    {
-      "title": "Optimal Security Design for Risk-Averse Investors",
-      "authors": "Alex Gershkov, Benny Moldovanu, Philipp Strack, Mengxi Zhang",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> We use the tools of mechanism design combined with the theory of risk measures to analyze how a cash-constrained owner of an asset with known, stochastic returns raises capital from a population of investors who differ in their risk aversion and budget constraints. The issuer partitions the asset’s cash flow into several asset-backed securities, one for each type of investor. The optimal partition conforms to the commonly observed practice of tranching into senior debt, junior debt, and equity. Tranching arises endogenously due to the differences in risk appetites among agents and in the budget constraints they face. (JEL D81, D82, G12, G41, G51) </jats:p>",
-      "doi": "10.1257/aer.20231597",
-      "url": "https://doi.org/10.1257/aer.20231597"
-    },
-    {
-      "title": "Nobel Lecture: Paths to the Periphery",
-      "authors": "James A. Robinson",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> My research suggests that world inequality is explained by the incidence of extractive and inclusive institutions. But why do some countries have extractive institutions? I distinguish between two main reasons; first, power relations; second, the “normative order.” Normative orders provide justifications and legitimacy for institutions which may not generate prosperity, but may achieve other goals. These distinctions are critical because they create very different challenges in trying to make institutions more inclusive and create prosperity. I show how countries move from the economic periphery as a consequence of changing both. My own intellectual journey has been in the other direction, however, hence the title of the paper: I was fortunate to be born in Britain, but I have had to unlearn much of my own experience, socialization and training in order to see other societies on their own terms. That’s crucial to be able to help them, but also to learn from them. (JEL D02, D63, E23, K00, O43, Q32) </jats:p>",
-      "doi": "10.1257/aer.115.6.1787",
-      "url": "https://doi.org/10.1257/aer.115.6.1787"
-    },
-    {
-      "title": "Targeting Impact versus Deprivation",
-      "authors": "Johannes Haushofer, Paul Niehaus, Carlos Paramo, Edward Miguel, Michael Walker",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> A large literature has examined how best to target antipoverty programs to those most deprived in some sense (e.g., consumption). We examine the potential trade-off between this objective and targeting those most impacted by such programs. We work in the context of an NGO cash transfer program in Kenya, employing recent advances in machine learning methods and dynamic outcome data to learn proxy means tests that jointly target both objectives. Targeting solely on the basis of deprivation is not attractive in this setting under standard social welfare criteria unless the planner’s preferences are extremely redistributive. (JEL C45, D63, I31, I38, L31, O15) </jats:p>",
-      "doi": "10.1257/aer.20221650",
-      "url": "https://doi.org/10.1257/aer.20221650"
-    },
-    {
-      "title": "Fiscal Policy and Credit Supply in a Crisis",
-      "authors": "Diana Bonfim, Miguel A. Ferreira, Francisco Queiró, Sujiao (Emma) Zhao",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> We measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3 percent of GDP. We find that this cut saddled banks with nonperforming loans from government contractors, which led to a persistent reduction in credit supply to other firms. We estimate a bank-level elasticity of credit supply with respect to procurement demand of 2.5. In a general equilibrium model, our findings point to large effects of fiscal policy on credit supply and output in a crisis. (JEL E23, E44, E62, G01, G21, H57) </jats:p>",
-      "doi": "10.1257/aer.20221499",
-      "url": "https://doi.org/10.1257/aer.20221499"
-    },
-    {
-      "title": "The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Synergies, and Local Competition",
-      "authors": "Victor Aguirregabiria, Robert Clark, Hui Wang",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> Geographic dispersion of depositors, borrowers, and banks may prevent funding from flowing to high-loan-demand areas, limiting credit access. Using bank-county-year-level data, we provide evidence of geographic imbalance of deposits and loans and develop a methodology for investigating the contribution to this imbalance of branch networks, market power, and scope economies. Results are based on a novel measure of imbalance and estimation of a structural model of bank competition that admits interconnections across locations and between deposit and loan markets. Counterfactual experiments show branch networks, scope economies, and local competition affect credit flow to disadvantaged markets. (JEL C43, G21, G28, L13, R32) </jats:p>",
-      "doi": "10.1257/aer.20200374",
-      "url": "https://doi.org/10.1257/aer.20200374"
-    },
-    {
-      "title": "Corporate Discount Rates",
-      "authors": "Niels Joachim Gormsen, Kilian Huber",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> We construct a dataset of firms’ discount rates (i.e., required returns to capital) and perceived cost of capital using corporate conference calls. The relation between discount rates and the cost of capital is far below the one-to-one mapping assumed in standard theory, as it takes many years for changes in the cost of capital to be incorporated into discount rates. This pattern leads to large and time-varying discount rate wedges that affect firm investment. Moreover, increasing discount rate wedges can account for the recent puzzle of “missing investment.” Cross-firm variation in market power and riskiness explains the evolution of wedges. (JEL D22, E43, G12, G31, G32) </jats:p>",
-      "doi": "10.1257/aer.20231246",
-      "url": "https://doi.org/10.1257/aer.20231246"
-    },
-    {
-      "title": "Who Benefits from Online Gig Economy Platforms?",
-      "authors": "Christopher T. Stanton, Catherine Thomas",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> Online labor platforms for short-term remote work have many more job seekers than available jobs. Despite their relative abundance, workers capture a substantial share of the surplus from transactions. We draw this conclusion from demand estimates that imply workers’ wages include significant markups over costs and a survey that validates our surplus estimates. Workers retain a significant share of the surplus because demand-side search frictions and worker differentiation reduce direct competition. Finally, we show that applying traditional employment regulations to online gig economy platforms would lower job posting and hiring rates, reducing aggregate surplus for all market participants, including workers. (JEL C83, F31, J22, J23, J31, J64, M51) </jats:p>",
-      "doi": "10.1257/aer.20221189",
-      "url": "https://doi.org/10.1257/aer.20221189"
-    },
-    {
-      "title": "Leaders in Social Movements: Evidence from Unions in Myanmar",
-      "authors": "Laura Boudreau, Rocco Macchiavello, Virginia Minni, Mari Tanaka",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both ability and personality traits that enable them to influence others, yet they earn lower wages. In group discussions about workers’ views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action setup, leaders increase mobilization through coordination. (JEL D91, J38, J51, O15) </jats:p>",
-      "doi": "10.1257/aer.20230758",
-      "url": "https://doi.org/10.1257/aer.20230758"
-    },
-    {
-      "title": "Nobel Lecture: Institutions, Technology, and Prosperity",
-      "authors": "Daron Acemoglu",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "<jats:p> This paper reviews the main motivations and arguments of my work on comparative development, colonialism, and institutional change, which was often carried out jointly with James Robinson and Simon Johnson. I then provide a simple framework to organize these ideas and connect them with my research on innovation and technology. The framework is centered around a utility-technology possibilities frontier, which delineates the possible distributions of resources in a society both for given technology and working via different technological choices. It highlights how various types of institutions, market structures, norms, and ideologies influence moves along the frontier and shifts of the frontier, and it provides a simple formalization of the social forces that lead to institutional persistence and those that can trigger institutional change. The framework also enables us to conceptualize how, during periods of disruption, existing—and sometimes quite small—differences can have amplified effects on prosperity and institutional trajectories. In this way, it suggests some parallels between different disruptive periods, including the onset of European colonialism, the spread (or lack thereof) of industrial technologies in the nineteenth century, and decisions related to the use, adoption, and development of AI today. (JEL D02, D72, E23, F54, O43) </jats:p>",
-      "doi": "10.1257/aer.115.6.1709",
-      "url": "https://doi.org/10.1257/aer.115.6.1709"
-    },
-    {
-      "title": "Nobel Lecture: The Institutional Origins of Shared Prosperity",
-      "authors": "Simon Johnson",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1257/aer.115.6.1749",
-      "url": "https://doi.org/10.1257/aer.115.6.1749"
-    },
-    {
-      "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
-      "authors": "Gautam Gowrisankaran, Ashley Langer, Wendan Zhang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734779",
-      "url": "https://doi.org/10.1086/734779"
-    },
-    {
-      "title": "German Long-Term Health Insurance: Theory Meets Evidence",
-      "authors": "Juan Pablo Atal, Hanming Fang, Martin Karlsson, Nicolas R. Ziebarth",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734781",
-      "url": "https://doi.org/10.1086/734781"
-    },
-    {
-      "title": "Estimating an Auction Platform Game with Two-Sided Entry",
-      "authors": "Marleen Marra",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734722",
-      "url": "https://doi.org/10.1086/734722"
-    },
-    {
-      "title": "Colluding against Workers",
-      "authors": "Vincent Delabastita, Michael Rubens",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734780",
-      "url": "https://doi.org/10.1086/734780"
-    },
-    {
-      "title": "Estimating Discrete Games with Many Firms and Many Decisions: An Application to Merger and Product Variety",
-      "authors": "Ying Fan, Chenyu Yang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734724",
-      "url": "https://doi.org/10.1086/734724"
-    },
-    {
-      "title": "Induced Automation Innovation: Evidence from Firm-Level Patent Data",
-      "authors": "David Hémous, Morten Olsen, Carlo Zanella, Antoine Dechezleprêtre",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734778",
-      "url": "https://doi.org/10.1086/734778"
-    },
-    {
-      "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
-      "authors": "Ishan Nath",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1086/734725",
-      "url": "https://doi.org/10.1086/734725"
-    },
-    {
-      "title": "Information sharing within institutional investor networks",
-      "authors": "Wei Ting Loh",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101803",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101803"
-    },
-    {
-      "title": "With a Grain of Salt: Investor Reactions to Uncertain News and (Non)disclosure",
-      "authors": "Jonathan Libgober, Beatrice Michaeli, Elyashiv Wiedman",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-06-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101802",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101802"
     }
   ]
 }
