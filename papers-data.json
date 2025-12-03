@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T03:20:10.829Z",
+  "lastUpdated": "2025-12-03T03:19:18.671Z",
   "count": 494,
   "papers": [
     {
@@ -171,6 +171,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "Monetary Policy through Production Networks: Evidence from the Stock Market",
+      "authors": "Ali Ozdagli, Michael Weber",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-02",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the importance of production networks for the transmission of monetary policy using the stock market reaction as laboratory. We attribute 55% to 85% of the overall response to network effects. Large network effects are a robust feature of the data; we document similar patterns in realized fundamentals. Matching sparsity and the first two outdegrees industry-by-industry can explain large network effects. A simple model with intermediate inputs predicts the reaction of stock returns follows a spatial autoregression, which we exploit for our empirical strategy. Our results suggest production networks are an important mechanism for transmitting monetary policy shocks. (JEL E12, E31, E44, E52, G12, G14)</jats:p>",
+      "doi": "10.1093/rfs/hhaf106",
+      "url": "https://doi.org/10.1093/rfs/hhaf106"
     },
     {
       "title": "Strategic Voting in Two-Party Legislative Elections",
@@ -4931,16 +4941,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study how bank advertising practices contribute to racial disparities in financial markets by steering minorities toward inferior products. We exploit a regulatory change that incentivizes deposit collection at the Freedman’s Savings Bank, the first institution to collect deposits from African Americans post-Emancipation, by facilitating misuse of depositor funds. After deregulation, advertising volume rises, particularly in African American newspapers, leading to increased deposits from Black depositors despite the bank’s insolvency. We identify persuasion as a key mechanism; prescriptive stereotypes and false claims likely amplify advertising’s impact on African Americans, exacerbating historically large depositor losses after the bank’s collapse.</jats:p>",
       "doi": "10.1093/rfs/hhaf038",
       "url": "https://doi.org/10.1093/rfs/hhaf038"
-    },
-    {
-      "title": "Does Private Equity Ownership Make Firms Cleaner? The Role of Environmental Liability Risks",
-      "authors": "Aymeric Bellon",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-06-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper shows that private equity (PE) ownership, in private-to-private buyouts, leads to a reduction in pollution when the target company faces high potential liabilities for polluting. Conversely, PE-backed firms increase pollution when environmental liability risks are low, as shown by a novel natural experiment that reduced these risks for projects located on federal land. Exploiting specific PE deals within the energy industry, I find that PE governance is the main driver of the results. The results suggest that increasing litigation and regulation-related risks can mitigate the potentially detrimental effects of PE ownership on stakeholders.</jats:p>",
-      "doi": "10.1093/rfs/hhaf035",
-      "url": "https://doi.org/10.1093/rfs/hhaf035"
     }
   ]
 }
