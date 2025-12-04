@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-03T03:19:18.671Z",
-  "count": 494,
+  "lastUpdated": "2025-12-04T03:21:04.556Z",
+  "count": 497,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -81,6 +81,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104218",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104218"
+    },
+    {
+      "title": "Do teams alleviate or exacerbate overreaction in beliefs?",
+      "authors": "Ricardo Barahona, Stefano Cassella, Kristy A.E. Jansen, Vincenzo Pezone",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104219",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104219"
+    },
+    {
+      "title": "The benchmark greenium",
+      "authors": "Stefania D’Amico, Johannes Klausmann, N. Aaron Pancost",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104217",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104217"
     },
     {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
@@ -471,6 +491,16 @@
       "abstract": "",
       "doi": "10.1086/739833",
       "url": "https://doi.org/10.1086/739833"
+    },
+    {
+      "title": "Managers' Inventory Holding Decisions in Response to Natural Disasters",
+      "authors": "Seunghyun Cho, Boo Chun Jung, Felipe B. G. Silva, Choong-Yuel Yoo",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how firms' inventory holdings are affected by natural disasters. Building on the premise that managers often make decisions in line with the availability heuristic, we investigate whether managers increase inventory holdings in response to heightened disaster risk perceptions and the need to hedge against inventory shortages. Through a battery of tests, we show that the occurrence of disasters in neighboring counties triggers inventory stockpiling, an effect that is unlikely to be driven by the real disaster disruptions. Our results also indicate that inventory stockpiling is likely inconsistent with a rational expectations equilibrium. Collectively, our results highlight another undesirable consequence of natural disasters and warn about supply chain implications due to increased climate ambiguity.</jats:p>\n                  <jats:p>Data Availability: All the data used in this study are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G31; G41; M21; M11; M41; Q54.</jats:p>",
+      "doi": "10.2308/tar-2023-0568",
+      "url": "https://doi.org/10.2308/tar-2023-0568"
     },
     {
       "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
@@ -1093,7 +1123,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101836"
     },
     {
-      "title": "Carbon Accounting Quality: Measurement and the Role of Assurance",
+      "title": "Carbon accounting quality: Measurement and the role of assurance",
       "authors": "Brandon Gipper, Fiona Sequeira, Shawn X. Shi",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
