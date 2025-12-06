@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-05T03:20:25.916Z",
-  "count": 497,
+  "lastUpdated": "2025-12-06T03:11:10.559Z",
+  "count": 499,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -191,6 +191,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "When Discounted Rates End: The Costs of Taking Action in the Mortgage Market",
+      "authors": "Adiya Belgibayeva, Teresa Bono, Philippe Bracke, Nuno Clara, João F Cocco, Tommaso Majer",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-04",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We combine administrative data with a life cycle structural model that exploits the unique features of the U.K. mortgage market to analyze the sources of inaction and to estimate borrowers’ nonpecuniary remortgaging costs. The utility costs needed to generate a given level of inaction depend on monetary gains from remortgaging and on the importance of those monetary gains for agents, which in turn depend on the (endogenously determined) marginal utility of consumption. The model results reveal significant nonpecuniary costs of action that, when measured as a proportion of borrower income, are larger for the young and for lower-income households. (JEL G21, G51, R31)</jats:p>",
+      "doi": "10.1093/rfs/hhaf098",
+      "url": "https://doi.org/10.1093/rfs/hhaf098"
     },
     {
       "title": "Monetary Policy through Production Networks: Evidence from the Stock Market",
@@ -501,6 +511,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how firms' inventory holdings are affected by natural disasters. Building on the premise that managers often make decisions in line with the availability heuristic, we investigate whether managers increase inventory holdings in response to heightened disaster risk perceptions and the need to hedge against inventory shortages. Through a battery of tests, we show that the occurrence of disasters in neighboring counties triggers inventory stockpiling, an effect that is unlikely to be driven by the real disaster disruptions. Our results also indicate that inventory stockpiling is likely inconsistent with a rational expectations equilibrium. Collectively, our results highlight another undesirable consequence of natural disasters and warn about supply chain implications due to increased climate ambiguity.</jats:p>\n                  <jats:p>Data Availability: All the data used in this study are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G31; G41; M21; M11; M41; Q54.</jats:p>",
       "doi": "10.2308/tar-2023-0568",
       "url": "https://doi.org/10.2308/tar-2023-0568"
+    },
+    {
+      "title": "Seasonal variation in cash flows and the timing role of accruals",
+      "authors": "Martin Kapons, David Veenman",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101854",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101854"
     },
     {
       "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
