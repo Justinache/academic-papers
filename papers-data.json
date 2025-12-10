@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-09T03:20:37.158Z",
-  "count": 500,
+  "lastUpdated": "2025-12-10T03:24:27.380Z",
+  "count": 499,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -191,6 +191,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors Appropriate?",
+      "authors": "Atsushi Inoue, Lutz Kilian",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-09",
+      "abstract": "",
+      "doi": "10.1086/738339",
+      "url": "https://doi.org/10.1086/738339"
+    },
+    {
+      "title": "Going Public and the Internal Organization of the Firm",
+      "authors": "Daniel Bias, Benjamin Lochner, Stefan Obernberger, Merih Sevilir",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines how initial public offerings (IPOs) affect firms' internal organization. We find that IPO firms become more hierarchical and standardized organizations, characterized by additional layers, more managers, smaller control spans, and larger administrative functions. These changes occur mostly in preparation for the IPO and can be only partially explained by growth. IPO firms with greater human capital risk experience larger hierarchical changes. Hierarchical changes help firms standardize employee roles and formalize internal processes. Our results suggest that firms reorganize to reduce their dependence on key individuals' human capital when transitioning to public markets.</jats:p>",
+      "doi": "10.1111/jofi.70012",
+      "url": "https://doi.org/10.1111/jofi.70012"
+    },
+    {
+      "title": "Public Information, Relative Overconfidence, and Capital Flows",
+      "authors": "Karthik Balakrishnan, Darren Bernard, Kristina M. Rennekamp, Blake Steenhoven",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Capital flows increase in response to new public information. Conventional explanations typically conclude that this reflects a rational response to reduced risk. However, investors may also be overconfident in their ability to benefit from new information, even when it is publicly available and does not provide a relative advantage. We exploit two complementary settings to examine how this “better‐than‐average” mechanism affects capital flows. Archival evidence from horse race betting markets shows capital flows increase following the public provision of a summary measure of horse performance, even though more total parimutuel wagering necessarily implies a greater wealth transfer from bettors to tracks. A controlled lab experiment provides direct causal evidence of our proposed mechanism. Combined, our results suggest that new public information can increase capital flows due to investors’ overconfidence in their ability to benefit from information relative to others. Our findings inform regulators seeking to understand the consequences of expanding the public information available to individual investors.</jats:p>",
+      "doi": "10.1111/1475-679x.70031",
+      "url": "https://doi.org/10.1111/1475-679x.70031"
     },
     {
       "title": "When Discounted Rates End: The Costs of Taking Action in the Mortgage Market",
@@ -3523,16 +3553,6 @@
       "url": "https://doi.org/10.1086/738345"
     },
     {
-      "title": "When Is the Use of Gaussian-inverse Wishart-Haar Priors Appropriate?",
-      "authors": "Atsushi Inoue, Lutz Kilian",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-25",
-      "abstract": "",
-      "doi": "10.1086/738339",
-      "url": "https://doi.org/10.1086/738339"
-    },
-    {
       "title": "Screening with Persuasion",
       "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris",
       "journal": "Journal of Political Economy",
@@ -4971,36 +4991,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Managers prioritize favorable analysts during earnings calls, reinforcing analysts’ incentives for optimism. However, managers also frequently interact with unfavorable analysts, and this study examines the determinants and benefits of these interactions. I find that managers interact more with unfavorable analysts when compelled to do so. I then examine two likely benefits of these interactions. First, unfavorable analysts attenuate their negative views after interacting with managers. Second, price reactions to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced reporting credibility. Finally, using peer firm restatements as exogenous shocks to investors’ perceptions of accounting quality, I find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the empirical evidence indicates firms experience significant benefits when managers interact with unfavorable analysts and these benefits persist amongst compelled and voluntary interactions.</jats:p>",
       "doi": "10.1111/1475-679x.12629",
       "url": "https://doi.org/10.1111/1475-679x.12629"
-    },
-    {
-      "title": "Are Inflationary Shocks Regressive? A Feasible Set Approach",
-      "authors": "Felipe Del Canto, John Grigsby, Eric Qian, Conor Walsh",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-06-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We develop a framework to measure the welfare impact of macroeconomic shocks throughout the distribution. The first-order impact of a shock is summarized by the induced movements in agents’ feasible sets: their budget constraint and borrowing constraints. We combine estimated impulse response functions with micro-data on household consumption bundles, asset holdings, and labor income for different U.S. households. We find that inflationary oil shocks are regressive, but monetary expansions are progressive, and there is substantial heterogeneity throughout the life cycle. In all cases, the dominant channel is the effect of the shock on the cost of accumulating assets, not movements in goods prices or labor income.</jats:p>",
-      "doi": "10.1093/qje/qjaf028",
-      "url": "https://doi.org/10.1093/qje/qjaf028"
-    },
-    {
-      "title": "Who You Gonna Call? Gender Inequality in External Demands for Parental Involvement",
-      "authors": "Kristy Buzard, Laura K Gee, Olga Stoddard",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-06-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Gender imbalance in time spent on child-rearing causes gender inequalities in labor market outcomes, human capital accumulation, and economic mobility. We conduct a large-scale field experiment with a near universe of U.S. schools to investigate a potential source of inequality: external demands for parental involvement. Schools receive an email from a fictitious two-parent household and are asked to call one of the parents back. Mothers are 1.4 times more likely than fathers to be contacted. We decompose this inequality and demonstrate that the gender gap in external demands is associated with various measures of gender norms. We also show that signaling a father’s availability substantially changes the gender pattern of callbacks. Our findings underscore a process through which agents outside the household contribute to within-household gender inequalities.</jats:p>",
-      "doi": "10.1093/qje/qjaf027",
-      "url": "https://doi.org/10.1093/qje/qjaf027"
-    },
-    {
-      "title": "Finance, Advertising, and Race",
-      "authors": "Claire Célérier, Purnoor Tak",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-06-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study how bank advertising practices contribute to racial disparities in financial markets by steering minorities toward inferior products. We exploit a regulatory change that incentivizes deposit collection at the Freedman’s Savings Bank, the first institution to collect deposits from African Americans post-Emancipation, by facilitating misuse of depositor funds. After deregulation, advertising volume rises, particularly in African American newspapers, leading to increased deposits from Black depositors despite the bank’s insolvency. We identify persuasion as a key mechanism; prescriptive stereotypes and false claims likely amplify advertising’s impact on African Americans, exacerbating historically large depositor losses after the bank’s collapse.</jats:p>",
-      "doi": "10.1093/rfs/hhaf038",
-      "url": "https://doi.org/10.1093/rfs/hhaf038"
     }
   ]
 }
