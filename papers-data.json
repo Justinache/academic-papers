@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-10T03:24:27.380Z",
-  "count": 499,
+  "lastUpdated": "2025-12-11T03:26:20.257Z",
+  "count": 504,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -103,6 +103,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104217"
     },
     {
+      "title": "Windfall income shocks with finite planning horizons",
+      "authors": "Michael Boutros",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104174",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104174"
+    },
+    {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
       "authors": "Haoyang Liu, Christopher Palmer",
       "journal": "Journal of Financial Economics",
@@ -193,6 +203,36 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
     },
     {
+      "title": "Mentoring and Schooling Decisions: Causal Evidence",
+      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-10",
+      "abstract": "",
+      "doi": "10.1086/738484",
+      "url": "https://doi.org/10.1086/738484"
+    },
+    {
+      "title": "Who’s Afraid of the Minimum Wage? Measuring the Impacts on Independent Businesses Using Matched U.S. Tax Returns",
+      "authors": "Nirupama Rao, Max Risch",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2025-12-10",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A common concern surrounding minimum wage policies is their impact on independent businesses, which are often feared to be less able to bear or pass on cost increases. We examine how these typically small- and medium-size firms accommodate minimum wage increases along product and labor market margins using a matched owner-firm-worker panel dataset drawn from the universe of U.S. tax records over a 10-year period, and using state minimum wage changes as identifying variation. We find that, on average, firms in highly exposed industries do not substantially reduce employment — they do not layoff workers but moderately reduce part-time hiring. Instead, these firms are able to fully finance the new labor costs with new revenues, leaving average owner profits unchanged. Higher wage floors, however, forestall entry, particularly of less productive firms, reducing the number of independent firms operating in these industries by roughly 2%. Yet, these industries do not shrink; instead, incumbent responses and strong positive selection among entrants reshape industries that rely heavily on low-wage workers, yielding fewer but more productive firms after the cost shock. We also take a worker-level perspective to examine how potentially vulnerable individuals are affected by minimum wage increases. Using panels of low-earning and young workers, we find that their average earnings rise substantially with the minimum wage, while they are no less likely to be employed. Worker transitions indicate that minimum wage increases boost retention and that worker reallocation from independent firms toward corporations buffers disemployment impacts from reduced hiring at independent firms.</jats:p>",
+      "doi": "10.1093/qje/qjaf053",
+      "url": "https://doi.org/10.1093/qje/qjaf053"
+    },
+    {
+      "title": "Marginal Returns to Public Universities",
+      "authors": "Jack Mountjoy",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2025-12-10",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies the returns to enrolling in American public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10 percent of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8 percent more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26 percent for the marginal students themselves, 16 percent for society (which must pay for the additional education), and 7 percent for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.</jats:p>",
+      "doi": "10.1093/qje/qjaf055",
+      "url": "https://doi.org/10.1093/qje/qjaf055"
+    },
+    {
       "title": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors Appropriate?",
       "authors": "Atsushi Inoue, Lutz Kilian",
       "journal": "Journal of Political Economy",
@@ -211,6 +251,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines how initial public offerings (IPOs) affect firms' internal organization. We find that IPO firms become more hierarchical and standardized organizations, characterized by additional layers, more managers, smaller control spans, and larger administrative functions. These changes occur mostly in preparation for the IPO and can be only partially explained by growth. IPO firms with greater human capital risk experience larger hierarchical changes. Hierarchical changes help firms standardize employee roles and formalize internal processes. Our results suggest that firms reorganize to reduce their dependence on key individuals' human capital when transitioning to public markets.</jats:p>",
       "doi": "10.1111/jofi.70012",
       "url": "https://doi.org/10.1111/jofi.70012"
+    },
+    {
+      "title": "Adverse Selection in Corporate Loan Markets",
+      "authors": "Mehdi Beyhaghi, Cesare Fracassi, Gregory Weitzner",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Theories of competition typically predict a positive relationship between market concentration and prices. However, in loan markets, adverse selection can reverse this relationship as riskier borrowers become more likely to receive funding. Using supervisory data, we show that interest rates, borrower risk, and lending volume are higher in markets with more banks. We also create a novel measure of markup that is orthogonal to borrower risk, and find that, consistent with adverse selection, markups are higher after repeated borrowing relationships. Finally, we use a shock to large banks' lending costs to provide further support for the adverse selection channel.</jats:p>",
+      "doi": "10.1111/jofi.70011",
+      "url": "https://doi.org/10.1111/jofi.70011"
+    },
+    {
+      "title": "Paying Too Much? Borrower Sophistication and Overpayment in the U.S. Mortgage Market",
+      "authors": "Neil Bhutta, Andreas Fuster, Aurel Hizmo",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Comparing mortgage rates that borrowers obtain to rates that lenders could offer for the same loan, we find that many homeowners significantly overpay for their mortgage, with overpayment varying across borrower types and with market interest rates. Survey data reveal that borrowers' mortgage knowledge and shopping behavior strongly correlate with the rates they secure. We also document substantial variation in how expensive and profitable lenders are, without any evidence that expensive loans are associated with a better borrower experience. Despite many lenders operating in the U.S. mortgage market, limited borrower sophistication may provide lenders with market power.</jats:p>",
+      "doi": "10.1111/jofi.70001",
+      "url": "https://doi.org/10.1111/jofi.70001"
     },
     {
       "title": "Public Information, Relative Overconfidence, and Capital Flows",
@@ -553,7 +613,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101854"
     },
     {
-      "title": "SEC Scrutiny and Corporate Risk-Taking",
+      "title": "SEC scrutiny and corporate risk-taking",
       "authors": "David P. Weber, Nina Xu, Kangkang Zhang",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -3061,16 +3121,6 @@
       "abstract": "",
       "doi": "10.1086/738480",
       "url": "https://doi.org/10.1086/738480"
-    },
-    {
-      "title": "Mentoring and Schooling Decisions: Causal Evidence",
-      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-09-04",
-      "abstract": "",
-      "doi": "10.1086/738484",
-      "url": "https://doi.org/10.1086/738484"
     },
     {
       "title": "Forest through the Trees: Building Cross‐Sections of Stock Returns",
