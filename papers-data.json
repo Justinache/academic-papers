@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T03:26:20.257Z",
+  "lastUpdated": "2025-12-12T03:25:26.785Z",
   "count": 504,
   "papers": [
     {
@@ -201,6 +201,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "Screening with Persuasion",
+      "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-11",
+      "abstract": "",
+      "doi": "10.1086/738342",
+      "url": "https://doi.org/10.1086/738342"
     },
     {
       "title": "Mentoring and Schooling Decisions: Causal Evidence",
@@ -3601,16 +3611,6 @@
       "abstract": "",
       "doi": "10.1086/738345",
       "url": "https://doi.org/10.1086/738345"
-    },
-    {
-      "title": "Screening with Persuasion",
-      "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-25",
-      "abstract": "",
-      "doi": "10.1086/738342",
-      "url": "https://doi.org/10.1086/738342"
     },
     {
       "title": "The Short-run Policy Constraints of Long-run Expectations",
