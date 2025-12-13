@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-12T03:25:26.785Z",
-  "count": 504,
+  "lastUpdated": "2025-12-13T03:17:34.460Z",
+  "count": 505,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -201,6 +201,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
+      "authors": "John A. List",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-12",
+      "abstract": "",
+      "doi": "10.1086/739436",
+      "url": "https://doi.org/10.1086/739436"
+    },
+    {
+      "title": "Laws and Norms",
+      "authors": "Roland Bénabou, Jean Tirole",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-12",
+      "abstract": "",
+      "doi": "10.1086/738343",
+      "url": "https://doi.org/10.1086/738343"
     },
     {
       "title": "Screening with Persuasion",
@@ -633,6 +653,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101855"
     },
     {
+      "title": "Weak capital, weak provisions – credit risk provisioning under IFRS 9",
+      "authors": "Markus Behn, Cyril Couaillier",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101856",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
+    },
+    {
       "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
       "authors": "Ali Almelhem, Murat Iyigun, Austin Kennedy, Jared Rubin",
       "journal": "Quarterly Journal of Economics",
@@ -821,16 +851,6 @@
       "abstract": "",
       "doi": "10.1086/738251",
       "url": "https://doi.org/10.1086/738251"
-    },
-    {
-      "title": "The Economics of Scaling Early Childhood Programs: Lessons from The Chicago School",
-      "authors": "John A. List",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-06",
-      "abstract": "",
-      "doi": "10.1086/739436",
-      "url": "https://doi.org/10.1086/739436"
     },
     {
       "title": "Republican Support and Economic Hardship: The Enduring Effects Of the Opioid Epidemic",
@@ -3621,16 +3641,6 @@
       "abstract": "",
       "doi": "10.1086/738335",
       "url": "https://doi.org/10.1086/738335"
-    },
-    {
-      "title": "Laws and Norms",
-      "authors": "Roland Benabou, Jean Tirole",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-25",
-      "abstract": "",
-      "doi": "10.1086/738343",
-      "url": "https://doi.org/10.1086/738343"
     },
     {
       "title": "A Case for Pay-as-Bid Auctions",
