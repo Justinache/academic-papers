@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-13T03:17:34.460Z",
-  "count": 505,
+  "lastUpdated": "2025-12-14T03:30:14.957Z",
+  "count": 506,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -221,6 +221,16 @@
       "abstract": "",
       "doi": "10.1086/738343",
       "url": "https://doi.org/10.1086/738343"
+    },
+    {
+      "title": "Do Nature‐Loving CEOs Make the World Greener?",
+      "authors": "Weijia Zhi",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2025-12-12",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between CEOs’ preferences for environmental protection (“nature‐loving preferences”) and corporate environmental actions. Drawing on social ecology research, I develop a proxy for CEOs’ nature‐loving preferences based on their childhood exposure to greenspace and validate it using their positive discussions of nature during earnings conference calls. Findings show a significant positive association between CEOs’ nature‐loving preferences and their firms’ participation in Clean Development Mechanism projects. This effect remains robust after addressing firm–CEO matching and omitted variable concerns. Cross‐sectional tests reveal stronger effects when local environmental demands are high and when CEOs have greater decision‐making power. Further analyses suggest that these CEOs are associated with greater corporate carbon reduction, while market reactions to their appointments remain neutral. The study highlights the link between CEOs’ personal environmental preferences and firms’ environmental actions, offering new insights into individual‐level factors behind corporate social responsibility.</jats:p>",
+      "doi": "10.1111/1475-679x.70033",
+      "url": "https://doi.org/10.1111/1475-679x.70033"
     },
     {
       "title": "Screening with Persuasion",
