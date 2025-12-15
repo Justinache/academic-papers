@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-14T03:30:14.957Z",
+  "lastUpdated": "2025-12-15T03:31:43.099Z",
   "count": 506,
   "papers": [
     {
@@ -798,17 +798,17 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Debt matters for oil supply elasticities. We document the resiliency of oil production to the COVID-19-related collapse in demand due to indebtedness. We use exogenous variation in the timing of debt-related payments to identify financially constrained operators. We show that more financially constrained firms cut production by less than less-constrained firms and were less likely to complete new wells. To explore the mechanisms, we use borrowing-limit cuts and credit-line drawdowns to measure access to credit, and we exploit failed hedging practices. The propagation of oil demand shocks crucially depends on the indebtedness of the oil sector. (JEL G32, D22, Q41)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Debt matters for oil supply elasticities. We document the resiliency of oil production to the COVID-19-related collapse in demand due to indebtedness. We use exogenous variation in the timing of debt-related payments to identify financially constrained operators. We show that more financially constrained firms cut production by less than less-constrained firms and were less likely to complete new wells. To explore the mechanisms, we use borrowing-limit cuts and credit-line drawdowns to measure access to credit, and we exploit failed hedging practices. The propagation of oil demand shocks crucially depends on the indebtedness of the oil sector.</jats:p>",
       "doi": "10.1093/rfs/hhaf099",
       "url": "https://doi.org/10.1093/rfs/hhaf099"
     },
     {
       "title": "Bond Market Resiliency: The Role of Insurers",
-      "authors": "Maureen O’Hara, Andreas C Rapp, Xing ( Alex) Zhou",
+      "authors": "Maureen O’Hara, Andreas C Rapp, Xing (Alex) Zhou",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the role of insurance companies in supporting resiliency in the corporate bond market. We show that during the COVID-19 liquidity crisis, insurers increased their corporate bond positions, particularly in bonds facing fire sales by mutual funds. Insurers with more stable funding were more likely to buy, and they bought more from dealers with whom they had prior trading relationships. Dealers improved their bond liquidity provision when they had trading relationships with insurers with more stable funding. Our work demonstrates that insurers can play an important role in supporting bond market resiliency during times of stress. (JEL: G10, G12, G20, G22, G23, G24)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the role of insurance companies in supporting resiliency in the corporate bond market. We show that during the COVID-19 liquidity crisis, insurers increased their corporate bond positions, particularly in bonds facing fire sales by mutual funds. Insurers with more stable funding were more likely to buy, and they bought more from dealers with whom they had prior trading relationships. Dealers improved their bond liquidity provision when they had trading relationships with insurers with more stable funding. Our work demonstrates that insurers can play an important role in supporting bond market resiliency during times of stress.</jats:p>",
       "doi": "10.1093/rfs/hhaf097",
       "url": "https://doi.org/10.1093/rfs/hhaf097"
     },
@@ -1668,7 +1668,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-10-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present new facts on how convenience yields fluctuate with macroeconomic variables and fiscal policy: the convenience yield of long-term Treasuries is negatively correlated with inflation expectations, and inflation expectations predict future debt-to-GDP growth. To rationalize these findings, we incorporate the convenience yield into a macro-finance model with endogenous fiscal policy. The government finances deficit shocks partially through higher inflation and partially through more future borrowing, which reduces the convenience yield today. The feedback loop between the convenience yield and future debt supply amplifies the effect of fiscal shocks. We further verify this channel using empirically constructed exogenous deficit shocks. JEL E31, G12, E62, E63</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present new facts on how convenience yields fluctuate with macroeconomic variables and fiscal policy: the convenience yield of long-term Treasuries is negatively correlated with inflation expectations, and inflation expectations predict future debt-to-GDP growth. To rationalize these findings, we incorporate the convenience yield into a macro-finance model with endogenous fiscal policy. The government finances deficit shocks partially through higher inflation and partially through more future borrowing, which reduces the convenience yield today. The feedback loop between the convenience yield and future debt supply amplifies the effect of fiscal shocks. We further verify this channel using empirically constructed exogenous deficit shocks.</jats:p>",
       "doi": "10.1093/rfs/hhaf093",
       "url": "https://doi.org/10.1093/rfs/hhaf093"
     },
