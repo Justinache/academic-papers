@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-15T03:31:43.099Z",
-  "count": 506,
+  "lastUpdated": "2025-12-16T03:26:16.348Z",
+  "count": 510,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -201,6 +201,66 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
+      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-15",
+      "abstract": "",
+      "doi": "10.1086/739334",
+      "url": "https://doi.org/10.1086/739334"
+    },
+    {
+      "title": "A Study of the Microdynamics of Early-Childhood Learning",
+      "authors": "James Heckman, Jin Zhou",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-15",
+      "abstract": "",
+      "doi": "10.1086/739256",
+      "url": "https://doi.org/10.1086/739256"
+    },
+    {
+      "title": "Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments",
+      "authors": "Elizabeth Caucutt, Lance Lochner, Joseph Mullins, Youngmin Park",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-15",
+      "abstract": "",
+      "doi": "10.1086/738480",
+      "url": "https://doi.org/10.1086/738480"
+    },
+    {
+      "title": "Cross-Border M&A Flows, Economic Growth, and Foreign Exchange Rates",
+      "authors": "Steven J Riddiough, Huizhong Zhang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-15",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information about future economic conditions from firms’ cross-border merger and acquisition announcements, and show it predicts changes in relative economic growth rates and foreign exchange rate returns. We find the predictability is driven by the acquisition decisions of domestic firms, which signal turning points in local economic growth. The findings are motivated by a simple model of exchange rate determination with heterogeneous expectations and support the theorized relationship between foreign exchange rates and macroeconomic fundamentals. The results provide new tools for policy makers seeking to predict economic activity and offer global investors a novel source of portfolio diversification. (JEL F31, E22, E32, G12, G15, G34)</jats:p>",
+      "doi": "10.1093/rfs/hhaf109",
+      "url": "https://doi.org/10.1093/rfs/hhaf109"
+    },
+    {
+      "title": "Losing Control? The Two‐Decade Decline in Loan Covenant Violations",
+      "authors": "Thomas P. Griffin, Greg Nini, David C. Smith",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-14",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The annual proportion of U.S. public firms that reported a financial covenant violation fell roughly 70% between 1997 and 2019. To understand this trend, we develop an estimable model of covenant design that depends on the ability to differentiate between distressed and nondistressed borrowers and the relative costs associated with screening incorrectly. We find that the drop in violations is best explained by an increased willingness to forgo early detection of distressed borrowers in exchange for fewer inconsequential violations, which we attribute largely to a shift in the composition of public borrowers and partly to heightened investor sentiment during the 2010s.</jats:p>",
+      "doi": "10.1111/jofi.70005",
+      "url": "https://doi.org/10.1111/jofi.70005"
+    },
+    {
+      "title": "Second Chance: Life with Less Student Debt",
+      "authors": "Marco Di Maggio, Ankit Kalda, Vincent Yao",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-14",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We exploit an episode of plausibly random debt discharge due to the loss of paperwork for thousands of defaulted borrowers to examine the effects of private student debt relief on borrower outcomes. We find that borrowers who receive debt relief (treated) experience declines in debt balances and delinquency rates on\n                    <jats:italic>other</jats:italic>\n                    accounts, and increases in mobility and income relative to those who bear the costs of default like wage garnishment and collections (control). Borrowers in both groups contribute to our findings through different mechanisms. While our estimates may not directly apply to blanket student loan forgiveness, they speak to the benefits of forgiveness in reducing the consequences of debt burden for distressed borrowers.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70002",
+      "url": "https://doi.org/10.1111/jofi.70002"
     },
     {
       "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
@@ -673,6 +733,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
     },
     {
+      "title": "The Spillover Effect of Public Firm Audit Regulation on Private Firm Auditing: Evidence from Common Partners",
+      "authors": "Lisa Yao Liu, Lijing Tong",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101857",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101857"
+    },
+    {
       "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
       "authors": "Ali Almelhem, Murat Iyigun, Austin Kennedy, Jared Rubin",
       "journal": "Quarterly Journal of Economics",
@@ -863,12 +933,12 @@
       "url": "https://doi.org/10.1086/738251"
     },
     {
-      "title": "Republican Support and Economic Hardship: The Enduring Effects Of the Opioid Epidemic",
+      "title": "Republican Support and Economic Hardship: The Enduring Effects of the Opioid Epidemic",
       "authors": "Carolina Arteaga, Victoria Barone",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-11-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In this paper, we establish a causal connection between two of the most salient social developments in the United States over the past decades: the opioid epidemic and the political realignment between the Republican and Democratic parties. Drawing on unsealed records from litigation against Purdue Pharma, we uncover rich geographic variation in the marketing of prescription opioids that serves as a quasi-exogenous source of exposure to the epidemic. We use this variation to document significant increases in drug-related mortality and greater reliance on public transfer programs. This induced economic hardship led to substantial changes in the political landscape of the communities most affected by the opioid epidemic. We estimate that from the mid-2000s to 2022, exposure to the opioid epidemic continuously increased the Republican vote share in House, presidential, and gubernatorial elections. By the 2022 House elections, a one-standard-deviation increase in our measure of exposure led to a 4.5 percentage point increase in the Republican vote share. From 2012 until 2022, this increase in the House vote share translated into Republicans winning additional seats.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In this article, we establish a causal connection between two of the most salient social developments in the United States over the past decades: the opioid epidemic and the political realignment between the Republican and Democratic parties. Drawing on unsealed records from litigation against Purdue Pharma, we uncover rich geographic variation in the marketing of prescription opioids that serves as a quasi-exogenous source of exposure to the epidemic. We use this variation to document significant increases in drug-related mortality and greater reliance on public transfer programs. This induced economic hardship led to substantial changes in the political landscape of the communities most affected by the opioid epidemic. We estimate that from the mid-2000s to 2022, exposure to the opioid epidemic continuously increased the Republican vote share in House, presidential, and gubernatorial elections. By the 2022 House elections, a one-standard-deviation increase in our measure of exposure led to a 4.5 percentage point increase in the Republican vote share. From 2012 until 2022, this increase in the House vote share translated into Republicans winning additional seats.</jats:p>",
       "doi": "10.1093/qje/qjaf051",
       "url": "https://doi.org/10.1093/qje/qjaf051"
     },
@@ -1603,16 +1673,6 @@
       "url": "https://doi.org/10.1086/739335"
     },
     {
-      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
-      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739334",
-      "url": "https://doi.org/10.1086/739334"
-    },
-    {
       "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
       "authors": "Zhongjian Lin, Francis Vella",
       "journal": "Journal of Political Economy",
@@ -1733,16 +1793,6 @@
       "url": "https://doi.org/10.1093/rfs/hhaf053"
     },
     {
-      "title": "A Study of the Microdynamics of Early Childhood Learning",
-      "authors": "James J. Heckman, Jin Zhou",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-21",
-      "abstract": "",
-      "doi": "10.1086/739256",
-      "url": "https://doi.org/10.1086/739256"
-    },
-    {
       "title": "Price and Volume Divergence in China’s Real Estate Markets: The Role of Local Governments",
       "authors": "Jeffery (Jinfan) Chang, Yuheng Wang, Wei Xiong",
       "journal": "Review of Financial Studies",
@@ -1768,7 +1818,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-10-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Concerns about excessive mobile phone use among youth are mounting. We present estimates of both behavioral and contextual peer effects, along with comprehensive evidence on how students’ own and their peers’ app usage affect academic performance, physical health, and labor market outcomes. Our analysis draws on administrative data from a Chinese university covering three student cohorts over four years. We exploit random roommate assignments, differential exposure to a policy shock (gaming restrictions for minors), and differential exposure to a discrete event (the introduction of a blockbuster video game) for identification. App usage is contagious: a one s.d. increase in roommates’ in-college app usage raises own usage by 5.8%. High app usage is harmful across all measured outcomes. A one s.d. increase in app usage reduces GPAs by 36.2% of a within-cohort-major s.d. and lowers wages by 2.3%. Roommates’ app usage reduces a student’s GPAs and wages through both disruptions and behavioral spillovers, generating a total negative effect that exceeds half the magnitude of the impact from the student’s own app usage. Extending China’s three-hour-per-week gaming restriction for minors to college students would boost their initial wages by 0.9%. High-frequency GPS and app usage data show that heavy app users spend less time in study halls, are more frequently late or absent from class, and get less sleep.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Concerns about excessive mobile phone use among youth are mounting. We present estimates of behavioral and contextual peer effects, along with comprehensive evidence on how students’ own and their peers’ app usage affect academic performance, physical health, and labor market outcomes. Our analysis draws on administrative data from a Chinese university covering three student cohorts over four years. We exploit random roommate assignments, differential exposure to a policy shock (gaming restrictions for minors), and differential exposure to a discrete event (the introduction of a blockbuster video game) for identification. App usage is contagious: a one s.d. increase in roommates’ in-college app usage raises own usage by 5.8%. High app usage is harmful across all measured outcomes. A one s.d. increase in app usage reduces GPAs by 36.2% of a within-cohort-major s.d. and lowers wages by 2.3%. Roommates’ app usage reduces a student’s GPA and wages through both disruptions and behavioral spillovers, generating a total negative effect that exceeds half the magnitude of the impact from the student’s own app usage. Extending China’s three-hour-per-week gaming restriction for minors to college students would boost their initial wages by 0.9%. High-frequency GPS and app usage data show that heavy app users spend less time in study halls, are more frequently late or absent from class, and get less sleep.</jats:p>",
       "doi": "10.1093/qje/qjaf048",
       "url": "https://doi.org/10.1093/qje/qjaf048"
     },
@@ -3151,16 +3201,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This article shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. Despite no corresponding changes in local office holding, these defeats were salient among local elites. We show that Southern newspapers, closely aligned with the Democratic Party, amplified narratives of Black criminality in the aftermath of Democratic losses. Such accusations were, in turn, frequently invoked by lynch mobs. These findings point to the strategic use of racial violence by Democratic elites, foreshadowing the institutionalized vote suppression of Jim Crow.</jats:p>",
       "doi": "10.1093/qje/qjaf045",
       "url": "https://doi.org/10.1093/qje/qjaf045"
-    },
-    {
-      "title": "Child Skill Production: Accounting for Parental and Market-based Time and Goods Investments",
-      "authors": "Elizabeth Caucutt, Lance John Lochner, Joseph Mullins, Youngmin Park",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-09-04",
-      "abstract": "",
-      "doi": "10.1086/738480",
-      "url": "https://doi.org/10.1086/738480"
     },
     {
       "title": "Forest through the Trees: Building Cross‐Sections of Stock Returns",
