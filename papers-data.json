@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-16T03:26:16.348Z",
-  "count": 510,
+  "lastUpdated": "2025-12-17T03:21:42.811Z",
+  "count": 512,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -203,6 +203,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
     },
     {
+      "title": "Algorithm Design: A Fairness-Accuracy Frontier",
+      "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-16",
+      "abstract": "",
+      "doi": "10.1086/739826",
+      "url": "https://doi.org/10.1086/739826"
+    },
+    {
       "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
       "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
       "journal": "Journal of Political Economy",
@@ -241,6 +251,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information about future economic conditions from firms’ cross-border merger and acquisition announcements, and show it predicts changes in relative economic growth rates and foreign exchange rate returns. We find the predictability is driven by the acquisition decisions of domestic firms, which signal turning points in local economic growth. The findings are motivated by a simple model of exchange rate determination with heterogeneous expectations and support the theorized relationship between foreign exchange rates and macroeconomic fundamentals. The results provide new tools for policy makers seeking to predict economic activity and offer global investors a novel source of portfolio diversification. (JEL F31, E22, E32, G12, G15, G34)</jats:p>",
       "doi": "10.1093/rfs/hhaf109",
       "url": "https://doi.org/10.1093/rfs/hhaf109"
+    },
+    {
+      "title": "An Economic View of Corporate Social Impact",
+      "authors": "Hunt Allcott, Giovanni Montanari, Bora Ozaltun, Brandon Tan",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-15",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Growing discussions of impact investing and stakeholder capitalism have increased interest in measuring companies' social impact. We conceptualize corporate social impact as the welfare loss that would be caused by a firm's exit. To illustrate, we quantify the social impacts of 74 firms in 12 industries using a new survey measuring consumer and worker substitution patterns combined with models of product and labor markets. We find that consumer surplus is the primary component of social impact, suggesting that consumer impacts deserve more attention from impact investors. Existing environmental, social, and governance (ESG) and social impact ratings are essentially unrelated to our economically grounded measures.</jats:p>",
+      "doi": "10.1111/jofi.70004",
+      "url": "https://doi.org/10.1111/jofi.70004"
     },
     {
       "title": "Losing Control? The Two‐Decade Decline in Loan Covenant Violations",
@@ -723,7 +743,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101855"
     },
     {
-      "title": "Weak capital, weak provisions – credit risk provisioning under IFRS 9",
+      "title": "Weak capital, weak provisions—Credit risk provisioning under IFRS 9",
       "authors": "Markus Behn, Cyril Couaillier",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
