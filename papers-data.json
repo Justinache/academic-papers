@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T03:22:23.754Z",
+  "lastUpdated": "2025-12-19T03:25:30.732Z",
   "count": 512,
   "papers": [
     {
@@ -111,6 +111,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104174",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104174"
+    },
+    {
+      "title": "Regional Banks, Aggregate Effects",
+      "authors": "Quinn Maingi",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104226",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104226"
     },
     {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
@@ -763,6 +773,86 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101857"
     },
     {
+      "title": "Migration, Specialization, and Trade: Evidence from Brazil’s March to the West",
+      "authors": "Heitor S. Pellegrina, Sebastian Sotelo",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738147",
+      "url": "https://doi.org/10.1086/738147"
+    },
+    {
+      "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+      "authors": "Michael David Ricks, Owen Kay",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738139",
+      "url": "https://doi.org/10.1086/738139"
+    },
+    {
+      "title": "Artificial Intelligence in the Knowledge Economy",
+      "authors": "Enrique Ide, Eduard Talamàs",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/737233",
+      "url": "https://doi.org/10.1086/737233"
+    },
+    {
+      "title": "Managing Public Portfolios",
+      "authors": "Léo Aparisi de Lannoy, Anmol Bhandari, David Evans, Mikhail Golosov, Thomas Sargent",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738150",
+      "url": "https://doi.org/10.1086/738150"
+    },
+    {
+      "title": "The Nature of Long-Term Unemployment: Predictability, Heterogeneity, and Selection",
+      "authors": "Andreas I. Mueller, Johannes Spinnewijn",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738045",
+      "url": "https://doi.org/10.1086/738045"
+    },
+    {
+      "title": "Exorbitant Privilege Gained and Lost: Fiscal Implications",
+      "authors": "Zefeng Chen, Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738149",
+      "url": "https://doi.org/10.1086/738149"
+    },
+    {
+      "title": "Self-Fulfilling Debt Crises with Long Stagnations",
+      "authors": "Joao Ayres, Gaston Navarro, Juan Pablo Nicolini, Pedro Teles",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738143",
+      "url": "https://doi.org/10.1086/738143"
+    },
+    {
+      "title": "Distribution Regression with Sample Selection and UK Wage Decomposition",
+      "authors": "Victor Chernozhukov, Iván Fernández-Val, Siyi Luo",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738148",
+      "url": "https://doi.org/10.1086/738148"
+    },
+    {
       "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
       "authors": "Ali Almelhem, Murat Iyigun, Austin Kennedy, Jared Rubin",
       "journal": "Quarterly Journal of Economics",
@@ -861,26 +951,6 @@
       "abstract": "",
       "doi": "10.1086/738483",
       "url": "https://doi.org/10.1086/738483"
-    },
-    {
-      "title": "Migration, Specialization, and Trade: Evidence from Brazil’s March to the West",
-      "authors": "Heitor S. Pellegrina, Sebastian Sotelo",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-13",
-      "abstract": "",
-      "doi": "10.1086/738147",
-      "url": "https://doi.org/10.1086/738147"
-    },
-    {
-      "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
-      "authors": "Michael David Ricks, Owen Kay",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-12",
-      "abstract": "",
-      "doi": "10.1086/738139",
-      "url": "https://doi.org/10.1086/738139"
     },
     {
       "title": "Heterogeneous Oil Supply Elasticities: Indebtedness and Production Responses to the COVID-19 Shock",
@@ -1783,26 +1853,6 @@
       "url": "https://doi.org/10.1093/rfs/hhaf071"
     },
     {
-      "title": "Artificial Intelligence in the Knowledge Economy",
-      "authors": "Enrique Ide, Eduard Talamàs",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-23",
-      "abstract": "",
-      "doi": "10.1086/737233",
-      "url": "https://doi.org/10.1086/737233"
-    },
-    {
-      "title": "Managing Public Portfolios",
-      "authors": "Léo Aparisi de Lannoy, Anmol Bhandari, David Evans, Mikhail Golosov, Thomas Sargent",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-22",
-      "abstract": "",
-      "doi": "10.1086/738150",
-      "url": "https://doi.org/10.1086/738150"
-    },
-    {
       "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
       "authors": "Zhuo Chen, Bibo Liu, Huijun Wang, Zhengwei Wang, Jianfeng Yu",
       "journal": "Review of Financial Studies",
@@ -1821,16 +1871,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>During the COVID-19 pandemic (2020-2022), Chinese cities witnessed a paradox: residential land and new house prices surged while transaction volumes plummeted. We attribute this to local governments’ active price management through supply controls, land acquisitions by local government financing vehicles (LGFVs), and limits on new home sales permits. Cities more dependent on land sales and land-backed debt before the pandemic experienced greater price increases and price–volume divergence, with LGFVs buying more land at higher prices than other buyers. These interventions helped sustain fiscal financing but deepened developers’ financial distress, revealing unintended consequences of local governments’ fiscal strategies during downturns.</jats:p>",
       "doi": "10.1093/rfs/hhaf089",
       "url": "https://doi.org/10.1093/rfs/hhaf089"
-    },
-    {
-      "title": "The Nature of Long-Term Unemployment: Predictability, Heterogeneity, and Selection",
-      "authors": "Andreas I. Mueller, Johannes Spinnewijn",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-20",
-      "abstract": "",
-      "doi": "10.1086/738045",
-      "url": "https://doi.org/10.1086/738045"
     },
     {
       "title": "Digital Distractions with Peer Influence: The Impact of Mobile App Usage on Academic and Labor Market Outcomes",
@@ -2023,16 +2063,6 @@
       "url": "https://doi.org/10.2308/tar-2024-0035"
     },
     {
-      "title": "Exorbitant Privilege Gained and Lost: Fiscal Implications",
-      "authors": "Zefeng Chen, Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-16",
-      "abstract": "",
-      "doi": "10.1086/738149",
-      "url": "https://doi.org/10.1086/738149"
-    },
-    {
       "title": "Uncertainty, Risk, and Capital Growth",
       "authors": "Gill Segal, Ivan Shaliastovich",
       "journal": "Review of Financial Studies",
@@ -2213,16 +2243,6 @@
       "url": "https://doi.org/10.1093/qje/qjaf039"
     },
     {
-      "title": "Self-Fulfilling Debt Crises with Long Stagnations",
-      "authors": "Joao Ayres, Gaston Navarro, Juan Pablo Nicolini, Pedro Teles",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-06",
-      "abstract": "",
-      "doi": "10.1086/738143",
-      "url": "https://doi.org/10.1086/738143"
-    },
-    {
       "title": "The Stock Market and Bank Risk‐Taking",
       "authors": "Antonio Falato, David Scharfstein",
       "journal": "Journal of Finance",
@@ -2381,16 +2401,6 @@
       "abstract": "",
       "doi": "10.1086/737236",
       "url": "https://doi.org/10.1086/737236"
-    },
-    {
-      "title": "Distribution Regression with Sample Selection and UK Wage Decomposition",
-      "authors": "Victor Chernozhukov, Iván Fernández-Val, Siyi Luo",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-01",
-      "abstract": "",
-      "doi": "10.1086/738148",
-      "url": "https://doi.org/10.1086/738148"
     },
     {
       "title": "Black Empowerment and White Mobilization: The Effects of the Voting Rights Act",
@@ -5111,16 +5121,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study markup cyclicality in a granular macroeconomic model with oligopolistic competition. We first characterize how firm, sectoral, and aggregate markups comove with output at different levels of aggregation in response to firm-level shocks. We quantify the model’s ability to reproduce salient features of the cyclical properties of measured markups in French administrative firm-level data from the bottom (firm) level to the aggregate level. We document that (i) firm-level markups rise with market share and sector-level markups with concentration, (ii) the relationship between markups and sectoral output varies by firm size—negative for small firms but positive for large ones, (iii) sector-level markups move positively with sectoral output, and (iv) sectoral markups show no systematic relationship with aggregate output. Our model helps rationalize these seemingly conflicting patterns of markup cyclicality in the data.</jats:p>",
       "doi": "10.1093/qje/qjaf029",
       "url": "https://doi.org/10.1093/qje/qjaf029"
-    },
-    {
-      "title": "To Interact or Not? On the Benefits of Interacting with Unfavorable Analysts During Earnings Calls",
-      "authors": "Jared Flake",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-06-18",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Managers prioritize favorable analysts during earnings calls, reinforcing analysts’ incentives for optimism. However, managers also frequently interact with unfavorable analysts, and this study examines the determinants and benefits of these interactions. I find that managers interact more with unfavorable analysts when compelled to do so. I then examine two likely benefits of these interactions. First, unfavorable analysts attenuate their negative views after interacting with managers. Second, price reactions to management forecasts are stronger for managers who regularly interact with unfavorable analysts, consistent with enhanced reporting credibility. Finally, using peer firm restatements as exogenous shocks to investors’ perceptions of accounting quality, I find that nonrestating firms with managers who regularly interact with unfavorable analysts experience attenuated negative returns relative to other nonrestating peers. Overall, the empirical evidence indicates firms experience significant benefits when managers interact with unfavorable analysts and these benefits persist amongst compelled and voluntary interactions.</jats:p>",
-      "doi": "10.1111/1475-679x.12629",
-      "url": "https://doi.org/10.1111/1475-679x.12629"
     }
   ]
 }
