@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-19T03:25:30.732Z",
-  "count": 512,
+  "lastUpdated": "2025-12-20T03:17:08.626Z",
+  "count": 513,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -123,6 +123,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104226"
     },
     {
+      "title": "Government bond risk and return in the US and China",
+      "authors": "Jennifer N. Carpenter, Fangzhou Lu, Robert F. Whitelaw",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104224",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104224"
+    },
+    {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
       "authors": "Haoyang Liu, Christopher Palmer",
       "journal": "Journal of Financial Economics",
@@ -211,6 +221,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "FinTech Lending and Cashless Payments",
+      "authors": "Pulak Ghosh, Boris Vallee, Yao Zeng",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-18",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Borrowers' use of cashless payments improves their access to capital from FinTech lenders and predicts a lower probability of default. These relationships are stronger for cashless technologies providing more precise information, and for outflows. Cashless payment usage complements other signals of borrower quality. We rationalize these empirical findings using a framework in which borrowers signal their lower likelihood of diverting cash flows through payment technology choice, and screening accuracy is further strengthened by informational complementarities. The informational synergy we uncover provides a rationale for the joint rise of cashless payments and FinTech lending, as well as for open banking.</jats:p>",
+      "doi": "10.1111/jofi.70003",
+      "url": "https://doi.org/10.1111/jofi.70003"
     },
     {
       "title": "Algorithm Design: A Fairness-Accuracy Frontier",
@@ -5111,16 +5131,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines how increased competition among environmental, social, and governance (ESG) rating agencies relates to ESG rating quality. We exploit the entry of Sustainalytics as a new ESG rating agency in 2010. We conduct a difference‐in‐differences analysis and provide three main findings. First, we find that higher competition decreases incumbents' ESG rating disagreements of the same scope. The negative relation between competition and ESG rating disagreement persists for same‐scope rating metrics not covered by Sustainalytics, suggesting that neither learning nor herding drive the results. The relationship between competition and rating disagreement strengthens for firms with more ESG disclosures, which generally require more effort to analyze. Second, we find that incumbents' ratings of ESG concerns are more strongly associated with future negative ESG news for firms additionally covered by Sustainalytics. This finding is consistent with competition improving ratings' ability to predict future negative ESG incidents. Third, we find that incumbents evaluate more difficult‐to‐measure outcome metrics for firms covered by Sustainalytics, consistent with competition inducing more effort. Overall, our findings suggest that competition serves as an implicit disciplining mechanism of ESG rating agencies' quality.</jats:p>",
       "doi": "10.1111/1475-679x.12624",
       "url": "https://doi.org/10.1111/1475-679x.12624"
-    },
-    {
-      "title": "Bottom-Up Markup Fluctuations",
-      "authors": "Ariel T Burstein, Vasco M Carvalho, Basile Grassi",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-06-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study markup cyclicality in a granular macroeconomic model with oligopolistic competition. We first characterize how firm, sectoral, and aggregate markups comove with output at different levels of aggregation in response to firm-level shocks. We quantify the model’s ability to reproduce salient features of the cyclical properties of measured markups in French administrative firm-level data from the bottom (firm) level to the aggregate level. We document that (i) firm-level markups rise with market share and sector-level markups with concentration, (ii) the relationship between markups and sectoral output varies by firm size—negative for small firms but positive for large ones, (iii) sector-level markups move positively with sectoral output, and (iv) sectoral markups show no systematic relationship with aggregate output. Our model helps rationalize these seemingly conflicting patterns of markup cyclicality in the data.</jats:p>",
-      "doi": "10.1093/qje/qjaf029",
-      "url": "https://doi.org/10.1093/qje/qjaf029"
     }
   ]
 }
