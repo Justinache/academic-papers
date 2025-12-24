@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T03:28:10.111Z",
+  "lastUpdated": "2025-12-24T03:25:28.142Z",
   "count": 513,
   "papers": [
     {
@@ -221,6 +221,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "Investment under Upstream and Downstream Uncertainty",
+      "authors": "Fotis Grigoris, Gill Segal",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The impact of uncertainty shocks on firm‐level economic activity depends on their origin in supply chains. Upstream (downstream) uncertainty from suppliers (customers) is associated with variability over future input (output) prices. Consequently, a real‐option production model with time‐to‐build suggests that only upstream uncertainty suppresses investment, since upstream (downstream) uncertainty affects the shorter (longer) run. Production network data show that upstream uncertainty negatively affects firm‐level outcomes. Conversely, downstream uncertainty affects firm‐level outcomes more weakly but positively. At the macro level, these two uncertainties oppositely predict aggregate growth and asset prices. Overall, downstream uncertainty has an expansionary effect, in contrast to other facets of uncertainty.</jats:p>",
+      "doi": "10.1111/jofi.70010",
+      "url": "https://doi.org/10.1111/jofi.70010"
+    },
+    {
+      "title": "The Structure of Leveraged Buyouts and the Free-Rider Problem",
+      "authors": "Mike Burkart, Samuel Lee, Henrik Petri",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the structure of public firm buyouts in a model that features the Berle-Means problem (lack of incentives) and the Grossman-Hart problem (holdout). We find that bootstrapping, debt in excess of funding needs, and upfront fees to bidders are socially optimal and increase buyout premiums. These elements make LBO financing tantamount to a “management contract” arranged by an outside manager to receive cash and incentives to manage a firm—except the cash is funded by excess debt imposed on the firm. Our model also rationalizes why PE firms collect fees from their equity partnerships and directly from target firms.</jats:p>",
+      "doi": "10.1093/rfs/hhaf111",
+      "url": "https://doi.org/10.1093/rfs/hhaf111"
     },
     {
       "title": "FinTech Lending and Cashless Payments",
@@ -3088,7 +3108,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-09-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper estimates willingness to pay (WTP) for carbon mitigation from demand for carbon offsets in a field experiment with an online supermarket. The experiment randomizes whether the firm subsidizes the price of the offset or matches the offset’s impact on carbon mitigation. Consumers are price-elastic but fully impact-inelastic, implying that they buy the offset but their WTP for the carbon it mitigates is zero. If the firm informs consumers that it contributes to the offset costs, WTP increases to 16 EUR/tCO$ {}_{2} $. A complementary survey shows that consumers’ stated WTP is 238 EUR/tCO$ {}_{2} $, far above their revealed preferences.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper estimates willingness to pay (WTP) for carbon mitigation from demand for carbon offsets in a field experiment with an online supermarket. The experiment randomizes whether the firm subsidizes the price of the offset or matches the offset’s impact on carbon mitigation. Consumers are price-elastic but fully impact-inelastic, implying that they buy the offset but their WTP for the carbon it mitigates is zero. If the firm informs consumers that it contributes to the offset costs, WTP increases to 16 EUR/tCO$ {}_{2} $. A complementary survey shows that consumers’ stated WTP is 238 EUR/tCO$ {}_{2} $, far above their revealed preferences.</jats:p>",
       "doi": "10.1093/rfs/hhaf054",
       "url": "https://doi.org/10.1093/rfs/hhaf054"
     },
@@ -4768,7 +4788,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-07-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We first document that, despite potential legal issues, overlapping directors are surprisingly prevalent among direct competitors. Using panel data regressions and plausibly exogenous shocks, we find that competing firms in markets with dense overlapping-director networks experience innovation herding, lose product differentiation, and, ultimately, perform poorly. Novel text-based network propagation tests of technologies show that intellectual property leakage plays a role as firms with dense overlapping director networks experience faster propagation of technologies to competitors. Our findings suggest a coordination problem where industry participants cannot stop rivals from earning small gains from leakage despite much larger industry-wide negative externalities.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We first document that, despite potential legal issues, overlapping directors are surprisingly prevalent among direct competitors. Using panel data regressions and plausibly exogenous shocks, we find that competing firms in markets with dense overlapping-director networks experience innovation herding, lose product differentiation, and, ultimately, perform poorly. Novel text-based network propagation tests of technologies show that intellectual property leakage plays a role as firms with dense overlapping director networks experience faster propagation of technologies to competitors. Our findings suggest a coordination problem where industry participants cannot stop rivals from earning small gains from leakage despite much larger industry-wide negative externalities.</jats:p>",
       "doi": "10.1093/rfs/hhaf048",
       "url": "https://doi.org/10.1093/rfs/hhaf048"
     },
@@ -5111,26 +5131,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper provides evidence that the U.S. dollar affects trade through a financial channel of the exchange rate. Using global data over three decades, we show that dollar appreciation increases import prices and decreases import quantities for non-U.S. dollar countries. In line with a financial channel, these effects are stronger when the exporting country borrows more in U.S. dollars abroad. The financial channel was active before the global financial crisis, has strengthened since, and operates independently of the dominant currency invoicing channel. Instrumenting the dollar is key to uncovering the full effect of the financial channel.</jats:p>",
       "doi": "10.1093/rfs/hhaf040",
       "url": "https://doi.org/10.1093/rfs/hhaf040"
-    },
-    {
-      "title": "Barriers to Global Capital Allocation",
-      "authors": "Bruno Pellegrino, Enrico Spolaore, Romain Wacziarg",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-06-23",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Observed international investment positions and cross-country heterogeneity in rates of return to capital are hard to reconcile with frictionless capital markets. This article develops a theory of international capital allocation: a multi-country dynamic spatial general equilibrium model in which the entire network of cross-border investment is endogenously determined. Our model features cross-country heterogeneity in fundamental risk, a demand system for international assets, and frictions that cause segmentation in international capital markets. We measure frictions affecting international investment and apply our model to data from nearly 100 countries, using a new dataset of international capital taxes and cultural, linguistic, and geographic distances between countries (geopoliticaldistance.org). Our model performs well in reproducing the composition of international portfolios, the cross section of home bias and rates of return to capital, and other key features of international capital markets. Finally, we carry out counterfactual exercises: we show that barriers to international investment reduce world output by 7% and raise the cross-country dispersion of capital per employee, contributing in a meaningful way to global inequality.</jats:p>",
-      "doi": "10.1093/qje/qjaf031",
-      "url": "https://doi.org/10.1093/qje/qjaf031"
-    },
-    {
-      "title": "ESG Rating Competition and Rating Quality",
-      "authors": "Cai Chen, Svenja Dube, Shiran Froymovich",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-06-23",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines how increased competition among environmental, social, and governance (ESG) rating agencies relates to ESG rating quality. We exploit the entry of Sustainalytics as a new ESG rating agency in 2010. We conduct a difference‐in‐differences analysis and provide three main findings. First, we find that higher competition decreases incumbents' ESG rating disagreements of the same scope. The negative relation between competition and ESG rating disagreement persists for same‐scope rating metrics not covered by Sustainalytics, suggesting that neither learning nor herding drive the results. The relationship between competition and rating disagreement strengthens for firms with more ESG disclosures, which generally require more effort to analyze. Second, we find that incumbents' ratings of ESG concerns are more strongly associated with future negative ESG news for firms additionally covered by Sustainalytics. This finding is consistent with competition improving ratings' ability to predict future negative ESG incidents. Third, we find that incumbents evaluate more difficult‐to‐measure outcome metrics for firms covered by Sustainalytics, consistent with competition inducing more effort. Overall, our findings suggest that competition serves as an implicit disciplining mechanism of ESG rating agencies' quality.</jats:p>",
-      "doi": "10.1111/1475-679x.12624",
-      "url": "https://doi.org/10.1111/1475-679x.12624"
     }
   ]
 }
