@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T03:25:28.142Z",
-  "count": 513,
+  "lastUpdated": "2025-12-25T03:28:34.379Z",
+  "count": 512,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -5121,16 +5121,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We conduct an experiment to investigate the use of peer evaluations for compensation purposes. Although organizations often rely on peer evaluations for incentive compensation, it is not well understood how peer feedback should be used and designed to ensure non‐distorted evaluations and motivate effort provision. We study peer evaluations in form of bonus allocation proposals, thereby enabling a quantifiable test of our hypothesis. We distinguish between discretionary use (i.e., allocation by the manager) and formulaic use (i.e., allocation by the team via the average) of self‐including and self‐excluding proposals. We find that, relative to self‐including proposals, self‐excluding proposals are less distorted, irrespective of use, but lead to more effort provision only under formulaic use. Under discretionary use, the benefits of self‐excluding proposals are offset, as managerial biases enter bonus allocations. In sum, our findings illustrate benefits of delegating bonus allocations to teams through formulaic use of self‐excluding peer evaluations and extend the understanding of how organizations can effectively incorporate peer evaluations into incentive compensation.</jats:p>",
       "doi": "10.1111/1475-679x.12628",
       "url": "https://doi.org/10.1111/1475-679x.12628"
-    },
-    {
-      "title": "The Financial Channel of the Exchange Rate and Global Trade",
-      "authors": "Sai Ma, Tim Schmidt-Eisenlohr",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-06-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper provides evidence that the U.S. dollar affects trade through a financial channel of the exchange rate. Using global data over three decades, we show that dollar appreciation increases import prices and decreases import quantities for non-U.S. dollar countries. In line with a financial channel, these effects are stronger when the exporting country borrows more in U.S. dollars abroad. The financial channel was active before the global financial crisis, has strengthened since, and operates independently of the dominant currency invoicing channel. Instrumenting the dollar is key to uncovering the full effect of the financial channel.</jats:p>",
-      "doi": "10.1093/rfs/hhaf040",
-      "url": "https://doi.org/10.1093/rfs/hhaf040"
     }
   ]
 }
