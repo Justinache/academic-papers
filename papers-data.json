@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T03:28:34.379Z",
-  "count": 512,
+  "lastUpdated": "2025-12-26T03:26:25.119Z",
+  "count": 510,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -5101,26 +5101,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether U.S. immigration policy, specifically the H‐1B visa program, affects the likelihood of financial misconduct. We argue that employers have leverage over employees on H‐1B visas because such employees must maintain H‐1B–eligible employment to legally reside in the United States. We posit that companies relying on H‐1B visas to hire workers in accounting roles have an increased ability to misreport their financial statements due to the greater costs H‐1B employees face if they are unexpectedly fired for not following the demands of their bosses or for blowing the whistle on misconduct. Using the sharp reduction in the H‐1B visa cap in 2004 as a shock to such employment, we find that companies that relied on this visa program for accounting roles pre‐shock experience a 2.3 percentage point decline in accounting irregularities post‐shock. Cross‐sectional tests show that the reduction in irregularities is greater in companies where H‐1B employees have (1) a greater influence on financial reporting or (2) fewer job opportunities. In addition, the relation between H‐1B visa use and irregularities is stronger in companies whose investors are more focused on near‐term earnings targets. We corroborate our findings using the outcome of H‐1B visa lotteries as shocks to such employment.</jats:p>",
       "doi": "10.1111/1475-679x.12627",
       "url": "https://doi.org/10.1111/1475-679x.12627"
-    },
-    {
-      "title": "Responding to Climate Change Crises: Firms' Trade‐Offs",
-      "authors": "Felix Fritsch, Qi Zhang, Xiang Zheng",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-06-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine firms' trade‐offs in their voluntary disclosure decisions following negative media coverage of climate change incidents. By combining a keyword discovery algorithm and a fine‐tuned BERT model, we identify “hard” and “soft” climate disclosures on Twitter. Our findings indicate that firms tend to issue climate tweets as a rapid response to negative climate incidents. Additionally, firms with a history of hard climate change disclosure, as measured by ESG reports, are more likely to issue climate‐related responses than firms without such a history. Furthermore, we show that prior hard disclosure is associated with hard responses when the incident receives moderate media attention, but with soft responses when the incident receives low media attention. Our findings provide empirical insights for dynamic disclosure theory by illustrating how prior disclosure shapes firms' response strategies to negative media coverage.</jats:p>",
-      "doi": "10.1111/1475-679x.12625",
-      "url": "https://doi.org/10.1111/1475-679x.12625"
-    },
-    {
-      "title": "Use and Design of Peer Evaluations for Bonus Allocations",
-      "authors": "Manuel Grieder, Karl Schuhmacher",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-06-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We conduct an experiment to investigate the use of peer evaluations for compensation purposes. Although organizations often rely on peer evaluations for incentive compensation, it is not well understood how peer feedback should be used and designed to ensure non‐distorted evaluations and motivate effort provision. We study peer evaluations in form of bonus allocation proposals, thereby enabling a quantifiable test of our hypothesis. We distinguish between discretionary use (i.e., allocation by the manager) and formulaic use (i.e., allocation by the team via the average) of self‐including and self‐excluding proposals. We find that, relative to self‐including proposals, self‐excluding proposals are less distorted, irrespective of use, but lead to more effort provision only under formulaic use. Under discretionary use, the benefits of self‐excluding proposals are offset, as managerial biases enter bonus allocations. In sum, our findings illustrate benefits of delegating bonus allocations to teams through formulaic use of self‐excluding peer evaluations and extend the understanding of how organizations can effectively incorporate peer evaluations into incentive compensation.</jats:p>",
-      "doi": "10.1111/1475-679x.12628",
-      "url": "https://doi.org/10.1111/1475-679x.12628"
     }
   ]
 }
