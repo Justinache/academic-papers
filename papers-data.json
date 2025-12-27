@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-26T03:26:25.119Z",
-  "count": 510,
+  "lastUpdated": "2025-12-27T03:24:25.369Z",
+  "count": 514,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -133,6 +133,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104224"
     },
     {
+      "title": "Intermediation frictions in equity markets",
+      "authors": "Bryan Seegmiller",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104223",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
       "authors": "Haoyang Liu, Christopher Palmer",
       "journal": "Journal of Financial Economics",
@@ -221,6 +231,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "Mortgage Design, Repayment Schedules, and Household Borrowing",
+      "authors": "Claes Bäckman, Patrick Moran, Peter van Santen",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does the design of debt repayment schedules affect household borrowing? To answer this question, we exploit a Swedish policy reform that eliminated interest-only mortgages for loan-to-value ratios above 50%. We document substantial bunching at the threshold, leading to 5% lower borrowing. Wealthy borrowers drive the results, challenging credit constraints as the primary explanation. We develop a model to evaluate the mechanisms driving household behavior and find that much of the effect comes from households experiencing ongoing flow disutility to amortization payments. Our results indicate that mortgage contracts with low initial payments substantially increase household borrowing and lifetime interest costs. (JEL G51, G21, E21, E6)</jats:p>",
+      "doi": "10.1093/rfs/hhaf115",
+      "url": "https://doi.org/10.1093/rfs/hhaf115"
+    },
+    {
+      "title": "Financial Restructuring and Resolution of Banks",
+      "authors": "Jean-Edouard Colliard, Denis Gromb",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How do resolution frameworks affect the private restructuring of distressed banks? We model a bank’s shareholders and creditors negotiating a restructuring, under two frictions: asymmetric information about asset quality and externalities on the government. High-quality banks signal themselves by delaying the negotiation, which is socially inefficient. Public policies can improve welfare if they reduce the signaling motive or increase the negotiation surplus. Stricter bail-in rules make debt more information sensitive and increase delays. The bank chooses a capital structure with too little renegotiable debt, giving a new rationale, for example, for Total Loss Absorbing Capacity requirements. (JEL G21, G28)</jats:p>",
+      "doi": "10.1093/rfs/hhaf113",
+      "url": "https://doi.org/10.1093/rfs/hhaf113"
+    },
+    {
+      "title": "The Long‐Lasting Effects of Experiencing Communism on Attitudes toward Financial Markets",
+      "authors": "Christine Laudenbach, Ulrike Malmendier, Alexandra Niessen‐ruenzi",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2025-12-25",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that exposure to anti‐capitalist ideology can exert a lasting influence on attitudes toward capital markets and stock market participation. Using novel survey, bank, and broker data, we document that, decades after Germany's reunification, East Germans invest significantly less in stocks and hold more negative views on capital markets. Effects vary by personal experience under communism. Results are strongest for individuals who remember life in the German Democratic Republic positively, for example, those living in a “showcase city.” Results reverse for those with negative experiences like environmental pollution or lack of Western TV entertainment.</jats:p>",
+      "doi": "10.1111/jofi.70006",
+      "url": "https://doi.org/10.1111/jofi.70006"
     },
     {
       "title": "Investment under Upstream and Downstream Uncertainty",
