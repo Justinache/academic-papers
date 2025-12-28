@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-27T03:24:25.369Z",
-  "count": 514,
+  "lastUpdated": "2025-12-28T03:49:17.508Z",
+  "count": 515,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -231,6 +231,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
+      "authors": "Lukas Diebold, Björn Richter",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-12-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Rapid credit expansions predict lower output growth and banking crises, but does it matter who finances them? We identify the ultimate counterparties financing credit expansions in a panel of 33 advanced economies and find that foreign-financed household credit expansions predict lower GDP growth and higher crisis risk, but domestically financed credit expansions do not. Studying the mechanisms, we find that foreign-financed household credit expansions are accompanied by higher supply of foreign capital (reflected in low credit spreads), are followed by elevated credit cycle reversal risk, and lead to higher debt service payments to foreigners which depress aggregate demand. (JEL: E32, E44, F34, G01, G15, G51)</jats:p>",
+      "doi": "10.1093/rfs/hhaf114",
+      "url": "https://doi.org/10.1093/rfs/hhaf114"
     },
     {
       "title": "Mortgage Design, Repayment Schedules, and Household Borrowing",
