@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-29T03:50:19.857Z",
-  "count": 515,
+  "lastUpdated": "2025-12-30T03:29:17.577Z",
+  "count": 514,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -978,7 +978,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Mortgage cramdown enabled bankruptcy judges to discharge the underwater portion of a mortgage in a chapter 13 bankruptcy until the Supreme Court disallowed this practice in 1993. We investigate the impact of mortgage cramdown on household distress exploiting the random assignment of cases to judges. The impact of bankruptcy protection on foreclosures is reduced by more than half after the Supreme Court disallowed cramdown. Our results suggest that large principal reductions considerably decrease homeowners’ distress by reducing debt overhang. (JEL D14, G21, G51, K35)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Mortgage cramdown enabled bankruptcy judges to discharge the underwater portion of a mortgage in a chapter 13 bankruptcy until the Supreme Court disallowed this practice in 1993. We investigate the impact of mortgage cramdown on household distress exploiting the random assignment of cases to judges. The impact of bankruptcy protection on foreclosures is reduced by more than half after the Supreme Court disallowed cramdown. Our results suggest that large principal reductions considerably decrease homeowners’ distress by reducing debt overhang.</jats:p>",
       "doi": "10.1093/rfs/hhaf104",
       "url": "https://doi.org/10.1093/rfs/hhaf104"
     },
@@ -998,7 +998,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes. (JEL G12, G28)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.</jats:p>",
       "doi": "10.1093/rfs/hhaf100",
       "url": "https://doi.org/10.1093/rfs/hhaf100"
     },
@@ -1748,12 +1748,12 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-10-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use anonymized admissions data from several colleges linked to income tax records and SAT and ACT test scores to study the determinants and causal effects of attending Ivy-Plus colleges (Ivy League, Stanford, MIT, Duke, and Chicago). Children from families in the top 1% are more than twice as likely to attend an Ivy-Plus college as those from middle-class families with comparable SAT/ACT scores. Two-thirds of this gap is due to higher admissions rates for students with comparable test scores from high-income families; the remaining third is due to differences in rates of application and matriculation. In contrast, children from high-income families have no admissions advantage at flagship public colleges. The high-income admissions advantage at Ivy-Plus colleges is driven by three factors: (1) preferences for children of alumni, (2) weight placed on non-academic credentials, and (3) athletic recruitment. Using a new research design that isolates idiosyncratic variation in admissions decisions for waitlisted applicants, we show that attending an Ivy-Plus college instead of the average flagship public college increases students- chances of reaching the top 1% of the earnings distribution by 50%, nearly doubles their chances of attending an elite graduate school, and almost triples their chances of working at a prestigious firm. The three factors that give children from high-income families an admissions advantage are uncorrelated or negatively correlated with post-college outcomes, whereas academic credentials such as SAT/ACT scores are highly predictive of post-college success.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use anonymized admissions data from several colleges linked to income tax records and SAT and ACT test scores to study the determinants and causal effects of attending Ivy-Plus colleges (Ivy League, Stanford, MIT, Duke, and Chicago). Children from families in the top 1% are more than twice as likely to attend an Ivy-Plus college as those from middle-class families with comparable SAT/ACT scores. Two-thirds of this gap is due to higher admission rates for students with comparable test scores from high-income families; the remaining third is due to differences in rates of application and matriculation. In contrast, children from high-income families have no admissions advantage at flagship public colleges. The high-income admissions advantage at Ivy-Plus colleges is driven by three factors: (i) preferences for children of alumni, (ii) weight placed on nonacademic credentials, and (iii) athletic recruitment. Using a new research design that isolates idiosyncratic variation in admissions decisions for waitlisted applicants, we show that attending an Ivy-Plus college instead of the average flagship public college increases students’ chances of reaching the top 1% of the earnings distribution by 50%, nearly doubles their chances of attending an elite graduate school, and almost triples their chances of working at a prestigious firm. The three factors that give children from high-income families an admissions advantage are uncorrelated or negatively correlated with postcollege outcomes, whereas academic credentials such as SAT/ACT scores are highly predictive of postcollege success.</jats:p>",
       "doi": "10.1093/qje/qjaf050",
       "url": "https://doi.org/10.1093/qje/qjaf050"
     },
     {
-      "title": "Bargaining and Inequality in The Labor Market",
+      "title": "Bargaining and Inequality in the Labor Market",
       "authors": "Sydnee Caldwell, Ingrid Haegele, Jörg Heining",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
@@ -5141,16 +5141,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101806",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101806"
-    },
-    {
-      "title": "Does U.S. Immigration Policy Facilitate Financial Misconduct?",
-      "authors": "Ruiting Dai, Xuanjun Dong, Nemit Shroff, Qin Tan",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-06-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether U.S. immigration policy, specifically the H‐1B visa program, affects the likelihood of financial misconduct. We argue that employers have leverage over employees on H‐1B visas because such employees must maintain H‐1B–eligible employment to legally reside in the United States. We posit that companies relying on H‐1B visas to hire workers in accounting roles have an increased ability to misreport their financial statements due to the greater costs H‐1B employees face if they are unexpectedly fired for not following the demands of their bosses or for blowing the whistle on misconduct. Using the sharp reduction in the H‐1B visa cap in 2004 as a shock to such employment, we find that companies that relied on this visa program for accounting roles pre‐shock experience a 2.3 percentage point decline in accounting irregularities post‐shock. Cross‐sectional tests show that the reduction in irregularities is greater in companies where H‐1B employees have (1) a greater influence on financial reporting or (2) fewer job opportunities. In addition, the relation between H‐1B visa use and irregularities is stronger in companies whose investors are more focused on near‐term earnings targets. We corroborate our findings using the outcome of H‐1B visa lotteries as shocks to such employment.</jats:p>",
-      "doi": "10.1111/1475-679x.12627",
-      "url": "https://doi.org/10.1111/1475-679x.12627"
     }
   ]
 }
