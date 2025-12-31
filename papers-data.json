@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-30T03:29:17.577Z",
-  "count": 514,
+  "lastUpdated": "2025-12-31T03:28:28.507Z",
+  "count": 509,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -518,7 +518,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-12-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the importance of production networks for the transmission of monetary policy using the stock market reaction as laboratory. We attribute 55% to 85% of the overall response to network effects. Large network effects are a robust feature of the data; we document similar patterns in realized fundamentals. Matching sparsity and the first two outdegrees industry-by-industry can explain large network effects. A simple model with intermediate inputs predicts the reaction of stock returns follows a spatial autoregression, which we exploit for our empirical strategy. Our results suggest production networks are an important mechanism for transmitting monetary policy shocks. (JEL E12, E31, E44, E52, G12, G14)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the importance of production networks for the transmission of monetary policy using the stock market reaction as laboratory. We attribute 55% to 85% of the overall response to network effects. Large network effects are a robust feature of the data; we document similar patterns in realized fundamentals. Matching sparsity and the first two outdegrees industry-by-industry can explain large network effects. A simple model with intermediate inputs predicts the reaction of stock returns follows a spatial autoregression, which we exploit for our empirical strategy. Our results suggest production networks are an important mechanism for transmitting monetary policy shocks.</jats:p>",
       "doi": "10.1093/rfs/hhaf106",
       "url": "https://doi.org/10.1093/rfs/hhaf106"
     },
@@ -5061,56 +5061,6 @@
       "abstract": "",
       "doi": "10.1086/734875",
       "url": "https://doi.org/10.1086/734875"
-    },
-    {
-      "title": "Optimal Fiscal Policy with Heterogeneous Agents and Capital: Should We Increase or Decrease Public Debt and Capital Taxes?",
-      "authors": "François Le Grand, Xavier Ragot",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734877",
-      "url": "https://doi.org/10.1086/734877"
-    },
-    {
-      "title": "More Laws, More Growth? Evidence from US States",
-      "authors": "Elliott Ash, Massimo Morelli, Matia Vannoni",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734874",
-      "url": "https://doi.org/10.1086/734874"
-    },
-    {
-      "title": "The Welfare Effects of Gender-Inclusive Intellectual Property Creation: Evidence from Books",
-      "authors": "Joel Waldfogel",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734876",
-      "url": "https://doi.org/10.1086/734876"
-    },
-    {
-      "title": "Asymmetric Information Sharing in Oligopoly: A Natural Experiment in Retail Gasoline",
-      "authors": "David P. Byrne, Nicolas de Roos, Matthew S. Lewis, Leslie M. Marx, Xiaosong Wu",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734872",
-      "url": "https://doi.org/10.1086/734872"
-    },
-    {
-      "title": "The return of return dominance: Decomposing the cross-section of prices",
-      "authors": "Ricardo Delao, Xiao Han, Sean Myers",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104059",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104059"
     },
     {
       "title": "How do consumers use ESG disclosure? Evidence from a randomized field experiment with everyday product purchases",
