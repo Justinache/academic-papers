@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T03:28:28.507Z",
-  "count": 509,
+  "lastUpdated": "2026-01-01T03:51:44.446Z",
+  "count": 518,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -231,6 +231,96 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104191",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
+    },
+    {
+      "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
+      "authors": "Henrik Sigstad",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates. (JEL C26, K41, K42, O17)</jats:p>",
+      "doi": "10.1257/aer.20231104",
+      "url": "https://doi.org/10.1257/aer.20231104"
+    },
+    {
+      "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
+      "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas. (JEL G51, I32, I38, J12, R23)</jats:p>",
+      "doi": "10.1257/aer.20200108",
+      "url": "https://doi.org/10.1257/aer.20200108"
+    },
+    {
+      "title": "Monetary Cooperation during Global Inflation Surges",
+      "authors": "Luca Fornaro, Federica Romei",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>We study optimal monetary policy during times of global scarcity of tradable goods. The optimal monetary response entails a surge in inflation, which helps rebalance production toward the tradable sector. While the inflation costs are fully borne domestically, however, the gains in terms of higher supply of tradable goods partly spill over to the rest of the world. National central banks may thus fall into a coordination trap and implement an excessively tight monetary policy causing an unnecessarily sharp global contraction. (JEL E24, E31, E32, E52, F11, F31, F42)</jats:p>",
+      "doi": "10.1257/aer.20231018",
+      "url": "https://doi.org/10.1257/aer.20231018"
+    },
+    {
+      "title": "Across-Country Wage Compression in Multinationals",
+      "authors": "Jonas Hjort, Xuan Li, Heather Sarsons",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>Many employers link wages at establishments outside of the home region to the level at headquarters. We show this using new data on 1,200 multinationals’ establishments across the world and linked employee-level data on their establishments in Brazil. Headquarters wage changes arising from minimum wage and exchange rate shocks are partially transmitted to workers employed in the same position abroad. Wage change transmission appears to be direct and results from firm-wide wage-setting procedures rather than associated technology or employment changes. “Anchored” wage setting is somewhat associated with particular characteristics of the job × employer × headquarters-establishment country-pair. (JEL F23, F31, J24, J31, J38, M16, O15)</jats:p>",
+      "doi": "10.1257/aer.20200042",
+      "url": "https://doi.org/10.1257/aer.20200042"
+    },
+    {
+      "title": "Optimal Taxation and Market Power",
+      "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power. (JEL D24, D31, D43, H21, H23, H24, H25)</jats:p>",
+      "doi": "10.1257/aer.20211445",
+      "url": "https://doi.org/10.1257/aer.20211445"
+    },
+    {
+      "title": "Racial Disparities in Housing Returns",
+      "authors": "Amir Kermani, Francis Wong",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>We show that higher rates of distressed home sales (i.e., foreclosures and short sales) among Black and Hispanic homeowners severely reduce realized housing returns for these groups—in particular, to a level below that realized by White homeowners. Yet absent financial distress, houses owned by minorities do not appreciate at substantially slower rates than houses owned by nonminorities. Racial differences in liquidity and income stability, which are imperfectly observed by lenders, are important determinants of differences in distress. Policies that prevent foreclosure among distressed minorities can mitigate the racial gap in returns. (JEL D31, G51, J15, R31)</jats:p>",
+      "doi": "10.1257/aer.20240327",
+      "url": "https://doi.org/10.1257/aer.20240327"
+    },
+    {
+      "title": "Sequential Learning under Informational Ambiguity",
+      "authors": "Jaden Yang Chen",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>This paper investigates a sequential social learning problem in which individuals face ambiguity about others’ signal structures and have max-min expected utility preferences, thereby exhibiting ambiguity aversion. Unlike previous findings, which suggest that learning outcomes depend on the specifics of the learning environment, this study establishes information cascades as a robust outcome under ambiguity. With sufficient ambiguity, cascades arise almost surely, regardless of the statistical properties of signal structures. Moreover, standard results predicting the absence of cascades can easily break down: Even minimal ambiguity can trigger cascades when signals are bounded and lead to incorrect herding when signals are unbounded. (JEL D81, D82, D83)</jats:p>",
+      "doi": "10.1257/aer.20231394",
+      "url": "https://doi.org/10.1257/aer.20231394"
+    },
+    {
+      "title": "Tying with Network Effects",
+      "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a “quasi-installed base” advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects. (JEL D41, D85, K21, L15, L40)</jats:p>",
+      "doi": "10.1257/aer.20240461",
+      "url": "https://doi.org/10.1257/aer.20240461"
+    },
+    {
+      "title": "Gender-Biased Technological Change: Milking Machines and the Exodus of Women from Farming",
+      "authors": "Philipp Ager, Marc Goñi, Kjell G. Salvanes",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "<jats:p>This paper studies how gender-biased technological change in agriculture affected women’s work in twentieth-century Norway. In the 1950s, dairy farms began widely adopting milking machines to replace milking cows by hand, a task typically performed by young women. We show that the machines pushed rural young women in dairy-intensive areas out of farming. The displaced women moved to cities where they acquired more education and found better-paying, skilled employment. Our results suggest that the adoption of milking machines broke up allocative inefficiencies associated with moving costs across sectors, which improved the economic status of women relative to men. (JEL J16, J24, J43, J61, N34, N54, O33)</jats:p>",
+      "doi": "10.1257/aer.20240167",
+      "url": "https://doi.org/10.1257/aer.20240167"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -508,7 +598,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-12-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We combine administrative data with a life cycle structural model that exploits the unique features of the U.K. mortgage market to analyze the sources of inaction and to estimate borrowers’ nonpecuniary remortgaging costs. The utility costs needed to generate a given level of inaction depend on monetary gains from remortgaging and on the importance of those monetary gains for agents, which in turn depend on the (endogenously determined) marginal utility of consumption. The model results reveal significant nonpecuniary costs of action that, when measured as a proportion of borrower income, are larger for the young and for lower-income households. (JEL G21, G51, R31)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We combine administrative data with a life cycle structural model that exploits the unique features of the U.K. mortgage market to analyze the sources of inaction and to estimate borrowers’ nonpecuniary remortgaging costs. The utility costs needed to generate a given level of inaction depend on monetary gains from remortgaging and on the importance of those monetary gains for agents, which in turn depend on the (endogenously determined) marginal utility of consumption. The model results reveal significant nonpecuniary costs of action that, when measured as a proportion of borrower income, are larger for the young and for lower-income households.</jats:p>",
       "doi": "10.1093/rfs/hhaf098",
       "url": "https://doi.org/10.1093/rfs/hhaf098"
     },
@@ -1123,7 +1213,7 @@
       "url": "https://doi.org/10.1093/qje/qjaf051"
     },
     {
-      "title": "Permanent Capital Losses After Banking Crises",
+      "title": "Permanent Capital Losses after Banking Crises",
       "authors": "Matthew Baron, Luc Laeven, Julien Pénasse, Yevhenii Usenko",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
