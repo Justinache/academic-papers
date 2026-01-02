@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-01T03:51:44.446Z",
-  "count": 518,
+  "lastUpdated": "2026-01-02T03:32:01.597Z",
+  "count": 503,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -591,6 +591,186 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Capital flows increase in response to new public information. Conventional explanations typically conclude that this reflects a rational response to reduced risk. However, investors may also be overconfident in their ability to benefit from new information, even when it is publicly available and does not provide a relative advantage. We exploit two complementary settings to examine how this “better‐than‐average” mechanism affects capital flows. Archival evidence from horse race betting markets shows capital flows increase following the public provision of a summary measure of horse performance, even though more total parimutuel wagering necessarily implies a greater wealth transfer from bettors to tracks. A controlled lab experiment provides direct causal evidence of our proposed mechanism. Combined, our results suggest that new public information can increase capital flows due to investors’ overconfidence in their ability to benefit from information relative to others. Our findings inform regulators seeking to understand the consequences of expanding the public information available to individual investors.</jats:p>",
       "doi": "10.1111/1475-679x.70031",
       "url": "https://doi.org/10.1111/1475-679x.70031"
+    },
+    {
+      "title": "The Road Less Traveled: A Nontraditional Path to Teaching and Scholarship",
+      "authors": "Jennifer M. Cainas",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper discusses my experiences as a nontenure track faculty member who now serves as an Associate Dean. It is based on my Presidential Scholar Lecture at the 2024 American Accounting Association Annual Meeting. In 2012, the Pathways Commission outlined the need and a path for more practitioners to join academia (Behn et al. 2012), and my academic career advanced partly due to that initiative. Earning a Doctor of Business Administration (D.B.A.) degree from University of Florida allowed me to support my school as a scholarly academic and pursue research that enhances my teaching and provided me with a path to administration as a nontenure track faculty member.</jats:p>",
+      "doi": "10.2308/tar-2025-0553",
+      "url": "https://doi.org/10.2308/tar-2025-0553"
+    },
+    {
+      "title": "Do Larger Reporting Networks Yield Benefits from Information Network Effects?",
+      "authors": "Anna Bergman Brown, Donal Byard, Masako Darrough, Jangwon Suh, Yakun Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study explores whether an increase in the size of firms’ reporting networks (the number of industry peer firms reporting in comparable standards) improves the quality of analysts’ information environments. We exploit the effect of the 2005 mandatory adoption of IFRS around the world on U.S. firms, as IFRS adoption did not directly affect U.S. firms but increased the size of their reporting networks. We document that mandatory IFRS adoption is associated with a significantly larger improvement in the quality of analysts’ information environment for U.S. firms with relatively few domestic industry peers than for other U.S. firms. Further, we show that there is a larger increase in the frequency with which analysts’ research reports for U.S. firms with few domestic peers mention IFRS-adopting EU industry peer firms. Our results provide evidence that mandatory reporting regulations that increase reporting comparability can result in positive information externalities from information network effects.</jats:p>\n                  <jats:p>JEL Classifications: K22; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2021-0778",
+      "url": "https://doi.org/10.2308/tar-2021-0778"
+    },
+    {
+      "title": "GAAP Earnings Forecast Quality: Implications for Research",
+      "authors": "Xi Chen, Allison Koester",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the implications of GAAP earnings forecast quality for accounting research. Using a tax law change with an estimable and material GAAP earnings impact, we find that analysts’ GAAP forecasts generally fail to incorporate this impact, whereas investors respond promptly, suggesting that GAAP forecasts omit earnings information deemed relevant by investors and are of low quality. Analyzing quarterly GAAP forecasts from 2004–2019 and classifying GAAP forecasts that equal their street counterparts when GAAP and street actuals differ as low quality, we again find widespread low GAAP forecast quality. Low quality GAAP forecasts affect research inferences: they dampen GAAP earnings response coefficient (ERC) estimates, reduce the explanatory power of GAAP surprises for returns, affect inferences regarding market rewards for meeting-or-beating via exclusions, and understate the extent that GAAP forecasts incorporate exclusion components. We propose two strategies to mitigate the adverse effects of low quality GAAP forecasts on research inferences.</jats:p>\n                  <jats:p>Data Availability: Data are from publicly available sources as identified within the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: G14; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2021-0646",
+      "url": "https://doi.org/10.2308/tar-2021-0646"
+    },
+    {
+      "title": "Managing Quality Control System Changes: How Audit Firm Leaders Experience and Navigate Conflicting Institutional Demands",
+      "authors": "Christie Hayne, Mark E. Peecher, Jeffrey Pickerd, Yuepin Zhou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Although rapidly evolving, quality control (QC) systems are a poorly understood determinant of audit quality. We interview 27 QC system leaders to understand how they navigate the challenges they face in changing QC systems. We find that many challenges—including obtaining buy-in, evaluating costs and benefits, and advancing proactive over reactive changes—are caused by conflicting demands arising internally. Consistent with institutional theory, our data reveal that leaders respond to conflicting demands by seeking partial conformity (e.g., negotiating among stakeholders) or by altering the framing of the demands (e.g., using scientific logic to legitimize a QC change). Interviews of eight QC system users complement and corroborate our main results and suggest opportunities for future research. Our study sheds light on how firms update QC systems and informs practitioners, regulators, and academics of the forces that shape the evolution of QC systems.</jats:p>\n                  <jats:p>Data Availability: Our data are not publicly available to preserve participant anonymity.</jats:p>",
+      "doi": "10.2308/tar-2023-0152",
+      "url": "https://doi.org/10.2308/tar-2023-0152"
+    },
+    {
+      "title": "The Effect of Financial Regulation on Nonfinancial Violations",
+      "authors": "Vincent Giese, Jonas Heese",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the effect of financial regulation on nonfinancial violations. Using differences in compliance requirements with Sarbanes-Oxley Act of 2002 (SOX) Section 404, we find that adoption of Section 404 increased firms’ propensity for nonfinancial violations. This effect is stronger for firms with greater external scrutiny toward their financial reporting, greater challenges in monitoring their operations, and limited resources. These results, together with an examination of changes in audit fees, conference call transcripts, and 10-K disclosures, suggest that the effects primarily stem from a shift in attention and resources toward SOX 404. Further, the effects are concentrated in employee-related violations and persist for approximately two years. Overall, our results suggest that financial reporting regulation can result in unintended consequences harming stakeholders, such as employees.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0676",
+      "url": "https://doi.org/10.2308/tar-2023-0676"
+    },
+    {
+      "title": "The Effect of Relative Performance Evaluations on Employee Judgments of and Behavioral Responses to Managerial Monitoring",
+      "authors": "Joseph Burke, Jordan A. Samet",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether and how a widely established finding—employees respond negatively to managerial monitoring—generalizes to different performance-evaluation systems. We predict that relative performance evaluations (RPEs), a common evaluation feature in multiagent settings, attenuate employees’ negative responses to managerial monitoring. The results of our experiment support our theory. Consistent with prior literature, we find that without RPE, employees respond significantly more negatively to managerial monitoring compared to no monitoring. However, we find that the effect of managerial monitoring on employee responses is moderated in the presence of RPE—employees respond similarly regardless of whether their manager implements a monitoring control. We provide robust analyses to support our theory-derived mechanisms, demonstrating that our results are driven by employees’ fairness perceptions of managers’ monitoring decisions. Collectively, this study aids in the understanding of how and under what circumstances managerial monitoring may be more or less beneficial.</jats:p>\n                  <jats:p>Data Availability: Available upon request.</jats:p>\n                  <jats:p>JEL Classifications: C90; D91; J31; M40.</jats:p>",
+      "doi": "10.2308/tar-2023-0680",
+      "url": "https://doi.org/10.2308/tar-2023-0680"
+    },
+    {
+      "title": "Cybersecurity Risk and Bank Loan Contracting",
+      "authors": "Amy G. Sheneman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Cybersecurity risk is a growing concern for public companies as economic activity increasingly relies on technology. Drawing on finance theory, which posits that lenders possess private information about borrowers, I hypothesize that lenders price cybersecurity risks into loan contracts. A priori, this relation is unclear, given the unpredictable nature of cybersecurity risk and the difficulty lenders face in assessing the likelihood and magnitude of associated losses. Using the private debt market, I find a positive association between cybersecurity risk and the cost of debt. This relation is weaker for borrowers with high-quality information technology and stronger in less competitive lending markets. I also find that, following successful cyberattacks, secondary market loan prices decline (increase) for borrowers with high (low) ex ante cybersecurity risk. Overall, these results suggest that, whereas the SEC’s newly adopted cybersecurity disclosures may provide decision-useful information to retail investors, they may be less relevant for certain stakeholders.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G21; G32; K24; M15.</jats:p>",
+      "doi": "10.2308/tar-2024-0103",
+      "url": "https://doi.org/10.2308/tar-2024-0103"
+    },
+    {
+      "title": "The Real Effects of Accounting on R&D Alliance Formations and Innovation: Evidence from ASC 606",
+      "authors": "Furkan M. Çetin",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine how Accounting Standards Codification (ASC) 606 affects R&amp;D alliance formations and innovation in the drug development industry. ASC 606 alters revenue recognition timing and increases disclosure requirements. I document that firms dependent on R&amp;D alliance revenues accelerate revenue recognition and expand revenue-related disclosures following ASC 606 adoption. These concurrent changes reduce information asymmetry, both between firms and between managers and investors, but only when increased disclosure accompanies accelerated recognition. Consistent with these net reductions in information asymmetry, affected firms raise more equity capital and increase R&amp;D investment. Notably, these firms, which historically acted as technology providers (principals), form more R&amp;D alliances as technology acquirers (partners). Consequently, they exhibit higher innovation output, measured by new patents and drug candidates. This study identifies a specific mechanism through which accounting standards can stimulate innovation: reduced information asymmetry that facilitates strategic R&amp;D alliance formation.</jats:p>",
+      "doi": "10.2308/tar-2022-0302",
+      "url": "https://doi.org/10.2308/tar-2022-0302"
+    },
+    {
+      "title": "Common Auditors in Supply Chain Relationships and the Provision of Trade Credit",
+      "authors": "Ling Lei Lisic, Qiliang Liu, Timothy A. Seidel, Hanzhong Shi, Angie Wang, Aleksandra Zimmerman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the association between a shared common auditor among suppliers and customers and trade credit. Using hand-collected pairwise trade credit data, we find that a supplier extends more trade credit to a customer audited by a common auditor. This association is robust to alternative design specifications and various sample restrictions to alleviate selection bias. We then interview trade credit managers and executives as a prelude to archival analyses exploring multiple potential mechanisms to explain this association. The collective results are most consistent with the explanation that mutual third parties to a dyadic relationship can foster trust through social connections and increased salience of reputation effects rather than that a common auditor reduces information asymmetry about the rigor of the audit process.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0142",
+      "url": "https://doi.org/10.2308/tar-2022-0142"
+    },
+    {
+      "title": "The Effect of Financial Reporting on Strategic Investments: Evidence from Purchase Obligations",
+      "authors": "Suzie Noh",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine whether mandating the disclosure of investments influences firms’ strategic interactions. I exploit an SEC regulation requiring firms to report off-balance sheet purchase obligations, such as commitments to inventory purchases, CAPEX, R&amp;D, and advertising. Motivated by theory on strategic investments, I predict and find that firms increase investments if they have substitutive product market strategies with competitors and decrease investments if they have complementary strategies. This two-way finding is consistent with firms strategically using investments to influence competitors’ behavior. I show that changes in investments are concentrated among dominant firms (i.e., oligopolistic firms with large market shares), especially those with more irreversible investments, which have a greater ability to influence competitors’ actions. I also show that such changes in investments have real effects on firms’ sales growth, profit margins, and market share. Collectively, my results illustrate a novel channel through which financial reporting shapes firms’ investments and competition.</jats:p>\n                  <jats:p>JEL Classifications: G31; L11; L13; M40; M48.</jats:p>",
+      "doi": "10.2308/tar-2022-0371",
+      "url": "https://doi.org/10.2308/tar-2022-0371"
+    },
+    {
+      "title": "Redesigning Executive Incentives: The Rising Role of Subjective Performance Measures",
+      "authors": "Zackery D. Fox",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the growing use of subjective performance incentives used in executive bonuses, empirical evidence on their effectiveness remains inconclusive. This study explores three aspects of subjective metrics in bonus plan design: their prevalence, the goals they target, and their impact on managerial behavior and firm outcomes. First, I document 53.8 percent of CEO bonus plans include at least one subjective performance measure, and among these plans, an average of 38.9 percent of total bonus weight is allocated to these measures. Using machine learning, I show subjective metrics target incentives related to employees, firm culture, and executive performance. Second, using the Tax Cuts and Jobs Act as a quasi-exogenous shock to contract design, I find firms increase the number and weight of subjective metrics by 22.9 percent and 10.4 percent, respectively. Finally, I find the increasing prevalence of subjective performance measures positively influences CEO effort, corporate culture, and innovation.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are from public sources and available upon request.</jats:p>\n                  <jats:p>JEL Classifications: M12; J33; G38; M41; H2.</jats:p>",
+      "doi": "10.2308/tar-2022-0219",
+      "url": "https://doi.org/10.2308/tar-2022-0219"
+    },
+    {
+      "title": "Promoting Organizational Citizenship Behavior (OCB): Unintended Gender Disparities in the Participation and Evaluation of Different Types of OCB",
+      "authors": "Jasmijn C. Bol, Hila Fogel-Yaari, Isabella Grabner, Karen L. Sedatole",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Organizational citizenship behavior (OCB), which involves employees voluntarily going “above and beyond” their defined job responsibilities, is important for organizational success. We examine unintended consequences of using a management control system to promote and reward OCBs. Specifically, because OCB transcends preestablished core job performance criteria, valuation of OCB necessarily relies on subjective judgments, allowing gender stereotypes to manifest. Using proprietary data from a financial services firm, we examine two types of OCBs: agentic and communal OCBs. Consistent with gender stereotypes, women are less likely to participate in agentic OCB and more likely to participate in communal OCB. Consistent with “shifting standards” theory, we find that men obtain a significant evaluation premium for communal OCB, whereas women obtain a marginal evaluation premium for agentic OCB. Our findings build upon research showing career benefits of OCB, on average, to show gender differences in the value organizations place on different types of OCB.</jats:p>\n                  <jats:p>Data Availability: This study uses proprietary data from an organization.</jats:p>\n                  <jats:p>JEL Classifications: M10; M12; M40; M41; M50; M52.</jats:p>",
+      "doi": "10.2308/tar-2024-0149",
+      "url": "https://doi.org/10.2308/tar-2024-0149"
+    },
+    {
+      "title": "Risk Choice and Voluntary Disclosure",
+      "authors": "Byeong-Je An, Suil Pae",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper presents a model in which investors price risk and a firm makes an investment to reduce its cash flow risk. Subsequently, the firm may or may not privately receive information about the future cash flow, whose disclosure is under its discretion. We show that the equilibrium cash flow precision increases with investor risk aversion, but decreases with the likelihood that the firm has private information and the quality of that information. In addition, the equilibrium probability of disclosure increases when the firm is more likely to have higher-quality private information, but it may increase or decrease when investor risk aversion increases. Using these comparative statics, we rationalize mixed empirical findings on the relation between risk and disclosure as equilibrium outcomes. The model is extended to a setting where the firm also makes an investment to increase the mean of its future cash flow.</jats:p>\n                  <jats:p>JEL Classifications: D61; G14; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0718",
+      "url": "https://doi.org/10.2308/tar-2024-0718"
+    },
+    {
+      "title": "Responsible Investors and Stock Market Feedback",
+      "authors": "Hui Chen, Jan Schneemeier",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how stock market feedback affects corporate investment when responsible investors are active in the market. These investors experience disutility when the firm’s investment decisions are misaligned with their nonfinancial preferences. A manager chooses between two projects that are ex ante financially equivalent: a “green” one aligned with investor preferences and a “brown” one that is not (e.g., due to environmental or social concerns). The success of the project depends on matching the investment with the state of nature. Because responsible investors prefer to hold green firms, trading is more informative when the firm signals green, strengthening market feedback. Anticipating this, the manager may misreport a brown signal as green to attract responsible investors. However, such manipulation can deter investors from acquiring information and reduce the firm’s value. We show that this mechanism is robust to several alternative investor compositions.</jats:p>\n                  <jats:p>JEL Classifications: G14; G30; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0561",
+      "url": "https://doi.org/10.2308/tar-2023-0561"
+    },
+    {
+      "title": "The Impact of Mandatory Sustainability Reporting on Institutional Investment: The Role of Reporting Location",
+      "authors": "Mark DeFond, Mingyi Hung, Emily Jing Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether foreign institutional investors respond to the sustainability disclosures mandated by the EU’s Non-Financial Reporting Directive and whether disclosure location affects their response. We find that foreign institutions increase ownership in companies affected by the mandate and that the increase is greater in countries that locate the sustainability disclosures within their annual reports, referred to as combined reporting. This is consistent with combined reporting reducing investors’ disclosure processing costs by providing timelier disclosure and better integration of sustainability and financial information. We further find that the increase in ownership is greater in countries that experience a larger increase in the number of firms issuing combined reports, consistent with combined reporting increasing comparability of the sustainability disclosures. Our findings suggest that the location of sustainability reporting plays an important role in cross-border investment decisions, which provides policy implications for the implementation of global sustainability disclosure regulation.</jats:p>",
+      "doi": "10.2308/tar-2023-0276",
+      "url": "https://doi.org/10.2308/tar-2023-0276"
+    },
+    {
+      "title": "“What Is This Thing Called Controllability?” A Field Study of the Integration of the Controllability Principle in the Redesign of a Performance Measurement System",
+      "authors": "Wai Fong Chua, Johan Graaf, Kalle Kraus",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This longitudinal study investigates the integration of the controllability principle in the redesign of a performance measurement system (PMS). The PMS and the controllability principle are conceptualized as “epistemic objects” (open, question-generating, and complex objects) which are associated with varying stakeholder desires. The paper makes two contributions. First, it demonstrates how a PMS can oscillate between different interpretations of the controllability principle (narrow versus broad), resulting in different controllability boundaries (tight versus loose). Second, the paper theorizes how multiple epistemic objects are formed into combination structures (a combination of epistemic objects that are subsequently codeveloped). Three sequentially developed combination structures of the controllability principle and the PMS, along with their associated effects, are reported. The paper demonstrates how combination structures can, ironically, become antithetical to the desires that set change in motion, and in this case, render the PMS incapable of measuring performance on complex environmental and societal challenges.</jats:p>",
+      "doi": "10.2308/tar-2024-0295",
+      "url": "https://doi.org/10.2308/tar-2024-0295"
+    },
+    {
+      "title": "Do Investors Fully Understand the Seasonality in Accruals?",
+      "authors": "Siu Kai Choy, Gerald J. Lobo, Yongxian Tan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Seasonal fluctuations in a firm’s business activities can affect its balance sheet and give rise to seasonally predictable accruals. We find that seasonal patterns in accruals are associated with future stock returns. Specifically, we find that firms with historically lower (higher) accruals in a given fiscal quarter have higher (lower) stock returns in the months when those accruals are expected to be announced. Our results suggest that investors do not fully understand and price historical information on accruals seasonality. Additional analyses suggest that the emergence of this accruals seasonality anomaly is concentrated in the post-2001 period and driven by the effects of unsophisticated arbitrage against the accruals anomaly.</jats:p>\n                  <jats:p>JEL Classifications: G10; G12; G14.</jats:p>",
+      "doi": "10.2308/tar-2021-0891",
+      "url": "https://doi.org/10.2308/tar-2021-0891"
+    },
+    {
+      "title": "The Cost of Investor Protection: Bank Loan Contracting During SEC Investigations",
+      "authors": "Yangyang Chen, Emmanuel Ofosu, Jeffrey Pittman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In examining the loan contracting implications of SEC investigations, we document that banks charge higher loan spreads when borrowers are under investigation, with the rise in interest rates varying predictably with lender characteristics. Further, our evidence implies that the debt pricing impact of SEC investigations is amplified for borrowers suffering worse credit quality and information asymmetry as well as those relying more on bank loans. These findings suggest that banks perceive increased risk for borrowers under SEC scrutiny while also leveraging their knowledge of the investigations to extract rents. Supplemental analyses reveal tighter nonspread loan terms and a higher likelihood of amending existing loan contracts during SEC investigations. Additionally, the tightening of loan terms reverses for investigations that conclude without enforcement actions. Overall, our research identifies an economic cost of SEC investigations and alerts regulators to these costs when deciding whether to launch an investigation.</jats:p>\n                  <jats:p>Data Availability: All data used are available from the sources indicated in the paper.</jats:p>\n                  <jats:p>JEL Classifications: M41; D82; G21; K22.</jats:p>",
+      "doi": "10.2308/tar-2024-0405",
+      "url": "https://doi.org/10.2308/tar-2024-0405"
     },
     {
       "title": "When Discounted Rates End: The Costs of Taking Action in the Mortgage Market",
@@ -1763,16 +1943,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0506"
     },
     {
-      "title": "The Road Less Traveled: A Nontraditional Path to Teaching and Scholarship",
-      "authors": "Jennifer M. Cainas",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper discusses my experiences as a nontenure track faculty member who now serves as an Associate Dean. It is based on my Presidential Scholar Lecture at the 2024 American Accounting Association Annual Meeting. In 2012, the Pathways Commission outlined the need and a path for more practitioners to join academia (Behn et al. 2012), and my academic career advanced partly due to that initiative. Earning a Doctor of Business Administration (D.B.A.) degree from University of Florida allowed me to support my school as a scholarly academic and pursue research that enhances my teaching and provided me with a path to administration as a nontenure track faculty member.</jats:p>",
-      "doi": "10.2308/tar-2025-0553",
-      "url": "https://doi.org/10.2308/tar-2025-0553"
-    },
-    {
       "title": "Un-Nudging Pay Gaps: The Role of Pay Raise Budget Framing",
       "authors": "Hayden T. Gunnell, Karl Schuhmacher, Kristy L. Towry",
       "journal": "The Accounting Review",
@@ -1801,16 +1971,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Governments implement wealth transfers with different policy goals and distribution methods. Prior research examines the timing (lump sum/periodic) of transfers but fails to simultaneously consider payment delivery method (standalone/combined with other income). Based on the behavioral life-cycle model, we predict payment timing influences how recipients spend government transfers, but that this effect is muted when the transfer payment is combined with other income. In contrast to prior research, our experimental findings provide theory-consistent results and suggest recipients of a periodic transfer spend more of the transfer than recipients of a lump sum transfer, but only when the transfer is standalone and not combined. Our findings help to explain theory-inconsistent results of prior research and extend the literature on the behavioral life-cycle model and mental budgeting. Moreover, our results suggest policymakers can intentionally structure the distribution of government transfers to encourage household spending or saving consistent with policy goals.</jats:p>",
       "doi": "10.2308/tar-2024-0150",
       "url": "https://doi.org/10.2308/tar-2024-0150"
-    },
-    {
-      "title": "Do Larger Reporting Networks Yield Benefits from Information Network Effects?",
-      "authors": "Anna Bergman Brown, Donal Byard, Masako Darrough, Jangwon Suh, Yakun Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study explores whether an increase in the size of firms’ reporting networks (the number of industry peer firms reporting in comparable standards) improves the quality of analysts’ information environments. We exploit the effect of the 2005 mandatory adoption of IFRS around the world on U.S. firms, as IFRS adoption did not directly affect U.S. firms but increased the size of their reporting networks. We document that mandatory IFRS adoption is associated with a significantly larger improvement in the quality of analysts’ information environment for U.S. firms with relatively few domestic industry peers than for other U.S. firms. Further, we show that there is a larger increase in the frequency with which analysts’ research reports for U.S. firms with few domestic peers mention IFRS-adopting EU industry peer firms. Our results provide evidence that mandatory reporting regulations that increase reporting comparability can result in positive information externalities from information network effects.</jats:p>\n                  <jats:p>JEL Classifications: K22; M41; M48.</jats:p>",
-      "doi": "10.2308/tar-2021-0778",
-      "url": "https://doi.org/10.2308/tar-2021-0778"
     },
     {
       "title": "The Value of Theory-Based Research in Accounting",
@@ -3033,136 +3193,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70019"
     },
     {
-      "title": "GAAP Earnings Forecast Quality: Implications for Research",
-      "authors": "Xi Chen, Allison Koester",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We examine the implications of GAAP earnings forecast quality for accounting research. Using a tax law change with an estimable and material GAAP earnings impact, we find that analysts’ GAAP forecasts generally fail to incorporate this impact, whereas investors respond promptly, suggesting that GAAP forecasts omit earnings information deemed relevant by investors and are of low quality. Analyzing quarterly GAAP forecasts from 2004–2019 and classifying GAAP forecasts that equal their street counterparts when GAAP and street actuals differ as low quality, we again find widespread low GAAP forecast quality. Low quality GAAP forecasts affect research inferences: they dampen GAAP earnings response coefficient (ERC) estimates, reduce the explanatory power of GAAP surprises for returns, affect inferences regarding market rewards for meeting-or-beating via exclusions, and understate the extent that GAAP forecasts incorporate exclusion components. We propose two strategies to mitigate the adverse effects of low quality GAAP forecasts on research inferences.</jats:p>\n               <jats:p>Data Availability: Data are from publicly available sources as identified within the manuscript.</jats:p>\n               <jats:p>JEL Classifications: G14; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2021-0646",
-      "url": "https://doi.org/10.2308/tar-2021-0646"
-    },
-    {
-      "title": "Managing Quality Control System Changes: How Audit Firm Leaders Experience and Navigate Conflicting Institutional Demands",
-      "authors": "Christie Hayne, Mark E. Peecher, Jeffrey Pickerd, Yuepin Zhou",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Although rapidly evolving, quality control (QC) systems are a poorly understood determinant of audit quality. We interview 27 QC system leaders to understand how they navigate the challenges they face in changing QC systems. We find that many challenges—including obtaining buy-in, evaluating costs and benefits, and advancing proactive over reactive changes—are caused by conflicting demands arising internally. Consistent with institutional theory, our data reveal that leaders respond to conflicting demands by seeking partial conformity (e.g., negotiating among stakeholders) or by altering the framing of the demands (e.g., using scientific logic to legitimize a QC change). Interviews of eight QC system users complement and corroborate our main results and suggest opportunities for future research. Our study sheds light on how firms update QC systems and informs practitioners, regulators, and academics of the forces that shape the evolution of QC systems.</jats:p>\n               <jats:p>Data Availability: Our data are not publicly available to preserve participant anonymity.</jats:p>",
-      "doi": "10.2308/tar-2023-0152",
-      "url": "https://doi.org/10.2308/tar-2023-0152"
-    },
-    {
-      "title": "The Effect of Financial Regulation on Nonfinancial Violations",
-      "authors": "Vincent Giese, Jonas Heese",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the effect of financial regulation on nonfinancial violations. Using differences in compliance requirements with Sarbanes-Oxley Act of 2002 (SOX) Section 404, we find that adoption of Section 404 increased firms’ propensity for nonfinancial violations. This effect is stronger for firms with greater external scrutiny toward their financial reporting, greater challenges in monitoring their operations, and limited resources. These results, together with an examination of changes in audit fees, conference call transcripts, and 10-K disclosures, suggest that the effects primarily stem from a shift in attention and resources toward SOX 404. Further, the effects are concentrated in employee-related violations and persist for approximately two years. Overall, our results suggest that financial reporting regulation can result in unintended consequences harming stakeholders, such as employees.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0676",
-      "url": "https://doi.org/10.2308/tar-2023-0676"
-    },
-    {
-      "title": "The Effect of Relative Performance Evaluations on Employee Judgments of and Behavioral Responses to Managerial Monitoring",
-      "authors": "Joseph Burke, Jordan A. Samet",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We examine whether and how a widely established finding—employees respond negatively to managerial monitoring—generalizes to different performance-evaluation systems. We predict that relative performance evaluations (RPEs), a common evaluation feature in multiagent settings, attenuate employees’ negative responses to managerial monitoring. The results of our experiment support our theory. Consistent with prior literature, we find that without RPE, employees respond significantly more negatively to managerial monitoring compared to no monitoring. However, we find that the effect of managerial monitoring on employee responses is moderated in the presence of RPE—employees respond similarly regardless of whether their manager implements a monitoring control. We provide robust analyses to support our theory-derived mechanisms, demonstrating that our results are driven by employees’ fairness perceptions of managers’ monitoring decisions. Collectively, this study aids in the understanding of how and under what circumstances managerial monitoring may be more or less beneficial.</jats:p>\n               <jats:p>Data Availability: Available upon request.</jats:p>\n               <jats:p>JEL Classifications: C90; D91; J31; M40.</jats:p>",
-      "doi": "10.2308/tar-2023-0680",
-      "url": "https://doi.org/10.2308/tar-2023-0680"
-    },
-    {
-      "title": "Cybersecurity Risk and Bank Loan Contracting",
-      "authors": "Amy G. Sheneman",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Cybersecurity risk is a growing concern for public companies as economic activity increasingly relies on technology. Drawing on finance theory, which posits that lenders possess private information about borrowers, I hypothesize that lenders price cybersecurity risks into loan contracts. A priori, this relation is unclear, given the unpredictable nature of cybersecurity risk and the difficulty lenders face in assessing the likelihood and magnitude of associated losses. Using the private debt market, I find a positive association between cybersecurity risk and the cost of debt. This relation is weaker for borrowers with high-quality information technology and stronger in less competitive lending markets. I also find that, following successful cyberattacks, secondary market loan prices decline (increase) for borrowers with high (low) ex ante cybersecurity risk. Overall, these results suggest that, whereas the SEC’s newly adopted cybersecurity disclosures may provide decision-useful information to retail investors, they may be less relevant for certain stakeholders.</jats:p>\n               <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n               <jats:p>JEL Classifications: G21; G32; K24; M15.</jats:p>",
-      "doi": "10.2308/tar-2024-0103",
-      "url": "https://doi.org/10.2308/tar-2024-0103"
-    },
-    {
-      "title": "The Real Effects of Accounting on R&D Alliance Formations and Innovation: Evidence from ASC 606",
-      "authors": "Furkan M. Çetin",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>I examine how Accounting Standards Codification (ASC) 606 affects R&amp;D alliance formations and innovation in the drug development industry. ASC 606 alters revenue recognition timing and increases disclosure requirements. I document that firms dependent on R&amp;D alliance revenues accelerate revenue recognition and expand revenue-related disclosures following ASC 606 adoption. These concurrent changes reduce information asymmetry, both between firms and between managers and investors, but only when increased disclosure accompanies accelerated recognition. Consistent with these net reductions in information asymmetry, affected firms raise more equity capital and increase R&amp;D investment. Notably, these firms, which historically acted as technology providers (principals), form more R&amp;D alliances as technology acquirers (partners). Consequently, they exhibit higher innovation output, measured by new patents and drug candidates. This study identifies a specific mechanism through which accounting standards can stimulate innovation: reduced information asymmetry that facilitates strategic R&amp;D alliance formation.</jats:p>",
-      "doi": "10.2308/tar-2022-0302",
-      "url": "https://doi.org/10.2308/tar-2022-0302"
-    },
-    {
-      "title": "Common Auditors in Supply Chain Relationships and the Provision of Trade Credit",
-      "authors": "Ling Lisic, Qiliang Liu, Timothy A. Seidel, Hanzhong Shi, Angie Wang, Aleksandra Zimmerman",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This study examines the association between a shared common auditor among suppliers and customers and trade credit. Using hand-collected pairwise trade credit data, we find that a supplier extends more trade credit to a customer audited by a common auditor. This association is robust to alternative design specifications and various sample restrictions to alleviate selection bias. We then interview trade credit managers and executives as a prelude to archival analyses exploring multiple potential mechanisms to explain this association. The collective results are most consistent with the explanation that mutual third parties to a dyadic relationship can foster trust through social connections and increased salience of reputation effects rather than that a common auditor reduces information asymmetry about the rigor of the audit process.</jats:p>\n               <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n               <jats:p>JEL Classifications: M41; M42.</jats:p>",
-      "doi": "10.2308/tar-2022-0142",
-      "url": "https://doi.org/10.2308/tar-2022-0142"
-    },
-    {
-      "title": "The Effect of Financial Reporting on Strategic Investments: Evidence from Purchase Obligations",
-      "authors": "Suzie Noh",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>I examine whether mandating the disclosure of investments influences firms’ strategic interactions. I exploit an SEC regulation requiring firms to report off-balance sheet purchase obligations, such as commitments to inventory purchases, CAPEX, R&amp;D, and advertising. Motivated by theory on strategic investments, I predict and find that firms increase investments if they have substitutive product market strategies with competitors and decrease investments if they have complementary strategies. This two-way finding is consistent with firms strategically using investments to influence competitors’ behavior. I show that changes in investments are concentrated among dominant firms (i.e., oligopolistic firms with large market shares), especially those with more irreversible investments, which have a greater ability to influence competitors’ actions. I also show that such changes in investments have real effects on firms’ sales growth, profit margins, and market share. Collectively, my results illustrate a novel channel through which financial reporting shapes firms’ investments and competition.</jats:p>\n               <jats:p>JEL Classifications: G31; L11; L13; M40; M48.</jats:p>",
-      "doi": "10.2308/tar-2022-0371",
-      "url": "https://doi.org/10.2308/tar-2022-0371"
-    },
-    {
-      "title": "Redesigning Executive Incentives: The Rising Role of Subjective Performance Measures",
-      "authors": "Zackery D. Fox",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Despite the growing use of subjective performance incentives used in executive bonuses, empirical evidence on their effectiveness remains inconclusive. This study explores three aspects of subjective metrics in bonus plan design: their prevalence, the goals they target, and their impact on managerial behavior and firm outcomes. First, I document 53.8 percent of CEO bonus plans include at least one subjective performance measure, and among these plans, an average of 38.9 percent of total bonus weight is allocated to these measures. Using machine learning, I show subjective metrics target incentives related to employees, firm culture, and executive performance. Second, using the Tax Cuts and Jobs Act as a quasi-exogenous shock to contract design, I find firms increase the number and weight of subjective metrics by 22.9 percent and 10.4 percent, respectively. Finally, I find the increasing prevalence of subjective performance measures positively influences CEO effort, corporate culture, and innovation.</jats:p>\n               <jats:p>Data Availability: The data used in this study are from public sources and available upon request.</jats:p>\n               <jats:p>JEL Classifications: M12; J33; G38; M41; H2.</jats:p>",
-      "doi": "10.2308/tar-2022-0219",
-      "url": "https://doi.org/10.2308/tar-2022-0219"
-    },
-    {
-      "title": "Promoting Organizational Citizenship Behavior (OCB): Unintended Gender Disparities in the Participation and Evaluation of Different Types of OCB",
-      "authors": "Jasmijn C. Bol, Hila Fogel-Yaari, Isabella Grabner, Karen L. Sedatole",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Organizational citizenship behavior (OCB), which involves employees voluntarily going “above and beyond” their defined job responsibilities, is important for organizational success. We examine unintended consequences of using a management control system to promote and reward OCBs. Specifically, because OCB transcends preestablished core job performance criteria, valuation of OCB necessarily relies on subjective judgments, allowing gender stereotypes to manifest. Using proprietary data from a financial services firm, we examine two types of OCBs: agentic and communal OCBs. Consistent with gender stereotypes, women are less likely to participate in agentic OCB and more likely to participate in communal OCB. Consistent with “shifting standards” theory, we find that men obtain a significant evaluation premium for communal OCB, whereas women obtain a marginal evaluation premium for agentic OCB. Our findings build upon research showing career benefits of OCB, on average, to show gender differences in the value organizations place on different types of OCB.</jats:p>\n                  <jats:p>Data Availability: This study uses proprietary data from an organization.</jats:p>\n                  <jats:p>JEL Classifications: M10; M12; M40; M41; M50; M52.</jats:p>",
-      "doi": "10.2308/tar-2024-0149",
-      "url": "https://doi.org/10.2308/tar-2024-0149"
-    },
-    {
-      "title": "Risk Choice and Voluntary Disclosure",
-      "authors": "Byeong-Je An, Suil Pae",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper presents a model in which investors price risk and a firm makes an investment to reduce its cash flow risk. Subsequently, the firm may or may not privately receive information about the future cash flow, whose disclosure is under its discretion. We show that the equilibrium cash flow precision increases with investor risk aversion, but decreases with the likelihood that the firm has private information and the quality of that information. In addition, the equilibrium probability of disclosure increases when the firm is more likely to have higher-quality private information, but it may increase or decrease when investor risk aversion increases. Using these comparative statics, we rationalize mixed empirical findings on the relation between risk and disclosure as equilibrium outcomes. The model is extended to a setting where the firm also makes an investment to increase the mean of its future cash flow.</jats:p>\n                  <jats:p>JEL Classifications: D61; G14; M41.</jats:p>",
-      "doi": "10.2308/tar-2024-0718",
-      "url": "https://doi.org/10.2308/tar-2024-0718"
-    },
-    {
-      "title": "Responsible Investors and Stock Market Feedback",
-      "authors": "Hui Chen, Jan Schneemeier",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how stock market feedback affects corporate investment when responsible investors are active in the market. These investors experience disutility when the firm’s investment decisions are misaligned with their nonfinancial preferences. A manager chooses between two projects that are ex ante financially equivalent: a “green” one aligned with investor preferences and a “brown” one that is not (e.g., due to environmental or social concerns). The success of the project depends on matching the investment with the state of nature. Because responsible investors prefer to hold green firms, trading is more informative when the firm signals green, strengthening market feedback. Anticipating this, the manager may misreport a brown signal as green to attract responsible investors. However, such manipulation can deter investors from acquiring information and reduce the firm’s value. We show that this mechanism is robust to several alternative investor compositions.</jats:p>\n                  <jats:p>JEL Classifications: G14; G30; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0561",
-      "url": "https://doi.org/10.2308/tar-2023-0561"
-    },
-    {
-      "title": "The Impact of Mandatory Sustainability Reporting on Institutional Investment: The Role of Reporting Location",
-      "authors": "Mark DeFond, Mingyi Hung, Emily Jing Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We investigate whether foreign institutional investors respond to the sustainability disclosures mandated by the EU’s Non-Financial Reporting Directive and whether disclosure location affects their response. We find that foreign institutions increase ownership in companies affected by the mandate and that the increase is greater in countries that locate the sustainability disclosures within their annual reports, referred to as combined reporting. This is consistent with combined reporting reducing investors’ disclosure processing costs by providing timelier disclosure and better integration of sustainability and financial information. We further find that the increase in ownership is greater in countries that experience a larger increase in the number of firms issuing combined reports, consistent with combined reporting increasing comparability of the sustainability disclosures. Our findings suggest that the location of sustainability reporting plays an important role in cross-border investment decisions, which provides policy implications for the implementation of global sustainability disclosure regulation.</jats:p>",
-      "doi": "10.2308/tar-2023-0276",
-      "url": "https://doi.org/10.2308/tar-2023-0276"
-    },
-    {
       "title": "ESG News, Future Cash Flows, and Firm Value",
       "authors": "François Derrien, Philipp Krüger, Augustin Landier, Tianhao Yao",
       "journal": "Journal of Finance",
@@ -3811,36 +3841,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101831",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101831"
-    },
-    {
-      "title": "“What Is This Thing Called Controllability?” A Field Study of the Integration of the Controllability Principle in the Redesign of a Performance Measurement System",
-      "authors": "Wai Fong Chua, Johan Graaf, Kalle Kraus",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-09-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This longitudinal study investigates the integration of the controllability principle in the redesign of a performance measurement system (PMS). The PMS and the controllability principle are conceptualized as “epistemic objects” (open, question-generating, and complex objects) which are associated with varying stakeholder desires. The paper makes two contributions. First, it demonstrates how a PMS can oscillate between different interpretations of the controllability principle (narrow versus broad), resulting in different controllability boundaries (tight versus loose). Second, the paper theorizes how multiple epistemic objects are formed into combination structures (a combination of epistemic objects that are subsequently codeveloped). Three sequentially developed combination structures of the controllability principle and the PMS, along with their associated effects, are reported. The paper demonstrates how combination structures can, ironically, become antithetical to the desires that set change in motion, and in this case, render the PMS incapable of measuring performance on complex environmental and societal challenges.</jats:p>",
-      "doi": "10.2308/tar-2024-0295",
-      "url": "https://doi.org/10.2308/tar-2024-0295"
-    },
-    {
-      "title": "Do Investors Fully Understand the Seasonality in Accruals?",
-      "authors": "Siu Kai Choy, Gerald J. Lobo, Yongxian Tan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-09-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Seasonal fluctuations in a firm’s business activities can affect its balance sheet and give rise to seasonally predictable accruals. We find that seasonal patterns in accruals are associated with future stock returns. Specifically, we find that firms with historically lower (higher) accruals in a given fiscal quarter have higher (lower) stock returns in the months when those accruals are expected to be announced. Our results suggest that investors do not fully understand and price historical information on accruals seasonality. Additional analyses suggest that the emergence of this accruals seasonality anomaly is concentrated in the post-2001 period and driven by the effects of unsophisticated arbitrage against the accruals anomaly.</jats:p>\n               <jats:p>JEL Classifications: G10; G12; G14.</jats:p>",
-      "doi": "10.2308/tar-2021-0891",
-      "url": "https://doi.org/10.2308/tar-2021-0891"
-    },
-    {
-      "title": "The Cost of Investor Protection: Bank Loan Contracting During SEC Investigations",
-      "authors": "Yangyang Chen, Emmanuel Ofosu, Jeffrey Pittman",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-09-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>In examining the loan contracting implications of SEC investigations, we document that banks charge higher loan spreads when borrowers are under investigation, with the rise in interest rates varying predictably with lender characteristics. Further, our evidence implies that the debt pricing impact of SEC investigations is amplified for borrowers suffering worse credit quality and information asymmetry as well as those relying more on bank loans. These findings suggest that banks perceive increased risk for borrowers under SEC scrutiny while also leveraging their knowledge of the investigations to extract rents. Supplemental analyses reveal tighter nonspread loan terms and a higher likelihood of amending existing loan contracts during SEC investigations. Additionally, the tightening of loan terms reverses for investigations that conclude without enforcement actions. Overall, our research identifies an economic cost of SEC investigations and alerts regulators to these costs when deciding whether to launch an investigation.</jats:p>\n               <jats:p>Data Availability: All data used are available from the sources indicated in the paper.</jats:p>\n               <jats:p>JEL Classifications: M41; D82; G21; K22.</jats:p>",
-      "doi": "10.2308/tar-2024-0405",
-      "url": "https://doi.org/10.2308/tar-2024-0405"
     },
     {
       "title": "The Credit Line Channel",
@@ -5031,156 +5031,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Using an experiment in which 3.1 million bank customers were encouraged to save, we explore the mechanisms behind coholding liquid savings and credit card debt. Theoretically, we show that the joint responses of spending, saving, and borrowing to the nudge differ across economic models of coholding. Using machine learning techniques, we find that the most responsive individuals reduce spending and increase savings by 4.9% (206 USD PPP per month) while their credit card debt remains unchanged. These individuals' marginal responses to the nudge are consistent with our model of coholding for the purpose of self‐ or partner‐control.</jats:p>",
       "doi": "10.1111/jofi.13466",
       "url": "https://doi.org/10.1111/jofi.13466"
-    },
-    {
-      "title": "The Long-Run Effects of Government Spending",
-      "authors": "Juan Antolin-Diaz, Paolo Surico",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> Military spending has large and persistent effects on output because it shifts the composition of public spending toward R&amp;D. This boosts innovation and private investment in the medium term and increases productivity and GDP at longer horizons. Public R&amp;D expenditure stimulates economic activities beyond the business cycle even when it is not associated with war spending. In contrast, the effects of public investment are shorter-lived, while public consumption has a modest impact at most horizons. We reach these conclusions using BVAR with long lags and 125 years of US data, including newly reconstructed series of government spending by main categories since 1890. (JEL E21, E22, E23, E62, H50, H56, O30) </jats:p>",
-      "doi": "10.1257/aer.20231278",
-      "url": "https://doi.org/10.1257/aer.20231278"
-    },
-    {
-      "title": "Home Price Expectations and Spending: Evidence from a Field Experiment",
-      "authors": "Felix Chopra, Christopher Roth, Johannes Wohlfart",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> We conduct a field experiment with US households to study how expectations about long-run home price growth shape spending decisions. We exogenously vary survey respondents' expectations by providing different expert forecasts. Homeowners' spending, measured using rich home-scanner data, is inelastic to home price expectations. By contrast, renters reduce their spending when expecting higher home price growth. These patterns reflect positive wealth effects for owners from higher future wealth and negative income effects for both groups due to higher future housing costs. Our study highlights consequences of asset price growth and long-term expectations about the economy for household behavior. (JEL C93, D12, D84, D91, G51, R31) </jats:p>",
-      "doi": "10.1257/aer.20240022",
-      "url": "https://doi.org/10.1257/aer.20240022"
-    },
-    {
-      "title": "A Stepping Stone Approach to Norm Transitions",
-      "authors": "Selim Gulesci, Sam Jindani, Eliana La Ferrara, David Smerdon, Munshi Sulaiman, Peyton Young",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> We propose a model to study when an intermediate action can serve as a stepping stone that enables the elimination of a harmful norm. While the intermediate action may facilitate the first “step,” it may also become a new norm. We derive intuitive conditions for stepping stones, which depend on the relative size of social penalties and intrinsic utility benefits. We propose an econometric approach to testing whether an intermediate action is a stepping stone, and apply it to original data on female genital cutting in Somalia. The analysis shows that the intermediate action may become the new norm. (JEL I12, J16, O15, O17, Z13) </jats:p>",
-      "doi": "10.1257/aer.20230458",
-      "url": "https://doi.org/10.1257/aer.20230458"
-    },
-    {
-      "title": "The Debt-Inflation Channel of the German (Hyper)Inflation",
-      "authors": "Markus Brunnermeier, Sergio Correia, Stephan Luck, Emil Verner, Tom Zimmermann",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> This paper studies how a large increase in the price level is transmitted to the real economy through firm balance sheets. Using newly digitized macro- and micro-level data from the German inflation of 1919–1923, we show inflation led to a large reduction in real debt burdens and bankruptcies. Firms with higher nominal liabilities at the onset of inflation experienced a larger decline in interest expenses, a relative increase in their equity values, and higher employment during the inflation. The results are consistent with real effects of a debt-inflation channel that operates even when prices and wages are flexible. (JEL D22, E23, E31, G32, N14, N24) </jats:p>",
-      "doi": "10.1257/aer.20230685",
-      "url": "https://doi.org/10.1257/aer.20230685"
-    },
-    {
-      "title": "The End of Privilege: A Reexamination of the Net Foreign Asset Position of the United States",
-      "authors": "Andrew Atkeson, Jonathan Heathcote, Fabrizio Perri",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> The US net foreign asset position declined sharply after 2007, reaching negative 60 percent of GDP by the third quarter of 2023. This deterioration primarily reflects a US-specific rise in corporate asset values that inflated the value of US equity liabilities to the rest of the world. To interpret these trends, we develop an international macrofinance model of flows, stocks, asset valuations, the current account, and the net foreign asset position. We find that the welfare impact of rising asset values for a representative US household has been quite negative given extensive foreign ownership of US corporate equity. (JEL F32, F21, F40, G15) </jats:p>",
-      "doi": "10.1257/aer.20230732",
-      "url": "https://doi.org/10.1257/aer.20230732"
-    },
-    {
-      "title": "Innovative Ideas and Gender (In)Equality",
-      "authors": "Marlène Koffi",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> This paper analyzes recognition of women's innovative ideas compared to men's using bibliometric data in economics, mathematics, and sociology. I establish similarities between papers to construct relevant counterfactual citations. On average, all-female papers receive 10 percent fewer citations than all-male papers, a disparity reduced by 40 percent when considering team sizes and disappearing in most fields with authors' publication records. Additionally, strong in-group preferences emerge: All-male teams omit more papers with women, and vice versa. Accounting for publication histories, female scholars are cited 0 percent (economics) to 11 percent (mathematics) less, with early-career women enduring a 9–14 percent citation penalty. (JEL A14, C45, I23, J16) </jats:p>",
-      "doi": "10.1257/aer.20211811",
-      "url": "https://doi.org/10.1257/aer.20211811"
-    },
-    {
-      "title": "Mission Motivation and Public Sector Performance: Experimental Evidence from Pakistan",
-      "authors": "Muhammad Yasir Khan",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> This paper studies, through a randomized field experiment involving community health workers in Pakistan, if public sector organizations can improve worker performance by investing in their mission motivation. The findings reveal that training aimed at strengthening mission motivation improves workers' performance in their core responsibility of monthly household visits, as well as in multiple tasks performed during and outside these visits. This holistic improvement in performance leads to improved health outcomes for children in the communities served by these workers. These results highlight the importance of promoting organizational missions as a strategy to improve public sector performance in low-income countries. (JEL C93, I11, J13, J24, L31, M53, O12) </jats:p>",
-      "doi": "10.1257/aer.20231247",
-      "url": "https://doi.org/10.1257/aer.20231247"
-    },
-    {
-      "title": "Effects of Enhanced Legal Aid in Child Welfare: Evidence from a Randomized Trial of Mi Abogado",
-      "authors": "Ryan Cooper, Joseph J. Doyle, Andrés Hojman",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> Children spend years in foster care, and bureaucratic hurdles can unnecessarily prolong their stays. The Mi Abogado program was introduced in Chile to enhance legal aid for foster children and accelerate family reunification. In a novel approach, the Chilean government randomized the introduction of the program for children living in institutions to evaluate effects on child well-being. Using registry data, we find the program significantly reduced the duration of foster care without increasing subsequent maltreatment and placements. The exposure also decreased criminal justice involvement and improved school attendance. Results suggest that strengthening foster care services can cost-effectively improve child well-being. (JEL I21, I31, J13, K36, O15, O17) </jats:p>",
-      "doi": "10.1257/aer.20230947",
-      "url": "https://doi.org/10.1257/aer.20230947"
-    },
-    {
-      "title": "Undergraduate Gender Diversity and the Direction of Scientific Research",
-      "authors": "Francesca Truffa, Ashley Wong",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "<jats:p> Can diversity lead to greater research focus on populations underrepresented in science? Between 1960 and 1990, 76 all-male US universities transitioned to coeducation. Using a generalized difference-in-differences design, we find that coeducation led to a 44 percent increase in gender-related research publications. This increase is driven by research focused on female subjects and gender differences. While coeducation led to a compositional shift with more women and researchers interested in gender topics, much of the increase comes from male incumbent researchers shifting their research focus toward gender-related topics. The results support interaction with more diverse students and peers as key underlying mechanisms. (JEL I23, J16, O31, O34) </jats:p>",
-      "doi": "10.1257/aer.20221561",
-      "url": "https://doi.org/10.1257/aer.20221561"
-    },
-    {
-      "title": "Policy Experimentation in China: The Political Economy of Policy Learning",
-      "authors": "Shaoda Wang, David Y. Yang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734873",
-      "url": "https://doi.org/10.1086/734873"
-    },
-    {
-      "title": "Inattentive Economies",
-      "authors": "George-Marios Angeletos, Karthik A. Sastry",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734870",
-      "url": "https://doi.org/10.1086/734870"
-    },
-    {
-      "title": "Panics and Early Warnings",
-      "authors": "Deepal Basak, Zhen Zhou",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1086/734875",
-      "url": "https://doi.org/10.1086/734875"
-    },
-    {
-      "title": "How do consumers use ESG disclosure? Evidence from a randomized field experiment with everyday product purchases",
-      "authors": "Sinja Leonelli, Maximilian Muhn, Thomas Rauter, Gurpal S. Sran",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101811",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101811"
-    },
-    {
-      "title": "Mandatory investor disclosure, sustainability commitments, and portfolio decarbonization",
-      "authors": "Jiyuan Dai, Gaizka Ormazabal, Fernando Penalva, Robert Raney",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101817",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101817"
-    },
-    {
-      "title": "Unraveling the time-series dynamics between aggregate earnings and GDP",
-      "authors": "Lindsey A. Gallo, Hengda Jin, Suhas A. Sridharan",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-07-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101806",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101806"
     }
   ]
 }
