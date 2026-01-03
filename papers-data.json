@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-02T03:32:01.597Z",
-  "count": 503,
+  "lastUpdated": "2026-01-03T03:23:39.536Z",
+  "count": 502,
   "papers": [
     {
       "title": "Manufacturing risk-free government debt",
@@ -524,11 +524,11 @@
     },
     {
       "title": "Who’s Afraid of the Minimum Wage? Measuring the Impacts on Independent Businesses Using Matched U.S. Tax Returns",
-      "authors": "Nirupama Rao, Max Risch",
+      "authors": "Nirupama L Rao, Max Risch",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-12-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A common concern surrounding minimum wage policies is their impact on independent businesses, which are often feared to be less able to bear or pass on cost increases. We examine how these typically small- and medium-size firms accommodate minimum wage increases along product and labor market margins using a matched owner-firm-worker panel dataset drawn from the universe of U.S. tax records over a 10-year period, and using state minimum wage changes as identifying variation. We find that, on average, firms in highly exposed industries do not substantially reduce employment — they do not layoff workers but moderately reduce part-time hiring. Instead, these firms are able to fully finance the new labor costs with new revenues, leaving average owner profits unchanged. Higher wage floors, however, forestall entry, particularly of less productive firms, reducing the number of independent firms operating in these industries by roughly 2%. Yet, these industries do not shrink; instead, incumbent responses and strong positive selection among entrants reshape industries that rely heavily on low-wage workers, yielding fewer but more productive firms after the cost shock. We also take a worker-level perspective to examine how potentially vulnerable individuals are affected by minimum wage increases. Using panels of low-earning and young workers, we find that their average earnings rise substantially with the minimum wage, while they are no less likely to be employed. Worker transitions indicate that minimum wage increases boost retention and that worker reallocation from independent firms toward corporations buffers disemployment impacts from reduced hiring at independent firms.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A common concern surrounding minimum wage policies is their impact on independent businesses, which are often feared to be less able to bear or pass on cost increases. We examine how these typically small and medium-size firms accommodate minimum wage increases along product and labor market margins using a matched owner-firm-worker panel data set drawn from the universe of U.S. tax records over a 10-year period, and using state minimum wage changes as identifying variation. We find that on average, firms in highly exposed industries do not substantially reduce employment—they do not lay off workers but moderately reduce part-time hiring. Instead, these firms are able to fully finance the new labor costs with new revenues, leaving average owner profits unchanged. Higher wage floors, however, forestall entry, particularly for less productive firms, reducing the number of independent firms operating in these industries by roughly 2%. Yet these industries do not shrink; instead, incumbent responses and strong positive selection among entrants reshape industries that rely heavily on low-wage workers, yielding fewer but more productive firms after the cost shock. We also take a worker-level perspective to examine how potentially vulnerable individuals are affected by minimum wage increases. Using panels of low-earning and young workers, we find that their average earnings rise substantially with the minimum wage, while they are no less likely to be employed. Worker transitions indicate that minimum wage increases boost retention and that worker reallocation from independent firms toward corporations buffers disemployment impacts from reduced hiring at independent firms.</jats:p>",
       "doi": "10.1093/qje/qjaf053",
       "url": "https://doi.org/10.1093/qje/qjaf053"
     },
@@ -538,7 +538,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-12-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies the returns to enrolling in American public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10 percent of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8 percent more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26 percent for the marginal students themselves, 16 percent for society (which must pay for the additional education), and 7 percent for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the returns to enrolling in U.S. public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10% of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8% more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26% for the marginal students themselves, 16% for society (which must pay for the additional education), and 7% for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.</jats:p>",
       "doi": "10.1093/qje/qjaf055",
       "url": "https://doi.org/10.1093/qje/qjaf055"
     },
@@ -1213,12 +1213,12 @@
       "url": "https://doi.org/10.1086/738148"
     },
     {
-      "title": "Enlightenment Ideals and Belief in Progress in The Run-up to the Industrial Revolution: A Textual Analysis",
+      "title": "Enlightenment Ideals and Belief in Progress in the Run-up to the Industrial Revolution: A Textual Analysis",
       "authors": "Ali Almelhem, Murat Iyigun, Austin Kennedy, Jared Rubin",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-11-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-18th century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language—especially those at the science-political economy nexus—were more progress-oriented beginning in the 18th century.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-eighteenth century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language—especially those at the science-political economy nexus—were more progress-oriented beginning in the eighteenth century.</jats:p>",
       "doi": "10.1093/qje/qjaf054",
       "url": "https://doi.org/10.1093/qje/qjaf054"
     },
@@ -5021,16 +5021,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper argues that a lesser known yet economically significant tax-deferral feature of ETFs’ security design is crucial to their success. By relying on the in-kind redemption exemption, authorized participants help ETFs avoid distributing capital gains and reduce their tax overhang, partly by deploying heartbeat trades. We estimate that the ETF tax efficiency has increased long-term investors’ after-tax returns by 1.05% per year relative to mutual funds in recent years. Exploiting cross-sectional and time-series variations in investors’ tax burden, we show that tax efficiency is a significant driver of capital migration by high-net-worth investors from mutual funds into ETFs.</jats:p>",
       "doi": "10.1093/rfs/hhaf044",
       "url": "https://doi.org/10.1093/rfs/hhaf044"
-    },
-    {
-      "title": "Does Saving Cause Borrowing? Implications for the Coholding Puzzle",
-      "authors": "Paolina C. Medina, Michaela Pagel",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-07-02",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Using an experiment in which 3.1 million bank customers were encouraged to save, we explore the mechanisms behind coholding liquid savings and credit card debt. Theoretically, we show that the joint responses of spending, saving, and borrowing to the nudge differ across economic models of coholding. Using machine learning techniques, we find that the most responsive individuals reduce spending and increase savings by 4.9% (206 USD PPP per month) while their credit card debt remains unchanged. These individuals' marginal responses to the nudge are consistent with our model of coholding for the purpose of self‐ or partner‐control.</jats:p>",
-      "doi": "10.1111/jofi.13466",
-      "url": "https://doi.org/10.1111/jofi.13466"
     }
   ]
 }
