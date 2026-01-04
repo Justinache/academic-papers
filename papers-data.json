@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-01-03T03:23:39.536Z",
-  "count": 502,
+  "lastUpdated": "2026-01-04T03:52:32.717Z",
+  "count": 503,
   "papers": [
+    {
+      "title": "Deep surrogates for finance: With an application to option pricing",
+      "authors": "Hui Chen, Antoine Didisheim, Simon Scheidegger",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104222",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104222"
+    },
     {
       "title": "Manufacturing risk-free government debt",
       "authors": "Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan",
