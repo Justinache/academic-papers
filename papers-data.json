@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-05T03:56:47.620Z",
-  "count": 503,
+  "lastUpdated": "2026-01-06T03:30:41.709Z",
+  "count": 508,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -331,6 +331,16 @@
       "abstract": "<jats:p>This paper studies how gender-biased technological change in agriculture affected women’s work in twentieth-century Norway. In the 1950s, dairy farms began widely adopting milking machines to replace milking cows by hand, a task typically performed by young women. We show that the machines pushed rural young women in dairy-intensive areas out of farming. The displaced women moved to cities where they acquired more education and found better-paying, skilled employment. Our results suggest that the adoption of milking machines broke up allocative inefficiencies associated with moving costs across sectors, which improved the economic status of women relative to men. (JEL J16, J24, J43, J61, N34, N54, O33)</jats:p>",
       "doi": "10.1257/aer.20240167",
       "url": "https://doi.org/10.1257/aer.20240167"
+    },
+    {
+      "title": "Multi-Metric Vesting Schemes in Executive Performance Equity Grants",
+      "authors": "Francesca Franco, Oktay Urcan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a large sample of executive performance equity grants over 2006–2019, we provide a comprehensive representation of the single- and multi-metric vesting schemes used by U.S. public firms and investigate the incentives provided by alternative functional forms of vesting formulas that combine earnings with stock returns and other nonearnings targets. Our results indicate that, compared to earnings-vesting single- and multi-metric summative grants, binding schemes that require the contemporaneous achievement of both earnings and nonearnings targets for grant vesting limit executive fixation on earnings and the associated incentives to maximize grant payouts by managing earnings around the targets. The findings confirm the expectation of different incentive effects from alternative (linear versus nonlinear) aggregations of multiple performance targets in the grant vesting formulas, with binding schemes being more effective in mitigating the risk of executives prioritizing earnings relative to other targets in multi-metric grants.</jats:p>\n                  <jats:p>JEL Classifications: G34; J33.</jats:p>",
+      "doi": "10.2308/tar-2024-0108",
+      "url": "https://doi.org/10.2308/tar-2024-0108"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -1221,6 +1231,46 @@
       "abstract": "",
       "doi": "10.1086/738148",
       "url": "https://doi.org/10.1086/738148"
+    },
+    {
+      "title": "The Leverage Effect of Bank Disclosures",
+      "authors": "Philipp J. König, Christian Laux, David Pothier",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how disclosures affect banks’ leverage and risk. Banks screen borrowers and originate loans, partially financed using insured deposits. The possibility to sell loans before they mature incentivizes banks to lever up using uninsured short-term debt to dilute insured deposits. If markets are opaque, good loans trade at a discount, which limits banks’ use of short-term debt. If markets are transparent, prices compound information contained in disclosures, which leads banks to issue more short-term debt to further dilute insured deposits. We identify conditions under which the increase in leverage caused by disclosures reduces banks’ screening incentives. Our analysis has important implications for prudential regulation, including minimum regulatory capital requirements and leverage-based deposit insurance premiums.</jats:p>\n                  <jats:p>JEL Classifications: D80; G21; G14.</jats:p>",
+      "doi": "10.2308/tar-2024-0186",
+      "url": "https://doi.org/10.2308/tar-2024-0186"
+    },
+    {
+      "title": "Fair Market Value of Used Capacity Assets: Forecasts for Repurposed Electric Vehicle Batteries",
+      "authors": "Amadeus Bach, Simona Onori, Stefan Reichelstein, Jihan Zhuang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In response to growing economic and environmental concerns, companies in a range of industries seek to repurpose products (assets) that retain functional capacity beyond their initial first life. This paper examines a generic valuation model for used capacity assets that can either be recycled immediately or repurposed for a second life application. We apply our model framework to lithium-ion batteries retired from electric vehicles, as these assets typically retain substantial energy storage capacity at the end of their first life. Our analysis focuses on two battery chemistries: lithium-iron-phosphate (LFP) and nickel-cobalt-X (NCX) based. We project their future fair market values in the United States and China. Our findings indicate that repurposing LFP batteries will be economically viable in both countries for the coming decade. In contrast, for most NCX batteries immediate recycling will soon be preferable due to their more valuable raw material content and shorter usable lives.</jats:p>",
+      "doi": "10.2308/tar-2025-0024",
+      "url": "https://doi.org/10.2308/tar-2025-0024"
+    },
+    {
+      "title": "Ex Ante\n                    Litigation Risk and Audit Firm Hiring and Retention",
+      "authors": "William M. Docimo, Nina Xu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the impact of ex ante litigation risk on auditor hiring and retention. Using employee data from LinkedIn, we find ex ante accounting-related litigation risk is associated with fewer auditors joining and more auditors leaving an audit office, whereas we fail to find any impact of nonaccounting litigation risk. Moreover, ex ante accounting-related litigation risk is associated with audit firms' hiring less experienced and less educated auditors, suggesting ex ante litigation risk impacts the quality of auditing hires. We also find that the impact of ex ante litigation risk is concentrated in audit offices with more outside job opportunities and in those that are more susceptible to changes in litigation risk. Our results highlight the impact of ex ante litigation risk on audit labor supply, providing insights concerning the unintended consequences of increasing auditors' legal liability.</jats:p>\n                  <jats:p>Data Availability: All data used in this study are based on publicly available information obtained through the services or authors cited in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: M42.</jats:p>",
+      "doi": "10.2308/tar-2024-0662",
+      "url": "https://doi.org/10.2308/tar-2024-0662"
+    },
+    {
+      "title": "Underreporting in Revenue-Sharing Contracts: Evidence from the Chinese Film Industry",
+      "authors": "Aner Zhou, Eric J. Allen, Fei Du, S. Mark Young",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Revenue-sharing contracts allow firms that are distant from their target markets to leverage sellers' local expertise. Although these contracts align incentives in operational decisions, they also introduce the potential for sellers to underreport revenues. We analyze film-level box office data from 7,309 Chinese cinemas and find that cinemas report significantly lower revenues for foreign films than for comparable domestic films, consistent with foreign producers being less able to monitor reported revenues due to geographic distance. The underreporting of foreign films is lower in cities with widespread mobile payments, in multi-unit cinemas, and when foreign films have more predictable revenues, suggesting institutional factors that increase detection likelihood can mitigate underreporting. Further tests indicate the lower reported box office revenues of foreign films is not due to government intervention. Our findings provide novel evidence of product-level misreporting under revenue-sharing contracts and offer insights on mitigating these risks in international markets.</jats:p>\n                  <jats:p>Data availability: Data are available via the sources specified in the paper. The authors greatly appreciate the data supplied by EntGroup (http://english.entgroup.com.cn/enbase.html) but are not able to share the data based on the agreement with Entgroup.</jats:p>\n                  <jats:p>JEL Classifications: F00; L82; M40.</jats:p>",
+      "doi": "10.2308/tar-2021-0546",
+      "url": "https://doi.org/10.2308/tar-2021-0546"
     },
     {
       "title": "Enlightenment Ideals and Belief in Progress in the Run-up to the Industrial Revolution: A Textual Analysis",
