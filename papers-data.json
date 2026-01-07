@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-06T03:30:41.709Z",
-  "count": 508,
+  "lastUpdated": "2026-01-07T03:30:36.238Z",
+  "count": 510,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104222",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104222"
+    },
+    {
+      "title": "The secular decline in interest rates and the rise of shadow banks",
+      "authors": "Andrés Sarto, Olivier Wang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104228",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104228"
     },
     {
       "title": "Manufacturing risk-free government debt",
@@ -341,6 +351,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a large sample of executive performance equity grants over 2006–2019, we provide a comprehensive representation of the single- and multi-metric vesting schemes used by U.S. public firms and investigate the incentives provided by alternative functional forms of vesting formulas that combine earnings with stock returns and other nonearnings targets. Our results indicate that, compared to earnings-vesting single- and multi-metric summative grants, binding schemes that require the contemporaneous achievement of both earnings and nonearnings targets for grant vesting limit executive fixation on earnings and the associated incentives to maximize grant payouts by managing earnings around the targets. The findings confirm the expectation of different incentive effects from alternative (linear versus nonlinear) aggregations of multiple performance targets in the grant vesting formulas, with binding schemes being more effective in mitigating the risk of executives prioritizing earnings relative to other targets in multi-metric grants.</jats:p>\n                  <jats:p>JEL Classifications: G34; J33.</jats:p>",
       "doi": "10.2308/tar-2024-0108",
       "url": "https://doi.org/10.2308/tar-2024-0108"
+    },
+    {
+      "title": "Un-Nudging Pay Gaps: The Role of Pay Raise Budget Framing",
+      "authors": "Hayden T. Gunnell, Karl Schuhmacher, Kristy L. Towry",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Pay gaps, like gender or racial gaps, violate the widely held belief that employees should receive equal pay for equal work. This study examines whether a common control choice—framing pay raise budgets in percentages—contributes to perpetuating pay gaps. We predict that when the pay raise budget is framed as a percentage (the percentage frame), it inadvertently nudges managers to anchor individual raises on that budget percentage, thereby impounding prior salaries, and thus, existing inequities, into pay raises. We further predict that framing the pay raise budget as an absolute amount (the dollar frame) can un-nudge this behavior. As expected, we find in two experiments that the dollar frame perpetuates pay gaps less than the percentage frame, and that this difference is robust to varying levels of ambiguity about the source of salary differences. Our study examines a simple, cost-effective way to limit the perpetuation of pay gaps.</jats:p>\n                  <jats:p>Data Availability: Contact the authors.</jats:p>\n                  <jats:p>JEL Classifications: D91; J16; J31; J71; M40; M52.</jats:p>",
+      "doi": "10.2308/tar-2024-0105",
+      "url": "https://doi.org/10.2308/tar-2024-0105"
+    },
+    {
+      "title": "On The Economics of Accounting and Contracting in Firms",
+      "authors": "Ray Ball",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101858",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101858"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -2001,16 +2031,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether firms strategically increase cost rigidity to adopt an aggressive product market stance. Using large cuts in industry-level import tariff rates as a setting, we find that domestic firms respond to a looming competitive threat from foreign rivals by raising cost rigidity. This increase cannot plausibly be explained by investments to create physical excess capacity, suggesting firms enter cost commitments for labor and procurement instead. Additional tests corroborate the hypothesized preemptive intent. First, the increase in cost rigidity is concentrated in industries in which a firm’s aggressive market stance elicits a softening of competition. Second, it is only in these industries that firms with rigid cost structures experience market share gains around a large tariff cut. The latter effect is more pronounced the more reliably firms’ cost structures can be discerned from their financial statements. Overall, our study suggests that firms enter cost commitments as a preemptive strategy.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L22; M21; M40; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0506",
       "url": "https://doi.org/10.2308/tar-2023-0506"
-    },
-    {
-      "title": "Un-Nudging Pay Gaps: The Role of Pay Raise Budget Framing",
-      "authors": "Hayden T. Gunnell, Karl Schuhmacher, Kristy L. Towry",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Pay gaps, like gender or racial gaps, violate the widely held belief that employees should receive equal pay for equal work. This study examines whether a common control choice—framing pay raise budgets in percentages—contributes to perpetuating pay gaps. We predict that when the pay raise budget is framed as a percentage (the percentage frame), it inadvertently nudges managers to anchor individual raises on that budget percentage, thereby impounding prior salaries, and thus, existing inequities, into pay raises. We further predict that framing the pay raise budget as an absolute amount (the dollar frame) can un-nudge this behavior. As expected, we find in two experiments that the dollar frame perpetuates pay gaps less than the percentage frame, and that this difference is robust to varying levels of ambiguity about the source of salary differences. Our study examines a simple, cost-effective way to limit the perpetuation of pay gaps.</jats:p>\n                  <jats:p>Data Availability: Contact the authors.</jats:p>\n                  <jats:p>JEL Classifications: D91; J16; J31; J71; M40; M52.</jats:p>",
-      "doi": "10.2308/tar-2024-0105",
-      "url": "https://doi.org/10.2308/tar-2024-0105"
     },
     {
       "title": "Misstatement Detection Lag and Prediction Evaluation",
