@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-07T03:30:36.238Z",
-  "count": 510,
+  "lastUpdated": "2026-01-08T03:31:12.800Z",
+  "count": 519,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -161,6 +161,116 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
+      "authors": "Patrick Baylis, Judson Boomhower",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/739331",
+      "url": "https://doi.org/10.1086/739331"
+    },
+    {
+      "title": "The Macroeconomic Consequences of Early Childhood Development Policies",
+      "authors": "Diego Daruich",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740224",
+      "url": "https://doi.org/10.1086/740224"
+    },
+    {
+      "title": "Sleep: Educational Impact and Habit Formation",
+      "authors": "Osea Giuntella, Silvia Saccardo, Sally Sadoff",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740221",
+      "url": "https://doi.org/10.1086/740221"
+    },
+    {
+      "title": "Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants",
+      "authors": "Mert Demirer, Omer Karaduman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740222",
+      "url": "https://doi.org/10.1086/740222"
+    },
+    {
+      "title": "Training, Communications Patterns, and Spillovers Inside Organizations",
+      "authors": "Miguel Espinosa, Christopher Stanton",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740219",
+      "url": "https://doi.org/10.1086/740219"
+    },
+    {
+      "title": "The Gas Trap: Outcompeting Coal vs. Renewables",
+      "authors": "Bard Harstad, Katinka Holtsmark",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740172",
+      "url": "https://doi.org/10.1086/740172"
+    },
+    {
+      "title": "The Zero-Beta Interest Rate",
+      "authors": "Sebastian Di Tella, Benjamin Hébert, Pablo Kurlat, Qitong Wang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740220",
+      "url": "https://doi.org/10.1086/740220"
+    },
+    {
+      "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
+      "authors": "Nikolai Cook, Thibaut Duprey, Anthony Heyes, Martino Pelli",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740225",
+      "url": "https://doi.org/10.1086/740225"
+    },
+    {
+      "title": "Financial Aid and Upward Mobility: Evidence from Colombia's Ser Pilo Paga",
+      "authors": "Juliana Londono-Velez, Catherine Rodriguez, Fabio Sanchez, Luis Esteban Alvarez-Arango",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740226",
+      "url": "https://doi.org/10.1086/740226"
+    },
+    {
+      "title": "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search",
+      "authors": "Jason Abaluck, Giovanni Compiani, Fan Zhang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-07",
+      "abstract": "",
+      "doi": "10.1086/740223",
+      "url": "https://doi.org/10.1086/740223"
+    },
+    {
+      "title": "Default Risk and the Pricing of U.S. Sovereign Bonds",
+      "authors": "Robert F. Dittmar, Alex Hsu, Guillaume Roussellet, Peter Simasek",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-06",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the relative pricing of nominal Treasury bonds and Treasury inflation‐protected securities in the presence of U.S. default risk. Hedged breakeven inflation is significantly positively related to U.S. default risk, driven by correlation between shocks to default risk and both shocks to inflation swap premia and Treasury yields. To understand the mechanisms through which default risk is related to inflation swaps and sovereign yields, we estimate an affine term structure model to capture their joint dynamics. Our estimation implies that the interaction between inflation dynamics and default is the primary source of differential pricing.</jats:p>",
+      "doi": "10.1111/jofi.70014",
+      "url": "https://doi.org/10.1111/jofi.70014"
     },
     {
       "title": "Implicit extrapolation and the beliefs channel of investment demand",
@@ -2191,16 +2301,6 @@
       "abstract": "",
       "doi": "10.1086/739329",
       "url": "https://doi.org/10.1086/739329"
-    },
-    {
-      "title": "Mandated vs. Voluntary Adaptation to Natural Disasters: The Case of U.S. Wildfires",
-      "authors": "Patrick Baylis, Judson Boomhower",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739331",
-      "url": "https://doi.org/10.1086/739331"
     },
     {
       "title": "Making Information More Valuable",
@@ -5091,16 +5191,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Wholesale market makers pay for retail options orders that must be executed on exchanges. Payment for order flow (PFOF) wholesalers compete via price improvement in exchange auctions. To attract retail orders, wholesalers run more auctions when their recent price improvement has been lower. However, auction price improvement lowers market maker revenues. Wholesalers earn revenues to pay PFOF in nonauction trades where their designated market maker status increases their execution priority. While some auctions produce substantial price improvement, most do not have multiple bidders offering meaningful price improvement. Overall, options market structure better promotes competition in auctions than in nonauctions.</jats:p>",
       "doi": "10.1093/rfs/hhaf043",
       "url": "https://doi.org/10.1093/rfs/hhaf043"
-    },
-    {
-      "title": "The Role of Taxes in the Rise of ETFs",
-      "authors": "Rabih Moussawi, Ke Shen, Raisa Velthuis",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper argues that a lesser known yet economically significant tax-deferral feature of ETFs’ security design is crucial to their success. By relying on the in-kind redemption exemption, authorized participants help ETFs avoid distributing capital gains and reduce their tax overhang, partly by deploying heartbeat trades. We estimate that the ETF tax efficiency has increased long-term investors’ after-tax returns by 1.05% per year relative to mutual funds in recent years. Exploiting cross-sectional and time-series variations in investors’ tax burden, we show that tax efficiency is a significant driver of capital migration by high-net-worth investors from mutual funds into ETFs.</jats:p>",
-      "doi": "10.1093/rfs/hhaf044",
-      "url": "https://doi.org/10.1093/rfs/hhaf044"
     }
   ]
 }
