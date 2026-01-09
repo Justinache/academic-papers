@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-08T03:31:12.800Z",
-  "count": 519,
+  "lastUpdated": "2026-01-09T03:31:51.518Z",
+  "count": 521,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -161,6 +161,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility",
+      "authors": "Raj Chetty, Will Dobbie, Benjamin Goldman, Sonya R Porter, Crystal S Yang",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-08",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that intergenerational mobility changed rapidly by race and class in recent decades in the U.S. and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (“class”) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for non-monetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, within local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.</jats:p>",
+      "doi": "10.1093/qje/qjaf057",
+      "url": "https://doi.org/10.1093/qje/qjaf057"
+    },
+    {
+      "title": "Corporate ESG Profiles and Investor Horizons",
+      "authors": "Laura T. Starks, Parth Venkat, Qifei Zhu",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We find that long‐term institutional investors tilt their portfolios toward firms with better Environmental, Social, and Governance (ESG) profiles, in the cross sections of both institutional investor portfolios and the ownership of firms. We test whether several theoretically motivated mechanisms can explain this relationship. Our results that long‐term investors exhibit patience with firms around poor earnings announcements, but quickly sell portfolio firms after negative ES incidents, support the view that long‐ and short‐term investors evaluate information differently. Our evidence shows that limits‐to‐arbitrage play a role, as we find that investors' ESG tilt weakens following regulatory shocks that shorten their horizon.</jats:p>",
+      "doi": "10.1111/jofi.70008",
+      "url": "https://doi.org/10.1111/jofi.70008"
+    },
+    {
+      "title": "The Assignment of Intellectual Property Rights and Innovation",
+      "authors": "Christopher Armstrong, Stephen Glaeser, Stella Yeayeun Park, Oscar Timmermans",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-01-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how the assignment of intellectual property rights between inventors and their employers affects innovation. Incomplete contracting theories predict that stronger employer property rights reduce the threat that employee inventors hold up their employers, thereby affecting inventor and invention outcomes. We test these predictions using a U.S. appellate court ruling that shifted the assignment of property rights from inventors to their employers. Within‐employer‐year analyses demonstrate that affected inventors are less likely to retain patent rights, assign patents to new employers, or leave their current employer, all consistent with reduced inventor ability to hold up their employers. Due to the reduced possibility of hold‐up, affected inventors’ innovations are revealed more promptly when disclosed, draw from a broader set of prior patents, and spread more to subsequent patents. If affected inventors do leave their employer, they are more likely to relocate to unaffected states. Furthermore, employers affected by the ruling are more likely to locate their inventors in agglomeration economies and alter their innovation strategy by reallocating activity across states and expanding their innovation portfolios. Our collective evidence suggests that shifting intellectual property rights to employers affects inventor and invention outcomes by reducing the threat of employee hold‐up from the employer's perspective.</jats:p>",
+      "doi": "10.1111/1475-679x.70035",
+      "url": "https://doi.org/10.1111/1475-679x.70035"
     },
     {
       "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
@@ -483,6 +513,66 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101858"
     },
     {
+      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
+      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/739334",
+      "url": "https://doi.org/10.1086/739334"
+    },
+    {
+      "title": "Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments",
+      "authors": "Elizabeth Caucutt, Lance Lochner, Joseph Mullins, Youngmin Park",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738480",
+      "url": "https://doi.org/10.1086/738480"
+    },
+    {
+      "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
+      "authors": "John A. List",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/739436",
+      "url": "https://doi.org/10.1086/739436"
+    },
+    {
+      "title": "Mentoring and Schooling Decisions: Causal Evidence",
+      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738484",
+      "url": "https://doi.org/10.1086/738484"
+    },
+    {
+      "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+      "authors": "Emily Cuddy, Janet Currie",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738249",
+      "url": "https://doi.org/10.1086/738249"
+    },
+    {
+      "title": "Investment Opportunities, Market Feedback, and Voluntary Disclosure: Evidence from the Shale Oil Revolution",
+      "authors": "Zackery Fox, Jaewoo Kim, Bryce Schonberger",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Exploiting the U.S. shale oil revolution as a substantial, unexpected shock to investment opportunities for oil and gas (O&amp;G) firms, we explore whether firms facing an uncertain investment decision adopt a voluntary disclosure policy that facilitates informational feedback from the equity market. Difference-in-differences tests show O&amp;G firms increase (reduce) their issuance of capital expenditure (earnings) forecasts during the shale oil revolution relative to similar, capital-intensive firms. Consistent with managers using market reactions to proposed investment plans to gather information from informed traders, we find investment expenditures become more sensitive to market reactions to capex forecasts during the shale oil revolution period. Consistent with managerial learning improving investment decisions, we find a more pronounced positive relation between future operating performance and investment adjustments made in response to market reactions for O&amp;G firms during the shale oil boom. Our evidence speaks to how managers tailor disclosures to promote informational feedback from prices.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G31; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0457",
+      "url": "https://doi.org/10.2308/tar-2024-0457"
+    },
+    {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
       "authors": "Lukas Diebold, Björn Richter",
       "journal": "Review of Financial Studies",
@@ -563,16 +653,6 @@
       "url": "https://doi.org/10.1086/739826"
     },
     {
-      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
-      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-15",
-      "abstract": "",
-      "doi": "10.1086/739334",
-      "url": "https://doi.org/10.1086/739334"
-    },
-    {
       "title": "A Study of the Microdynamics of Early-Childhood Learning",
       "authors": "James Heckman, Jin Zhou",
       "journal": "Journal of Political Economy",
@@ -581,16 +661,6 @@
       "abstract": "",
       "doi": "10.1086/739256",
       "url": "https://doi.org/10.1086/739256"
-    },
-    {
-      "title": "Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments",
-      "authors": "Elizabeth Caucutt, Lance Lochner, Joseph Mullins, Youngmin Park",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-15",
-      "abstract": "",
-      "doi": "10.1086/738480",
-      "url": "https://doi.org/10.1086/738480"
     },
     {
       "title": "Cross-Border M&A Flows, Economic Growth, and Foreign Exchange Rates",
@@ -633,16 +703,6 @@
       "url": "https://doi.org/10.1111/jofi.70002"
     },
     {
-      "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
-      "authors": "John A. List",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-12",
-      "abstract": "",
-      "doi": "10.1086/739436",
-      "url": "https://doi.org/10.1086/739436"
-    },
-    {
       "title": "Laws and Norms",
       "authors": "Roland Bénabou, Jean Tirole",
       "journal": "Journal of Political Economy",
@@ -671,16 +731,6 @@
       "abstract": "",
       "doi": "10.1086/738342",
       "url": "https://doi.org/10.1086/738342"
-    },
-    {
-      "title": "Mentoring and Schooling Decisions: Causal Evidence",
-      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-10",
-      "abstract": "",
-      "doi": "10.1086/738484",
-      "url": "https://doi.org/10.1086/738484"
     },
     {
       "title": "Who’s Afraid of the Minimum Wage? Measuring the Impacts on Independent Businesses Using Matched U.S. Tax Returns",
@@ -2201,16 +2251,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use novel surveys of firms and workers, linked to administrative employer-employee data, to study the prevalence and importance of individual bargaining in wage determination. We show that simple survey questions accurately elicit firms’ bargaining strategies. Using the elicited strategies for 772 German firms, we document that the majority of firms are willing to engage in individual wage bargaining. Labor market factors predict firms’ strategies better than firm characteristics. Survey responses from nearly 10,000 full-time workers indicate that most workers provide their salary expectations before they receive a job offer. Most outside offers are rejected, with the worker remaining at the incumbent firm. There is substantial heterogeneity in workers’ bargaining behavior, which translates into within-firm wage inequality. Firms that set pay via individual bargaining have a 3 percentage point higher gender wage gap.</jats:p>",
       "doi": "10.1093/qje/qjaf049",
       "url": "https://doi.org/10.1093/qje/qjaf049"
-    },
-    {
-      "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
-      "authors": "Emily Cuddy, Janet Currie",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-30",
-      "abstract": "",
-      "doi": "10.1086/738249",
-      "url": "https://doi.org/10.1086/738249"
     },
     {
       "title": "Bank Risk-Taking and the Real Economy: Evidence from the Housing Boom and Its Aftermath",
@@ -5171,26 +5211,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We identify a new source for the declining role of small banks in the banking industry: Long-term changes in the banking sector are partially a consequence of changes in the industrial sector. Small banks are relatively more exposed to small business shocks, because small businesses compose a larger share of their customers. Lower real-side demand for small business financial services is responsible for part of the relative decline in small banks’ deposits. Rough calculations suggest that deposits at small banks would have been $280 billion higher from 2002 to 2017 if small firms had grown at the rate of larger firms.</jats:p>",
       "doi": "10.1093/rfs/hhaf042",
       "url": "https://doi.org/10.1093/rfs/hhaf042"
-    },
-    {
-      "title": "Present Bias Unconstrained: Consumption, Welfare, and the Present-Bias Dilemma",
-      "authors": "Peter Maxted",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-07-08",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>By augmenting the continuous-time specification of Harris and Laibson (2013) with the assumption that hard borrowing constraints do not bind in equilibrium, present bias can be tractably incorporated into rich consumption-saving models featuring stochastic income, risky and illiquid assets, and costly borrowing. I present closed-form expressions characterizing how present bias affects consumption, illiquid asset demand, and welfare. This welfare analysis specifies the channels through which present bias can matter for policy and uncovers the present-bias dilemma: present bias can have large welfare costs, but individuals have little ability to alleviate these costs using financial commitment devices like illiquid assets.</jats:p>",
-      "doi": "10.1093/qje/qjaf030",
-      "url": "https://doi.org/10.1093/qje/qjaf030"
-    },
-    {
-      "title": "Option Auctions",
-      "authors": "Terrence Hendershott, Saad Ali Khan, Ryan Riordan",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-08",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Wholesale market makers pay for retail options orders that must be executed on exchanges. Payment for order flow (PFOF) wholesalers compete via price improvement in exchange auctions. To attract retail orders, wholesalers run more auctions when their recent price improvement has been lower. However, auction price improvement lowers market maker revenues. Wholesalers earn revenues to pay PFOF in nonauction trades where their designated market maker status increases their execution priority. While some auctions produce substantial price improvement, most do not have multiple bidders offering meaningful price improvement. Overall, options market structure better promotes competition in auctions than in nonauctions.</jats:p>",
-      "doi": "10.1093/rfs/hhaf043",
-      "url": "https://doi.org/10.1093/rfs/hhaf043"
     }
   ]
 }
