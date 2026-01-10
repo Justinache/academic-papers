@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-09T03:31:51.518Z",
-  "count": 521,
+  "lastUpdated": "2026-01-10T03:26:04.335Z",
+  "count": 522,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -21,6 +21,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104228",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104228"
+    },
+    {
+      "title": "The incentives of SPAC sponsors",
+      "authors": "Felix Feng, Tom Nohel, Xuan Tian, Wenyu Wang, Yufeng Wu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104220",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104220"
     },
     {
       "title": "Manufacturing risk-free government debt",
@@ -161,6 +171,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "A Tale of Two Banks: When Credit Loss Models Meet Economic Crises",
+      "authors": "Chen Chen, Difang Huang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-01-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policy makers and researchers are concerned that the expected credit loss (ECL) approach may exacerbate procyclicality. Using administrative loan‐level and firm‐level data in China, we find that banks adopting the ECL model reduced their credit supply and became more prudent in lending decisions after the onset of the COVID‐19 pandemic, compared to banks using the incurred credit loss (ICL) approach. Our findings are more pronounced for banks that experienced greater loan loss provisions induced by ECL and for firms with higher credit risk. The credit contraction persisted throughout our sample period. We further document that firms more exposed to ECL banks experienced larger reductions in loans, assets, liabilities, and revenue after the pandemic began than those more exposed to ICL banks. These findings support the conjecture that the ECL approach may exacerbate procyclicality.</jats:p>",
+      "doi": "10.1111/1475-679x.70030",
+      "url": "https://doi.org/10.1111/1475-679x.70030"
     },
     {
       "title": "Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility",
@@ -573,6 +593,76 @@
       "url": "https://doi.org/10.2308/tar-2024-0457"
     },
     {
+      "title": "A Study of the Microdynamics of Early-Childhood Learning",
+      "authors": "James J. Heckman, Jin Zhou",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/739256",
+      "url": "https://doi.org/10.1086/739256"
+    },
+    {
+      "title": "Parenting with Patience: Parental Incentives and Child Development",
+      "authors": "Daniela Del Boca, Christopher Flinn, Ewout Verriest, Matthew Wiswall",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738481",
+      "url": "https://doi.org/10.1086/738481"
+    },
+    {
+      "title": "Effects of Multigenerational Exposure to Early-Life Advantage: Lessons from a Primate Study",
+      "authors": "Amanda M. Dettmer, James J. Heckman, Juan Pantano, Victor Ronda, Stephen J. Suomi",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738483",
+      "url": "https://doi.org/10.1086/738483"
+    },
+    {
+      "title": "A Structural Meta-Analysis of Welfare Reform Experiments and Their Impacts on Children",
+      "authors": "Joseph Mullins",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738482",
+      "url": "https://doi.org/10.1086/738482"
+    },
+    {
+      "title": "Exercise Improves Academic Performance",
+      "authors": "Alexander W. Cappelen, Gary Charness, Mathias Ekström, Uri Gneezy, Bertil Tungodden",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738251",
+      "url": "https://doi.org/10.1086/738251"
+    },
+    {
+      "title": "Why Don’t Struggling Students Do Their Homework? Disentangling Motivation and Study Productivity as Drivers of Human Capital Formation",
+      "authors": "Christopher S. Cotton, Brent R. Hickman, John A. List, Joseph Price, Sutanuka Roy",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738479",
+      "url": "https://doi.org/10.1086/738479"
+    },
+    {
+      "title": "Does Compliance Auditing Affect Bond Yields? Evidence from the Municipal Bond Market",
+      "authors": "Bethany A. Courson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I use a unique setting in the municipal bond market to examine the impact of compliance auditing on bond yields. SEC Rule 15c2-12 requires bond issuers to provide annual financial and operating disclosures to investors over the life of the bonds. Due to concerns of noncompliance, Louisiana passed a state law requiring auditors to test for compliance with Rule 15c2-12. I find that bond yields in the municipal bond market decrease by 21 basis points after the audit law for previously noncompliant issuers in Louisiana. I find similar results when I separately examine the primary and secondary markets. I also find that previously noncompliant issuers file 75.2 percent more annual disclosures after the audit law, suggesting that the audit law improved compliance with Rule 15c2-12. Overall, my findings inform policymakers and regulators on the role of auditing over compliance with disclosure regulation as a mechanism to protect investors.</jats:p>\n                  <jats:p>JEL Classifications: G28; H74; K22; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0210",
+      "url": "https://doi.org/10.2308/tar-2022-0210"
+    },
+    {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
       "authors": "Lukas Diebold, Björn Richter",
       "journal": "Review of Financial Studies",
@@ -651,16 +741,6 @@
       "abstract": "",
       "doi": "10.1086/739826",
       "url": "https://doi.org/10.1086/739826"
-    },
-    {
-      "title": "A Study of the Microdynamics of Early-Childhood Learning",
-      "authors": "James Heckman, Jin Zhou",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-15",
-      "abstract": "",
-      "doi": "10.1086/739256",
-      "url": "https://doi.org/10.1086/739256"
     },
     {
       "title": "Cross-Border M&A Flows, Economic Growth, and Foreign Exchange Rates",
@@ -1543,26 +1623,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70029"
     },
     {
-      "title": "Parenting with Patience: Parental Incentives and Child Development",
-      "authors": "Daniela Del Boca, Christopher Flinn, Ewout Verriest, Matthew Wiswall",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-13",
-      "abstract": "",
-      "doi": "10.1086/738481",
-      "url": "https://doi.org/10.1086/738481"
-    },
-    {
-      "title": "Effects of Multigenerational Exposure to Early-Life Advantage: Lessons from a Primate Study",
-      "authors": "Amanda M. Dettmer, James J. Heckman, Juan Pantano, Victor Ronda, Stephen J. Suomi",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-13",
-      "abstract": "",
-      "doi": "10.1086/738483",
-      "url": "https://doi.org/10.1086/738483"
-    },
-    {
       "title": "Heterogeneous Oil Supply Elasticities: Indebtedness and Production Responses to the COVID-19 Shock",
       "authors": "Sergei Seleznev, Veronika Selezneva",
       "journal": "Review of Financial Studies",
@@ -1613,26 +1673,6 @@
       "url": "https://doi.org/10.1093/rfs/hhaf094"
     },
     {
-      "title": "A Structural Meta-Analysis of Welfare Reform Experiments and Their Impacts on Children",
-      "authors": "Joseph Mullins",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-07",
-      "abstract": "",
-      "doi": "10.1086/738482",
-      "url": "https://doi.org/10.1086/738482"
-    },
-    {
-      "title": "Exercise Improves Academic Performance",
-      "authors": "Alexander W. Cappelen, Gary Charness, Mathias Ekström, Uri Gneezy, Bertil Tungodden",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-07",
-      "abstract": "",
-      "doi": "10.1086/738251",
-      "url": "https://doi.org/10.1086/738251"
-    },
-    {
       "title": "Republican Support and Economic Hardship: The Enduring Effects of the Opioid Epidemic",
       "authors": "Carolina Arteaga, Victoria Barone",
       "journal": "Quarterly Journal of Economics",
@@ -1651,16 +1691,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the mechanisms driving bank losses across historical banking crises in 46 economies and the effectiveness of policy interventions in restoring bank capitalization. We find that bank stocks experience large, permanent declines at the onset of crises. These losses predict commensurate long-term declines in banks’ earnings and dividends, rather than elevated future equity returns. Bank losses are primarily driven by write-downs of nonperforming assets, not asset sales during panics. Forceful liquidity-based interventions during crises predict only small, temporary increases in bank market value. Overall, these results suggest that bank losses during crises are not primarily due to temporary price dislocations. Early liquidity interventions can avert banking crises, but only under specific conditions. Once large bank equity declines have occurred, policy responses have historically failed to prevent persistent undercapitalization in the banking sector.</jats:p>",
       "doi": "10.1093/qje/qjaf052",
       "url": "https://doi.org/10.1093/qje/qjaf052"
-    },
-    {
-      "title": "Why Don’t Struggling Students Do Their Homework? Disentangling Motivation and Study Productivity as Drivers of Human Capital Formation",
-      "authors": "Christopher S. Cotton, Brent R. Hickman, John A. List, Joseph Price, Sutanuka Roy",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-04",
-      "abstract": "",
-      "doi": "10.1086/738479",
-      "url": "https://doi.org/10.1086/738479"
     },
     {
       "title": "Raising Bond Capital in Segmented Markets",
@@ -5191,26 +5221,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the local administration of sales taxes (as opposed to a more streamlined state administration) affects the real economy for businesses complying with the tax. We study this question in the Florida hotel industry, as counties in Florida can choose to locally administer the county‐level tourist tax or have the state administer the county‐level tax along with the state‐level tourist tax. Local administration is popular because it supports local employment (of tax administrators) and provides more stringent enforcement on non‐commercial operators (e.g., private rentals). State administration, however, has fewer compliance costs for hotels (e.g., reduced filings and fewer audits). Commentary from the profession suggests the incremental compliance costs of local administration can be considerable. We find that counties switching from state to local administration of tourist taxes is associated with slower growth in aggregate hotel payroll and employment, consistent with local tax administration increasing compliance costs to the point that affected businesses cut other services.</jats:p>",
       "doi": "10.1111/1475-679x.70001",
       "url": "https://doi.org/10.1111/1475-679x.70001"
-    },
-    {
-      "title": "How Does Removing the Tax Benefits of Debt Affect Firms? Evidence from the 2017 U.S. Tax Reform",
-      "authors": "Ali Sanati, Mehdi Beyhaghi",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The impact of tax benefits of debt on firms remains an open question. The 2017 U.S. tax reform limited the tax advantage of debt for all firms except for small businesses with average sales below $25 million. A regression discontinuity design based on the exception threshold shows that, as tax benefits of debt shrink, corporate debt declines significantly, while equity does not increase sufficiently to offset the reduction. Treated firms also decrease their investments due to the higher cost of capital. Overall, we document a first-order role for tax incentives that affect the cost of capital in shaping corporate policies. (JEL G31, G32, G38, H25, K34)</jats:p>",
-      "doi": "10.1093/rfs/hhaf041",
-      "url": "https://doi.org/10.1093/rfs/hhaf041"
-    },
-    {
-      "title": "Shared Destinies? Small Banks and Small Businesses",
-      "authors": "Claire Brennecke, Stefan Jacewitz, Jonathan Pogach",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We identify a new source for the declining role of small banks in the banking industry: Long-term changes in the banking sector are partially a consequence of changes in the industrial sector. Small banks are relatively more exposed to small business shocks, because small businesses compose a larger share of their customers. Lower real-side demand for small business financial services is responsible for part of the relative decline in small banks’ deposits. Rough calculations suggest that deposits at small banks would have been $280 billion higher from 2002 to 2017 if small firms had grown at the rate of larger firms.</jats:p>",
-      "doi": "10.1093/rfs/hhaf042",
-      "url": "https://doi.org/10.1093/rfs/hhaf042"
     }
   ]
 }
