@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T03:26:04.335Z",
-  "count": 522,
+  "lastUpdated": "2026-01-11T03:51:46.705Z",
+  "count": 521,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -1413,7 +1413,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
     },
     {
-      "title": "The Spillover Effect of Public Firm Audit Regulation on Private Firm Auditing: Evidence from Common Partners",
+      "title": "The spillover effect of public firm audit regulation on private firm auditing: Evidence from common partners",
       "authors": "Lisa Yao Liu, Lijing Tong",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -5211,16 +5211,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We show that the infrastructure of decentralized exchanges subjects liquidity providers (LPs) to a “tragedy of the commons.” Liquidity providers lack incentives to exit liquidity pools to prevent arbitrage losses, as these are collectively shared, while withdrawal costs are borne individually. Arbitrage rents primarily flow to validators as infrastructure fees, with the median arbitrageur transferring 96% of profits. Proposed solutions—speed technology, alternative sequencing rules, and flexible pricing curves—fail to reduce these rents. Leveraging the Silicon Valley Bank crisis as a natural experiment, we show that LPs defensively adopt more convex pricing curves to mitigate adverse selection risks.</jats:p>",
       "doi": "10.1093/rfs/hhaf046",
       "url": "https://doi.org/10.1093/rfs/hhaf046"
-    },
-    {
-      "title": "Real Effects of Non‐Streamlined Sales Tax Administration: Evidence from the Florida Hotel Industry",
-      "authors": "Jennifer L. Brown, Pablo Casas‐arce, David G. Kenchington, Roger M. White",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-07-10",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the local administration of sales taxes (as opposed to a more streamlined state administration) affects the real economy for businesses complying with the tax. We study this question in the Florida hotel industry, as counties in Florida can choose to locally administer the county‐level tourist tax or have the state administer the county‐level tax along with the state‐level tourist tax. Local administration is popular because it supports local employment (of tax administrators) and provides more stringent enforcement on non‐commercial operators (e.g., private rentals). State administration, however, has fewer compliance costs for hotels (e.g., reduced filings and fewer audits). Commentary from the profession suggests the incremental compliance costs of local administration can be considerable. We find that counties switching from state to local administration of tourist taxes is associated with slower growth in aggregate hotel payroll and employment, consistent with local tax administration increasing compliance costs to the point that affected businesses cut other services.</jats:p>",
-      "doi": "10.1111/1475-679x.70001",
-      "url": "https://doi.org/10.1111/1475-679x.70001"
     }
   ]
 }
