@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T03:50:56.493Z",
-  "count": 521,
+  "lastUpdated": "2026-01-13T03:29:26.557Z",
+  "count": 522,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -31,6 +31,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104220",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104220"
+    },
+    {
+      "title": "Constrained by law: The impact of fiduciary duties on portfolios and prices in US equity markets",
+      "authors": "Stefano Cassella, A. Emanuele Rizzo, Oliver G. Spalt, Leah Zimmerer",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104227",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104227"
     },
     {
       "title": "Manufacturing risk-free government debt",
