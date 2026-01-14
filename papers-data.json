@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T03:29:26.557Z",
-  "count": 522,
+  "lastUpdated": "2026-01-14T03:48:50.923Z",
+  "count": 524,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -181,6 +181,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Growth Experiences and Trust in Government",
+      "authors": "Timothy Besley, Christopher Dann, Sacha Dray",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper explores the relationship between economic growth and trust in government using variation in GDP growth experienced over a lifetime since birth. We assemble a newly harmonized global dataset across eleven major opinion surveys, comprising 3.3 million respondents in 166 countries since 1990. Exploiting cohort-level variation, we find that individuals who experience higher GDP growth are more prone to trust their governments, with larger effects found in democracies. Higher growth experiences are also associated with improved perceptions of government performance and living standards. We find no similar channel between growth experience and interpersonal trust. Second, more recent growth experiences appear to matter most for trust in government, with no detectable effect of growth experienced during one’s formative years, closer to birth or before birth. Third, we find evidence of a “trust paradox” whereby average trust in government is lower in democracies than in autocracies. Our results are robust to a range of falsification exercises, robustness checks and single-country evidence using the American National Election Studies and the Swiss Household Panel.</jats:p>",
+      "doi": "10.1093/qje/qjaf056",
+      "url": "https://doi.org/10.1093/qje/qjaf056"
+    },
+    {
+      "title": "Human Capital Disclosure and Labor Market Outcomes: Evidence from Regulation S‐K",
+      "authors": "Jung Ho Choi, Dan Li, Daniele Macciocchi",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-01-12",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the labor market consequences of the 2020 Regulation S‐K requiring human capital disclosure in 10K filings. Using large‐sample job‐level data and a Generative Large Language Model (GLLM), we observe that public firms subject to the regulation increase their disclosure of diversity, equity, and inclusion (DEI) information in job postings relative to a matched sample of large private firms. The increase in job‐posting disclosure is more pronounced among firms facing greater external pressure to increase their workforce diversity. These findings suggest a shift in demand for diverse candidates by public firms following the regulation. Yet, consistent with short‐term inelastic labor supply, this demand shift lengthens the recruitment period, with noticeable increases in workplace gender diversity emerging one year after the regulation, particularly among firms that demonstrate a credible commitment to DEI. Our study documents how securities regulations can impact labor market practices and underscores the challenges involved in shaping workforce diversity.</jats:p>",
+      "doi": "10.1111/1475-679x.70036",
+      "url": "https://doi.org/10.1111/1475-679x.70036"
     },
     {
       "title": "A Tale of Two Banks: When Credit Loss Models Meet Economic Crises",
