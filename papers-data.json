@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-14T03:48:50.923Z",
-  "count": 524,
+  "lastUpdated": "2026-01-15T03:32:32.438Z",
+  "count": 522,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -553,7 +553,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0105"
     },
     {
-      "title": "On The Economics of Accounting and Contracting in Firms",
+      "title": "On the economics of accounting and contracting in firms",
       "authors": "Ray Ball",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -3588,7 +3588,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-09-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Has the dominance of the dollar in global trade rendered monetary policy ineffective? An emerging view contends that if a country invoices its exports in dollars, exchange rates cannot stabilize economic activity, as the classical expenditure-switching channel is muted. This view rests on the premise that export prices are sticky in dollars, breaking the link between export demand and depreciations. But this assumption is not borne out by the data: goods priced in dollars tend to have more flexible prices, along with higher elasticities of substitution. We propose a model with more realistic assumptions and show that even with dollar pricing, depreciating the currency by loosening monetary policy can still boost exports and activity materially. The limit to any expansion is not demand, but supply capacity. We also show that low exchange rate pass-through to dollar prices is not informative about price stickiness. The price response to exchange rates is small when demand elasticities are high, even with flexible prices: low pass-through is an equilibrium result, not evidence of a nominal friction.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Has the dominance of the dollar in global trade rendered monetary policy ineffective? An emerging view contends that if a country invoices its exports in dollars, exchange rates cannot stabilize economic activity, as the classical expenditure-switching channel is muted. This view rests on the premise that export prices are sticky in dollars, breaking the link between export demand and depreciations. But this assumption is not borne out by the data: goods priced in dollars tend to have more flexible prices, along with higher elasticities of substitution. We propose a model with more realistic assumptions and show that even with dollar pricing, depreciating the currency by loosening monetary policy can still boost exports and activity materially. The limit to any expansion is not demand, but supply capacity. We also show that low exchange rate pass-through to dollar prices is not informative about price stickiness. The price response to exchange rates is small when demand elasticities are high, even with flexible prices: low pass-through is an equilibrium result, not evidence of a nominal friction.</jats:p>",
       "doi": "10.1093/qje/qjaf043",
       "url": "https://doi.org/10.1093/qje/qjaf043"
     },
@@ -3708,7 +3708,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-09-08",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Why do banks fail? We create a panel covering most commercial banks from 1863 through 2024 to study the history of failing banks in the United States. Failing banks are characterized by rising asset losses, deteriorating solvency, and an increasing reliance on expensive noncore funding. These commonalities imply that bank failures are highly predictable using simple accounting metrics from publicly available financial statements. Failures with runs were common before deposit insurance, but these failures are strongly related to weak fundamentals, casting doubt on the importance of non-fundamental runs. Furthermore, low recovery rates on failed banks’ assets suggest that most failed banks subject to runs were fundamentally insolvent, barring large value destruction of receiverships. Altogether, our evidence suggests that the primary cause of bank failures and banking crises is almost always and everywhere a deterioration of bank fundamentals.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do banks fail? We create a panel covering most commercial banks from 1863 through 2024 to study the history of failing banks in the United States. Failing banks are characterized by rising asset losses, deteriorating solvency, and an increasing reliance on expensive noncore funding. These commonalities imply that bank failures are highly predictable using simple accounting metrics from publicly available financial statements. Failures with runs were common before deposit insurance, but these failures are strongly related to weak fundamentals, casting doubt on the importance of non-fundamental runs. Furthermore, low recovery rates on failed banks’ assets suggest that most failed banks subject to runs were fundamentally insolvent, barring large value destruction of receiverships. Altogether, our evidence suggests that the primary cause of bank failures and banking crises is almost always and everywhere a deterioration of bank fundamentals.</jats:p>",
       "doi": "10.1093/qje/qjaf044",
       "url": "https://doi.org/10.1093/qje/qjaf044"
     },
@@ -4148,7 +4148,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-08-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article empirically studies the effects of the early law and economics movement on the U.S. judiciary. We focus on the Manne Economics Institute for Federal Judges, an intensive economics course that trained almost half of federal judges between 1976 and 1999. Using the universe of published opinions in U.S. Circuit Courts and 1 million District Court criminal sentencing decisions, we estimate the within-judge effect of Manne program attendance. Selection into attendance was limited, as the program was popular among judges of all backgrounds, frequently oversubscribed, and admitted participants on a first-come, first-served basis. We find that after attending economics training, participating judges use more economics language in their opinions, rule against regulatory agencies more often, and impose more severe criminal sentences. We argue that economics, as a rigorous social science, was especially effective in persuading judges.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article empirically studies the effects of the early law and economics movement on the U.S. judiciary. We focus on the Manne Economics Institute for Federal Judges, an intensive economics course that trained almost half of federal judges between 1976 and 1999. Using the universe of published opinions in U.S. Circuit Courts and 1 million District Court criminal sentencing decisions, we estimate the within-judge effect of Manne program attendance. Selection into attendance was limited, as the program was popular among judges of all backgrounds, frequently oversubscribed, and admitted participants on a first-come, first-served basis. We find that after attending economics training, participating judges use more economics language in their opinions, rule against regulatory agencies more often, and impose more severe criminal sentences. We argue that economics, as a rigorous social science, was especially effective in persuading judges.</jats:p>",
       "doi": "10.1093/qje/qjaf042",
       "url": "https://doi.org/10.1093/qje/qjaf042"
     },
@@ -4318,7 +4318,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2025-08-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper uses newly collected data on the allocation of dowry to examine its role in resolving intergenerational frictions around migration in India. Migration disrupts traditional elderly support structures, in which sons live near their parents and care for them in old age. We develop a model in which dowry can promote migration by allowing sons to make upfront transfers to their parents and ease constraints on income sharing. To test this hypothesis, we collect two new data sets that measure the distribution of dowry between family members. We document for the first time that net transfers of dowry to a man’s parents are common but far from universal. Consistent with using dowry for income sharing, such transfers occur more often when sons migrate, especially when they work in higher-earning occupations. In nationally representative data, migration rates are higher in areas with stronger historical dowry traditions. Finally, exploiting a large-scale highway construction program, we show that men from areas with stronger historical dowry traditions migrate more when migration costs fall. Our findings provide some clues as to why dowry persists despite its well-documented adverse consequences.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper uses newly collected data on the allocation of dowry to examine its role in resolving intergenerational frictions around migration in India. Migration disrupts traditional elderly support structures, in which sons live near their parents and care for them in old age. We develop a model in which dowry can promote migration by allowing sons to make upfront transfers to their parents and ease constraints on income sharing. To test this hypothesis, we collect two new data sets that measure the distribution of dowry between family members. We document for the first time that net transfers of dowry to a man’s parents are common but far from universal. Consistent with using dowry for income sharing, such transfers occur more often when sons migrate, especially when they work in higher-earning occupations. In nationally representative data, migration rates are higher in areas with stronger historical dowry traditions. Finally, exploiting a large-scale highway construction program, we show that men from areas with stronger historical dowry traditions migrate more when migration costs fall. Our findings provide some clues as to why dowry persists despite its well-documented adverse consequences.</jats:p>",
       "doi": "10.1093/qje/qjaf041",
       "url": "https://doi.org/10.1093/qje/qjaf041"
     },
@@ -5221,26 +5221,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This study investigates (1) whether misreporting by corporate executives impacts unethical decision‐making by non‐peers in unrelated reporting tasks, and (2) whether observing various forms of punishment for corporate misreporting deters this spillover effect. Specifically, we examine the deterrent effects of two common forms of punishment (fines or imprisonment) and a novel form of punishment (public shaming). Across two experiments, we find that participants are more likely to misreport performance when exposed to media reports about executives engaging in financial misreporting. This evidence is consistent with executive misreporting leading to unethical decision‐making among non‐peer observers. We also find that participant misreporting is reduced when the media reports the punishments levied against those executives. In further mediation tests, our findings suggest observed punishments for corporate misconduct can influence perceptions of injunctive norms and potentially mitigate spillover in unethical behavior.</jats:p>",
       "doi": "10.1111/1475-679x.70002",
       "url": "https://doi.org/10.1111/1475-679x.70002"
-    },
-    {
-      "title": "Π-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets",
-      "authors": "Joost Driessen, Sebastian Ebert, Joren Koëter",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a new asset pricing model that generalizes the mean-variance framework by including probability weighting, specifically the overweighting of rare, high-impact events. Our model—the $ \\Pi $-CAPM—generates several new predictions: (i) skewness has a positive price effect, amplified by volatility; (ii) the price effect of volatility is negative for left-skewed assets but positive for right-skewed assets; and (iii) option-implied variance premiums for stocks have a U-shaped relation to skewness, amplified by volatility. We find strong empirical support for these predictions. Finally, we show that the $ \\Pi $-CAPM predicts an exaggerated co-movement of assets and can explain the correlation premium.</jats:p>",
-      "doi": "10.1093/rfs/hhaf045",
-      "url": "https://doi.org/10.1093/rfs/hhaf045"
-    },
-    {
-      "title": "Liquidity Provision on Blockchain-Based Decentralized Exchanges",
-      "authors": "Agostino Capponi, Ruizhe Jia",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We show that the infrastructure of decentralized exchanges subjects liquidity providers (LPs) to a “tragedy of the commons.” Liquidity providers lack incentives to exit liquidity pools to prevent arbitrage losses, as these are collectively shared, while withdrawal costs are borne individually. Arbitrage rents primarily flow to validators as infrastructure fees, with the median arbitrageur transferring 96% of profits. Proposed solutions—speed technology, alternative sequencing rules, and flexible pricing curves—fail to reduce these rents. Leveraging the Silicon Valley Bank crisis as a natural experiment, we show that LPs defensively adopt more convex pricing curves to mitigate adverse selection risks.</jats:p>",
-      "doi": "10.1093/rfs/hhaf046",
-      "url": "https://doi.org/10.1093/rfs/hhaf046"
     }
   ]
 }
