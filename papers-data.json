@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T03:32:32.438Z",
+  "lastUpdated": "2026-01-16T03:32:10.756Z",
   "count": 522,
   "papers": [
     {
@@ -181,6 +181,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Leveraging Virtual Contact and Social Networks to Foster Interethnic Harmony",
+      "authors": "Abu Siddique, Michael Vlassopoulos, Yves Zenou",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-15",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central individuals, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central individuals were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony within multiethnic communities.</jats:p>",
+      "doi": "10.1093/qje/qjag001",
+      "url": "https://doi.org/10.1093/qje/qjag001"
     },
     {
       "title": "Growth Experiences and Trust in Government",
@@ -691,6 +701,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I use a unique setting in the municipal bond market to examine the impact of compliance auditing on bond yields. SEC Rule 15c2-12 requires bond issuers to provide annual financial and operating disclosures to investors over the life of the bonds. Due to concerns of noncompliance, Louisiana passed a state law requiring auditors to test for compliance with Rule 15c2-12. I find that bond yields in the municipal bond market decrease by 21 basis points after the audit law for previously noncompliant issuers in Louisiana. I find similar results when I separately examine the primary and secondary markets. I also find that previously noncompliant issuers file 75.2 percent more annual disclosures after the audit law, suggesting that the audit law improved compliance with Rule 15c2-12. Overall, my findings inform policymakers and regulators on the role of auditing over compliance with disclosure regulation as a mechanism to protect investors.</jats:p>\n                  <jats:p>JEL Classifications: G28; H74; K22; M42.</jats:p>",
       "doi": "10.2308/tar-2022-0210",
       "url": "https://doi.org/10.2308/tar-2022-0210"
+    },
+    {
+      "title": "Social Media Livestreaming: Investor Information or Persuasion?",
+      "authors": "Ed deHaan, Allen H. Huang, Srijith Kannan, Lu Qiu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101861",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101861"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -5201,26 +5221,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper investigates why commercial lenders make markets for the loans that they sell on the secondary market. Using loan‐level data, I find that origination lenders with extensive borrower relationships and more reputational capital at stake are more likely to serve as market makers. Greater participation of origination lenders as market makers is associated with lower trading costs for their borrowers' loans. This association remains even in conditions where origination lenders could exploit their information advantage for market making profits. Lenders benefit from being market makers by maintaining strong subsequent lending relationships with their borrowers. Collectively, this evidence is consistent with origination lenders' participation in the secondary market being motivated by reducing trading frictions rather than market making profits.</jats:p>",
       "doi": "10.1111/1475-679x.70000",
       "url": "https://doi.org/10.1111/1475-679x.70000"
-    },
-    {
-      "title": "Leaky Director Networks and Innovation Herding",
-      "authors": "Felipe Cabezon, Gerard Hoberg",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We first document that, despite potential legal issues, overlapping directors are surprisingly prevalent among direct competitors. Using panel data regressions and plausibly exogenous shocks, we find that competing firms in markets with dense overlapping-director networks experience innovation herding, lose product differentiation, and, ultimately, perform poorly. Novel text-based network propagation tests of technologies show that intellectual property leakage plays a role as firms with dense overlapping director networks experience faster propagation of technologies to competitors. Our findings suggest a coordination problem where industry participants cannot stop rivals from earning small gains from leakage despite much larger industry-wide negative externalities.</jats:p>",
-      "doi": "10.1093/rfs/hhaf048",
-      "url": "https://doi.org/10.1093/rfs/hhaf048"
-    },
-    {
-      "title": "The Role of Observed Punishment in Deterring the Spillover Effects of Corporate Misconduct Among Non‐Peers",
-      "authors": "Eric R. Holzman, Brian P. Miller, Kristina M. Rennekamp, Ashley K. Sauciuc",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-07-15",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This study investigates (1) whether misreporting by corporate executives impacts unethical decision‐making by non‐peers in unrelated reporting tasks, and (2) whether observing various forms of punishment for corporate misreporting deters this spillover effect. Specifically, we examine the deterrent effects of two common forms of punishment (fines or imprisonment) and a novel form of punishment (public shaming). Across two experiments, we find that participants are more likely to misreport performance when exposed to media reports about executives engaging in financial misreporting. This evidence is consistent with executive misreporting leading to unethical decision‐making among non‐peer observers. We also find that participant misreporting is reduced when the media reports the punishments levied against those executives. In further mediation tests, our findings suggest observed punishments for corporate misconduct can influence perceptions of injunctive norms and potentially mitigate spillover in unethical behavior.</jats:p>",
-      "doi": "10.1111/1475-679x.70002",
-      "url": "https://doi.org/10.1111/1475-679x.70002"
     }
   ]
 }
