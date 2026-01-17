@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T03:32:10.756Z",
-  "count": 522,
+  "lastUpdated": "2026-01-17T03:24:49.035Z",
+  "count": 523,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -183,6 +183,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
     },
     {
+      "title": "Institutional Investor Attention",
+      "authors": "Alan Kwan, Yukun Liu, Ben Matthies",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using data on Internet news reading, we measure fund‐level attention to both aggregate and firm‐specific news and relate it to fund portfolio allocation decisions. In the time series, we find that funds shift attention toward macroeconomic news during periods of high aggregate volatility. Those funds that exhibit stronger attention‐reallocation patterns earn higher future returns. In the cross‐section of fund portfolios, fund attention is positively related to stock holdings. Furthermore, fund attention to a stock increases the value‐add of that position to the fund's performance. This relationship is stronger using fund attention to more value‐relevant news articles.</jats:p>",
+      "doi": "10.1111/jofi.70009",
+      "url": "https://doi.org/10.1111/jofi.70009"
+    },
+    {
       "title": "Leveraging Virtual Contact and Social Networks to Foster Interethnic Harmony",
       "authors": "Abu Siddique, Michael Vlassopoulos, Yves Zenou",
       "journal": "Quarterly Journal of Economics",
@@ -191,6 +201,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central individuals, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central individuals were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony within multiethnic communities.</jats:p>",
       "doi": "10.1093/qje/qjag001",
       "url": "https://doi.org/10.1093/qje/qjag001"
+    },
+    {
+      "title": "The Short-Run Policy Constraints of Long-Run Expectations",
+      "authors": "Stefano Eusepi, Marc Giannoni, Bruce Preston",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-15",
+      "abstract": "",
+      "doi": "10.1086/738335",
+      "url": "https://doi.org/10.1086/738335"
     },
     {
       "title": "Growth Experiences and Trust in Government",
@@ -711,6 +731,36 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101861",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101861"
+    },
+    {
+      "title": "Emerging From the Shadows: Consequences of Position Disclosure in Corporate Bankruptcy",
+      "authors": "Kevin D. Chen",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine how mandatory position disclosure of claimholders’ economic interests affects Chapter 11 bankruptcy outcomes. Exploiting a regulation that increased disclosure by creditors and equityholders on certain committees, I find that position disclosure is associated with a decrease in the length of bankruptcy cases, especially the duration of negotiations between claimholders across classes. Further, I show that position disclosure is associated with lower post-bankruptcy recidivism. Contrary to the concerns expressed by critics, I find little evidence that position disclosure reduced claimholders’ participation in committees or decreased trading in the market for bankruptcy claims. My findings highlight the overall benefits of position disclosure in facilitating negotiations during bankruptcy.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: D82; G33: G34; K22; M40.</jats:p>",
+      "doi": "10.2308/tar-2024-0075",
+      "url": "https://doi.org/10.2308/tar-2024-0075"
+    },
+    {
+      "title": "Using GPT to Measure Business Complexity",
+      "authors": "Darren Bernard, Elizabeth Blankespoor, Ties de Kok, Sara Toynbee",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Business complexity involves important tradeoffs for managers and investors, but empirical evidence is limited by measurement issues. We construct and validate a measure of business complexity using a GPT model fine-tuned on narrative disclosures and inline XBRL tags. We first show that our measure is associated with slower price formation in capital markets, consistent with complexity increasing processing costs. Next, we apply our measure to study the complexity of debt, an economically important topic that encompasses a wide range of features. The results show that nonstandard debt features such as call and convertibility provisions underlie debt complexity. We also find that debt complexity correlates with more persistent interest expense and better performance when lending conditions worsen, suggesting it is in part an adaptive response to manage financial risk. Overall, our study underscores the tradeoffs of business complexity and provides a flexible measure of complexity for future research.</jats:p>\n                  <jats:p>Data Availability: Contact authors for data, model weights, and measure.</jats:p>\n                  <jats:p>JEL Classifications: D82; D83; G14; G30; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0716",
+      "url": "https://doi.org/10.2308/tar-2023-0716"
+    },
+    {
+      "title": "Mandatory Disclosure and Takeovers: Evidence from Private Banks",
+      "authors": "Urooj Khan, Doron Nissim, Jing Wen",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public financial information plays a critical role in the takeover market by helping acquirers search for and value potential targets. Using a difference-in-differences research design around a regulatory disclosure mandate that changed the granularity of financial disclosure for certain privately held banks, we find that banks with reduced disclosure are less likely to be targeted in M&amp;A transactions. Acquirers adapt to information frictions arising from reduced disclosures by bidding for geographically proximate target banks and increasing the proportion of stock in their bids. We also find that serial acquirers are less affected by the reduced financial disclosures of targets. Furthermore, banks that reduced disclosure while earning nonbanking income or engaging in intracompany transactions were affected more severely. Overall, we highlight the critical role of mandatory financial reporting in the takeover market and its nuanced implications for bank owners, regulators, and policymakers.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources noted in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: D83; G21; G28; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0611",
+      "url": "https://doi.org/10.2308/tar-2023-0611"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -4193,16 +4243,6 @@
       "url": "https://doi.org/10.1086/738345"
     },
     {
-      "title": "The Short-run Policy Constraints of Long-run Expectations",
-      "authors": "Stefano Eusepi, Marc Giannoni, Bruce Preston",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-25",
-      "abstract": "",
-      "doi": "10.1086/738335",
-      "url": "https://doi.org/10.1086/738335"
-    },
-    {
       "title": "A Case for Pay-as-Bid Auctions",
       "authors": "Marek Pycia, Kyle Woodward",
       "journal": "Journal of Political Economy",
@@ -5191,36 +5231,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We identify and estimate price informativeness, a necessary step in testing theories of information aggregation. Starting from a pricing equation and a stochastic process for payoffs, we show how to recover relative price informativeness from regressions of asset price changes on changes in payoffs. Applying our identification results, we estimate a panel of stock-specific measures of informativeness for U.S. stocks. In the cross-section, large stocks with high turnover, idiosyncratic volatility, institutional ownership, and analyst coverage have higher informativeness. In the time series, the median, mean, and standard deviation of the distribution of informativeness have steadily increased since the mid-1980s.</jats:p>",
       "doi": "10.1093/rfs/hhaf051",
       "url": "https://doi.org/10.1093/rfs/hhaf051"
-    },
-    {
-      "title": "Getting to the Core: Inflation Risks Within and Across Asset Classes",
-      "authors": "Xiang Fang, Yang Liu, Nikolai Roussanov",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Do real assets protect against inflation? Stocks’ core inflation betas are negative, while their energy betas are positive. Currencies, commodities, and real estate mostly hedge against energy inflation, but not core inflation. These hedging properties are reflected in the prices of inflation risks: only core inflation carries a negative risk premium, and its magnitude is consistent within and across asset classes, uniquely among macroeconomic risk factors. Energy inflation has become more procyclical and volatile since the 1990s, which helps explain the time-varying correlation between stock and bond returns. A two-sector New Keynesian asset pricing model accounts for these facts quantitatively.</jats:p>",
-      "doi": "10.1093/rfs/hhaf050",
-      "url": "https://doi.org/10.1093/rfs/hhaf050"
-    },
-    {
-      "title": "Gender Stereotypes and Entrepreneur Financing",
-      "authors": "Camille Hebert",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I document a significant gender gap in entrepreneurs’ access to early-stage equity financing. Using unique administrative data on French startups, I show that this gap is particularly pronounced in male-dominated sectors. Controlling for a comprehensive set of entrepreneur and startup characteristics—including demographics, backgrounds, and motivations—accounts for 42% of the average gender gap. However, in male-dominated sectors, 80% of the gap remains unexplained. Growth-oriented female entrepreneurs rely more heavily on bank loans, substituting equity with debt. Finally, VC-backed female-founded startups outperform their male counterparts in male-dominated sectors. These findings suggest that context-dependent stereotypes influence equity financing decisions.</jats:p>",
-      "doi": "10.1093/rfs/hhaf049",
-      "url": "https://doi.org/10.1093/rfs/hhaf049"
-    },
-    {
-      "title": "Syndicated Lending Relationships, Information Asymmetry, and Market Making in the Secondary Loan Market",
-      "authors": "Matthew A. Phillips",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-07-16",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper investigates why commercial lenders make markets for the loans that they sell on the secondary market. Using loan‐level data, I find that origination lenders with extensive borrower relationships and more reputational capital at stake are more likely to serve as market makers. Greater participation of origination lenders as market makers is associated with lower trading costs for their borrowers' loans. This association remains even in conditions where origination lenders could exploit their information advantage for market making profits. Lenders benefit from being market makers by maintaining strong subsequent lending relationships with their borrowers. Collectively, this evidence is consistent with origination lenders' participation in the secondary market being motivated by reducing trading frictions rather than market making profits.</jats:p>",
-      "doi": "10.1111/1475-679x.70000",
-      "url": "https://doi.org/10.1111/1475-679x.70000"
     }
   ]
 }
