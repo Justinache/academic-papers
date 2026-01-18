@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T03:24:49.035Z",
-  "count": 523,
+  "lastUpdated": "2026-01-18T03:47:31.019Z",
+  "count": 524,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -761,6 +761,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public financial information plays a critical role in the takeover market by helping acquirers search for and value potential targets. Using a difference-in-differences research design around a regulatory disclosure mandate that changed the granularity of financial disclosure for certain privately held banks, we find that banks with reduced disclosure are less likely to be targeted in M&amp;A transactions. Acquirers adapt to information frictions arising from reduced disclosures by bidding for geographically proximate target banks and increasing the proportion of stock in their bids. We also find that serial acquirers are less affected by the reduced financial disclosures of targets. Furthermore, banks that reduced disclosure while earning nonbanking income or engaging in intracompany transactions were affected more severely. Overall, we highlight the critical role of mandatory financial reporting in the takeover market and its nuanced implications for bank owners, regulators, and policymakers.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources noted in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: D83; G21; G28; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0611",
       "url": "https://doi.org/10.2308/tar-2023-0611"
+    },
+    {
+      "title": "Creditor Rights and Related-Party Transactions: Evidence from the Implementation of the Insolvency Reforms in India",
+      "authors": "Ole-Kristian Hope, Christine Liu, Dushyantkumar Vyas",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Non-arm’s-length transactions between a firm and its related parties, or related-party transactions (RPTs), are widely used in emerging economies. We examine the effect of creditor rights on the usage of financing RPTs using the enactment of India’s Insolvency and Bankruptcy Code (IBC) of 2016 as a shock to creditor rights. We show that stronger creditor rights make arm’s-length external financing more attractive relative to RPT financing. In particular, we find that firms that are ex ante more likely to be affected by IBC (i.e., those with low asset tangibility) reduce their dependence on financing-related RPTs, in particular, RPT loan inflows. This effect is strengthened for firms with greater financial constraints and higher growth opportunities. Our findings suggest that creditor rights influence financing choices and contribute to our understanding of how insolvency reforms affect financing and RPTs in emerging markets.</jats:p>",
+      "doi": "10.2308/tar-2023-0464",
+      "url": "https://doi.org/10.2308/tar-2023-0464"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
