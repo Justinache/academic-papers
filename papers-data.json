@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T03:47:31.019Z",
-  "count": 524,
+  "lastUpdated": "2026-01-19T03:51:25.134Z",
+  "count": 523,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -5231,16 +5231,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>What is the demand elasticity of statistical arbitrageurs that invest according to the advice of modern cross-sectional asset pricing models? Thirteen models from the literature exhibit strikingly inelastic demand, in contrast to classical models that rely on statistical arbitrageurs to create elastic market demand for assets. This inelasticity arises from the difficulty of trading against price changes. A quantitative equilibrium model shows that aggregate demand remains inelastic even with these statistical arbitrageurs in the market.</jats:p>",
       "doi": "10.1093/rfs/hhaf047",
       "url": "https://doi.org/10.1093/rfs/hhaf047"
-    },
-    {
-      "title": "Identifying Price Informativeness",
-      "authors": "Eduardo Dávila, Cecilia Parlatore",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-18",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We identify and estimate price informativeness, a necessary step in testing theories of information aggregation. Starting from a pricing equation and a stochastic process for payoffs, we show how to recover relative price informativeness from regressions of asset price changes on changes in payoffs. Applying our identification results, we estimate a panel of stock-specific measures of informativeness for U.S. stocks. In the cross-section, large stocks with high turnover, idiosyncratic volatility, institutional ownership, and analyst coverage have higher informativeness. In the time series, the median, mean, and standard deviation of the distribution of informativeness have steadily increased since the mid-1980s.</jats:p>",
-      "doi": "10.1093/rfs/hhaf051",
-      "url": "https://doi.org/10.1093/rfs/hhaf051"
     }
   ]
 }
