@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T03:51:25.134Z",
-  "count": 523,
+  "lastUpdated": "2026-01-20T03:45:21.724Z",
+  "count": 524,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -181,6 +181,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "The Future in Mind: Aspirations and Long-Term Outcomes in Rural Ethiopia",
+      "authors": "Tanguy Bernard, Stefan Dercon, Kate Orkin, Giulio Schinaia, Alemayehu Seyoum Taffesse",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children’s education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</jats:p>",
+      "doi": "10.1093/qje/qjag002",
+      "url": "https://doi.org/10.1093/qje/qjag002"
     },
     {
       "title": "Institutional Investor Attention",
