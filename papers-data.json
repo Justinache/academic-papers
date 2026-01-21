@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-20T03:45:21.724Z",
-  "count": 524,
+  "lastUpdated": "2026-01-21T03:45:01.981Z",
+  "count": 527,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -183,6 +183,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
     },
     {
+      "title": "(Not) Thinking About the Future: Financial Information and Maternal Labor Supply",
+      "authors": "Ana Costa-Ramón, Michaela Slotwinski, Ursina Schaede, Anne Ardila Brenøe",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-20",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7 percent. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.</jats:p>",
+      "doi": "10.1093/qje/qjag003",
+      "url": "https://doi.org/10.1093/qje/qjag003"
+    },
+    {
       "title": "The Future in Mind: Aspirations and Long-Term Outcomes in Rural Ethiopia",
       "authors": "Tanguy Bernard, Stefan Dercon, Kate Orkin, Giulio Schinaia, Alemayehu Seyoum Taffesse",
       "journal": "Quarterly Journal of Economics",
@@ -191,6 +201,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children’s education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</jats:p>",
       "doi": "10.1093/qje/qjag002",
       "url": "https://doi.org/10.1093/qje/qjag002"
+    },
+    {
+      "title": "Investor-Driven Corporate Finance: Evidence from Insurance Markets",
+      "authors": "Christian Kubitza",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I study the effect of bond investor demand on the financing and investment decisions of nonfinancial firms using granular data on the bond transactions of insurance companies. Liquidity inflows from insurance premiums combined with insurers’ persistent investment preferences identify bond demand shifts in the secondary market. These raise bond prices and reduce firms’ financing costs. In response, firms issue more bonds, especially when they have well-connected bond underwriters. The proceeds are used for investment activities, particularly by financially constrained firms. My findings emphasize that bond investors significantly affect corporate decisions through their price impact.</jats:p>",
+      "doi": "10.1093/rfs/hhag003",
+      "url": "https://doi.org/10.1093/rfs/hhag003"
+    },
+    {
+      "title": "Dividend Momentum and Stock Return Predictability: A Bayesian Approach",
+      "authors": "Juan Antolín-Díaz, Ivan Petrella, Juan Rubio-Ramírez",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A long tradition in macro-finance studies the dynamics of aggregate stock returns and dividends using vector autoregressions, imposing the restrictions implied by the Campbell-Shiller (CS) identity to sharpen inference. We develop Bayesian methods that encode a priori skepticism about return predictability while imposing the restrictions. We highlight that persistence in dividend growth induces “dividend momentum,” a previously overlooked channel for return predictability. By combining Bayesian shrinkage and the CS restrictions, we obtain more plausible degrees of return predictability, superior out-of-sample forecasts, and Sharpe ratios, which cannot be obtained by using either shrinkage or the CS restrictions on their own.</jats:p>",
+      "doi": "10.1093/rfs/hhaf110",
+      "url": "https://doi.org/10.1093/rfs/hhaf110"
     },
     {
       "title": "Institutional Investor Attention",
