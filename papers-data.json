@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T03:45:01.981Z",
-  "count": 527,
+  "lastUpdated": "2026-01-22T03:48:51.173Z",
+  "count": 531,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -41,6 +41,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104227",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104227"
+    },
+    {
+      "title": "Investments that make our homes greener: The role of regulation",
+      "authors": "Nuno Clara, João F. Cocco, S. Lakshmi Naaraayanan, Varun Sharma",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104236",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104236"
     },
     {
       "title": "Manufacturing risk-free government debt",
@@ -183,6 +193,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
     },
     {
+      "title": "How Do You Identify a Good Manager?",
+      "authors": "Ben Weidmann, Joseph Vecci, Farah Said, Sonia Bhalotra, Achyuta Adhvaryu, Anant Nyshadham, Jorge Tamayo, David Deming",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce and validate a novel approach to identifying good managers. In a pre-registered lab experiment, we causally identify managerial contributions by randomly assigning managers to teams and controlling for individual skill. We find that manager contributions are crucial for team success, and that people who self-select into management roles perform worse than randomly assigned managers. Managerial performance is strongly predicted by economic decision-making skill, but not by demographic characteristics. Two validation studies support our experimental results. Participants who succeed in the lab receive more real-world promotions and, in a separate study of retail store managers, skill measures strongly predict store sales. A one standard deviation increase in manager quality increases annual per-store sales by $4.1 million USD (25% increase). Selecting managers on skills rather than demographic characteristics or the desire to lead could substantially improve organizational performance.</jats:p>",
+      "doi": "10.1093/qje/qjag004",
+      "url": "https://doi.org/10.1093/qje/qjag004"
+    },
+    {
+      "title": "Deposit Inflows and Outflows in Failing Banks: The Role of Deposit Insurance",
+      "authors": "Christopher Martin, Manju Puri, Alexander Ufier",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-21",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Using unique, daily, account‐level data, we investigate deposit outflows and inflows in a distressed bank. We observe an\n                    <jats:italic>outflow</jats:italic>\n                    of uninsured depositors following bad regulatory news. Both regular and temporary deposit insurance reduce outflows. We provide important new evidence that, simultaneous with deposit outflows, deposit\n                    <jats:italic>inflows</jats:italic>\n                    are first order. Uninsured deposit outflows were largely offset with new insured deposit inflows as the bank approached failure, with the bank increasing term deposit rates. This phenomenon holds in a large sample of banks that faced regulatory action, suggesting that insured deposit inflows are an important mechanism that weakens depositor discipline.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70007",
+      "url": "https://doi.org/10.1111/jofi.70007"
+    },
+    {
       "title": "(Not) Thinking About the Future: Financial Information and Maternal Labor Supply",
       "authors": "Ana Costa-Ramón, Michaela Slotwinski, Ursina Schaede, Anne Ardila Brenøe",
       "journal": "Quarterly Journal of Economics",
@@ -191,6 +221,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7 percent. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.</jats:p>",
       "doi": "10.1093/qje/qjag003",
       "url": "https://doi.org/10.1093/qje/qjag003"
+    },
+    {
+      "title": "ESG Shocks in Global Supply Chains",
+      "authors": "Emilio Bisetti, Guoman She, Alminas Žaldokas",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-20",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that U.S. firms cut imports by 31.8% when their international suppliers experience environmental and social (E&amp;S) incidents. These trade cuts are larger for publicly listed U.S. importers facing high E&amp;S investor pressure and lead to cross-country supplier reallocation, suggesting that E&amp;S preferences in capital markets can be privately costly but have real effects for foreign suppliers. Larger trade cuts around the incident result in better supplier E&amp;S performance in subsequent years and in the eventual resumption of trade. Our results highlight the role of investors in ensuring suppliers’ E&amp;S compliance along global supply chains.</jats:p>",
+      "doi": "10.1093/rfs/hhag001",
+      "url": "https://doi.org/10.1093/rfs/hhag001"
+    },
+    {
+      "title": "Do Consumers Vote with Their Feet in Response to Negative ESG News? Evidence from Foot Traffic to Retail Locations",
+      "authors": "Svenja Dube, Hye Seung (grace) Lee, Danye Wang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-01-20",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether and, if so, how retail consumers change their shopping in response to firm‐specific negative environmental, social, and governance (ESG) news. Using an event study methodology, we do not find significant changes in consumer foot traffic in response to negative ESG news, on average. However, the average consumer reacts negatively when such news is covered by national or global media outlets, which elevates consumer awareness. In addition, we provide evidence of the heterogeneity in responses to negative ESG news across consumer groups. Consumers in more ESG‐conscious counties, as measured by county ESG preferences, income, education, and political ideology, reduce store visits in response to negative ESG news. In contrast, consumers in the least ESG‐conscious counties increase their visits in response to negative ESG news. These opposing reactions explain the insignificant average consumer response to negative ESG news. Furthermore, the ESG‐conscious consumers' negative reaction is, at most, modest, dissipating within six weeks. Overall, our findings suggest that firms face divergent responses to ESG activities from different consumer groups, underscoring the divisive nature of ESG issues.</jats:p>",
+      "doi": "10.1111/1475-679x.70034",
+      "url": "https://doi.org/10.1111/1475-679x.70034"
     },
     {
       "title": "The Future in Mind: Aspirations and Long-Term Outcomes in Rural Ethiopia",
@@ -811,6 +861,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Non-arm’s-length transactions between a firm and its related parties, or related-party transactions (RPTs), are widely used in emerging economies. We examine the effect of creditor rights on the usage of financing RPTs using the enactment of India’s Insolvency and Bankruptcy Code (IBC) of 2016 as a shock to creditor rights. We show that stronger creditor rights make arm’s-length external financing more attractive relative to RPT financing. In particular, we find that firms that are ex ante more likely to be affected by IBC (i.e., those with low asset tangibility) reduce their dependence on financing-related RPTs, in particular, RPT loan inflows. This effect is strengthened for firms with greater financial constraints and higher growth opportunities. Our findings suggest that creditor rights influence financing choices and contribute to our understanding of how insolvency reforms affect financing and RPTs in emerging markets.</jats:p>",
       "doi": "10.2308/tar-2023-0464",
       "url": "https://doi.org/10.2308/tar-2023-0464"
+    },
+    {
+      "title": "Political costs and strategic corporate communication",
+      "authors": "Christine Cuny, Jungbae Kim, Mihir N. Mehta",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101860",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101860"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -5248,29 +5308,9 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-07-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Measured as yield spreads against Treasury securities and AAA corporate bonds, the convenience premium of newly issued agency MBS averages more than half of the long-term Treasury convenience premium. The agency MBS convenience premium and issuance amount vary negatively with mortgage rate, consistent with a prepayment-driven channel. Placing agencies into conservatorship in 2008 and introducing liquidity regulations in 2013 significantly affected MBS convenience premium, consistent with government guarantee and regulatory treatment channels. Analyses of dispersion of dealers’ prepayment forecasts, seasoned MBS, and investors’ MBS holdings deliver further economic implications for agency MBS as safe assets.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Measured as yield spreads against Treasury securities and AAA corporate bonds, the convenience premium of newly issued agency MBS averages more than half of the long-term Treasury convenience premium. The agency MBS convenience premium and issuance amount vary negatively with mortgage rate, consistent with a prepayment-driven channel. Placing agencies into conservatorship in 2008 and introducing liquidity regulations in 2013 significantly affected MBS convenience premium, consistent with government guarantee and regulatory treatment channels. Analyses of dispersion of dealers’ prepayment forecasts, seasoned MBS, and investors’ MBS holdings deliver further economic implications for agency MBS as safe assets.</jats:p>",
       "doi": "10.1093/rfs/hhaf052",
       "url": "https://doi.org/10.1093/rfs/hhaf052"
-    },
-    {
-      "title": "From Public Labs to Private Firms: Magnitude And Channels of Local R&D Spillovers",
-      "authors": "Antonin Bergeaud, Arthur Guillouzouic, Emeric Henry, Clément Malgouyres",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-07-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Introducing a new measure of scientific proximity between private firms and public research groups and exploiting a multibillion-euro financing program of academic clusters in France, we provide causal evidence of local spillovers from academic research to firms in the private sector. Our main estimate suggests that each €1 spent in academic research through this program spurred an additional €0.81 in private R&amp;D expenditures. We also show that this shock increased the average quality of patents. We exploit reports produced by funded clusters, complemented by data on firm creation, labor mobility, and R&amp;D public–private partnerships, to provide evidence on the channels for these spillovers. We discuss the policy implications of funding academic research to stimulate private R&amp;D.</jats:p>",
-      "doi": "10.1093/qje/qjaf034",
-      "url": "https://doi.org/10.1093/qje/qjaf034"
-    },
-    {
-      "title": "The Elasticity of Quantitative Investment",
-      "authors": "Carter Davis",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>What is the demand elasticity of statistical arbitrageurs that invest according to the advice of modern cross-sectional asset pricing models? Thirteen models from the literature exhibit strikingly inelastic demand, in contrast to classical models that rely on statistical arbitrageurs to create elastic market demand for assets. This inelasticity arises from the difficulty of trading against price changes. A quantitative equilibrium model shows that aggregate demand remains inelastic even with these statistical arbitrageurs in the market.</jats:p>",
-      "doi": "10.1093/rfs/hhaf047",
-      "url": "https://doi.org/10.1093/rfs/hhaf047"
     }
   ]
 }
