@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-22T03:48:51.173Z",
-  "count": 531,
+  "lastUpdated": "2026-01-23T03:43:44.533Z",
+  "count": 532,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -193,6 +193,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
     },
     {
+      "title": "The Impact of Bank Consolidation on Credit Supply and Performance",
+      "authors": "Sergio Mayordomo, Nicola Pavanini, Emanuele Tarantino",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Between 2009 and 2011, the Spanish banking system underwent a restructuring process based on savings banks’ consolidation. The program’s design allows us to study how banks’ consolidation affects credit supply and performance. We propose a quasi-experimental analysis showing that bank mergers restrict credit supply and set higher interest rates but also reject fewer applicants and report fewer nonperforming loans. We then estimate a structural model of credit in which banks set interest rates and lending standards. We find that, despite the relaxation in their lending standards, merged banks’ credit performance improved thanks to a significant drop in their screening costs.</jats:p>",
+      "doi": "10.1093/rfs/hhaf107",
+      "url": "https://doi.org/10.1093/rfs/hhaf107"
+    },
+    {
       "title": "How Do You Identify a Good Manager?",
       "authors": "Ben Weidmann, Joseph Vecci, Farah Said, Sonia Bhalotra, Achyuta Adhvaryu, Anant Nyshadham, Jorge Tamayo, David Deming",
       "journal": "Quarterly Journal of Economics",
@@ -211,6 +221,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Using unique, daily, account‐level data, we investigate deposit outflows and inflows in a distressed bank. We observe an\n                    <jats:italic>outflow</jats:italic>\n                    of uninsured depositors following bad regulatory news. Both regular and temporary deposit insurance reduce outflows. We provide important new evidence that, simultaneous with deposit outflows, deposit\n                    <jats:italic>inflows</jats:italic>\n                    are first order. Uninsured deposit outflows were largely offset with new insured deposit inflows as the bank approached failure, with the bank increasing term deposit rates. This phenomenon holds in a large sample of banks that faced regulatory action, suggesting that insured deposit inflows are an important mechanism that weakens depositor discipline.\n                  </jats:p>",
       "doi": "10.1111/jofi.70007",
       "url": "https://doi.org/10.1111/jofi.70007"
+    },
+    {
+      "title": "Investor Composition and the Liquidity Component in the U.S. Corporate Bond Market",
+      "authors": "Jian Li, Haiyue Yu",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-21",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The link between corporate bond credit spreads and secondary market illiquidity in the cross section has grown stronger since 2005, resulting in a higher liquidity component in credit spreads. Using U.S. investor holdings data, we show that short‐term investors (e.g., mutual funds/exchange‐traded funds [ETFs]) increase trading activities in the secondary market, amplifying the effect of secondary market frictions on prices. We provide a model featuring heterogeneous investors with different trading needs and heterogeneous bonds to investigate the impact of the rapid‐growing mutual fund/ETF sector on the corporate bond market. We find the change in investor composition can quantitatively explain the aggregate trend.</jats:p>",
+      "doi": "10.1111/jofi.70024",
+      "url": "https://doi.org/10.1111/jofi.70024"
+    },
+    {
+      "title": "Model Ambiguity versus Model Misspecification in Dynamic Portfolio Choice",
+      "authors": "Pascal J. Maenhout, Hao Xing, Anne G. Balter",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-21",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study aversion to model ambiguity and misspecification in dynamic portfolio choice. Risk‐averse investors (relative risk aversion ) fear return persistence, while risk‐tolerant investors () fear mean reversion, when confronting model misspecification concerns of identically and independently distributed (IID) returns. The intuition is that risk‐averse investors, who want to hedge intertemporally, endogenously fear return persistence, which precludes hedging. A log investor is myopic and unaffected by model misspecification, therefore only worrying about model ambiguity. Our model can generate belief scarring, nonparticipation in equity markets, and extrapolative return expectations. Extending beyond IID returns, we study model misspecification for a mean‐reverting Sharpe ratio.</jats:p>",
+      "doi": "10.1111/jofi.70027",
+      "url": "https://doi.org/10.1111/jofi.70027"
     },
     {
       "title": "(Not) Thinking About the Future: Financial Information and Maternal Labor Supply",
@@ -5291,26 +5321,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We investigate the dynamics of internal forecasting in multi‐location firms and the relations between forecast characteristics and investment. Using U.S. Census microdata on plant‐level growth expectations, we find that plants within multi‐location firms make forecasts that are both more certain and less accurate than those of standalone plants. We provide evidence suggesting that headquarters infers uncertainty from inter‐plant forecast disagreement, and that headquarters is able to facilitate the use of relevant information held by one plant but applicable to another. Differences between peer and focal plants' forecasts predict forecast errors and relate to investment decisions at the focal plant, suggesting that information from multiple sources is integrated into capital allocation decisions. Headquarters' heavier use of peer plant forecast information when focal plants are more uncertain likely weakens focal plant managers' incentives to consider extreme scenarios when forecasting.</jats:p>",
       "doi": "10.1111/1475-679x.70003",
       "url": "https://doi.org/10.1111/1475-679x.70003"
-    },
-    {
-      "title": "Distributional Growth Accounting: Education and the Reduction of Global Poverty, 1980–2019",
-      "authors": "Amory Gethin",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-07-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article quantifies the role played by education in the reduction of global poverty. I propose tools for identifying the contribution of schooling to economic growth by income group, integrating imperfect substitution between skill groups into a macroeconomic growth decomposition. I bring this “distributional growth accounting” framework to the data by exploiting a new microdatabase representative of nearly all of the world’s population, new estimates of the private returns to schooling, and historical income distribution statistics. Education can account for about 45% of global economic growth and 60% of pretax income growth among the world’s poorest 20% from 1980 to 2019. A significant fraction of these gains was made possible by skill-biased technical change amplifying the returns to education. Because they ignore the distributional effects of schooling, standard growth accounting methods substantially underestimate economic benefits of education for the global poor.</jats:p>",
-      "doi": "10.1093/qje/qjaf033",
-      "url": "https://doi.org/10.1093/qje/qjaf033"
-    },
-    {
-      "title": "Agency MBS as Safe Assets",
-      "authors": "Zhiguo He, Zhaogang Song",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Measured as yield spreads against Treasury securities and AAA corporate bonds, the convenience premium of newly issued agency MBS averages more than half of the long-term Treasury convenience premium. The agency MBS convenience premium and issuance amount vary negatively with mortgage rate, consistent with a prepayment-driven channel. Placing agencies into conservatorship in 2008 and introducing liquidity regulations in 2013 significantly affected MBS convenience premium, consistent with government guarantee and regulatory treatment channels. Analyses of dispersion of dealers’ prepayment forecasts, seasoned MBS, and investors’ MBS holdings deliver further economic implications for agency MBS as safe assets.</jats:p>",
-      "doi": "10.1093/rfs/hhaf052",
-      "url": "https://doi.org/10.1093/rfs/hhaf052"
     }
   ]
 }
