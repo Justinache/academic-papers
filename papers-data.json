@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-23T03:43:44.533Z",
-  "count": 532,
+  "lastUpdated": "2026-01-24T03:28:30.082Z",
+  "count": 533,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -193,6 +193,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
     },
     {
+      "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
+      "authors": "Zhongjian Lin, Francis Vella",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-23",
+      "abstract": "",
+      "doi": "10.1086/739329",
+      "url": "https://doi.org/10.1086/739329"
+    },
+    {
+      "title": "A Case for Pay-as-Bid Auctions",
+      "authors": "Marek Pycia, Kyle Woodward",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-23",
+      "abstract": "",
+      "doi": "10.1086/738341",
+      "url": "https://doi.org/10.1086/738341"
+    },
+    {
       "title": "The Impact of Bank Consolidation on Credit Supply and Performance",
       "authors": "Sergio Mayordomo, Nicola Pavanini, Emanuele Tarantino",
       "journal": "Review of Financial Studies",
@@ -201,6 +221,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Between 2009 and 2011, the Spanish banking system underwent a restructuring process based on savings banks’ consolidation. The program’s design allows us to study how banks’ consolidation affects credit supply and performance. We propose a quasi-experimental analysis showing that bank mergers restrict credit supply and set higher interest rates but also reject fewer applicants and report fewer nonperforming loans. We then estimate a structural model of credit in which banks set interest rates and lending standards. We find that, despite the relaxation in their lending standards, merged banks’ credit performance improved thanks to a significant drop in their screening costs.</jats:p>",
       "doi": "10.1093/rfs/hhaf107",
       "url": "https://doi.org/10.1093/rfs/hhaf107"
+    },
+    {
+      "title": "Automation and Polarization",
+      "authors": "Daron Acemoglu, Jonas Loebbing",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-22",
+      "abstract": "",
+      "doi": "10.1086/739330",
+      "url": "https://doi.org/10.1086/739330"
     },
     {
       "title": "How Do You Identify a Good Manager?",
@@ -901,6 +931,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101860",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101860"
+    },
+    {
+      "title": "The 2003 U.S. Dividend Tax Cut, Small Business Loan Supply, and the Real Economy",
+      "authors": "Oliver Zhen Li, Yupeng Lin, Keyuan Zhang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the credit supply-side effect of the U.S. 2003 dividend tax cut on the real economy through the banking sector. We show that C-corporation banks (treatment group), particularly those capital-constrained, increase the supply of small business loans more than S-subchapter banks (control group) following the tax cut, aligning with the old view of dividend taxation and the supply-side effect rooted in credit rationing. Such an enhanced small business loan supply stemming from the tax cut translates into real effects on the economy. We find that areas with a greater presence of C-corporation banks exhibit more small business formations, employment, and innovations. The positive real effects are concentrated in subsamples when business growth opportunities are more abundant or international trade exposures are higher. Overall, our findings add to the literature on the real effects of the tax cut by showing an important yet unexplored bank credit supply channel.</jats:p>",
+      "doi": "10.2308/tar-2023-0444",
+      "url": "https://doi.org/10.2308/tar-2023-0444"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -2603,16 +2643,6 @@
       "url": "https://doi.org/10.1086/739335"
     },
     {
-      "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
-      "authors": "Zhongjian Lin, Francis Vella",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739329",
-      "url": "https://doi.org/10.1086/739329"
-    },
-    {
       "title": "Making Information More Valuable",
       "authors": "Mark Whitmeyer",
       "journal": "Journal of Political Economy",
@@ -2621,16 +2651,6 @@
       "abstract": "",
       "doi": "10.1086/739326",
       "url": "https://doi.org/10.1086/739326"
-    },
-    {
-      "title": "Automation and Polarization",
-      "authors": "Daron Acemoglu, Jonas Loebbing",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739330",
-      "url": "https://doi.org/10.1086/739330"
     },
     {
       "title": "How Likely Is an Inflation Disaster?",
@@ -4381,16 +4401,6 @@
       "abstract": "",
       "doi": "10.1086/738345",
       "url": "https://doi.org/10.1086/738345"
-    },
-    {
-      "title": "A Case for Pay-as-Bid Auctions",
-      "authors": "Marek Pycia, Kyle Woodward",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-25",
-      "abstract": "",
-      "doi": "10.1086/738341",
-      "url": "https://doi.org/10.1086/738341"
     },
     {
       "title": "Pockets of Predictability: A Replication",
