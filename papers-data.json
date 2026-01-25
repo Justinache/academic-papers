@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T03:28:30.082Z",
-  "count": 533,
+  "lastUpdated": "2026-01-25T03:55:41.871Z",
+  "count": 535,
   "papers": [
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -51,6 +51,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104236",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104236"
+    },
+    {
+      "title": "Retail option traders and the implied volatility surface",
+      "authors": "Gregory W. Eaton, T. Clifton Green, Brian S. Roseman, Yanbin Wu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104238",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
     },
     {
       "title": "Manufacturing risk-free government debt",
@@ -231,6 +241,16 @@
       "abstract": "",
       "doi": "10.1086/739330",
       "url": "https://doi.org/10.1086/739330"
+    },
+    {
+      "title": "Bank Monitoring with On‐Site Inspections",
+      "authors": "Amanda Rae Heitz, Christopher Martin, Alexander Ufier",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using proprietary transaction‐level data on nonsyndicated construction loans, we provide some of the first empirical evidence on the drivers and consequences of bank monitoring through on‐site inspections.  Banks trade off monitoring intensity with favorable origination terms. Monitoring intensity escalates in response to local economic downturns or the bank's financial instability.  Borrowers with negative inspection reports have more draw requests denied, suggesting that monitoring outcomes impact credit decisions. Both the occurrence and threat of increased inspection frequency correspond to reduced defaults. Overall, our results provide empirical support for a substantial body of theoretical literature on bank monitoring.</jats:p>",
+      "doi": "10.1111/jofi.70026",
+      "url": "https://doi.org/10.1111/jofi.70026"
     },
     {
       "title": "How Do You Identify a Good Manager?",
