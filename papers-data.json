@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T03:55:41.871Z",
+  "lastUpdated": "2026-01-26T03:58:34.455Z",
   "count": 535,
   "papers": [
     {
@@ -201,6 +201,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Remotely Productive: The Efficacy of Remote Work for Executives",
+      "authors": "Ran Duchin, Denis Sosyura",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-25",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the efficacy of remote arrangements between CEOs and firms. Such arrangements attract executive talent and overcome labor market segmentation but introduce frictions. Remote arrangements are associated with lower operating performance, firm valuation, and insider reviews. Using the private costs from uprooting the CEO’s spouse as an instrument for the CEO’s decision to seek remote work, we find similar negative effects. The performance decline increases for CEOs who live further away and who cross multiple time zones. The mechanisms include the CEO’s loss of information, short-termism, and consumption of leisure, such as recreational boats and beach homes. (JEL D22, G30, G32, G34, G40, J22, J24, M50, M54)</jats:p>",
+      "doi": "10.1093/rfs/hhag005",
+      "url": "https://doi.org/10.1093/rfs/hhag005"
     },
     {
       "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
@@ -961,6 +971,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the credit supply-side effect of the U.S. 2003 dividend tax cut on the real economy through the banking sector. We show that C-corporation banks (treatment group), particularly those capital-constrained, increase the supply of small business loans more than S-subchapter banks (control group) following the tax cut, aligning with the old view of dividend taxation and the supply-side effect rooted in credit rationing. Such an enhanced small business loan supply stemming from the tax cut translates into real effects on the economy. We find that areas with a greater presence of C-corporation banks exhibit more small business formations, employment, and innovations. The positive real effects are concentrated in subsamples when business growth opportunities are more abundant or international trade exposures are higher. Overall, our findings add to the literature on the real effects of the tax cut by showing an important yet unexplored bank credit supply channel.</jats:p>",
       "doi": "10.2308/tar-2023-0444",
       "url": "https://doi.org/10.2308/tar-2023-0444"
+    },
+    {
+      "title": "Mandatory Carbon Disclosure and New Business Creation",
+      "authors": "Raphael Duguay, Chenchen Li, Frank Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101864",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -5331,26 +5351,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Many regulations aim to promote coordination among creditors in bankruptcy by ex post restricting their ability to exit distressed firms. However, such restrictions may harm creditors’ ex ante incentives to stay invested, thereby worsening coordination outcomes. We build a dynamic coordination model to show how this force shapes creditor runs, bankruptcy filings, and regulation designs. Intriguingly, filing for bankruptcy early, thereby preserving more assets for latecomers, can prolong firm life. Furthermore, regulators’ clawbacks on prebankruptcy repayments can be superior to firms’ commitment to early bankruptcy filing. Our analysis generates implications for automatic stay, avoidable preference, bank failures, and seniority structure.</jats:p>",
       "doi": "10.1093/rfs/hhaf039",
       "url": "https://doi.org/10.1093/rfs/hhaf039"
-    },
-    {
-      "title": "The “Actual Retail Price” of Equity Trades",
-      "authors": "Christopher Schwarz, Brad Barber, Xing Huang, Philippe Jorion, Terrance Odean",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-07-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We compare execution quality of six brokerage accounts across five brokers by generating a sample of 85,000 simultaneous market orders. Commission levels and payment for order flow (PFOF) differ across our accounts. We find that execution prices vary significantly across brokers: the mean account‐level round‐trip cost ranges from 0.07% to 0.46%, excluding any commissions. The dispersion is due to off‐exchange wholesalers systematically giving different execution prices for the same trades to different brokers. Across brokers, variation in PFOF does not explain the large variation in price execution. We provide several suggestions for more informative disclosures on execution quality.</jats:p>",
-      "doi": "10.1111/jofi.13467",
-      "url": "https://doi.org/10.1111/jofi.13467"
-    },
-    {
-      "title": "Internal Forecasts in Multi‐Location Firms",
-      "authors": "Lindsey Gallo, Eva Labro, James D. Omartian",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-07-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We investigate the dynamics of internal forecasting in multi‐location firms and the relations between forecast characteristics and investment. Using U.S. Census microdata on plant‐level growth expectations, we find that plants within multi‐location firms make forecasts that are both more certain and less accurate than those of standalone plants. We provide evidence suggesting that headquarters infers uncertainty from inter‐plant forecast disagreement, and that headquarters is able to facilitate the use of relevant information held by one plant but applicable to another. Differences between peer and focal plants' forecasts predict forecast errors and relate to investment decisions at the focal plant, suggesting that information from multiple sources is integrated into capital allocation decisions. Headquarters' heavier use of peer plant forecast information when focal plants are more uncertain likely weakens focal plant managers' incentives to consider extreme scenarios when forecasting.</jats:p>",
-      "doi": "10.1111/1475-679x.70003",
-      "url": "https://doi.org/10.1111/1475-679x.70003"
     }
   ]
 }
