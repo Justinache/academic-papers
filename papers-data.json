@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-01-27T03:49:10.883Z",
-  "count": 535,
+  "lastUpdated": "2026-01-28T03:46:35.090Z",
+  "count": 543,
   "papers": [
+    {
+      "title": "Learning by lending securities",
+      "authors": "George C. Nurisso",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104237",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104237"
+    },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
       "authors": "Hui Chen, Antoine Didisheim, Simon Scheidegger",
@@ -201,6 +211,46 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Monetary Policy, Inflation, and Crises: Evidence from History and Administrative Data",
+      "authors": "Gabriel Jiménez, Dmitry Kuvshinov, José‐luis Peydró, Björn Richter",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-27",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that a U‐shaped monetary rate path increases banking crisis risk, via credit and asset price cycles, analyzing 17 countries over 150 years. Rate hikes (raw or instrumented) increase crisis risk, but only if preceded by prolonged cuts. These patterns are unique to banking crises, unlike noncrisis recessions. Regarding the mechanism, prolonged cuts raise the likelihood of large credit and asset price booms, consistent with higher credit supply and risk‐taking. Subsequent hikes strongly reduce credit and asset prices, and increase banks' realized credit risk, rather than interest rate risk. We find consistent results in administrative loan‐level data for Spain.</jats:p>",
+      "doi": "10.1111/jofi.70023",
+      "url": "https://doi.org/10.1111/jofi.70023"
+    },
+    {
+      "title": "Monetary Policy and Wealth Effects: The Role of Risk and Heterogeneity",
+      "authors": "Nicolas Caramp, Dejanir H. Silva",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-27",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the role of asset revaluation in the monetary transmission mechanism. We build an analytical heterogeneous‐agents model with two main ingredients: (i) rare disasters and (ii) heterogeneous beliefs. The model captures time‐varying risk premia and precautionary savings in a setting that nests the textbook New Keynesian model. The model generates large movements in asset prices after a monetary shock but these movements can be neutral on real variables. Real effects depend on the redistribution among agents with heterogeneous precautionary motives. In quantitative analysis, we find that this channel can account for a large fraction of the transmission to aggregate consumption.</jats:p>",
+      "doi": "10.1111/jofi.70021",
+      "url": "https://doi.org/10.1111/jofi.70021"
+    },
+    {
+      "title": "The Dollar during the Great Recession: The Information Channel of U.S. Monetary Policy and the “Flight to Safety”",
+      "authors": "Vania Stavrakeva, Jenny Tang",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-01-27",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Conventional wisdom holds that lowering a home country's interest rate relative to another's will depreciate the domestic currency. We document that, at business‐cycle frequencies, U.S. forward guidance monetary policy easings had the opposite effect during the Great Recession. We attribute this effect to calendar‐based forward guidance that signaled economic weakness, resulting in a “flight‐to‐safety” effect and lower expected U.S. inflation. We also document cross‐currency heterogeneity: a surprise U.S. rate cut induced a larger appreciation of the dollar against currencies that typically depreciate more when the world economy is contracting. We build a model that can reconcile these findings.</jats:p>",
+      "doi": "10.1111/jofi.70025",
+      "url": "https://doi.org/10.1111/jofi.70025"
+    },
+    {
+      "title": "Corporate Tax System Complexity and Investment Sensitivity to Tax Policy Changes",
+      "authors": "Harald Amberger, John Gallemore, Jaron Wilde",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-01-26",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Effective policymakers must balance the demands of formulating a corporate tax system that raises revenue and spurs economic activity (e.g., investment) while promoting a “level playing field” across firms. Balancing these tradeoffs has likely caused tax systems to become more complex over time, increasing firms’ difficulty in understanding and complying with tax regulations. We investigate the impact of tax system complexity on the responsiveness of firm‐level investment to tax policy changes. Exploiting staggered tax rate changes and variation in tax system complexity across countries, we document two key findings. First, firm‐level investment is less sensitive to changes in the corporate tax rate when tax system complexity is higher, suggesting that such complexity can undermine the ability of tax policy to affect economic growth. Second, the impact of tax complexity on the sensitivity of investment to tax rate changes varies significantly across firms, with domestic‐owned, smaller, and private firms being more affected. These cross‐sectional disparities are consistent with tax system complexity potentially reducing tax system parity. Collectively, our findings suggest that corporate tax system complexity can negatively impact the ability of fiscal policy to affect investment and lead to heterogeneous tax policy responses across firms.</jats:p>",
+      "doi": "10.1111/1475-679x.70040",
+      "url": "https://doi.org/10.1111/1475-679x.70040"
     },
     {
       "title": "Remotely Productive: The Efficacy of Remote Work for Executives",
@@ -3738,7 +3788,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Using data from over 4,000 Black Lives Matter (BLM) protests across 600 U.S. counties from 2014 to 2021, we examine how BLM activism shapes corporate diversity at different organizational levels. We develop an approach integrating OpenAI's GPT‐4 with Chain‐of‐Thought prompting to classify race and ethnicity. In our validation tests, this method achieves higher accuracy than several tested open‐source algorithms. Our main findings are as follows. First, although firms headquartered in protest‐affected counties add more Black directors, particularly in larger protests, this gain appears to largely offset the representation of other non‐Black minority directors. Second, these board‐level shifts do not consistently extend to executives or the general workforce. In contrast, a gap may emerge between a firm's workforce composition and local labor‐market demographics, particularly in the representation of Black employees. This pattern is consistent with diversity tokenism, which suggests firms may prioritize high‐visibility board appointments and potentially downplay broader, transformative change. Our findings indicate that although board‐level diversity gains are highly visible and attract notable public attention, they may not be accompanied by an organization's transformative commitment to company‐wide diversity.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using data from over 4,000 Black Lives Matter (BLM) protests across 600 U.S. counties from 2014 to 2021, we examine how BLM activism shapes corporate diversity at different organizational levels. We develop an approach integrating OpenAI's GPT‐4 with Chain‐of‐Thought prompting to classify race and ethnicity. In our validation tests, this method achieves higher accuracy than several tested open‐source algorithms. Our main findings are as follows. First, although firms headquartered in protest‐affected counties add more Black directors, particularly in larger protests, this gain appears to largely offset the representation of other non‐Black minority directors. Second, these board‐level shifts do not consistently extend to executives or the general workforce. In contrast, a gap may emerge between a firm's workforce composition and local labor‐market demographics, particularly in the representation of Black employees. This pattern is consistent with diversity tokenism, which suggests firms may prioritize high‐visibility board appointments and potentially downplay broader, transformative change. Our findings indicate that although board‐level diversity gains are highly visible and attract notable public attention, they may not be accompanied by an organization's transformative commitment to company‐wide diversity.</jats:p>",
       "doi": "10.1111/1475-679x.70019",
       "url": "https://doi.org/10.1111/1475-679x.70019"
     },
@@ -3888,7 +3938,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-09-15",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This paper explores U.S. public firms’ cryptocurrency holdings and accounting practices from 2013 to 2022 against the backdrop of the recently enacted crypto accounting rule, ASU 2023‐08. Descriptive analyses suggest exponential growth in corporate crypto holdings and significant variation in crypto accounting practices, underscoring the rule's necessity. Hypothesis tests using the pre‐rule data reveal three insights with direct relevance to the rule. First, firms appear to view crypto assets more akin to investments than intangible assets, consistent with the rule's mandate of the fair value model. Second, Big 4 auditors steer firms toward the impairment model and less detailed presentation choices. This conservative approach is unlikely to meet the new rule's goal of providing the most decision‐useful information. Third, increased liquidity of crypto markets prompts the use of the fair value model and a more detailed presentation, consistent with the rule's focus on more actively traded tokens. However, within our sample, we find some evidence consistent with fair value reporting increasing stock return volatility and no evidence that it enhances earnings informativeness.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper explores U.S. public firms’ cryptocurrency holdings and accounting practices from 2013 to 2022 against the backdrop of the recently enacted crypto accounting rule, ASU 2023‐08. Descriptive analyses suggest exponential growth in corporate crypto holdings and significant variation in crypto accounting practices, underscoring the rule's necessity. Hypothesis tests using the pre‐rule data reveal three insights with direct relevance to the rule. First, firms appear to view crypto assets more akin to investments than intangible assets, consistent with the rule's mandate of the fair value model. Second, Big 4 auditors steer firms toward the impairment model and less detailed presentation choices. This conservative approach is unlikely to meet the new rule's goal of providing the most decision‐useful information. Third, increased liquidity of crypto markets prompts the use of the fair value model and a more detailed presentation, consistent with the rule's focus on more actively traded tokens. However, within our sample, we find some evidence consistent with fair value reporting increasing stock return volatility and no evidence that it enhances earnings informativeness.</jats:p>",
       "doi": "10.1111/1475-679x.70018",
       "url": "https://doi.org/10.1111/1475-679x.70018"
     },
@@ -3958,7 +4008,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-09-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We examine the usefulness of machine learning approaches for measuring vocal tone in corporate disclosures. We document a substantial mismatch between the widely adopted actor‐based training data underlying these approaches and speech in corporate disclosures. We find that existing models achieve near‐perfect vocal tone classification within their training domain. However, when tested on actual executive speech during conference calls, their performance declines to chance levels. We thus introduce FinVoc2Vec, a deep learning model that adapts to audio recordings of conference calls and classifies the vocal tone of executive speech significantly more accurately than chance. FinVoc2Vec estimates are associated with future firm performance and can be used to construct profitable stock portfolios. Throughout our analyses, estimates from previous vocal tone models are largely unrelated to firm performance. Our findings emphasize the importance of a domain‐specific approach to voice analysis in accounting and finance.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the usefulness of machine learning approaches for measuring vocal tone in corporate disclosures. We document a substantial mismatch between the widely adopted actor‐based training data underlying these approaches and speech in corporate disclosures. We find that existing models achieve near‐perfect vocal tone classification within their training domain. However, when tested on actual executive speech during conference calls, their performance declines to chance levels. We thus introduce FinVoc2Vec, a deep learning model that adapts to audio recordings of conference calls and classifies the vocal tone of executive speech significantly more accurately than chance. FinVoc2Vec estimates are associated with future firm performance and can be used to construct profitable stock portfolios. Throughout our analyses, estimates from previous vocal tone models are largely unrelated to firm performance. Our findings emphasize the importance of a domain‐specific approach to voice analysis in accounting and finance.</jats:p>",
       "doi": "10.1111/1475-679x.70015",
       "url": "https://doi.org/10.1111/1475-679x.70015"
     },
@@ -4488,7 +4538,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-08-22",
-      "abstract": "<jats:title>Abstract</jats:title><jats:p>We propose a new measure of firms' disclosure based on company websites, which are widely available and contain a wealth of information. For a sample of U.S. public firms, we construct our disclosure measure using historical website data, validate it by correlating it with extant measures of disclosure and information asymmetry, and explore its determinants. We then apply our measure to the study of U.S. private firms' disclosure and French firms' compliance with a nonfinancial disclosure mandate. Our applications illustrate that our website‐based measure provides a useful complement to extant measures of disclosure, which are more narrowly focused on investors in public capital markets.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a new measure of firms' disclosure based on company websites, which are widely available and contain a wealth of information. For a sample of U.S. public firms, we construct our disclosure measure using historical website data, validate it by correlating it with extant measures of disclosure and information asymmetry, and explore its determinants. We then apply our measure to the study of U.S. private firms' disclosure and French firms' compliance with a nonfinancial disclosure mandate. Our applications illustrate that our website‐based measure provides a useful complement to extant measures of disclosure, which are more narrowly focused on investors in public capital markets.</jats:p>",
       "doi": "10.1111/1475-679x.70007",
       "url": "https://doi.org/10.1111/1475-679x.70007"
     },
@@ -4583,6 +4633,36 @@
       "url": "https://doi.org/10.1093/rfs/hhaf056"
     },
     {
+      "title": "Freedom of Expression Protection and Corporate Concealment of Bad News: Evidence from State Anti‐SLAPP Laws",
+      "authors": "Jimmy Lee, Shaphan Ng, Il Sun Yoo, Liandong Zhang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2025-08-13",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The protection of free speech enhances the ability of various public stakeholders to disseminate privately observed adverse information about public firms, making it difficult for corporate managers to conceal negative information about their companies. Using the staggered enactment of anti‐strategic lawsuit against public participation (anti‐SLAPP) laws across U.S. states as a shock that strengthens free speech protection, we show that stronger protection is associated with less concealment of bad news. This is evidenced by a lower likelihood of stock price crashes, a decreased probability of accounting fraud, and an increased frequency of firm‐initiated negative press releases. These results are more pronounced for states with stronger anti‐SLAPP laws and where such laws are likely to be more influential. Moreover, the impact of free speech protection on bad news concealment is more significant for firms with greater ex ante incentives to conceal negative information. Further analyses suggest that free speech protection likely enhances the ability of short sellers, employees, and the media, among others, to reveal bad news about public firms. Finally, we find evidence that strengthened free speech protection also improves financial reporting quality. Our study highlights the importance of free speech protection in enhancing corporate transparency.</jats:p>",
+      "doi": "10.1111/1475-679x.70012",
+      "url": "https://doi.org/10.1111/1475-679x.70012"
+    },
+    {
+      "title": "Amendment Thresholds and Voting Rules in Debt Contracts",
+      "authors": "Judson Caskey, Kanyuan Huang, Daniel Saavedra",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2025-08-13",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Most loan contracts in the United States contain a provision for lender voting rules. We study the optimal voting rule that allows lenders to waive a covenant violation. When lenders have heterogeneous preferences, lenient voting rules increase the probability of waivers that allow inefficient investments. Stringent voting rules tend to allocate the marginal vote to lenders who deny waivers after false alarms so that they can renegotiate the loan to extract value from the firm, which incurs deadweight costs. In equilibrium, the optimal voting rule balances these two forces to improve contracting efficiency. We derive and empirically test comparative statics on how the optimal voting rule varies with lenders’ preferences and the borrower's accounting properties. Our model offers a rationale for the prevalent use of voting rule clauses in syndicated loan contracts.</jats:p>",
+      "doi": "10.1111/1475-679x.70011",
+      "url": "https://doi.org/10.1111/1475-679x.70011"
+    },
+    {
+      "title": "Does Foreign Investors’ Information Access Vary with Geopolitical Tensions? Evidence from Corporate Conference Calls",
+      "authors": "Yifei Lu, Joanna Shuang Wu, Yucheng (john) Yang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2025-08-13",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how foreign investors’ access to corporate information varies with pairwise geopolitical tensions between the investor's and investee's countries. Using a sample of 1,760 country‐pairs, we find that geopolitical tensions between a conference call host firm's country and a foreign country relate negatively with investor participation from that foreign country as well as the quality and tone of management responses in the call, suggesting reduced foreign investor information access with rising tensions. A single‐country analysis of Chinese AB‐share firms produces similar inferences. With higher China–foreign tensions, foreign attendance at private meetings with management declines, and English translations of local language disclosures become less frequent and shorter in length. Curtailment in English translations is more pronounced when local language disclosures contain politically sensitive words, suggesting lower information supply by firm choice. Reduced disclosures from geopolitical tensions are impounded in foreign investors’ asset pricing decisions, resulting in steeper foreign‐share price discounts.</jats:p>",
+      "doi": "10.1111/1475-679x.70009",
+      "url": "https://doi.org/10.1111/1475-679x.70009"
+    },
+    {
       "title": "Household Portfolios and Retirement Saving over the Life Cycle",
       "authors": "Jonathan A. Parker, Antoinette Schoar, Allison Cole, Duncan Simester",
       "journal": "Journal of Finance",
@@ -4598,7 +4678,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-08-12",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We investigate whether shared auditors promote the dissemination of innovative knowledge among their clients, thereby fostering follow‐on innovation. We find that a company cites more patents from another company when they are audited by the same audit office. To address concerns about potential confounding factors stemming from commonalities in the fundamentals of the two companies, we leverage a quasi‐exogenous shock to auditor sharing: the demise of Arthur Andersen and the subsequent increase in auditor switching in 2002. Further analysis reveals that the effect of a shared auditor on cross‐client patent citations is stronger when both clients engage in intensive innovation activities. Additional evidence suggests that shared auditors exert more influence on the citations of recent patents and patents that are easier for outsiders to utilize. Overall, our findings suggest that auditors affect corporate innovation by facilitating the transfer of innovative knowledge among their clients.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether shared auditors promote the dissemination of innovative knowledge among their clients, thereby fostering follow‐on innovation. We find that a company cites more patents from another company when they are audited by the same audit office. To address concerns about potential confounding factors stemming from commonalities in the fundamentals of the two companies, we leverage a quasi‐exogenous shock to auditor sharing: the demise of Arthur Andersen and the subsequent increase in auditor switching in 2002. Further analysis reveals that the effect of a shared auditor on cross‐client patent citations is stronger when both clients engage in intensive innovation activities. Additional evidence suggests that shared auditors exert more influence on the citations of recent patents and patents that are easier for outsiders to utilize. Overall, our findings suggest that auditors affect corporate innovation by facilitating the transfer of innovative knowledge among their clients.</jats:p>",
       "doi": "10.1111/1475-679x.70010",
       "url": "https://doi.org/10.1111/1475-679x.70010"
     },
@@ -4678,7 +4758,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-08-04",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Sell‐side analysts commonly transition to buy‐side money managers. I examine whether and how these career transitions shape sell‐side analysts' behavior, relying on the granular career information of 6,310 analysts in the United States. I identify analysts who transition from the sell‐side to the buy‐side and find that these analysts issue inflated recommendations on stocks of interest to their future buy‐side employers. This favoritism is (1) present only during the year preceding their transition, (2) more pronounced among stocks where a single analyst is more influential in moving the stock price; and (3) present only among transitions likely to be strategically planned. Importantly, stocks receiving inflated recommendations experience a significant price decline following the departure of transitioning analysts from the sell‐side. Overall, these findings suggest that analyst career transitions are an important source of conflicts of interest.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Sell‐side analysts commonly transition to buy‐side money managers. I examine whether and how these career transitions shape sell‐side analysts' behavior, relying on the granular career information of 6,310 analysts in the United States. I identify analysts who transition from the sell‐side to the buy‐side and find that these analysts issue inflated recommendations on stocks of interest to their future buy‐side employers. This favoritism is (1) present only during the year preceding their transition, (2) more pronounced among stocks where a single analyst is more influential in moving the stock price; and (3) present only among transitions likely to be strategically planned. Importantly, stocks receiving inflated recommendations experience a significant price decline following the departure of transitioning analysts from the sell‐side. Overall, these findings suggest that analyst career transitions are an important source of conflicts of interest.</jats:p>",
       "doi": "10.1111/1475-679x.70004",
       "url": "https://doi.org/10.1111/1475-679x.70004"
     },
@@ -4688,7 +4768,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-08-03",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We investigate the establishment of public audit oversight bodies (POBs) worldwide. We present descriptive evidence on POBs’ characteristics and factors influencing the timing of their establishment, finding that countries with stronger institutions, civil law traditions, and higher media attention to audit quality adopt POBs faster. While countries may choose similar POB design features, these choices do not align with the factors driving adoption speed. We also explore whether the finding of a positive impact on audit quality of the U.S. PCAOB generalizes to other countries. A difference‐in‐differences analysis over 20 years provides some evidence that POB establishment and their characteristics improve audit quality. However, the results appear sensitive to audit quality measures and research design. Our study offers the first broad‐based investigation of POB adoption and provides important nuance on the relation between POBs and audit quality.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate the establishment of public audit oversight bodies (POBs) worldwide. We present descriptive evidence on POBs’ characteristics and factors influencing the timing of their establishment, finding that countries with stronger institutions, civil law traditions, and higher media attention to audit quality adopt POBs faster. While countries may choose similar POB design features, these choices do not align with the factors driving adoption speed. We also explore whether the finding of a positive impact on audit quality of the U.S. PCAOB generalizes to other countries. A difference‐in‐differences analysis over 20 years provides some evidence that POB establishment and their characteristics improve audit quality. However, the results appear sensitive to audit quality measures and research design. Our study offers the first broad‐based investigation of POB adoption and provides important nuance on the relation between POBs and audit quality.</jats:p>",
       "doi": "10.1111/1475-679x.70008",
       "url": "https://doi.org/10.1111/1475-679x.70008"
     },
