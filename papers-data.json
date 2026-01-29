@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T03:46:35.090Z",
-  "count": 543,
+  "lastUpdated": "2026-01-29T04:09:18.653Z",
+  "count": 545,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -213,6 +213,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
     },
     {
+      "title": "Is Fraud Contagious? Social Connections and the Looting of COVID Relief Programs",
+      "authors": "John M Griffin, Samuel Kruger, Prateek Mahajan",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-28",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Fraud indicators within the Paycheck Protection Program (PPP), a major COVID relief program, are highly geographically concentrated. ZIP codes and counties with high rates of suspicious PPP loans are strongly social connected, with evidence that fraud spreads spatially over time through social networks. Individuals in suspicious social media groups have higher rates of PPP fraud, and socially connected ZIP codes frequently use the same specific FinTech lenders, consistent with social networks influencing detailed loan decisions. Our findings suggest that more proactive data analysis is needed for fraud prevention, detection, and prosecution to prevent the social spread of fraudulent schemes. (JEL G21, G23, G28, H12)</jats:p>",
+      "doi": "10.1093/rfs/hhag004",
+      "url": "https://doi.org/10.1093/rfs/hhag004"
+    },
+    {
       "title": "Monetary Policy, Inflation, and Crises: Evidence from History and Administrative Data",
       "authors": "Gabriel Jiménez, Dmitry Kuvshinov, José‐luis Peydró, Björn Richter",
       "journal": "Journal of Finance",
@@ -241,6 +251,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Conventional wisdom holds that lowering a home country's interest rate relative to another's will depreciate the domestic currency. We document that, at business‐cycle frequencies, U.S. forward guidance monetary policy easings had the opposite effect during the Great Recession. We attribute this effect to calendar‐based forward guidance that signaled economic weakness, resulting in a “flight‐to‐safety” effect and lower expected U.S. inflation. We also document cross‐currency heterogeneity: a surprise U.S. rate cut induced a larger appreciation of the dollar against currencies that typically depreciate more when the world economy is contracting. We build a model that can reconcile these findings.</jats:p>",
       "doi": "10.1111/jofi.70025",
       "url": "https://doi.org/10.1111/jofi.70025"
+    },
+    {
+      "title": "The Impact of Carcinogenic Risk Exposure on Housing Values: Estimates from Chemical Reclassifications",
+      "authors": "Jules van Binsbergen, João F Cocco, Marco Grotteria, S Lakshmi Naaraayanan",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-01-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We quantify the impact of perceived cancer risk on housing values using widely advertised national reclassifications of chemical carcinogenicity in the United States. Combining these information events with an empirical design that compares changes in house values closer to affected toxic plants against those farther away isolates the effect of cancer risk news from other local factors. Focusing on plants previously emitting reclassified carcinogenic chemicals, we estimate a 1–2% decline in housing values within a 3-mile radius compared to those located farther away. The effects are stronger in areas with higher media presence underscoring the role of salience as a mechanism.</jats:p>",
+      "doi": "10.1093/rfs/hhag006",
+      "url": "https://doi.org/10.1093/rfs/hhag006"
     },
     {
       "title": "Corporate Tax System Complexity and Investment Sensitivity to Tax Policy Changes",
@@ -1031,6 +1051,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "Economic Consequences of Political Polarization: Evidence from an SEC Shutdown and Its Effect on Insider Trading",
+      "authors": "Daniel A. Bens, Gavin Cassar, Ying Huang, Thomas Keusch",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We exploit a one-month period when SEC activity largely stopped during a U.S. government shutdown to examine whether variation in SEC scrutiny affects its ability to enforce insider trading. Difference-in-differences analyses suggest insiders earn abnormal profits during the shutdown, and the findings are robust to using different control periods and groups. We estimate that it takes roughly one week before the abnormally profitable trading begins, consistent with insiders updating their beliefs regarding the duration and disruption of the shutdown. Supporting the claim that SEC regulatory activity drops with the shutdown and does not fully recover afterward, we find a decline in the frequency of insider trading enforcement releases, investigations, and comment letter issuances after the SEC resumes operations. Our study speaks to the SEC insider trading enforcement literature and economic consequences of a regulatory discontinuity in a divisive political climate.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources.</jats:p>\n                  <jats:p>JEL Classifications: G14; G30; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2025-0007",
+      "url": "https://doi.org/10.2308/tar-2025-0007"
+    },
+    {
+      "title": "Current Expected Credit Losses (CECL) Standard and Banks’ Information Production",
+      "authors": "Sehwa Kim, Seil Kim, Anya Kleymenova, Rongchen Li",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the adoption of the current expected credit losses (CECL) model, which incorporates forward-looking information in loan loss provisions (LLPs), enhances banks’ information production. Consistent with better information production, we document significant changes in both financial reporting and operational outcomes following CECL adoption. First, CECL banks’ LLPs become timelier and better reflect future local economic conditions. Second, CECL banks experience lower rates of loan defaults. These improvements are more pronounced among banks that invest more in CECL-related information systems and human capital, and are especially salient for larger banks. Our findings suggest that forward-looking accounting standards can enhance banks’ information environments.</jats:p>\n                  <jats:p>JEL Classifications: E32; G2; G28; M4; M48.</jats:p>",
+      "doi": "10.2308/tar-2022-0314",
+      "url": "https://doi.org/10.2308/tar-2022-0314"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -5273,16 +5313,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0062"
     },
     {
-      "title": "Are There Externalities of Private Firm News Disclosure? Evidence from Public Firms’ Investment",
-      "authors": "Feng Chen, Yi Ding, Xingqiang Du, Kevin Tseng, Xiaoqiao Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This study examines whether and how voluntary news disclosure made by private firms affects investment sensitivities of public peer firms. Analyzing data from U.S. public firms from 1996 to 2018, we discover that public firms’ investment sensitivities intensify in industries with active private firm disclosures; a one standard deviation increase in private firm news disclosure raises public firms’ investment sensitivities by 14.5–17.6 percent. To mitigate endogeneity, we employ instrumental-variable methods, leveraging the staggered implementation of prudent investor rules and enforceability of noncompete agreements. Our results show that these effects are magnified in industries marked by the higher expected industry return volatility and less local newspaper coverage. We find that news from private firms significantly enhances public firms’ investment sensitivities, regardless of its sentiment. This research highlights the crucial role of private firm disclosures in influencing public firms’ investment decisions, enhancing our understanding of information spillovers in corporate disclosure.</jats:p>\n               <jats:p>JEL Classifications: D80; G31; G32; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0306",
-      "url": "https://doi.org/10.2308/tar-2023-0306"
-    },
-    {
       "title": "Competition and Reward Practices: Evidence from Public Schools",
       "authors": "Yile Jiang, Sujay Nair",
       "journal": "The Accounting Review",
@@ -5291,6 +5321,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We examine the relationship between competition and reward practices in the public education sector. We hypothesize and find that school principals who face more intense competition make greater use of performance-based financial rewards and apply greater differentiation in its distribution between higher versus lower performing teachers. However, we do not find similar evidence for nonfinancial rewards. Further analyses suggest that financial rewards help attract and retain teachers in the face of competition. We also hypothesize and find that, as competition intensifies, principals direct incentives toward student outcomes that are easier to measure and communicate (student achievement) as well as their key determinant (teacher competence), relative to outcomes that are harder to measure and communicate (student well-being and engagement). Our findings suggest that school principals view financial incentives as effective for gaining a competitive edge and that competition can influence the relative importance they place on different student outcomes.</jats:p>\n               <jats:p>JEL Classifications: M41; M50; H75.</jats:p>",
       "doi": "10.2308/tar-2024-0041",
       "url": "https://doi.org/10.2308/tar-2024-0041"
+    },
+    {
+      "title": "Are There Externalities of Private Firm News Disclosure? Evidence from Public Firms’ Investment",
+      "authors": "Feng Chen, Yi Ding, Xingqiang Du, Kevin Tseng, Xiaoqiao Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-07-29",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This study examines whether and how voluntary news disclosure made by private firms affects investment sensitivities of public peer firms. Analyzing data from U.S. public firms from 1996 to 2018, we discover that public firms’ investment sensitivities intensify in industries with active private firm disclosures; a one standard deviation increase in private firm news disclosure raises public firms’ investment sensitivities by 14.5–17.6 percent. To mitigate endogeneity, we employ instrumental-variable methods, leveraging the staggered implementation of prudent investor rules and enforceability of noncompete agreements. Our results show that these effects are magnified in industries marked by the higher expected industry return volatility and less local newspaper coverage. We find that news from private firms significantly enhances public firms’ investment sensitivities, regardless of its sentiment. This research highlights the crucial role of private firm disclosures in influencing public firms’ investment decisions, enhancing our understanding of information spillovers in corporate disclosure.</jats:p>\n               <jats:p>JEL Classifications: D80; G31; G32; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0306",
+      "url": "https://doi.org/10.2308/tar-2023-0306"
     },
     {
       "title": "Audit as Coproduction of Auditors and Clients: Implications for Professional Skepticism",
@@ -5323,16 +5363,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0450"
     },
     {
-      "title": "What Are “Good” Values of q2? Guidance Based on Experimental Accounting Researchers’ Assessments of Fit",
-      "authors": "Jessica L. Buchanan, Mary Kate Dodgson, M. David Piercey",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Although q2 measures how well a pattern of means fits a custom contrast, there is no guidance for what values are “good.” We survey experimental accounting researchers who assess the fit between plots of means and contrast weights as poor, acceptable, good, or excellent. We find that graphical presentation effects and researchers’ individual attributes influence their assessments. This suggests that research needs an ex ante method for evaluating q2, grounded empirically in the wisdom of the crowd across many different presentations, rather than relying solely on the idiosyncratic assessments of individual researchers. Using fuzzy set theory, we develop such a method that researchers can use to characterize q2 = 0.100, for example, as mostly good fit, leaning toward acceptable. Our approach has significant advantages over bright-line cutoffs commonly used for other statistical indices. Overall, our study can improve our discipline’s assessments of fit between experimental results and custom contrast weights.</jats:p>\n               <jats:p>Data Availability: Data are available from the authors upon request.</jats:p>\n               <jats:p>JEL Classifications: M40; M49.</jats:p>",
-      "doi": "10.2308/tar-2024-0123",
-      "url": "https://doi.org/10.2308/tar-2024-0123"
-    },
-    {
       "title": "Internal Accounting Hiring and Operational Efficiency: Evidence from the Implementation of ASC 842",
       "authors": "Yongoh Roh",
       "journal": "The Accounting Review",
@@ -5341,6 +5371,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>ASC 842 requires firms to collect and analyze lease contracts for accounting classification, measurement, and recognition purposes. Leveraging the implementation of ASC 842, I examine firms’ internal accounting hiring and its impact on the efficiency of lease management. I find that the standard prompts lease-intensive firms to significantly increase their internal accounting hiring, which enhances lease-related financial reporting quality. Moreover, firms that increased accounting hiring achieve greater efficiency in managing leases than those that implemented the standard without such hiring. This efficiency gain is incremental to improvements from concurrent information system upgrades and is more pronounced in firms with greater cost-saving opportunities and those that hire more experienced accountants. These results highlight that the benefits of internal accounting hiring extend beyond financial reporting, improving firms’ operational decisions.</jats:p>",
       "doi": "10.2308/tar-2023-0253",
       "url": "https://doi.org/10.2308/tar-2023-0253"
+    },
+    {
+      "title": "What Are “Good” Values of q2? Guidance Based on Experimental Accounting Researchers’ Assessments of Fit",
+      "authors": "Jessica L. Buchanan, Mary Kate Dodgson, M. David Piercey",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-07-29",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Although q2 measures how well a pattern of means fits a custom contrast, there is no guidance for what values are “good.” We survey experimental accounting researchers who assess the fit between plots of means and contrast weights as poor, acceptable, good, or excellent. We find that graphical presentation effects and researchers’ individual attributes influence their assessments. This suggests that research needs an ex ante method for evaluating q2, grounded empirically in the wisdom of the crowd across many different presentations, rather than relying solely on the idiosyncratic assessments of individual researchers. Using fuzzy set theory, we develop such a method that researchers can use to characterize q2 = 0.100, for example, as mostly good fit, leaning toward acceptable. Our approach has significant advantages over bright-line cutoffs commonly used for other statistical indices. Overall, our study can improve our discipline’s assessments of fit between experimental results and custom contrast weights.</jats:p>\n               <jats:p>Data Availability: Data are available from the authors upon request.</jats:p>\n               <jats:p>JEL Classifications: M40; M49.</jats:p>",
+      "doi": "10.2308/tar-2024-0123",
+      "url": "https://doi.org/10.2308/tar-2024-0123"
     },
     {
       "title": "Corporate Financing Activities and Business Cycle Fluctuations",
@@ -5353,16 +5393,6 @@
       "url": "https://doi.org/10.2308/tar-2020-0338"
     },
     {
-      "title": "Tax, Technology, and Craftsmanship",
-      "authors": "Vaughan Radcliffe, Crawford Spence, Mitch Stein",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>The impacts of technological change and automation are now being explored in audit, yet parallel studies of tax practitioners are more limited in scope. It cannot be assumed that the two practice areas will follow similar paths. The present study reports the results of a multimethod qualitative study of tax lawyers and accountants that suggests that tax work is more resistant to technology than auditing. Although automation is enthusiastically embraced in the area of tax compliance, this is not the case for tax advisory work. We explain this by reference to the commitment to craftsmanship that prevails in tax advisory work. Craftsmanship is important in understanding how experts respond to technological encroachment, and we suggest it has wider applicability to the study of financial occupations.</jats:p>",
-      "doi": "10.2308/tar-2024-0499",
-      "url": "https://doi.org/10.2308/tar-2024-0499"
-    },
-    {
       "title": "Peer-to-Peer Recognition Leaderboards and Employee Proactive Helping Behavior",
       "authors": "John H. Evans, Adam Presslee, Alex J. Vandenberg",
       "journal": "The Accounting Review",
@@ -5371,6 +5401,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Firms commonly employ leaderboards within their peer-to-peer recognition programs. We experimentally investigate how ranking basis—variation in the measure firms use to determine leaderboard rankings—affects employees’ proactive helping behavior. We find that leaderboards ranking employees based on the number of times peer-to-peer recognition is received decrease proactive helping compared with when no leaderboard is provided. Conversely, leaderboards ranking employees based on the number of times peer-to-peer recognition is given increase proactive helping compared with when no leaderboard is provided. These findings underscore the influence of ranking basis on shaping motives linked to proactive helping behavior. Furthermore, these findings highlight for firms the importance of judiciously selecting a ranking basis when utilizing peer-to-peer recognition leaderboards.</jats:p>\n               <jats:p>JEL Classifications: C92; D91; M41; M54.</jats:p>",
       "doi": "10.2308/tar-2023-0581",
       "url": "https://doi.org/10.2308/tar-2023-0581"
+    },
+    {
+      "title": "Tax, Technology, and Craftsmanship",
+      "authors": "Vaughan Radcliffe, Crawford Spence, Mitch Stein",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-07-29",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>The impacts of technological change and automation are now being explored in audit, yet parallel studies of tax practitioners are more limited in scope. It cannot be assumed that the two practice areas will follow similar paths. The present study reports the results of a multimethod qualitative study of tax lawyers and accountants that suggests that tax work is more resistant to technology than auditing. Although automation is enthusiastically embraced in the area of tax compliance, this is not the case for tax advisory work. We explain this by reference to the commitment to craftsmanship that prevails in tax advisory work. Craftsmanship is important in understanding how experts respond to technological encroachment, and we suggest it has wider applicability to the study of financial occupations.</jats:p>",
+      "doi": "10.2308/tar-2024-0499",
+      "url": "https://doi.org/10.2308/tar-2024-0499"
     },
     {
       "title": "ESG Disclosure, Market Forces, and Investment Efficiency",
@@ -5411,26 +5451,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This paper explores generational shifts in the professional identities of Chinese women accountants outside public accounting, focusing on how these shifts relate to changing gender and accounting norms within China’s evolving social, cultural and economic context. Through 30 in-depth interviews and generational theory, the findings suggest that older generations, beneficiaries of workplace access under communism, tend to ignore or adapt to gendered norms in the workplace, follow informal seniority and hierarchy rules, and embrace a “hard worker” identity. Conversely, younger generations, shaped by the one-child policy and participation in a global profession, appear to recognize and resist gender-related norms, view seniority rules as “redundant and bureaucratic,” and prioritize work-life balance. The study also reveals intergenerational dynamics, highlighting the ongoing struggles between women accountants’ social gender roles and professional identity. These insights offer a nuanced understanding of women in accounting, addressing gender in professional accounting settings in China and beyond.</jats:p>",
       "doi": "10.2308/tar-2023-0682",
       "url": "https://doi.org/10.2308/tar-2023-0682"
-    },
-    {
-      "title": "Investor Memory and Biased Beliefs: Evidence from the Field",
-      "authors": "Zhengyang Jiang, Hongqi Liu, Cameron Peng, Hongjun Yan",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-07-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We survey a large, representative sample of retail investors in China to elicit their memories of stock market investments and their return expectations. We merge these survey data with administrative transaction data to test a model in which investors selectively recall past experiences to form their beliefs. Our analysis uncovers new facts about investor memory and highlights similarity-based recall as a key mechanism of belief formation in financial markets. A rising market prompts investors to recall their past experiences more positively, leading to more optimistic forecasts of future returns. Recalled experiences can explain cross-investor variation in return expectations and, in our setting, dominate actual experiences in their explanatory power. In the transaction data, we confirm that recalled experiences are reflected in investors’ trading decisions through a belief channel.</jats:p>",
-      "doi": "10.1093/qje/qjaf035",
-      "url": "https://doi.org/10.1093/qje/qjaf035"
-    },
-    {
-      "title": "Dynamic Coordination and Bankruptcy Regulations",
-      "authors": "Hongda Zhong, Zhen Zhou",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-07-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Many regulations aim to promote coordination among creditors in bankruptcy by ex post restricting their ability to exit distressed firms. However, such restrictions may harm creditors’ ex ante incentives to stay invested, thereby worsening coordination outcomes. We build a dynamic coordination model to show how this force shapes creditor runs, bankruptcy filings, and regulation designs. Intriguingly, filing for bankruptcy early, thereby preserving more assets for latecomers, can prolong firm life. Furthermore, regulators’ clawbacks on prebankruptcy repayments can be superior to firms’ commitment to early bankruptcy filing. Our analysis generates implications for automatic stay, avoidable preference, bank failures, and seniority structure.</jats:p>",
-      "doi": "10.1093/rfs/hhaf039",
-      "url": "https://doi.org/10.1093/rfs/hhaf039"
     }
   ]
 }
