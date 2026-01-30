@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-29T04:09:18.653Z",
-  "count": 545,
+  "lastUpdated": "2026-01-30T04:10:37.252Z",
+  "count": 528,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -221,6 +221,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Fraud indicators within the Paycheck Protection Program (PPP), a major COVID relief program, are highly geographically concentrated. ZIP codes and counties with high rates of suspicious PPP loans are strongly social connected, with evidence that fraud spreads spatially over time through social networks. Individuals in suspicious social media groups have higher rates of PPP fraud, and socially connected ZIP codes frequently use the same specific FinTech lenders, consistent with social networks influencing detailed loan decisions. Our findings suggest that more proactive data analysis is needed for fraud prevention, detection, and prosecution to prevent the social spread of fraudulent schemes. (JEL G21, G23, G28, H12)</jats:p>",
       "doi": "10.1093/rfs/hhag004",
       "url": "https://doi.org/10.1093/rfs/hhag004"
+    },
+    {
+      "title": "Making Information More Valuable",
+      "authors": "Mark Whitmeyer",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-28",
+      "abstract": "",
+      "doi": "10.1086/739326",
+      "url": "https://doi.org/10.1086/739326"
     },
     {
       "title": "Monetary Policy, Inflation, and Crises: Evidence from History and Administrative Data",
@@ -2773,16 +2783,6 @@
       "url": "https://doi.org/10.1086/739335"
     },
     {
-      "title": "Making Information More Valuable",
-      "authors": "Mark Whitmeyer",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739326",
-      "url": "https://doi.org/10.1086/739326"
-    },
-    {
       "title": "How Likely Is an Inflation Disaster?",
       "authors": "Jens Hilscher, Alon Raviv, Ricardo Reis",
       "journal": "Review of Financial Studies",
@@ -5281,176 +5281,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We examine executive compensation in a general equilibrium model with dynamic moral hazard, where executives' outside options are endogenously determined by equilibrium market compensation. Firms provide incentives through compensation packages featuring deferred payments as “carrots” and termination as “sticks.” Crucially, the effectiveness of termination as an incentive device is undermined by the outside options available to executives. As individual firms fail to internalize the effect of their compensation design on these endogenous outside options, the equilibrium is generally inefficient. Compared to shareholder‐value‐maximizing compensation packages, executives are paid too much, too soon, and keep their jobs for too long.</jats:p>",
       "doi": "10.1111/jofi.13470",
       "url": "https://doi.org/10.1111/jofi.13470"
-    },
-    {
-      "title": "IPOs and Auditor Reputation: Evidence from Audit Firm Data Breaches",
-      "authors": "Badryah Alhusaini, Phillip T. Lamoreaux, Nathan J. Newton",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We use audit firm data breaches as time-varying, reputation-harming events to examine the value of auditor reputation—independent of actual audit quality—in the IPO process. We find that auditor data breaches are negatively associated with IPO offer price revisions. We demonstrate that this effect is due to an increase in institutional investors’ perception of information risk. Specifically, the effect is mitigated when other parties involved in the IPO reduce information risk themselves and when institutional investors are less likely to rely on audited financial information. In additional tests, we find that the impact of breaches on IPO offer price revisions is concentrated in breaches with greater severity, saliency, and frequency, consistent with institutional investors reacting to the announcement of the data breach rather than some other confounding factor. Collectively, our evidence suggests that IPO investors perceive time-varying reputational value of the external auditor, independent of changes in audit quality.</jats:p>\n               <jats:p>JEL Classifications: G32; M42.</jats:p>",
-      "doi": "10.2308/tar-2023-0417",
-      "url": "https://doi.org/10.2308/tar-2023-0417"
-    },
-    {
-      "title": "Audit-Employee Turnover, Audit Delivery, and Auditor-Client Realignment",
-      "authors": "Joshua A. Khavis, Brandon Szerwo",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Although the PCAOB and the Center for Audit Quality have raised concerns about the negative consequences of audit-employee turnover (PCAOB 2015, 2024; CAQ 2019), these consequences remain largely undocumented due to data limitations. We use novel data to measure how audit-employee turnover within individual offices of accounting firms explains the auditor’s ability to deliver for their clients and shapes the auditor-client relationship. We document that audit-employee turnover hampers the auditor’s ability to deliver the audit and leads to auditor realignment. Specifically, audit-employee turnover is associated with costlier, less timely, and less thorough audits that are of lower quality, which damage auditor-client relationships and lead to greater auditor switching and clients selecting auditors with lower turnover. We find that the presence of other strains to the auditor-client relationship exacerbates turnover’s link with auditor realignment. We further find that the impact of turnover varies by employee rank and when turnover occurs.</jats:p>\n               <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n               <jats:p>JEL Classifications: G28; G38; J63; M12; M41; M49.</jats:p>",
-      "doi": "10.2308/tar-2022-0249",
-      "url": "https://doi.org/10.2308/tar-2022-0249"
-    },
-    {
-      "title": "Disclosing Labor Demand: Evidence from Online Job Postings",
-      "authors": "Gurpal S. Sran",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>I study disclosure choices in job postings and the following tradeoff: detailed postings inform and attract optimal job applicants (labor market channel) but could simultaneously inform competitors in labor and product markets (proprietary costs channel). First, I provide evidence consistent with a proprietary costs channel. Conditional on a set of labor demand characteristics, private firms and redacting firms write shorter postings (i.e., less contextual specificity), and postings are more often anonymous in high-secrecy industries. Then, I exploit the implementation of federal trade secrecy protections as a shock to both innovation and opacity incentives to assess the balance between the two channels. After implementation, firms demand higher skill levels for innovative jobs, consistent with protections spurring innovation. However, contextual specificity decreases, in line with the proprietary costs channel, as protections are maximized when firms remain opaque regarding innovation. This decrease is attenuated in tight labor markets, consistent with the proposed tradeoff.</jats:p>\n               <jats:p>Data Availability: Data used in this study are available from sources identified in the manuscript.</jats:p>\n               <jats:p>JEL Classifications: D80; J23; J24; J60; M41; M51; O31; O34.</jats:p>",
-      "doi": "10.2308/tar-2023-0062",
-      "url": "https://doi.org/10.2308/tar-2023-0062"
-    },
-    {
-      "title": "Competition and Reward Practices: Evidence from Public Schools",
-      "authors": "Yile Jiang, Sujay Nair",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We examine the relationship between competition and reward practices in the public education sector. We hypothesize and find that school principals who face more intense competition make greater use of performance-based financial rewards and apply greater differentiation in its distribution between higher versus lower performing teachers. However, we do not find similar evidence for nonfinancial rewards. Further analyses suggest that financial rewards help attract and retain teachers in the face of competition. We also hypothesize and find that, as competition intensifies, principals direct incentives toward student outcomes that are easier to measure and communicate (student achievement) as well as their key determinant (teacher competence), relative to outcomes that are harder to measure and communicate (student well-being and engagement). Our findings suggest that school principals view financial incentives as effective for gaining a competitive edge and that competition can influence the relative importance they place on different student outcomes.</jats:p>\n               <jats:p>JEL Classifications: M41; M50; H75.</jats:p>",
-      "doi": "10.2308/tar-2024-0041",
-      "url": "https://doi.org/10.2308/tar-2024-0041"
-    },
-    {
-      "title": "Are There Externalities of Private Firm News Disclosure? Evidence from Public Firms’ Investment",
-      "authors": "Feng Chen, Yi Ding, Xingqiang Du, Kevin Tseng, Xiaoqiao Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This study examines whether and how voluntary news disclosure made by private firms affects investment sensitivities of public peer firms. Analyzing data from U.S. public firms from 1996 to 2018, we discover that public firms’ investment sensitivities intensify in industries with active private firm disclosures; a one standard deviation increase in private firm news disclosure raises public firms’ investment sensitivities by 14.5–17.6 percent. To mitigate endogeneity, we employ instrumental-variable methods, leveraging the staggered implementation of prudent investor rules and enforceability of noncompete agreements. Our results show that these effects are magnified in industries marked by the higher expected industry return volatility and less local newspaper coverage. We find that news from private firms significantly enhances public firms’ investment sensitivities, regardless of its sentiment. This research highlights the crucial role of private firm disclosures in influencing public firms’ investment decisions, enhancing our understanding of information spillovers in corporate disclosure.</jats:p>\n               <jats:p>JEL Classifications: D80; G31; G32; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0306",
-      "url": "https://doi.org/10.2308/tar-2023-0306"
-    },
-    {
-      "title": "Audit as Coproduction of Auditors and Clients: Implications for Professional Skepticism",
-      "authors": "Aeson Luiz Dela Cruz, Maria Cadiz Dyball, Chris Patel",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We examine how coproduction develops between auditors and clients and its potential impact on the professional skepticism (PS) of auditors. We mobilize Knechel, Thomas, and Driskill’s (2020) theoretical framework and Social Exchange Theory to analyze interviews with 24 audit partners and 26 chief financial officers and controllers. We find that auditors and clients share a view that they cocreate audits as they each contribute and combine competencies. Coproduction redresses information asymmetries, which enables PS. Although auditor-client relationships (ACRs) facilitate coproduction through reciprocity and trust, coproduction fosters conditions where auditors must balance exercising skeptical judgments and actions and abdicating professional responsibilities that result in impaired PS. The findings are useful for audit practitioners, standard-setters, and regulators as they will help strengthen policies, standards, and regulations on managing ACRs to enhance PS. The study offers theoretical and methodological directions for future research.</jats:p>\n               <jats:p>Data Availability: Data are protected by confidentiality agreements with the interviewees.</jats:p>\n               <jats:p>JEL Classifications: M42.</jats:p>",
-      "doi": "10.2308/tar-2023-0127",
-      "url": "https://doi.org/10.2308/tar-2023-0127"
-    },
-    {
-      "title": "The Screening Role of Covenant Heterogeneity",
-      "authors": "Christopher S. Armstrong, Carlo Maria Gallimberti, David Tsui",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We investigate whether differences in the mix of financial covenants in debt contracts (i.e., covenant heterogeneity) reflect—and provide a way for lenders to elicit, or screen—borrowers’ pre-contractual private information about their future risk profile. Consistent with adverse selection theories, we predict and find that borrowers with higher future risk negotiate loans with covenants that are less sensitive to performance, compared to borrowers with lower future risk. We differentiate between screening and incentive explanations for this finding and provide evidence that screening accounts for a substantial portion of this overall relation. Our study highlights how, in addition to shaping borrowers’ incentives through monitoring, covenant heterogeneity reflects borrowers’ future risk profiles and can help lenders screen accordingly.</jats:p>\n               <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n               <jats:p>JEL Classifications: G21; G32; G34.</jats:p>",
-      "doi": "10.2308/tar-2021-0277",
-      "url": "https://doi.org/10.2308/tar-2021-0277"
-    },
-    {
-      "title": "Reward Taxation, Reward Type, and Employee Effort",
-      "authors": "Tim D. Bauer, Aishwarrya Deore, Adam Presslee, Joanna Shaw",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Performance-contingent cash and tangible rewards are commonly used to motivate employees, and the taxation of such rewards is unavoidable. We use two experiments to examine how the effect of reward taxation on employee effort varies by reward type. In Experiment 1, we find reward taxation decreases positive affect, increases negative affect, and decreases reward attractiveness for employees when rewards are tangible, but not when rewards are cash. In Experiment 2, we find reward taxation reduces employee effort when rewards are tangible, but not when rewards are cash. Collectively, this evidence advances knowledge at the intersection of tax and management accounting by explaining why reward type alters the effect of reward taxation on employee effort. Moreover, our experimental results inform managers of a potential downside to using tangible rewards to motivate employees.</jats:p>\n               <jats:p>Data Availability: Authors will make data available on request.</jats:p>\n               <jats:p>JEL Classifications: J41; M11; M52; M55.</jats:p>",
-      "doi": "10.2308/tar-2023-0450",
-      "url": "https://doi.org/10.2308/tar-2023-0450"
-    },
-    {
-      "title": "Internal Accounting Hiring and Operational Efficiency: Evidence from the Implementation of ASC 842",
-      "authors": "Yongoh Roh",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>ASC 842 requires firms to collect and analyze lease contracts for accounting classification, measurement, and recognition purposes. Leveraging the implementation of ASC 842, I examine firms’ internal accounting hiring and its impact on the efficiency of lease management. I find that the standard prompts lease-intensive firms to significantly increase their internal accounting hiring, which enhances lease-related financial reporting quality. Moreover, firms that increased accounting hiring achieve greater efficiency in managing leases than those that implemented the standard without such hiring. This efficiency gain is incremental to improvements from concurrent information system upgrades and is more pronounced in firms with greater cost-saving opportunities and those that hire more experienced accountants. These results highlight that the benefits of internal accounting hiring extend beyond financial reporting, improving firms’ operational decisions.</jats:p>",
-      "doi": "10.2308/tar-2023-0253",
-      "url": "https://doi.org/10.2308/tar-2023-0253"
-    },
-    {
-      "title": "What Are “Good” Values of q2? Guidance Based on Experimental Accounting Researchers’ Assessments of Fit",
-      "authors": "Jessica L. Buchanan, Mary Kate Dodgson, M. David Piercey",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Although q2 measures how well a pattern of means fits a custom contrast, there is no guidance for what values are “good.” We survey experimental accounting researchers who assess the fit between plots of means and contrast weights as poor, acceptable, good, or excellent. We find that graphical presentation effects and researchers’ individual attributes influence their assessments. This suggests that research needs an ex ante method for evaluating q2, grounded empirically in the wisdom of the crowd across many different presentations, rather than relying solely on the idiosyncratic assessments of individual researchers. Using fuzzy set theory, we develop such a method that researchers can use to characterize q2 = 0.100, for example, as mostly good fit, leaning toward acceptable. Our approach has significant advantages over bright-line cutoffs commonly used for other statistical indices. Overall, our study can improve our discipline’s assessments of fit between experimental results and custom contrast weights.</jats:p>\n               <jats:p>Data Availability: Data are available from the authors upon request.</jats:p>\n               <jats:p>JEL Classifications: M40; M49.</jats:p>",
-      "doi": "10.2308/tar-2024-0123",
-      "url": "https://doi.org/10.2308/tar-2024-0123"
-    },
-    {
-      "title": "Corporate Financing Activities and Business Cycle Fluctuations",
-      "authors": "Rebecca N. Hann, Congcong Li, Laurel Mazur, Hanna Lee",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We examine whether corporate financing activities (CFA) in aggregate convey information about the macroeconomy. Using statement of cash flow information to construct a bottom-up measure of CFA, we find that it has significant predictive power for future economic activity when we exclude a small set of firms whose external financing is largely insulated from macroeconomic conditions. This CFA index has predictive power beyond that of the Gilchrist-Zakrajsek credit spread, aggregate earnings, and other macroeconomic indicators in predicting future GDP in both in-sample and out-of-sample forecasting tests. Impulse responses from a structural vector autoregression show that unexpected decreases in this CFA index lead to a large and persistent contraction in economic activity for up to four quarters. Our results suggest that a simple portfolio-based CFA measure helps capture supply-of-capital effects from the financial accelerator mechanism and hence has significant incremental predictive power for real economic activity.</jats:p>\n               <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n               <jats:p>JEL Classifications: E32; E37; G17; M41.</jats:p>",
-      "doi": "10.2308/tar-2020-0338",
-      "url": "https://doi.org/10.2308/tar-2020-0338"
-    },
-    {
-      "title": "Peer-to-Peer Recognition Leaderboards and Employee Proactive Helping Behavior",
-      "authors": "John H. Evans, Adam Presslee, Alex J. Vandenberg",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Firms commonly employ leaderboards within their peer-to-peer recognition programs. We experimentally investigate how ranking basis—variation in the measure firms use to determine leaderboard rankings—affects employees’ proactive helping behavior. We find that leaderboards ranking employees based on the number of times peer-to-peer recognition is received decrease proactive helping compared with when no leaderboard is provided. Conversely, leaderboards ranking employees based on the number of times peer-to-peer recognition is given increase proactive helping compared with when no leaderboard is provided. These findings underscore the influence of ranking basis on shaping motives linked to proactive helping behavior. Furthermore, these findings highlight for firms the importance of judiciously selecting a ranking basis when utilizing peer-to-peer recognition leaderboards.</jats:p>\n               <jats:p>JEL Classifications: C92; D91; M41; M54.</jats:p>",
-      "doi": "10.2308/tar-2023-0581",
-      "url": "https://doi.org/10.2308/tar-2023-0581"
-    },
-    {
-      "title": "Tax, Technology, and Craftsmanship",
-      "authors": "Vaughan Radcliffe, Crawford Spence, Mitch Stein",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>The impacts of technological change and automation are now being explored in audit, yet parallel studies of tax practitioners are more limited in scope. It cannot be assumed that the two practice areas will follow similar paths. The present study reports the results of a multimethod qualitative study of tax lawyers and accountants that suggests that tax work is more resistant to technology than auditing. Although automation is enthusiastically embraced in the area of tax compliance, this is not the case for tax advisory work. We explain this by reference to the commitment to craftsmanship that prevails in tax advisory work. Craftsmanship is important in understanding how experts respond to technological encroachment, and we suggest it has wider applicability to the study of financial occupations.</jats:p>",
-      "doi": "10.2308/tar-2024-0499",
-      "url": "https://doi.org/10.2308/tar-2024-0499"
-    },
-    {
-      "title": "ESG Disclosure, Market Forces, and Investment Efficiency",
-      "authors": "Hao Xue",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This paper examines the impact of environmental, social, and governance (ESG) disclosure on firm investment. The analysis characterizes the optimal precision of ESG disclosure that channels investors’ tastes for ESG into firm investment. Although it is tempting to think that the optimal ESG disclosure becomes more precise when investors care more about ESG, I show this intuition is incomplete because it overlooks the fact that stronger tastes for ESG change how investors use information. Applying the analysis to a large economy, I show that mandating more precise climate disclosure than would be voluntarily provided motivates self-interested firms to act on common interests in reducing emissions. That is, a regulator can leverage market forces and a disclosure mandate to achieve a similar result as a Pigovian tax in motivating firms to internalize the externalities created by their climate-related investments.</jats:p>\n               <jats:p>JEL Classifications: D82; G14; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0707",
-      "url": "https://doi.org/10.2308/tar-2023-0707"
-    },
-    {
-      "title": "More Disclosure, Fewer Outside Opportunities? Accelerated Patent Disclosure and Market for Managerial Human Capital",
-      "authors": "Fan Wu",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This paper studies whether and how firms’ enhanced public disclosures of patent filings can spill over to the managerial labor market. Consistent with these disclosures crowding out the demand for directors and senior managers’ (DSMs) private information, I find that their external employment opportunities deteriorate when firms disclose patent information more timely. This effect is more pronounced when the strategic value of the disclosed information is higher and when DSMs face fewer barriers to sharing information. Additionally, the decline in their human capital value is reflected in a diminished role in transferring timely information about technological innovations. Collectively, these results shed light on how public disclosures can shape the managerial labor market by substituting private information flows between firms through DSM ties.</jats:p>\n               <jats:p>Data Availability: The data used in this study are available from the sources indicated herein.</jats:p>\n               <jats:p>JEL Classifications: D23; G38; M12; M41.</jats:p>",
-      "doi": "10.2308/tar-2024-0582",
-      "url": "https://doi.org/10.2308/tar-2024-0582"
-    },
-    {
-      "title": "The Effect of Potential Entrants on Audit Market Competition",
-      "authors": "Devin Williams",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Regulators and academics have long explored the implications of audit market competition on audit pricing and quality, primarily focusing on large audit firms. Despite a presumption of competition among smaller accounting firms, little evidence exists regarding whether and how competition influences audit pricing and quality among them. Additionally, within this market, prior research typically considers competition only from audit offices already serving public-company clients. This study uses a unique database with office-level data for all audit firms in the U.S., regardless of whether they audit public companies, to examine the role of potential entrants. Examining both incumbent threats (offices without public clients but affiliated with a firm serving public clients) and external threats (offices of PCAOB-registered audit firms with no public clients) as sources of competition, the findings suggest that potential entrants are associated with improvements in audit quality and reductions in audit fees for clients of triennially inspected auditors.</jats:p>\n               <jats:p>Data Availability: Data are available from the sources identified in the paper.</jats:p>\n               <jats:p>JEL Classifications: M41; M42; D40; R32.</jats:p>",
-      "doi": "10.2308/tar-2023-0270",
-      "url": "https://doi.org/10.2308/tar-2023-0270"
-    },
-    {
-      "title": "Generational Shifts and Changing Identities of Chinese Women Accountants Outside Public Accounting",
-      "authors": "Qi Li, Rania Kamla, Eleni Chatzivgeri",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-07-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>This paper explores generational shifts in the professional identities of Chinese women accountants outside public accounting, focusing on how these shifts relate to changing gender and accounting norms within China’s evolving social, cultural and economic context. Through 30 in-depth interviews and generational theory, the findings suggest that older generations, beneficiaries of workplace access under communism, tend to ignore or adapt to gendered norms in the workplace, follow informal seniority and hierarchy rules, and embrace a “hard worker” identity. Conversely, younger generations, shaped by the one-child policy and participation in a global profession, appear to recognize and resist gender-related norms, view seniority rules as “redundant and bureaucratic,” and prioritize work-life balance. The study also reveals intergenerational dynamics, highlighting the ongoing struggles between women accountants’ social gender roles and professional identity. These insights offer a nuanced understanding of women in accounting, addressing gender in professional accounting settings in China and beyond.</jats:p>",
-      "doi": "10.2308/tar-2023-0682",
-      "url": "https://doi.org/10.2308/tar-2023-0682"
     }
   ]
 }
