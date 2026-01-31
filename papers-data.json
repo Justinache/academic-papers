@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T04:10:37.252Z",
-  "count": 528,
+  "lastUpdated": "2026-01-31T04:07:28.731Z",
+  "count": 536,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -211,6 +211,86 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104223",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
+    },
+    {
+      "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
+      "authors": "Kristine W. Hankins, Morteza Momeni, David Sovich",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>Captive finance subsidiaries create a channel for trade policy to affect consumer credit. Examining the impact of the Trump administration’s metal tariffs on captive automobile lenders, we find that consumers received higher interest rates from captive lenders after the tariffs relative to unaffected noncaptive lenders. Further, we document a disparate impact on low-income borrowers and in areas with less lending competition. Our results suggest that tariffs may impact not only the price of goods but also the financing terms of purchases. Thus, focusing solely on directly affected product prices may underestimate tariff pass-through significantly. (JEL F13, F14, G21, L22, L61, L62)</jats:p>",
+      "doi": "10.1257/aer.20230432",
+      "url": "https://doi.org/10.1257/aer.20230432"
+    },
+    {
+      "title": "Evaluating the Impact of Urban Transit Infrastructure: Evidence from Bogotá’s TransMilenio",
+      "authors": "Nick Tsivanidis",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>This paper estimates the effects of improving public transit infrastructure on city structure and welfare. It develops a quantitative urban model with multiple worker groups and transit modes, and derives a special case yielding sufficient statistics for aggregate welfare in a broad class of models. The paper estimates reduced-form elasticities to implement the approach using data spanning construction of the world’s largest Bus Rapid Transit system in Bogotá, Colombia. This class of models explains observed adjustments in economic activity. Standard value-of-time calculations capture only 52 percent of welfare gains. Accounting for reallocation and general equilibrium effects, distributional impacts are modest. (JEL H76, L92, L98, O18, R42, R53)</jats:p>",
+      "doi": "10.1257/aer.20190874",
+      "url": "https://doi.org/10.1257/aer.20190874"
+    },
+    {
+      "title": "Financial Frictions: Micro versus Macro Volatility",
+      "authors": "Renato Faccini, Seungcheol Lee, Ralph Luetticke, Morten O. Ravn, Tobias Renkin",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We argue that consumer credit spreads matter for household choices and that time-varying spreads have important distributional consequences. Studying Danish household data, we show that consumer credit spreads have heterogeneous impact on asset dynamics and consumption choices across the wealth distribution and that time-varying spreads induce a countercyclical marginal propensity to consume. We study a HANK model where banks provide consumer credit and corporate loans. Through countercyclical credit spreads, frictional finance amplifies aggregate shocks and induces consumption inequality. Economies with less leveraged banks experience reduced aggregate volatility but may face higher volatility and lower welfare at the household level. (JEL D12, D31, E12, E21, E32, E52, G51)</jats:p>",
+      "doi": "10.1257/aer.20211219",
+      "url": "https://doi.org/10.1257/aer.20211219"
+    },
+    {
+      "title": "Work from Home and the Office Real Estate Apocalypse",
+      "authors": "Arpit Gupta, Vrinda Mittal, Stijn Van Nieuwerburgh",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We show remote work led to large drops in lease revenues, occupancy, and market rents in the commercial office sector. We revalue New York City office buildings, taking into account both the cash flow and discount rate implications of these shocks, and find a 46 percent decline in long-run value. For all US office markets combined, we find a $556.8 billion value destruction. Higher-quality buildings were buffered against these trends due to a flight to quality, while lower-quality offices are at risk of becoming a stranded asset. These valuation changes have repercussions for financial stability and local public finances. (JEL E31, E32, G12, J22, M51, R33)</jats:p>",
+      "doi": "10.1257/aer.20231619",
+      "url": "https://doi.org/10.1257/aer.20231619"
+    },
+    {
+      "title": "Gender Differences in Economics Seminars",
+      "authors": "Pascaline Dupas, Amy Handlan, Alicia Sasser Modestino, Muriel Niederle, Mateo Seré, Haoyu Sheng, Justin Wolfers, ",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We assess whether men and women are treated differently when presenting their economics research. We collected data across thousands of seminars, job market talks, and conference presentations, leveraging human judgment and audio-processing algorithms to measure the number, tone, and type of interruptions. Within a seminar series, women are interrupted more than men. This holds when controlling for characteristics of the presenter, paper, and audience. Interruptions that are negative in tenor or tone or cut off the presenter mid-sentence increase for women presenters. We also find greater engagement of female audience members with female presenters, suggesting a potential role model effect. (JEL A11, C45, J16, J44)</jats:p>",
+      "doi": "10.1257/aer.20241718",
+      "url": "https://doi.org/10.1257/aer.20241718"
+    },
+    {
+      "title": "Raising the Stakes: Physician Facility Investments and Provider Agency",
+      "authors": "Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, Xiaoxi Zhao",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>Principal-agent problems often extend beyond what can be directly addressed through conventional incentive arrangements. We examine a context where physicians are likely under-incentivized to minimize total medical costs until their private financial interests align with those of patients. Leveraging novel data on physician ownership of ambulatory surgery centers——that is, same-day facilities——we show that these equity holdings cause a substitution away from higher cost, rival settings that lowers Medicare spending by 10–40 percent per physician. We find no clear evidence of perverse behavior following these investments. Instead, our findings demonstrate how entrepreneurial activity can indirectly limit principal-agent problems and improve efficiency. (JEL D82, D91, G51, I11, I18, L84)</jats:p>",
+      "doi": "10.1257/aer.20211324",
+      "url": "https://doi.org/10.1257/aer.20211324"
+    },
+    {
+      "title": "Take the Goods and Run: Contracting Frictions and Market Power in Supply Chains",
+      "authors": "Felipe Brugués",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>This paper studies the efficiency of self-enforced relational agreements, a common solution to contracting frictions, when sellers have market power and contracts cannot be externally enforced. To this end, I develop a dynamic contracting model with limited enforcement in which buyers can default on their trade credit debt and estimate it using a novel dataset from the Ecuadorian manufacturing supply chain. The key empirical finding is that bilateral trade is inefficiently low in early periods of the relationship, but converges toward efficiency over time, despite sellers’ market power. Counterfactual simulations imply that both market power and enforcement contribute to inefficiencies in trade. (JEL D86, G32, K12, L14, L60, O14)</jats:p>",
+      "doi": "10.1257/aer.20230264",
+      "url": "https://doi.org/10.1257/aer.20230264"
+    },
+    {
+      "title": "A Theory of How Workers Keep up with Inflation",
+      "authors": "Hassan Afrouzi, Andres Blanco, Andres Drenik, Erik Hurst",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021-2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policymakers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</jats:p>",
+      "doi": "10.1093/qje/qjag007",
+      "url": "https://doi.org/10.1093/qje/qjag007"
     },
     {
       "title": "Is Fraud Contagious? Social Connections and the Looting of COVID Relief Programs",
@@ -1053,7 +1133,7 @@
       "url": "https://doi.org/10.2308/tar-2023-0444"
     },
     {
-      "title": "Mandatory Carbon Disclosure and New Business Creation",
+      "title": "Mandatory carbon disclosure and new business creation",
       "authors": "Raphael Duguay, Chenchen Li, Frank Zhang",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1081,6 +1161,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the adoption of the current expected credit losses (CECL) model, which incorporates forward-looking information in loan loss provisions (LLPs), enhances banks’ information production. Consistent with better information production, we document significant changes in both financial reporting and operational outcomes following CECL adoption. First, CECL banks’ LLPs become timelier and better reflect future local economic conditions. Second, CECL banks experience lower rates of loan defaults. These improvements are more pronounced among banks that invest more in CECL-related information systems and human capital, and are especially salient for larger banks. Our findings suggest that forward-looking accounting standards can enhance banks’ information environments.</jats:p>\n                  <jats:p>JEL Classifications: E32; G2; G28; M4; M48.</jats:p>",
       "doi": "10.2308/tar-2022-0314",
       "url": "https://doi.org/10.2308/tar-2022-0314"
+    },
+    {
+      "title": "Tough Ratings, Tougher Sell: How Different Types of Adjustment Affect Managers’ Asymmetric Algorithm Use in Performance Evaluation Judgments",
+      "authors": "Fangbin Lin, Mandy M. Cheng, Kerry A. Humphreys",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-01-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the potential of algorithms to improve judgment quality, recent research suggests that individuals may be averse to algorithmic use. We experimentally examine whether and how managers’ use of an algorithm-advised performance rating is influenced by rating valence and the decision rights managers have to adjust the algorithm. We find that managers are less willing to use an algorithm to evaluate subordinate performance when it advises a low, rather than high, rating. We further show that when the algorithm-advised rating is low, allowing managers to adjust how the algorithm computes the rating, compared with adjusting the rating itself or not allowing any adjustment, increases algorithmic use. Further analyses show this effect to be consistent with managers’ increased understanding of an algorithm when involved in its computation. Our findings inform organizations’ implementation of performance evaluation algorithms by showing how rating valence and decision rights jointly influence managers’ use of the algorithms.</jats:p>",
+      "doi": "10.2308/tar-2023-0610",
+      "url": "https://doi.org/10.2308/tar-2023-0610"
     },
     {
       "title": "AD Two Become One: Foreign Capital and Household Credit Expansion",
@@ -5271,16 +5361,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101794",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101794"
-    },
-    {
-      "title": "Too Much, Too Soon, for Too Long: The Dynamics of Competitive Executive Compensation",
-      "authors": "Gilles Chemla, Alejandro Rivera, Liyan Shi",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-07-30",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We examine executive compensation in a general equilibrium model with dynamic moral hazard, where executives' outside options are endogenously determined by equilibrium market compensation. Firms provide incentives through compensation packages featuring deferred payments as “carrots” and termination as “sticks.” Crucially, the effectiveness of termination as an incentive device is undermined by the outside options available to executives. As individual firms fail to internalize the effect of their compensation design on these endogenous outside options, the equilibrium is generally inefficient. Compared to shareholder‐value‐maximizing compensation packages, executives are paid too much, too soon, and keep their jobs for too long.</jats:p>",
-      "doi": "10.1111/jofi.13470",
-      "url": "https://doi.org/10.1111/jofi.13470"
     }
   ]
 }
