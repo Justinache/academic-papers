@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T04:07:28.731Z",
-  "count": 536,
+  "lastUpdated": "2026-02-01T04:31:05.723Z",
+  "count": 527,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104237",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104237"
+    },
+    {
+      "title": "Housing affordability and parental income support: The role of mortgage co-signing",
+      "authors": "Jason Allen, Kyra Carmichael, Robert Clark, Shaoteng Li, Nicolas Vincent",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104239",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104239"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -283,6 +293,36 @@
       "url": "https://doi.org/10.1257/aer.20230264"
     },
     {
+      "title": "Competition under Incomplete Contracts and the Design of Procurement Policies",
+      "authors": "Rodrigo Carril, Andres Gonzalez-Lira, Michael S. Walker",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We study the effects of intensifying competition for contracts in the context of US Defense procurement. Leveraging a discontinuous regulation that mandates agencies to publicize certain contract opportunities, we document that expanding the set of bidders reduces award prices but deteriorates post-award performance in terms of cost overruns and delays. We develop and estimate an auction model with endogenous entry and stochastic execution performance, in which the buyer endogenously chooses the intensity of competition. Model estimates indicate substantial heterogeneity in performance across contractors and show that simple adjustments to the current regulation could provide significant savings in procurement spending. (JEL D22, D24, D44, D82, D86, H56, H57)</jats:p>",
+      "doi": "10.1257/aer.20221345",
+      "url": "https://doi.org/10.1257/aer.20221345"
+    },
+    {
+      "title": "“Potential” and the Gender Promotion Gap",
+      "authors": "Alan Benson, Danielle Li, Kelly Shue",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We show that subjective assessments of employee “potential” contribute to gender gaps in promotion and pay. Using data on 29,809 management-track employees from a large retail chain, we find that women receive substantially lower potential ratings despite receiving higher performance ratings. Differences in potential ratings account for approximately half of the gender promotion gap. Women’s lower potential ratings do not reflect accurate forecasts of future performance: Women subsequently outperform male colleagues, both on average and on the margin of promotion. We highlight two mechanisms driving the gender potential gap: strategic retention and stereotyping. (JEL J16, J31, J71, L81, M12, M51)</jats:p>",
+      "doi": "10.1257/aer.20220831",
+      "url": "https://doi.org/10.1257/aer.20220831"
+    },
+    {
+      "title": "A Theory of Supply Function Choice and Aggregate Supply",
+      "authors": "Joel P. Flynn, George Nikolakoudis, Karthik A. Sastry",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>Modern theories of aggregate supply are built on the foundation that firms set prices and commit to producing whatever the market demands. We remove this strategic restriction and allow firms to choose supply functions, mappings that describe the prices charged at each quantity of production. Theoretically, we characterize firms’ optimal supply function choices in general equilibrium and study the resulting implications for aggregate supply. Aggregate supply flattens under lower inflation uncertainty, higher idiosyncratic demand uncertainty, and less elastic demand. Quantitatively, our theory can rationalize the flattening of aggregate supply during the Great Moderation and steepening during the 1970s and 2020s. (JEL D21, D43, E13, E23, E31, E32)</jats:p>",
+      "doi": "10.1257/aer.20240443",
+      "url": "https://doi.org/10.1257/aer.20240443"
+    },
+    {
       "title": "A Theory of How Workers Keep up with Inflation",
       "authors": "Hassan Afrouzi, Andres Blanco, Andres Drenik, Erik Hurst",
       "journal": "Quarterly Journal of Economics",
@@ -291,6 +331,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021-2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policymakers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</jats:p>",
       "doi": "10.1093/qje/qjag007",
       "url": "https://doi.org/10.1093/qje/qjag007"
+    },
+    {
+      "title": "Gender, Confidence, and the Mismeasure of Intelligence, Competitiveness, and Literacy",
+      "authors": "Glenn W. Harrison, Don Ross, J. Todd Swarthout",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-30",
+      "abstract": "",
+      "doi": "10.1086/738345",
+      "url": "https://doi.org/10.1086/738345"
+    },
+    {
+      "title": "Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity",
+      "authors": "Daron Acemoglu, Pascual Restrepo",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-01-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies the effects of automation in a task-based economy in which some jobs pay workers rents—wages above their outside option. We show that automation targets high-rent tasks, dissipating rents, amplifying wage losses, and reducing within-group wage dispersion in exposed groups. This form of rent dissipation is inefficient and offsets the productivity gains from automation. Using US data from 1980 to 2016, we find evidence of sizable rent dissipation and reduced within-group wage dispersion due to automation. Automation accounts for 52% of the increase in between-group inequality since 1980, with rent dissipation explaining one-fifth of this total. Our estimates imply that inefficient rent dissipation has offset 60–90% of the productivity gains from automation over this period.</jats:p>",
+      "doi": "10.1093/qje/qjag006",
+      "url": "https://doi.org/10.1093/qje/qjag006"
     },
     {
       "title": "Is Fraud Contagious? Social Connections and the Looting of COVID Relief Programs",
@@ -4613,16 +4673,6 @@
       "url": "https://doi.org/10.1111/jofi.13483"
     },
     {
-      "title": "Gender, Confidence, and the Mismeasure of Intelligence, Competitiveness and Literacy",
-      "authors": "Glenn Harrison, Don Ross, J. Todd Swarthout",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-25",
-      "abstract": "",
-      "doi": "10.1086/738345",
-      "url": "https://doi.org/10.1086/738345"
-    },
-    {
       "title": "Pockets of Predictability: A Replication",
       "authors": "Nusret Cakici, Christian Fieberg, Tobias Neumaier, Thorsten Poddig, Adam Zaremba",
       "journal": "Journal of Finance",
@@ -4963,16 +5013,6 @@
       "url": "https://doi.org/10.1257/aer.20241305"
     },
     {
-      "title": "Direct and Indirect Effects of Investment Tax Incentives",
-      "authors": "Adrian Lerche",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-08-01",
-      "abstract": "<jats:p> This paper estimates the direct effects and indirect spillover effects of investment tax credits on firms. Exploiting a differential tax credit rate change by firm size in the German manufacturing sector, I find that lowering a firm's investment cost by 7.6 percent increases its capital stock by 17.7 percent and employment by 12.0 percent. Positive local spillovers generate one additional manufacturing job for each directly created job, are strongest between firms in industries connected through input-output linkages, and arise within distances of five kilometers. Firms dependent on local consumer demand also increase employment, while within-industry spillovers generate small negative effects. (JEL D22, H25, H32, J23, L25, L60, R11) </jats:p>",
-      "doi": "10.1257/aer.20220656",
-      "url": "https://doi.org/10.1257/aer.20220656"
-    },
-    {
       "title": "Robustness Measures for Welfare Analysis",
       "authors": "Zi Yang Kang, Shoshana Vasserman",
       "journal": "American Economic Review",
@@ -4981,6 +5021,16 @@
       "abstract": "<jats:p> Economists routinely make functional form assumptions on demand curves to derive welfare conclusions. How sensitive are these conclusions to such assumptions? In this paper, we develop robustness measures that quantify the extent to which the true demand curve must deviate from common functional form assumptions in order to overturn a welfare conclusion. We parametrize this variability in terms of the gradient and curvature of the demand curve. By leveraging tools from information design, we show that our measures are easy to compute. Our measures are also flexible and easy to use, as we illustrate through empirical applications. (JEL D01, D60, F13, H55, Q48) </jats:p>",
       "doi": "10.1257/aer.20220673",
       "url": "https://doi.org/10.1257/aer.20220673"
+    },
+    {
+      "title": "Direct and Indirect Effects of Investment Tax Incentives",
+      "authors": "Adrian Lerche",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-08-01",
+      "abstract": "<jats:p> This paper estimates the direct effects and indirect spillover effects of investment tax credits on firms. Exploiting a differential tax credit rate change by firm size in the German manufacturing sector, I find that lowering a firm's investment cost by 7.6 percent increases its capital stock by 17.7 percent and employment by 12.0 percent. Positive local spillovers generate one additional manufacturing job for each directly created job, are strongest between firms in industries connected through input-output linkages, and arise within distances of five kilometers. Firms dependent on local consumer demand also increase employment, while within-industry spillovers generate small negative effects. (JEL D22, H25, H32, J23, L25, L60, R11) </jats:p>",
+      "doi": "10.1257/aer.20220656",
+      "url": "https://doi.org/10.1257/aer.20220656"
     },
     {
       "title": "Employers and Unemployment Insurance Take-Up",
@@ -5031,146 +5081,6 @@
       "abstract": "",
       "doi": "10.1086/735513",
       "url": "https://doi.org/10.1086/735513"
-    },
-    {
-      "title": "Soil Heterogeneity, Social Learning, and the Formation of Close-Knit Communities",
-      "authors": "Itzchak Tzachi Raz",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1086/735506",
-      "url": "https://doi.org/10.1086/735506"
-    },
-    {
-      "title": "Bidding for Firms: Subsidy Competition in the United States",
-      "authors": "Cailin Slattery",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1086/735509",
-      "url": "https://doi.org/10.1086/735509"
-    },
-    {
-      "title": "The Allocation of Incentives in Multilayered Organizations: Evidence from a Community Health Program in Sierra Leone",
-      "authors": "Erika Deserranno, A. Stefano Caria, Philipp Kastrau, Gianmarco León-Ciliotta",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1086/735511",
-      "url": "https://doi.org/10.1086/735511"
-    },
-    {
-      "title": "Dynamic Pricing Regulation and Welfare in Insurance Markets",
-      "authors": "Naoki Aizawa, Ami Ko",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1086/735512",
-      "url": "https://doi.org/10.1086/735512"
-    },
-    {
-      "title": "A quantitative analysis of bank lending relationships",
-      "authors": "Kyle Dempsey, Miguel Faria-e-Castro",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104083",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104083"
-    },
-    {
-      "title": "Do intermediaries improve GSE lending? Evidence from proprietary GSE data",
-      "authors": "Joshua Bosshardt, Ali Kakhbod, Amir Kermani",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104082",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104082"
-    },
-    {
-      "title": "Redeploying dirty assets: The impact of environmental",
-      "authors": "Jason Chen",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104070",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104070"
-    },
-    {
-      "title": "Revenue collapses and the consumption of small business owners in the COVID-19 pandemic",
-      "authors": "Olivia S. Kim, Jonathan A. Parker, Antoinette Schoar",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104079",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104079"
-    },
-    {
-      "title": "Entrepreneurial spillovers across coworkers",
-      "authors": "Melanie Wallskog",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104077",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104077"
-    },
-    {
-      "title": "Exorbitant privilege? Quantitative easing and the bond market subsidy of prospective fallen angels",
-      "authors": "Viral V. Acharya, Ryan Banerjee, Matteo Crosignani, Tim Eisert, Renée Spigt",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104084",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104084"
-    },
-    {
-      "title": "Robust difference-in-differences analysis when there is a term structure",
-      "authors": "Kjell G. Nyborg, Jiri Woschitz",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104081",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104081"
-    },
-    {
-      "title": "Banks as regulated traders",
-      "authors": "Antonio Falato, Diana Iercosan, Filip Zikes",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104080",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104080"
-    },
-    {
-      "title": "Receiving investors in the block market for corporate bonds",
-      "authors": "Stacey Jacobsen, Kumar Venkataraman",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104061",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104061"
-    },
-    {
-      "title": "Liquidity picking and fund performance",
-      "authors": "Feng Jiao, Sergei Sarkissian, David Schumacher",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104085",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104085"
     },
     {
       "title": "Does observability of ratings shopping improve ratings quality?",
@@ -5253,16 +5163,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101782"
     },
     {
-      "title": "Mandatory disclosure of investors’ fossil fuel holdings",
-      "authors": "Gregory S. Miller, Douglas R. Stockbridge, Christopher D. Williams",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101829",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101829"
-    },
-    {
       "title": "Real effects of proposed scope 3 disclosures",
       "authors": "Mary Ellen Carter, Lian Fen Lee, Enshuai Yu",
       "journal": "Journal of Accounting and Economics",
@@ -5281,6 +5181,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101798",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101798"
+    },
+    {
+      "title": "Mandatory disclosure of investors’ fossil fuel holdings",
+      "authors": "Gregory S. Miller, Douglas R. Stockbridge, Christopher D. Williams",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101829",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101829"
     },
     {
       "title": "Mandatory disclosures and opportunism: Evidence from repurchases",
@@ -5333,16 +5243,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101781"
     },
     {
-      "title": "Gone but not forgotten: Investor reaction to “excluded” recurring expenses",
-      "authors": "Laura Griffin, John McInnis",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-08-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101799",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101799"
-    },
-    {
       "title": "Signaling long-term information using short-term forecasts",
       "authors": "Mirko S. Heinle, Chongho Kim, Daniel J. Taylor, Frank S. Zhou",
       "journal": "Journal of Accounting and Economics",
@@ -5351,6 +5251,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101768",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101768"
+    },
+    {
+      "title": "Gone but not forgotten: Investor reaction to “excluded” recurring expenses",
+      "authors": "Laura Griffin, John McInnis",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101799",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101799"
     },
     {
       "title": "Assessing the objective function of the SEC against financial misconduct: A structural approach",
