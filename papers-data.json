@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T04:26:30.888Z",
-  "count": 496,
+  "lastUpdated": "2026-02-03T04:17:12.359Z",
+  "count": 497,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -331,6 +331,16 @@
       "abstract": "<jats:p>Modern theories of aggregate supply are built on the foundation that firms set prices and commit to producing whatever the market demands. We remove this strategic restriction and allow firms to choose supply functions, mappings that describe the prices charged at each quantity of production. Theoretically, we characterize firms’ optimal supply function choices in general equilibrium and study the resulting implications for aggregate supply. Aggregate supply flattens under lower inflation uncertainty, higher idiosyncratic demand uncertainty, and less elastic demand. Quantitatively, our theory can rationalize the flattening of aggregate supply during the Great Moderation and steepening during the 1970s and 2020s. (JEL D21, D43, E13, E23, E31, E32)</jats:p>",
       "doi": "10.1257/aer.20240443",
       "url": "https://doi.org/10.1257/aer.20240443"
+    },
+    {
+      "title": "Audit centralization and audit quality: Evidence from chinese cities",
+      "authors": "Jian Chu, Raymond Fisman, Yongxiang Wang, Maoliang Ye",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101865",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101865"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
