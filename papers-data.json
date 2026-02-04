@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T04:17:12.359Z",
+  "lastUpdated": "2026-02-04T04:13:10.090Z",
   "count": 497,
   "papers": [
     {
@@ -31,6 +31,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104250",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104250"
+    },
+    {
+      "title": "Hurdle rate buffers and bargaining power in asset acquisition",
+      "authors": "John W. Barry, Bruce I. Carlin, Alan D. Crane, John R. Graham",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104240",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104240"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -4961,16 +4971,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Sell‐side analysts commonly transition to buy‐side money managers. I examine whether and how these career transitions shape sell‐side analysts' behavior, relying on the granular career information of 6,310 analysts in the United States. I identify analysts who transition from the sell‐side to the buy‐side and find that these analysts issue inflated recommendations on stocks of interest to their future buy‐side employers. This favoritism is (1) present only during the year preceding their transition, (2) more pronounced among stocks where a single analyst is more influential in moving the stock price; and (3) present only among transitions likely to be strategically planned. Importantly, stocks receiving inflated recommendations experience a significant price decline following the departure of transitioning analysts from the sell‐side. Overall, these findings suggest that analyst career transitions are an important source of conflicts of interest.</jats:p>",
       "doi": "10.1111/1475-679x.70004",
       "url": "https://doi.org/10.1111/1475-679x.70004"
-    },
-    {
-      "title": "Establishment of National Public Audit Oversight Boards: Descriptive Evidence and Implications for Audit Quality",
-      "authors": "Elizabeth Carson, Phillip Lamoreaux, Roger Simnett, Ulrike Thürheimer, Ann Vanstraelen",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-03",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate the establishment of public audit oversight bodies (POBs) worldwide. We present descriptive evidence on POBs’ characteristics and factors influencing the timing of their establishment, finding that countries with stronger institutions, civil law traditions, and higher media attention to audit quality adopt POBs faster. While countries may choose similar POB design features, these choices do not align with the factors driving adoption speed. We also explore whether the finding of a positive impact on audit quality of the U.S. PCAOB generalizes to other countries. A difference‐in‐differences analysis over 20 years provides some evidence that POB establishment and their characteristics improve audit quality. However, the results appear sensitive to audit quality measures and research design. Our study offers the first broad‐based investigation of POB adoption and provides important nuance on the relation between POBs and audit quality.</jats:p>",
-      "doi": "10.1111/1475-679x.70008",
-      "url": "https://doi.org/10.1111/1475-679x.70008"
     }
   ]
 }
