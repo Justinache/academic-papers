@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T04:13:10.090Z",
+  "lastUpdated": "2026-02-05T04:16:26.961Z",
   "count": 497,
   "papers": [
     {
@@ -41,6 +41,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104240",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104240"
+    },
+    {
+      "title": "Hidden alpha",
+      "authors": "Manuel Ammann, Alexander Cochardt, Lauren Cohen, Stephan Heller",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104225",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104225"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -101,6 +111,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Partisan Cities: How State‐Local Political Alignment Shapes Credit Risk and Information Processing in the Municipal Bond Market",
+      "authors": "Ramona Dagostino, Anya Nakhmurina",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-02-04",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies how partisan alignment between city leaders and state governors shapes information processing and bond pricing in the municipal bond market. Using a novel data set on 1,045 U.S. cities from 2005 to 2019, we show that cities with the same political affiliation as the state governor face 9 basis points lower borrowing costs than misaligned cities. The effect is stronger for riskier bonds, in states where governors hold greater authority, and for fiscally dependent cities. Aligned cities also receive more aid during fiscal distress. Partisan alignment shapes how investors interpret and respond to financial information: Nondisclosure and adverse audit findings raise borrowing costs primarily for misaligned cities, while penalties for aligned cities are markedly smaller.</jats:p>",
+      "doi": "10.1111/1475-679x.70041",
+      "url": "https://doi.org/10.1111/1475-679x.70041"
     },
     {
       "title": "Manufacturing risk-free government debt",
@@ -351,6 +371,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101865",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101865"
+    },
+    {
+      "title": "Do Consulting Services Affect Audit Quality? Evidence from the Workforce",
+      "authors": "Anastassia Fedyk, Tatiana Fedyk, James Hodson, Natalya Khimich",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper investigates how consulting services affect audit quality, from the perspective of knowledge- and expertise-sharing between employees. Semistructured interviews with 16 audit partners reveal that consulting expertise is used in 60–80 percent of audit engagements, with the main rationale for such collaboration being knowledge-sharing and improved audit quality. We leverage a comprehensive office-level dataset of employment profiles covering 86 percent of all employees at large U.S. public accounting firms to systematically investigate the effect of consulting employees on audit quality. We document that a one standard deviation increase in the share of consulting employees in an office results in a 2.6 percentage point reduction in restatements (a decrease of 19 percent relative to the baseline). This effect is strongest when consulting employees have skills complimentary to auditors, e.g., technical and human resources skills, and when consultants have specific industry expertise in the same industry as the audit client.</jats:p>\n                  <jats:p>Data Availability: Data from common sources, such as Audit Analytics, can be purchased from the providers. Data on firm-level measures of workforce characteristics and skills are available from the authors upon request, conditional on approval from the data provider (Cognism).</jats:p>\n                  <jats:p>JEL Classifications: D22; E24; J24; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0572",
+      "url": "https://doi.org/10.2308/tar-2022-0572"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
@@ -648,7 +678,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper explores the relationship between economic growth and trust in government using variation in GDP growth experienced over a lifetime since birth. We assemble a newly harmonized global dataset across eleven major opinion surveys, comprising 3.3 million respondents in 166 countries since 1990. Exploiting cohort-level variation, we find that individuals who experience higher GDP growth are more prone to trust their governments, with larger effects found in democracies. Higher growth experiences are also associated with improved perceptions of government performance and living standards. We find no similar channel between growth experience and interpersonal trust. Second, more recent growth experiences appear to matter most for trust in government, with no detectable effect of growth experienced during one’s formative years, closer to birth or before birth. Third, we find evidence of a “trust paradox” whereby average trust in government is lower in democracies than in autocracies. Our results are robust to a range of falsification exercises, robustness checks and single-country evidence using the American National Election Studies and the Swiss Household Panel.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article explores the relationship between economic growth and trust in government using variation in GDP growth experienced over a lifetime since birth. We assemble a newly harmonized global data set across 11 major opinion surveys, comprising 3.3 million respondents in 166 countries since 1990. Exploiting cohort-level variation, we find that people who have experienced higher GDP growth are more prone to trust their governments, with larger effects found in democracies. Higher-growth experiences are also associated with improved perceptions of government performance and living standards. We find no similar channel between growth experience and interpersonal trust. Second, more recent growth experiences appear to matter most for trust in government, with no detectable effect of growth experienced during one’s formative years, closer to birth, or before birth. Third, we find evidence of a “trust paradox” whereby average trust in government is lower in democracies than in autocracies. Our results are robust to a range of falsification exercises, robustness checks, and single-country evidence using the American National Election Studies and the Swiss Household Panel.</jats:p>",
       "doi": "10.1093/qje/qjaf056",
       "url": "https://doi.org/10.1093/qje/qjaf056"
     },
@@ -678,7 +708,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-08",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that intergenerational mobility changed rapidly by race and class in recent decades in the U.S. and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (“class”) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for non-monetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, within local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that intergenerational mobility changed rapidly by race and class in recent decades in the United States and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (class) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for nonmonetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, in local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.</jats:p>",
       "doi": "10.1093/qje/qjaf057",
       "url": "https://doi.org/10.1093/qje/qjaf057"
     },
@@ -4941,36 +4971,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I test whether asset prices reflect risk exposures of financial intermediaries in a setting well-suited to tackling concerns about omitted risk factors. I analyze catastrophe bonds whose cash flows are linked to natural disasters and find that 71% of the security-level variation in expected returns can be explained by a theoretically motivated measure of intermediaries’ marginal utility. Assuming natural disasters are independent of aggregate wealth, this result is inconsistent with any alternative explanation based on unobserved macroeconomic risks. In addition, the aggregate premium decreases and becomes less sensitive to the occurrence of disasters when intermediaries’ access to outside capital improves.</jats:p>",
       "doi": "10.1093/rfs/hhaf055",
       "url": "https://doi.org/10.1093/rfs/hhaf055"
-    },
-    {
-      "title": "Insurance Versus Moral Hazard in Income-Contingent Student Loan Repayment",
-      "authors": "Tim de Silva",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Student loans with income-contingent repayment insure borrowers against income risk but can reduce their incentives to earn more. Using a change in Australia’s income-contingent repayment schedule, I show that borrowers reduce their labor supply to lower their repayments. These responses are larger among borrowers with more hourly flexibility, a lower probability of repayment, and tighter liquidity constraints. I use these responses to estimate a dynamic model of labor supply with frictions that generate imperfect adjustment. My estimates imply that the labor supply responses to income-contingent repayment limit the optimal amount of insurance in government-provided student loans. However, these responses are too small to justify fixed-repayment contracts: restructuring existing student loans from fixed repayment to a constrained-optimal income-contingent loan—while keeping the tax and transfer system unchanged—increases borrower welfare by the equivalent of a 0.8% increase in lifetime consumption at no additional fiscal cost.</jats:p>",
-      "doi": "10.1093/qje/qjaf036",
-      "url": "https://doi.org/10.1093/qje/qjaf036"
-    },
-    {
-      "title": "Segmented Arbitrage",
-      "authors": "Emil N. Siriwardane, Adi Sunderam, Jonathan Wallen",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-04",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We use arbitrage activity in equity, fixed income, and foreign exchange markets to characterize the frictions and constraints facing intermediaries. The average pairwise correlation between the 32 arbitrage spreads that we study is 22%. These low correlations are inconsistent with canonical intermediary asset pricing models. We show that at least two types of segmentation drive arbitrage dynamics. First, funding is segmented—certain trades rely on specific funding sources, making their arbitrage spreads sensitive to localized funding shocks. Second, balance sheets are segmented—intermediaries specialize in certain trades, so arbitrage spreads are sensitive to idiosyncratic balance‐sheet shocks.</jats:p>",
-      "doi": "10.1111/jofi.13469",
-      "url": "https://doi.org/10.1111/jofi.13469"
-    },
-    {
-      "title": "Paving the Road to the Buy‐Side",
-      "authors": "Biwen Zhang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-04",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Sell‐side analysts commonly transition to buy‐side money managers. I examine whether and how these career transitions shape sell‐side analysts' behavior, relying on the granular career information of 6,310 analysts in the United States. I identify analysts who transition from the sell‐side to the buy‐side and find that these analysts issue inflated recommendations on stocks of interest to their future buy‐side employers. This favoritism is (1) present only during the year preceding their transition, (2) more pronounced among stocks where a single analyst is more influential in moving the stock price; and (3) present only among transitions likely to be strategically planned. Importantly, stocks receiving inflated recommendations experience a significant price decline following the departure of transitioning analysts from the sell‐side. Overall, these findings suggest that analyst career transitions are an important source of conflicts of interest.</jats:p>",
-      "doi": "10.1111/1475-679x.70004",
-      "url": "https://doi.org/10.1111/1475-679x.70004"
     }
   ]
 }
