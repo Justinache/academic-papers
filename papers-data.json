@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-05T04:16:26.961Z",
-  "count": 497,
+  "lastUpdated": "2026-02-06T04:16:45.737Z",
+  "count": 509,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -51,6 +51,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104225",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104225"
+    },
+    {
+      "title": "Committing to trade: A theory of intermediation",
+      "authors": "Francesco Sannino",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104249",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104249"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -381,6 +391,116 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper investigates how consulting services affect audit quality, from the perspective of knowledge- and expertise-sharing between employees. Semistructured interviews with 16 audit partners reveal that consulting expertise is used in 60–80 percent of audit engagements, with the main rationale for such collaboration being knowledge-sharing and improved audit quality. We leverage a comprehensive office-level dataset of employment profiles covering 86 percent of all employees at large U.S. public accounting firms to systematically investigate the effect of consulting employees on audit quality. We document that a one standard deviation increase in the share of consulting employees in an office results in a 2.6 percentage point reduction in restatements (a decrease of 19 percent relative to the baseline). This effect is strongest when consulting employees have skills complimentary to auditors, e.g., technical and human resources skills, and when consultants have specific industry expertise in the same industry as the audit client.</jats:p>\n                  <jats:p>Data Availability: Data from common sources, such as Audit Analytics, can be purchased from the providers. Data on firm-level measures of workforce characteristics and skills are available from the authors upon request, conditional on approval from the data provider (Cognism).</jats:p>\n                  <jats:p>JEL Classifications: D22; E24; J24; M42.</jats:p>",
       "doi": "10.2308/tar-2022-0572",
       "url": "https://doi.org/10.2308/tar-2022-0572"
+    },
+    {
+      "title": "Information sharing within institutional investor networks",
+      "authors": "Wei Ting Loh",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101803",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101803"
+    },
+    {
+      "title": "How do consumers use ESG disclosure? Evidence from a randomized field experiment with everyday product purchases",
+      "authors": "Sinja Leonelli, Maximilian Muhn, Thomas Rauter, Gurpal S. Sran",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101811",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101811"
+    },
+    {
+      "title": "With a Grain of Salt: Investor Reactions to Uncertain News and (Non)disclosure",
+      "authors": "Jonathan Libgober, Beatrice Michaeli, Elyashiv Wiedman",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101802",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101802"
+    },
+    {
+      "title": "Mandatory disclosure of investors’ fossil fuel holdings",
+      "authors": "Gregory S. Miller, Douglas R. Stockbridge, Christopher D. Williams",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101829",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101829"
+    },
+    {
+      "title": "Real effects of proposed scope 3 disclosures",
+      "authors": "Mary Ellen Carter, Lian Fen Lee, Enshuai Yu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101820",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101820"
+    },
+    {
+      "title": "Mandatory investor disclosure, sustainability commitments, and portfolio decarbonization",
+      "authors": "Jiyuan Dai, Gaizka Ormazabal, Fernando Penalva, Robert Raney",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101817",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101817"
+    },
+    {
+      "title": "Innovation in firms: Experimentation and strategic communication",
+      "authors": "Li Azinovic-Yang, Tim Baldenius",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101830",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101830"
+    },
+    {
+      "title": "Unraveling the time-series dynamics between aggregate earnings and GDP",
+      "authors": "Lindsey A. Gallo, Hengda Jin, Suhas A. Sridharan",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101806",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101806"
+    },
+    {
+      "title": "Constructing Carbon Abatement Cost Curves",
+      "authors": "Gunther Glenk, Rebecca Meier, Stefan Reichelstein",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Companies across industries face increasing pressure to assess the costs of decarbonizing their operations. This paper develops a generic model for constructing abatement cost curves in connection with carbon dioxide emissions. The resulting abatement cost curves provide a planning tool for companies seeking to project their decarbonization pathways and to determine optimal abatement levels in response to environmental regulations such as carbon pricing. We calibrate our model in the context of European cement producers that are required to obtain emission permits under the European Emissions Trading System. We find that a price of €85 per ton of carbon dioxide, as observed on average in 2023, incentivizes firms to reduce their annual direct emissions by about one-third relative to the status quo. Yet, this incentive increases sharply when prices rise above the benchmark of €100 per ton of carbon dioxide.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are referenced in the paper and the Appendix. Data underlying the plots are provided in a supplemental material file Constructing Abatement Cost Curves - Supplementary Data.xlsx. Additional information is available upon request to the first and third authors.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; Q54; Q56.</jats:p>",
+      "doi": "10.2308/tar-2025-0315",
+      "url": "https://doi.org/10.2308/tar-2025-0315"
+    },
+    {
+      "title": "The Evolution of Performance Measurement, Career Development, and Compensation for Audit Partners in the Context of Public Scrutiny",
+      "authors": "Olof Bik, Jan Bouwens, W. Robert Knechel, Yuxia Zou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how audit firms changed their policies regarding audit partner performance measurement, career development, and compensation during a period of heightened public scrutiny of audit quality (2007 to 2017). We theorize how implementing policy changes requires a delicate transition in the organizational design and internal processes of the firms and may not effectively translate into their day-to-day practices. Our access to proprietary performance management policies and individual partner performance and compensation data from the eight largest Dutch audit firms allows us to gain an in-depth understanding of the evolution of performance management for audit partners. We find that most of the policy changes have real consequences. For example, audit quality becomes more consequential to career development, whereas profit sharing becomes better linked to quality and long-term performance. We conclude that audit firms appear effectively responsive to public scrutiny, increasingly aligning partner incentives with societal expectations of audit quality.</jats:p>",
+      "doi": "10.2308/tar-2021-0569",
+      "url": "https://doi.org/10.2308/tar-2021-0569"
+    },
+    {
+      "title": "How Good Is Goodwill Accounting? Comparative Evidence on Post-FAS 141(R) Acquired Intangibles Accounting",
+      "authors": "Anne Beatty, Scott Liao, Joseph P. Weber",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Concerns that goodwill impairments unresponsiveness to declining performance produces inflated goodwill led standard-setters to reconsider post-acquisition impairment-only accounting. We use granular large-scale data to provide institutionally relevant novel descriptive evidence motivated by this hotly debated accounting standard. Comparing goodwill versus other acquired intangibles growth rates for firms reporting goodwill throughout the 2010–2020 post-FAS 141(R) period provides no evidence of runaway goodwill inflation concerns. For firms with goodwill anytime during 2010–2020 we use Shapley values to explore the explanatory power of performance factors affecting goodwill impairments. Consistent with standard-setters’ intent, single-segment market performance explains 81 percent of goodwill impairment incidence variation (controlling for Fama-French-38 industry and time fixed-effects). Limited evidence of reduced impairment incidence after incorporating FASB sanctioned control premia or alternative market values provides little support for discretionary impairment avoidance. Conversely, higher impairment incidence when book values incorporate IFRS (2020) proposed off-balance-sheet headroom or market-to-book decreases supports discretionary impairment recognition.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are obtained from commercial sources, including Compustat, Calcbench, I/B/E/S, FactSet Mergerstat/BVR, and Peters and Taylor's intangible capital dataset.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; G34.</jats:p>",
+      "doi": "10.2308/tar-2024-0009",
+      "url": "https://doi.org/10.2308/tar-2024-0009"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
