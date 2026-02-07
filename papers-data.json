@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-06T04:16:45.737Z",
-  "count": 509,
+  "lastUpdated": "2026-02-07T04:09:58.492Z",
+  "count": 511,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -121,6 +121,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Competition Enforcement and Accounting for Intangible Capital",
+      "authors": "John D. Kepler, Charles G. Mcclure, Christopher R. Stewart",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-02-06",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Antitrust laws mandate review of mergers and acquisitions (M&amp;As) that exceed an asset size threshold based on accounting standards that exclude most intangible capital. We show that this exclusion leads to thousands of intangible‐intensive M&amp;As being nonreportable. Acquirers in nonreportable deals achieve higher equity values and price markups, especially when consolidating product markets. Furthermore, nonreportable pharmaceutical deals are three times more likely to involve overlapping drug projects, which are subsequently 40% more likely to be terminated. Our results suggest that the growth of intangible assets may exacerbate market power through nonreportable consolidation of the sectors most concerning for consumers.</jats:p>",
+      "doi": "10.1111/jofi.70028",
+      "url": "https://doi.org/10.1111/jofi.70028"
     },
     {
       "title": "Partisan Cities: How State‐Local Political Alignment Shapes Credit Risk and Information Processing in the Municipal Bond Market",
@@ -373,7 +383,7 @@
       "url": "https://doi.org/10.1257/aer.20240443"
     },
     {
-      "title": "Audit centralization and audit quality: Evidence from chinese cities",
+      "title": "Audit centralization and audit quality: Evidence from Chinese cities",
       "authors": "Jian Chu, Raymond Fisman, Yongxiang Wang, Maoliang Ye",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -501,6 +511,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Concerns that goodwill impairments unresponsiveness to declining performance produces inflated goodwill led standard-setters to reconsider post-acquisition impairment-only accounting. We use granular large-scale data to provide institutionally relevant novel descriptive evidence motivated by this hotly debated accounting standard. Comparing goodwill versus other acquired intangibles growth rates for firms reporting goodwill throughout the 2010–2020 post-FAS 141(R) period provides no evidence of runaway goodwill inflation concerns. For firms with goodwill anytime during 2010–2020 we use Shapley values to explore the explanatory power of performance factors affecting goodwill impairments. Consistent with standard-setters’ intent, single-segment market performance explains 81 percent of goodwill impairment incidence variation (controlling for Fama-French-38 industry and time fixed-effects). Limited evidence of reduced impairment incidence after incorporating FASB sanctioned control premia or alternative market values provides little support for discretionary impairment avoidance. Conversely, higher impairment incidence when book values incorporate IFRS (2020) proposed off-balance-sheet headroom or market-to-book decreases supports discretionary impairment recognition.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are obtained from commercial sources, including Compustat, Calcbench, I/B/E/S, FactSet Mergerstat/BVR, and Peters and Taylor's intangible capital dataset.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; G34.</jats:p>",
       "doi": "10.2308/tar-2024-0009",
       "url": "https://doi.org/10.2308/tar-2024-0009"
+    },
+    {
+      "title": "“Trying to Get Out from under Water”: Paradox and Power in the Audit Senior Associate Role",
+      "authors": "Emily S. Blum, Kris Hoang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Audit senior associates are essential to audit production, yet we know little about how they experience their organizational role. We interview 45 U.S.-based audit seniors and find they experience persistent paradoxical tensions between contradictory yet interrelated objectives, stemming from their middle hierarchical position as both experienced associates and novice executives. Applying Paradox Theory, we find seniors sometimes work around paradox by attending to one paradoxical objective to temporarily alleviate tension but leave the other paradoxical objective neglected. Other times, seniors work through paradox by dynamically engaging with both paradoxical objectives, particularly when empowered by perceiving adequate resources—time, information, and social capital. Our study reconceptualizes seniors as self-directed fledgling leaders whose capabilities are forged through navigating paradoxical tensions, expanding the conventional academic view of seniors as experienced associates. We discuss how audit firm-level tensions revealed through seniors’ experiences offer insights for human capital development and audit quality.</jats:p>",
+      "doi": "10.2308/tar-2022-0532",
+      "url": "https://doi.org/10.2308/tar-2022-0532"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
