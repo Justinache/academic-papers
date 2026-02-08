@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-07T04:09:58.492Z",
-  "count": 511,
+  "lastUpdated": "2026-02-08T04:34:02.009Z",
+  "count": 508,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -521,6 +521,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Audit senior associates are essential to audit production, yet we know little about how they experience their organizational role. We interview 45 U.S.-based audit seniors and find they experience persistent paradoxical tensions between contradictory yet interrelated objectives, stemming from their middle hierarchical position as both experienced associates and novice executives. Applying Paradox Theory, we find seniors sometimes work around paradox by attending to one paradoxical objective to temporarily alleviate tension but leave the other paradoxical objective neglected. Other times, seniors work through paradox by dynamically engaging with both paradoxical objectives, particularly when empowered by perceiving adequate resources—time, information, and social capital. Our study reconceptualizes seniors as self-directed fledgling leaders whose capabilities are forged through navigating paradoxical tensions, expanding the conventional academic view of seniors as experienced associates. We discuss how audit firm-level tensions revealed through seniors’ experiences offer insights for human capital development and audit quality.</jats:p>",
       "doi": "10.2308/tar-2022-0532",
       "url": "https://doi.org/10.2308/tar-2022-0532"
+    },
+    {
+      "title": "Income Statement Expense Disaggregation",
+      "authors": "James J. Blann, James R. Moon",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The FASB recently issued ASU 2024-03, which requires disaggregation of significant expenses, like cost of goods sold (COGS) and selling, general, and administrative (SG&amp;A) expenses. Proponents argue disaggregation will improve decision usefulness, whereas opponents suggest the information will be costly and provide little value. We provide large-sample evidence on the pre-ASU state of expense disaggregation, analyze whether it appears to provide decision-useful information, and explore differences across disaggregation components. Our findings suggest that disaggregation is relatively common, increasing over time, and correlated with demand for disclosure, disclosure incentives, and firm economics. Further, our evidence is consistent with COGS, but not SG&amp;A, disaggregation providing decision-useful information for investors and analysts, and these benefits accrue via improved processing of expense-related news. Overall, our evidence suggests that not all disaggregation is equal. We also identify novel, large-sample expense disaggregation measures for U.S. firms, which are likely useful for evaluating other implications of disaggregation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0545",
+      "url": "https://doi.org/10.2308/tar-2023-0545"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
@@ -5071,46 +5081,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We develop a tractable quantitative framework for modeling the rich patterns of spatial mobility observed in smartphone data. We show that travel is frequently undertaken as part of a travel itinerary, defined as a journey starting and ending at home that can include more than one intermediate stop on a given day. We show that these travel itineraries provide microfoundations for consumption externalities and generate both complementarity and substitutability between locations. We show that the consumption externalities implied by travel itineraries are central to matching quasi-experimental evidence from the shift to working from home. We find that these consumption externalities are key drivers of the agglomeration of economic activity in central cities and shape the relative welfare gains from alternative transport improvements in favor of investments in central cities.</jats:p>",
       "doi": "10.1093/qje/qjaf038",
       "url": "https://doi.org/10.1093/qje/qjaf038"
-    },
-    {
-      "title": "Conviction, Incarceration, and Recidivism: Understanding the Revolving Door",
-      "authors": "John Eric Humphries, Aurélie Ouss, Kamelia Stavreva, Megan T Stevenson, Winnie van Dijk",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Noncarceral conviction is a common outcome of criminal court cases: for every person incarcerated, there are approximately three who were recently convicted but not sentenced to prison or jail. We extend the binary-treatment judge IV framework to settings with multiple treatments and use it to study the consequences of noncarceral conviction. We outline assumptions under which widely used 2SLS regressions recover margin-specific treatment effects, relate these assumptions to models of judge decision-making, and derive an expression that provides intuition about the direction and magnitude of asymptotic bias when a key assumption on judge decision-making is not met. We find that noncarceral conviction (relative to dismissal) leads to a large and long-lasting increase in recidivism for felony defendants in Virginia. In contrast, incarceration (relative to noncarceral conviction) leads to a short-run reduction in recidivism, consistent with incapacitation. Our empirical results suggest that noncarceral felony conviction is an important and overlooked driver of recidivism.</jats:p>",
-      "doi": "10.1093/qje/qjaf040",
-      "url": "https://doi.org/10.1093/qje/qjaf040"
-    },
-    {
-      "title": "What Drives Risky Prescription Opioid Use? Evidence From Migration",
-      "authors": "Amy Finkelstein, Matthew Gentzkow, Dean Li",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We develop and estimate a dynamic model of risky prescription opioid use that allows us to unpack the role of person- and place-specific drivers of the opioid epidemic and assess the impact of state opioid policies. Event studies indicate that among adults receiving federal disability insurance from 2006 to 2019, moves to states with higher rates of risky use produce an immediate jump in the probability of risky use, followed by an additional gradual increase for the next several years. Using a potential-outcomes framework, we show how these results map to the person- and place-specific factors in the model. Model estimates imply large effects of place on both the likelihood of transitioning to addiction and the availability of prescription opioids; they also indicate that these place effects change significantly when state laws restricting pain clinics are enacted. A one standard deviation reduction in all place effects would have reduced risky use by about 40% over our study period. One particular source of place effects, pain clinic laws, reduced risky use by 5%, but could have reduced it by 30% if they had been enacted earlier, with much of this magnification operating through the dynamics of addiction.</jats:p>",
-      "doi": "10.1093/qje/qjaf037",
-      "url": "https://doi.org/10.1093/qje/qjaf037"
-    },
-    {
-      "title": "Investor Factors",
-      "authors": "Sebastien Betermier, Laurent E. Calvet, Samuli Knüpfer, Jens Soerlie Kvaerner",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This paper develops an empirical methodology for extracting pricing factors from investor portfolio data. We apply this approach to the stockholdings of Norwegian individual investors from 1997 to 2017. A two‐factor model, featuring the market portfolio and a long‐short portfolio constructed from the holdings of investors sorted by age or wealth, explains both the common variation in portfolio holdings and the cross section of stock returns. Portfolio tilts toward the long‐short investor factor correlate with indebtedness, macroeconomic exposure, gender, and investment experience. Our paper illustrates the benefits of using holdings data for explaining the risk premia of financial assets.</jats:p>",
-      "doi": "10.1111/jofi.13474",
-      "url": "https://doi.org/10.1111/jofi.13474"
-    },
-    {
-      "title": "Failure to Share Natural Disaster Risk",
-      "authors": "Tuomas Tomunen",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-08-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I test whether asset prices reflect risk exposures of financial intermediaries in a setting well-suited to tackling concerns about omitted risk factors. I analyze catastrophe bonds whose cash flows are linked to natural disasters and find that 71% of the security-level variation in expected returns can be explained by a theoretically motivated measure of intermediaries’ marginal utility. Assuming natural disasters are independent of aggregate wealth, this result is inconsistent with any alternative explanation based on unobserved macroeconomic risks. In addition, the aggregate premium decreases and becomes less sensitive to the occurrence of disasters when intermediaries’ access to outside capital improves.</jats:p>",
-      "doi": "10.1093/rfs/hhaf055",
-      "url": "https://doi.org/10.1093/rfs/hhaf055"
     }
   ]
 }
