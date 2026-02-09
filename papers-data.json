@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-08T04:34:02.009Z",
-  "count": 508,
+  "lastUpdated": "2026-02-09T04:29:23.396Z",
+  "count": 507,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -1528,7 +1528,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-12-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information about future economic conditions from firms’ cross-border merger and acquisition announcements, and show it predicts changes in relative economic growth rates and foreign exchange rate returns. We find the predictability is driven by the acquisition decisions of domestic firms, which signal turning points in local economic growth. The findings are motivated by a simple model of exchange rate determination with heterogeneous expectations and support the theorized relationship between foreign exchange rates and macroeconomic fundamentals. The results provide new tools for policy makers seeking to predict economic activity and offer global investors a novel source of portfolio diversification. (JEL F31, E22, E32, G12, G15, G34)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information about future economic conditions from firms’ cross-border merger and acquisition announcements, and show it predicts changes in relative economic growth rates and foreign exchange rate returns. We find the predictability is driven by the acquisition decisions of domestic firms, which signal turning points in local economic growth. The findings are motivated by a simple model of exchange rate determination with heterogeneous expectations and support the theorized relationship between foreign exchange rates and macroeconomic fundamentals. The results provide new tools for policy makers seeking to predict economic activity and offer global investors a novel source of portfolio diversification.</jats:p>",
       "doi": "10.1093/rfs/hhaf109",
       "url": "https://doi.org/10.1093/rfs/hhaf109"
     },
@@ -2428,7 +2428,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze the role of nonbank lenders in the transmission of monetary policy using data on the universe of unsecured credit to firms and households in Denmark. Nonbanks increase their credit supply after a monetary contraction, both relative to banks and in absolute terms. The increase in nonbank lending is financed through increased long-term debt. A model with segmented debt markets featuring differential investor rate sensitivities rationalizes these findings. Nonbank credit insulates corporate investment and household consumption from monetary contractions, with positive spillovers extending beyond nonbank clients through industry and geographic channels. (JEL E51, E52, G23)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze the role of nonbank lenders in the transmission of monetary policy using data on the universe of unsecured credit to firms and households in Denmark. Nonbanks increase their credit supply after a monetary contraction, both relative to banks and in absolute terms. The increase in nonbank lending is financed through increased long-term debt. A model with segmented debt markets featuring differential investor rate sensitivities rationalizes these findings. Nonbank credit insulates corporate investment and household consumption from monetary contractions, with positive spillovers extending beyond nonbank clients through industry and geographic channels.</jats:p>",
       "doi": "10.1093/rfs/hhaf096",
       "url": "https://doi.org/10.1093/rfs/hhaf096"
     },
@@ -5071,16 +5071,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether shared auditors promote the dissemination of innovative knowledge among their clients, thereby fostering follow‐on innovation. We find that a company cites more patents from another company when they are audited by the same audit office. To address concerns about potential confounding factors stemming from commonalities in the fundamentals of the two companies, we leverage a quasi‐exogenous shock to auditor sharing: the demise of Arthur Andersen and the subsequent increase in auditor switching in 2002. Further analysis reveals that the effect of a shared auditor on cross‐client patent citations is stronger when both clients engage in intensive innovation activities. Additional evidence suggests that shared auditors exert more influence on the citations of recent patents and patents that are easier for outsiders to utilize. Overall, our findings suggest that auditors affect corporate innovation by facilitating the transfer of innovative knowledge among their clients.</jats:p>",
       "doi": "10.1111/1475-679x.70010",
       "url": "https://doi.org/10.1111/1475-679x.70010"
-    },
-    {
-      "title": "The Economics of Spatial Mobility: Theory and Evidence Using Smartphone Data",
-      "authors": "Yuhei Miyauchi, Kentaro Nakajima, Stephen J Redding",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>We develop a tractable quantitative framework for modeling the rich patterns of spatial mobility observed in smartphone data. We show that travel is frequently undertaken as part of a travel itinerary, defined as a journey starting and ending at home that can include more than one intermediate stop on a given day. We show that these travel itineraries provide microfoundations for consumption externalities and generate both complementarity and substitutability between locations. We show that the consumption externalities implied by travel itineraries are central to matching quasi-experimental evidence from the shift to working from home. We find that these consumption externalities are key drivers of the agglomeration of economic activity in central cities and shape the relative welfare gains from alternative transport improvements in favor of investments in central cities.</jats:p>",
-      "doi": "10.1093/qje/qjaf038",
-      "url": "https://doi.org/10.1093/qje/qjaf038"
     }
   ]
 }
