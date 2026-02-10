@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-09T04:29:23.396Z",
-  "count": 507,
+  "lastUpdated": "2026-02-10T04:33:23.914Z",
+  "count": 509,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -121,6 +121,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Carbon Pricing versus Green Finance",
+      "authors": "Lasse Heje Pedersen",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-02-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Green finance—including environmental, social, and governance investing and sustainable finance regulations—is widespread, but can it substitute for carbon pricing in fighting climate change? In a unified model, I show that (i) when carbon prices reflect the social cost of carbon, green finance should not be used; (ii) when carbon prices are too low, green finance can implement the social optimum if each firm's cost of capital can be set to its\n                    <jats:italic>sustainable discount rate</jats:italic>\n                    , which increases with the ratio of carbon emissions to firm value. I provide calibrations, analyze stranded assets, and present implementations through subsidies or preferential financing for green firms.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70022",
+      "url": "https://doi.org/10.1111/jofi.70022"
     },
     {
       "title": "Competition Enforcement and Accounting for Intangible Capital",
@@ -531,6 +541,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The FASB recently issued ASU 2024-03, which requires disaggregation of significant expenses, like cost of goods sold (COGS) and selling, general, and administrative (SG&amp;A) expenses. Proponents argue disaggregation will improve decision usefulness, whereas opponents suggest the information will be costly and provide little value. We provide large-sample evidence on the pre-ASU state of expense disaggregation, analyze whether it appears to provide decision-useful information, and explore differences across disaggregation components. Our findings suggest that disaggregation is relatively common, increasing over time, and correlated with demand for disclosure, disclosure incentives, and firm economics. Further, our evidence is consistent with COGS, but not SG&amp;A, disaggregation providing decision-useful information for investors and analysts, and these benefits accrue via improved processing of expense-related news. Overall, our evidence suggests that not all disaggregation is equal. We also identify novel, large-sample expense disaggregation measures for U.S. firms, which are likely useful for evaluating other implications of disaggregation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
       "doi": "10.2308/tar-2023-0545",
       "url": "https://doi.org/10.2308/tar-2023-0545"
+    },
+    {
+      "title": "Audit Partners’ Cultural Trust and Audit Outcomes",
+      "authors": "Inder K. Khurana, Bing Li, Kelvin Yeung, Elisha J. Yu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101872",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101872"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
