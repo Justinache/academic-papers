@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-11T04:31:58.361Z",
-  "count": 509,
+  "lastUpdated": "2026-02-12T04:27:12.750Z",
+  "count": 514,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -63,6 +63,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104249"
     },
     {
+      "title": "Duration-based stock valuation: Reassessing stock market performance and volatility",
+      "authors": "Jules H. van Binsbergen",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104248",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104248"
+    },
+    {
+      "title": "How do income-driven repayment plans benefit student debt borrowers?",
+      "authors": "Sylvain Catherine, Mehran Ebrahimian, Constantine Yannelis",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104253",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104253"
+    },
+    {
       "title": "Deep surrogates for finance: With an application to option pricing",
       "authors": "Hui Chen, Antoine Didisheim, Simon Scheidegger",
       "journal": "Journal of Financial Economics",
@@ -121,6 +141,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Disaggregated Economic Accounts",
+      "authors": "Asger Andersen, Kilian Huber, Niels Johannesen, Ludwig Straub, Emil Toft Vestergaard",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-02-11",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a system of disaggregated economic accounts. The system breaks down national accounting positions into bilateral flows between consistently defined groups of consumers (“consumer cells”), groups of producers (“producer cells”), the government, and the rest of the world. We disaggregate the full circular flow of money, including consumer spending, labor compensation, firm profits, trade in intermediates, foreign trade, and government transactions, while satisfying all national accounting identities. We implement the disaggregated system for small region-by-industry cells in Denmark and present stylized facts, including variation in domestic spending shares, local and urban bias in consumer spending, and a pattern of “triangular flows” across regions. Cell-level measures of “spending intensity” capture how much spending by a cell contributes to the income of cells experiencing unemployment after a shock. Using a general equilibrium model, we show that fiscal transfers are more effective in stimulating aggregate GDP when they target cells with high spending intensity on unemployed cells. Knowledge of the disaggregated economic accounts helps governments select more effective policies.</jats:p>",
+      "doi": "10.1093/qje/qjag010",
+      "url": "https://doi.org/10.1093/qje/qjag010"
+    },
+    {
+      "title": "Financial Climate‐Risk Measurement, Impact Funds, and Green Transitions",
+      "authors": "Volker Laux, Lucas Mahieux",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-02-11",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Regulators are contemplating or mandating precise measurement of financial climate‐risk exposure to promote sustainable investments. We show that such mandates can be counterproductive in the presence of social funds that catalyze change by subsidizing the adoption of cleaner production technologies. Firms can exploit a social fund's impact motive by measuring their climate‐risk exposure imprecisely. This strategic imprecision prevents the fund from distinguishing between firms that require subsidies and those that would switch to clean technologies for financial reasons alone, thereby increasing the ex ante subsidies firms can extract. A by‐product of this rent‐seeking behavior is that firms adopt clean technologies more frequently than would be jointly efficient under precise measurement. Our analysis suggests that the regulatory push for precise climate‐risk measurement can reduce social funds' impact and the frequency of green transitions.</jats:p>",
+      "doi": "10.1111/1475-679x.70042",
+      "url": "https://doi.org/10.1111/1475-679x.70042"
     },
     {
       "title": "Carbon Pricing versus Green Finance",
@@ -551,6 +591,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101872",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101872"
+    },
+    {
+      "title": "Information flows in trading networks",
+      "authors": "Stefan Huber, Edward M. Watts, Christina Zhu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101876",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101876"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
