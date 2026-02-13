@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-12T04:27:12.750Z",
-  "count": 514,
+  "lastUpdated": "2026-02-13T04:23:58.489Z",
+  "count": 513,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -141,6 +141,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Civil War–Induced Displacement and Human Capital",
+      "authors": "Giorgio Chiovelli, Stelios Michalopoulos, Elias Papaioannou, Sandra Sequeira",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-02-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the impact of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977 - 1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories within a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, employing a “movers design,” we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced report higher education than their siblings who stayed behind, but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.</jats:p>",
+      "doi": "10.1093/qje/qjag009",
+      "url": "https://doi.org/10.1093/qje/qjag009"
     },
     {
       "title": "Disaggregated Economic Accounts",
@@ -5121,26 +5131,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how foreign investors’ access to corporate information varies with pairwise geopolitical tensions between the investor's and investee's countries. Using a sample of 1,760 country‐pairs, we find that geopolitical tensions between a conference call host firm's country and a foreign country relate negatively with investor participation from that foreign country as well as the quality and tone of management responses in the call, suggesting reduced foreign investor information access with rising tensions. A single‐country analysis of Chinese AB‐share firms produces similar inferences. With higher China–foreign tensions, foreign attendance at private meetings with management declines, and English translations of local language disclosures become less frequent and shorter in length. Curtailment in English translations is more pronounced when local language disclosures contain politically sensitive words, suggesting lower information supply by firm choice. Reduced disclosures from geopolitical tensions are impounded in foreign investors’ asset pricing decisions, resulting in steeper foreign‐share price discounts.</jats:p>",
       "doi": "10.1111/1475-679x.70009",
       "url": "https://doi.org/10.1111/1475-679x.70009"
-    },
-    {
-      "title": "Household Portfolios and Retirement Saving over the Life Cycle",
-      "authors": "Jonathan A. Parker, Antoinette Schoar, Allison Cole, Duncan Simester",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-12",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Using account‐level data on millions of U.S. middle‐class investors over 2006 to 2018, we characterize the share of investable wealth that they hold in the stock market over their working lives. Relative to the 1990s, this share has both risen by 10% and become age‐dependent. The Pension Protection Act (PPA)—which allowed target date funds (TDFs) to be default options in retirement plans—played an important role: younger (older) workers starting at a firm after TDFs became the default option post‐PPA invested more (less) in stocks, in line with the TDF glidepath. In contrast, contribution rates changed little following the PPA.</jats:p>",
-      "doi": "10.1111/jofi.13473",
-      "url": "https://doi.org/10.1111/jofi.13473"
-    },
-    {
-      "title": "Do Shared Auditors Facilitate Follow‐on Innovation?",
-      "authors": "Xuan Tian, Jiawen Yan, Luo Zuo",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-12",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether shared auditors promote the dissemination of innovative knowledge among their clients, thereby fostering follow‐on innovation. We find that a company cites more patents from another company when they are audited by the same audit office. To address concerns about potential confounding factors stemming from commonalities in the fundamentals of the two companies, we leverage a quasi‐exogenous shock to auditor sharing: the demise of Arthur Andersen and the subsequent increase in auditor switching in 2002. Further analysis reveals that the effect of a shared auditor on cross‐client patent citations is stronger when both clients engage in intensive innovation activities. Additional evidence suggests that shared auditors exert more influence on the citations of recent patents and patents that are easier for outsiders to utilize. Overall, our findings suggest that auditors affect corporate innovation by facilitating the transfer of innovative knowledge among their clients.</jats:p>",
-      "doi": "10.1111/1475-679x.70010",
-      "url": "https://doi.org/10.1111/1475-679x.70010"
     }
   ]
 }
