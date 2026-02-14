@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-13T04:23:58.489Z",
-  "count": 513,
+  "lastUpdated": "2026-02-14T04:12:08.924Z",
+  "count": 509,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -611,6 +611,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101876",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101876"
+    },
+    {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101875",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101875"
+    },
+    {
+      "title": "Taxes and Competition: Evidence from the Airline Industry",
+      "authors": "Michelle Hanlon, Nemit Shroff, Rachel Yoon",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101873",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101873"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
@@ -5071,66 +5091,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Persuasive communication functions through not only content but also delivery—facial expression, tone of voice, and diction. This paper examines the persuasiveness of delivery in startup pitches. Using machine learning algorithms to process full pitch videos, we quantify persuasion in visual, vocal, and verbal dimensions. We find that positive (i.e., passionate, warm) pitches increase funding probability. However, conditional on funding, startups with higher levels of pitch positivity underperform. Women are more heavily judged on delivery when evaluated in single‐gender teams, but they are neglected when copitching in mixed‐gender teams. Using an experiment, we show that persuasion delivery works mainly through leading investors to form inaccurate beliefs.</jats:p>",
       "doi": "10.1111/jofi.13471",
       "url": "https://doi.org/10.1111/jofi.13471"
-    },
-    {
-      "title": "Aggregation and the Estimation of Quality Change: Application to U.S. Import Prices",
-      "authors": "Marco Errico, Danial Lashkari",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We characterize the contribution of changes in quality, price, and variety entry/exit to the aggregate price index for smooth, invertible demand systems, generalizing the standard results derived in the CES case. The results require the knowledge of heterogeneous cross-product elasticities of substitution. To apply them in practice, we also show how to identify rich demand systems using data only on prices and market shares, without the need for external cost-shock instruments or strong assumptions on the covariance between supply and demand shocks. Using this approach, we compute the U.S. import price index based on the Kimball demand system. We find that quality change on average lowered the inflation in import prices by around 0.007 log points annually (1989–2016). To further validate our approach, we show that it estimates price elasticities and quality changes similar to those found by the standard mixed logit (BLP) demand in data on the U.S. auto market.</jats:p>",
-      "doi": "10.1093/qje/qjaf032",
-      "url": "https://doi.org/10.1093/qje/qjaf032"
-    },
-    {
-      "title": "Traditional Institutions in Modern Times: Dowries as Pensions When Sons Migrate",
-      "authors": "Natalie Bau, Gaurav Khanna, Corinne Low, Alessandra Voena",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper uses newly collected data on the allocation of dowry to examine its role in resolving intergenerational frictions around migration in India. Migration disrupts traditional elderly support structures, in which sons live near their parents and care for them in old age. We develop a model in which dowry can promote migration by allowing sons to make upfront transfers to their parents and ease constraints on income sharing. To test this hypothesis, we collect two new data sets that measure the distribution of dowry between family members. We document for the first time that net transfers of dowry to a man’s parents are common but far from universal. Consistent with using dowry for income sharing, such transfers occur more often when sons migrate, especially when they work in higher-earning occupations. In nationally representative data, migration rates are higher in areas with stronger historical dowry traditions. Finally, exploiting a large-scale highway construction program, we show that men from areas with stronger historical dowry traditions migrate more when migration costs fall. Our findings provide some clues as to why dowry persists despite its well-documented adverse consequences.</jats:p>",
-      "doi": "10.1093/qje/qjaf041",
-      "url": "https://doi.org/10.1093/qje/qjaf041"
-    },
-    {
-      "title": "When Financial Advice Leads to Positive Performance: Evidence from Repeated Client–Advisor Interactions",
-      "authors": "Charline Uhr",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-08-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Does the performance of advisors’ recommendations influence investors’ propensity to seek advice again? I investigate a sample of calls between 10,063 German brokerage clients and financial advisors from 2005–2015. If advisors’ recommendations in the initial meeting led to positive (vs. negative) performance, investors are 2.1 times more likely to arrange a second meeting. This effect is driven by the performance of the recommendations the investor decided to follow. Investors with positive performance follow recommendations to a greater degree. The findings show that experiences matter in the advisory context and shape the demand for advice.</jats:p>",
-      "doi": "10.1093/rfs/hhaf056",
-      "url": "https://doi.org/10.1093/rfs/hhaf056"
-    },
-    {
-      "title": "Freedom of Expression Protection and Corporate Concealment of Bad News: Evidence from State Anti‐SLAPP Laws",
-      "authors": "Jimmy Lee, Shaphan Ng, Il Sun Yoo, Liandong Zhang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-13",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The protection of free speech enhances the ability of various public stakeholders to disseminate privately observed adverse information about public firms, making it difficult for corporate managers to conceal negative information about their companies. Using the staggered enactment of anti‐strategic lawsuit against public participation (anti‐SLAPP) laws across U.S. states as a shock that strengthens free speech protection, we show that stronger protection is associated with less concealment of bad news. This is evidenced by a lower likelihood of stock price crashes, a decreased probability of accounting fraud, and an increased frequency of firm‐initiated negative press releases. These results are more pronounced for states with stronger anti‐SLAPP laws and where such laws are likely to be more influential. Moreover, the impact of free speech protection on bad news concealment is more significant for firms with greater ex ante incentives to conceal negative information. Further analyses suggest that free speech protection likely enhances the ability of short sellers, employees, and the media, among others, to reveal bad news about public firms. Finally, we find evidence that strengthened free speech protection also improves financial reporting quality. Our study highlights the importance of free speech protection in enhancing corporate transparency.</jats:p>",
-      "doi": "10.1111/1475-679x.70012",
-      "url": "https://doi.org/10.1111/1475-679x.70012"
-    },
-    {
-      "title": "Amendment Thresholds and Voting Rules in Debt Contracts",
-      "authors": "Judson Caskey, Kanyuan Huang, Daniel Saavedra",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-13",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Most loan contracts in the United States contain a provision for lender voting rules. We study the optimal voting rule that allows lenders to waive a covenant violation. When lenders have heterogeneous preferences, lenient voting rules increase the probability of waivers that allow inefficient investments. Stringent voting rules tend to allocate the marginal vote to lenders who deny waivers after false alarms so that they can renegotiate the loan to extract value from the firm, which incurs deadweight costs. In equilibrium, the optimal voting rule balances these two forces to improve contracting efficiency. We derive and empirically test comparative statics on how the optimal voting rule varies with lenders’ preferences and the borrower's accounting properties. Our model offers a rationale for the prevalent use of voting rule clauses in syndicated loan contracts.</jats:p>",
-      "doi": "10.1111/1475-679x.70011",
-      "url": "https://doi.org/10.1111/1475-679x.70011"
-    },
-    {
-      "title": "Does Foreign Investors’ Information Access Vary with Geopolitical Tensions? Evidence from Corporate Conference Calls",
-      "authors": "Yifei Lu, Joanna Shuang Wu, Yucheng (john) Yang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-13",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how foreign investors’ access to corporate information varies with pairwise geopolitical tensions between the investor's and investee's countries. Using a sample of 1,760 country‐pairs, we find that geopolitical tensions between a conference call host firm's country and a foreign country relate negatively with investor participation from that foreign country as well as the quality and tone of management responses in the call, suggesting reduced foreign investor information access with rising tensions. A single‐country analysis of Chinese AB‐share firms produces similar inferences. With higher China–foreign tensions, foreign attendance at private meetings with management declines, and English translations of local language disclosures become less frequent and shorter in length. Curtailment in English translations is more pronounced when local language disclosures contain politically sensitive words, suggesting lower information supply by firm choice. Reduced disclosures from geopolitical tensions are impounded in foreign investors’ asset pricing decisions, resulting in steeper foreign‐share price discounts.</jats:p>",
-      "doi": "10.1111/1475-679x.70009",
-      "url": "https://doi.org/10.1111/1475-679x.70009"
     }
   ]
 }
