@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-14T04:12:08.924Z",
-  "count": 509,
+  "lastUpdated": "2026-02-15T04:24:26.065Z",
+  "count": 507,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -593,7 +593,7 @@
       "url": "https://doi.org/10.2308/tar-2023-0545"
     },
     {
-      "title": "Audit Partners’ Cultural Trust and Audit Outcomes",
+      "title": "Audit partners’ cultural trust and audit outcomes",
       "authors": "Inder K. Khurana, Bing Li, Kelvin Yeung, Elisha J. Yu",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -5071,26 +5071,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We study the impact of an MBA‐style executive education course in finance on corporate policies and firm performance targeting top managers of medium and large Mozambican enterprises. Using a randomized controlled trial, we find that the educational treatment induces changes in financial policies that improve firm performance. Specifically, a reduction in working capital (0.4 to 0.5 standard deviations) increases cash flow, and in turn long‐term investments. This effect operates primarily through a reduction in accounts receivable (0.4 to 1 standard deviations). Our findings show that targeted educational interventions can build managerial capital and enhance corporate performance by improving financial decision making among executives.</jats:p>",
       "doi": "10.1111/jofi.13476",
       "url": "https://doi.org/10.1111/jofi.13476"
-    },
-    {
-      "title": "Baby Booms and Asset Booms: Demographic Change and the Housing Market",
-      "authors": "Marc Francke, Matthijs Korevaar",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-14",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Based on centuries of data, we demonstrate that demographics have been a major, predictable driver of house prices. High birth rates 25 to 29 (60 to 64) years ago predict declining (rising) rent‐price ratios today. This pattern arises from age‐concentrated entry into and exit from homeownership affecting house prices, rather than changes in housing consumption that could also impact rents. We provide evidence for possible mechanisms: slow responses of other market participants to shifts in homeownership demand, and geographic segmentation between rental and owner‐occupied markets. Evidence for age‐dependent demand effects on yields of bonds and stocks is significantly weaker.</jats:p>",
-      "doi": "10.1111/jofi.13480",
-      "url": "https://doi.org/10.1111/jofi.13480"
-    },
-    {
-      "title": "Persuading Investors: A Video‐Based Study",
-      "authors": "Allen Hu, Song Ma",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-14",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Persuasive communication functions through not only content but also delivery—facial expression, tone of voice, and diction. This paper examines the persuasiveness of delivery in startup pitches. Using machine learning algorithms to process full pitch videos, we quantify persuasion in visual, vocal, and verbal dimensions. We find that positive (i.e., passionate, warm) pitches increase funding probability. However, conditional on funding, startups with higher levels of pitch positivity underperform. Women are more heavily judged on delivery when evaluated in single‐gender teams, but they are neglected when copitching in mixed‐gender teams. Using an experiment, we show that persuasion delivery works mainly through leading investors to form inaccurate beliefs.</jats:p>",
-      "doi": "10.1111/jofi.13471",
-      "url": "https://doi.org/10.1111/jofi.13471"
     }
   ]
 }
