@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-16T04:27:35.086Z",
-  "count": 507,
+  "lastUpdated": "2026-02-17T04:22:20.066Z",
+  "count": 512,
   "papers": [
     {
       "title": "Learning by lending securities",
@@ -141,6 +141,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "The Present Value of Future Market Power",
+      "authors": "Thummim Cho, Marco Grotteria, Lukas Kremens, Howard Kung",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-16",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a present-value identity relating a firm’s market value to expected future markups, output growth, discount rates, and investments. Distinguishing current from expected markups reveals five empirical facts: (1) Expected markups account for half the rise in U.S. firm values since 1980. (2) The rise in aggregate expected markups reflects market-share reallocation toward high-expected-markup firms and within-firm increases. (3) Expected markups are linked to intangible investments. (4) They relate negatively to discount rates over time but (5) positively to abnormal returns across firms. Finally, variation in long-term expected markups is primarily associated with asset prices rather than current markups.</jats:p>",
+      "doi": "10.1093/rfs/hhaf112",
+      "url": "https://doi.org/10.1093/rfs/hhaf112"
     },
     {
       "title": "Civil War–Induced Displacement and Human Capital",
@@ -604,7 +614,7 @@
     },
     {
       "title": "Information flows in trading networks",
-      "authors": "Stefan Huber, Edward M. Watts, Christina Zhu",
+      "authors": "Stefan J. Huber, Edward M. Watts, Christina Zhu",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
       "date": "2026-02-01",
@@ -631,6 +641,46 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101873",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101873"
+    },
+    {
+      "title": "Political Corruption and CEO Compensation Design",
+      "authors": "Jingyu Yang, Yangxin Yu, Liu Zheng",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the impact of political corruption on the provision of CEO risk-taking incentives. We hypothesize that firms adjust their CEO’s risk-taking incentives to reflect the influence of local political corruption on the firms’ desired level of risk-taking. Using U.S. Department of Justice data on local political corruption, we find that the sensitivity of CEO wealth to stock volatility (vega) is lower in firms located in high-corruption districts. The negative impact of corruption on vega is more pronounced among (1) firms operating in industries that are more dependent on government procurement, (2) firms operating in more innovative industries, and (3) firms without political connections. Our study offers new insights into how the institutional environment shapes executive compensation design.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G32; G38; J33; J41; M52.</jats:p>",
+      "doi": "10.2308/tar-2023-0359",
+      "url": "https://doi.org/10.2308/tar-2023-0359"
+    },
+    {
+      "title": "Conflicted Regulators: Indirect Revolving-Door Connections in SEC Filing Reviews",
+      "authors": "Matthew Kubic, Rui Silva, Sara Toynbee",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether prior employment connections influence the strictness of the Securities and Exchange Commission (SEC) filing review process. Using novel data on over 250 accountants at the SEC, we define connected examiners as accountants reviewing financial statements audited by their former employer. We find that SEC review teams with a higher percentage of connected examiners are less likely to detect financial statement errors, raise fewer substantive issues, and are less likely to push back on registrants’ responses to comment letters. Our estimates also indicate that the effect of examiners’ prior employment connections is strongest earlier in their SEC tenure and attenuates with time. Our findings provide important practical insights on the boundaries of the revolving door between regulators and the regulated, suggesting that even indirect connections can impact oversight.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0242",
+      "url": "https://doi.org/10.2308/tar-2023-0242"
+    },
+    {
+      "title": "Analyst Rational Inattention: Evidence from CEO Turnover Events",
+      "authors": "R. Thomas Godwin, Theodore H. Goodman, R. Christopher Small",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We consider the dynamics of analyst inattention by investigating how analysts allocate their attention when a firm in their portfolio experiences CEO turnover. Our analysis shows that analysts tend to divert their attention toward firms that experience such events, resulting in less attention and a corresponding reduction in forecasting accuracy for nonevent firms. Furthermore, this reduction in accuracy varies with factors related to the costs and benefits of rationally allocating attention to firms that have experienced CEO turnover. Collectively, our analysis responds to the call for research on rational inattention among analysts and illustrates the specific intraportfolio events that alter attention allocation and information.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G17; G14; M12; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2022-0684",
+      "url": "https://doi.org/10.2308/tar-2022-0684"
+    },
+    {
+      "title": "Principal-versus-Agent Considerations in Revenue Recognition Under ASC 606 and Compliance Risk",
+      "authors": "Kai Du, Henock Louis, Brent A. Schmidt, Shuyang Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a dataset constructed through textual analysis and manual data collection, we show that, prior to ASC 606, firms with principal-versus-agent (PA) exposure face heightened GAAP compliance risk, reflected in a greater likelihood of receiving revenue-related SEC comment letters and higher audit fees. Following the adoption of ASC 606, these differences decline, consistent with the standard’s stated goal of simplifying PA assessments and reducing implementation challenges. Overall, our findings provide the first large-sample evidence on PA considerations and show that ASC 606 mitigates compliance risk, although further analyses suggest additional disclosure may be needed to mitigate information challenges associated with PA assessments.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L86; M41; M42; M48.</jats:p>",
+      "doi": "10.2308/tar-2022-0298",
+      "url": "https://doi.org/10.2308/tar-2022-0298"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
