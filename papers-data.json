@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-02-17T04:22:20.066Z",
-  "count": 512,
+  "lastUpdated": "2026-02-18T04:24:27.096Z",
+  "count": 515,
   "papers": [
+    {
+      "title": "Which investors drive anomaly returns and how?",
+      "authors": "Yizhang Li, Stanislav Sokolinski, Andrea Tamoni",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104257",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104257"
+    },
     {
       "title": "Learning by lending securities",
       "authors": "George C. Nurisso",
@@ -141,6 +151,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Cooling Auction Fever: Evidence from the Housing Market",
+      "authors": "Antonio Gargano, Marco Giacoletti",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-17",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effects of underquoting, the practice of setting listing prices below sellers’ reservation values, on housing auctions. Laws introduced in Australia to deter underquoting lead to higher listing prices, but also to declines in sales prices and sales probabilities. We develop a quantitative model to formalize predictions under different assumptions about bidders’ information and rationality. The effects of the laws are matched by a version of the model in which participating bidders overbid. While both behavioral biases arising during the auction and switching costs can explain overbidding, empirical and survey evidence points to behavioral biases as the main mechanism. (JEL D10, D80, G40, R30)</jats:p>",
+      "doi": "10.1093/rfs/hhaf101",
+      "url": "https://doi.org/10.1093/rfs/hhaf101"
+    },
+    {
+      "title": "Algorithmic Pricing and Liquidity in Securities Markets",
+      "authors": "Jean-Edouard Colliard, Thierry Foucault, Stefano Lovo",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-17",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study “Algorithmic Market Makers” (AMs) that use Q-learning algorithms to set prices for a risky asset. We find that while AMs successfully adapt to adverse selection, they struggle to learn competitive pricing strategies. This failure is driven by limited experimentation and noisy feedback regarding the profitability of undercutting a competitor. Consequently, an increase in AMs’ profit volatility tends to result in less competitive market outcomes. These features leave identifiable patterns: for example, AMs earn higher rents in the absence of adverse selection, and their bid-ask spreads respond asymmetrically to symmetric shocks to their costs. (JEL D43, G10, G14)</jats:p>",
+      "doi": "10.1093/rfs/hhag010",
+      "url": "https://doi.org/10.1093/rfs/hhag010"
     },
     {
       "title": "The Present Value of Future Market Power",
