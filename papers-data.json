@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T04:24:27.096Z",
+  "lastUpdated": "2026-02-19T04:22:52.683Z",
   "count": 515,
   "papers": [
     {
@@ -171,6 +171,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study “Algorithmic Market Makers” (AMs) that use Q-learning algorithms to set prices for a risky asset. We find that while AMs successfully adapt to adverse selection, they struggle to learn competitive pricing strategies. This failure is driven by limited experimentation and noisy feedback regarding the profitability of undercutting a competitor. Consequently, an increase in AMs’ profit volatility tends to result in less competitive market outcomes. These features leave identifiable patterns: for example, AMs earn higher rents in the absence of adverse selection, and their bid-ask spreads respond asymmetrically to symmetric shocks to their costs. (JEL D43, G10, G14)</jats:p>",
       "doi": "10.1093/rfs/hhag010",
       "url": "https://doi.org/10.1093/rfs/hhag010"
+    },
+    {
+      "title": "Financial Intermediaries and the Yield Curve",
+      "authors": "Andres Schneider",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-17",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I study the yield curve dynamics in a general equilibrium model with financial intermediaries facing financing constraints. When constraints bind, intermediaries reallocate their portfolios, causing deadweight losses in aggregate consumption, thus affecting savers’ marginal utility. Because the yield curve is a forecast of marginal utility, intermediaries’ constraints show up, via general equilibrium forces, in long-term yields. I show that the mechanism connecting intermediaries’ constraints and long-term yields produces highly nonlinear interest rate dynamics and a positive real term premium in equilibrium. I extend the analysis to the nominal yield curve using a simple Taylor rule.</jats:p>",
+      "doi": "10.1093/rfs/hhaf102",
+      "url": "https://doi.org/10.1093/rfs/hhaf102"
+    },
+    {
+      "title": "Accounting Rules and the Labor Market for Accountants",
+      "authors": "Anthony Le",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-02-17",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In this study, I explore how accounting rules—in particular the restrictiveness of GAAP—have impacted the labor market for accountants. I find that when the rules become more restrictive, there are fewer students majoring in accounting and fewer accountants and auditors overall. The overall number of accounting positions that firms recruit for does not decrease when the rules become more restrictive; however, the nature of accountants' work changes. There is less focus on tasks such as applying judgment, thinking creatively, and thinking critically and more focus on determining compliance. Despite the decrease in accountants, earnings for accountants do not increase, and the wage distribution becomes more compressed. I supplement these analyses with a survey‐based field experiment and find that the salience of restrictiveness heightens students' views of accounting as a profession where they are unable to use creative and critical thinking. Overall, the findings suggest that restrictive regulation can shift the task content of occupations and reduce the pool of individuals interested in the profession.</jats:p>",
+      "doi": "10.1111/1475-679x.70043",
+      "url": "https://doi.org/10.1111/1475-679x.70043"
     },
     {
       "title": "The Present Value of Future Market Power",
@@ -663,7 +683,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101875"
     },
     {
-      "title": "Taxes and Competition: Evidence from the Airline Industry",
+      "title": "Taxes and competition: Evidence from the airline industry",
       "authors": "Michelle Hanlon, Nemit Shroff, Rachel Yoon",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -918,7 +938,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7 percent. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7%. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.</jats:p>",
       "doi": "10.1093/qje/qjag003",
       "url": "https://doi.org/10.1093/qje/qjag003"
     },
@@ -5131,26 +5151,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This paper makes the first comprehensive attempt to study within‐country heterogeneity of housing returns. We introduce a new city‐level data set covering 15 OECD countries over 150 years and show that national housing markets are characterized by systematic spatial variation in housing returns. Total returns in large agglomerations are close to 100 basis points lower per year than in other parts of the same country. Excess returns outside the large cities can be rationalized as compensation for higher risk, especially higher covariance with income growth and lower liquidity. Real estate in diversified large agglomerations is comparatively safe.</jats:p>",
       "doi": "10.1111/jofi.13479",
       "url": "https://doi.org/10.1111/jofi.13479"
-    },
-    {
-      "title": "Arbitrage Capital of Global Banks",
-      "authors": "Alyssa Anderson, Wenxin Du, Bernd Schlusche",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-18",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We study the impact of the U.S. money market fund reform implemented in October 2016 on global banks' funding supply and business activities. We show that the reform induced a large negative wholesale funding shock for global banks. In contrast to the conventional bank lending channel, the primary response of global banks to the reform was a cutback in arbitrage positions that relied on unsecured funding, rather than a reduction in loan provision. We discuss the role of postcrisis liquidity regulations and unconventional monetary policy in explaining our findings, and implications for banks' business models and deposit competition.</jats:p>",
-      "doi": "10.1111/jofi.13478",
-      "url": "https://doi.org/10.1111/jofi.13478"
-    },
-    {
-      "title": "The Impact of the Financial Education of Executives on the Financial Practices of Medium and Large Enterprises",
-      "authors": "Cláudia Custódio, Diogo Mendes, Daniel Metzger",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-18",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We study the impact of an MBA‐style executive education course in finance on corporate policies and firm performance targeting top managers of medium and large Mozambican enterprises. Using a randomized controlled trial, we find that the educational treatment induces changes in financial policies that improve firm performance. Specifically, a reduction in working capital (0.4 to 0.5 standard deviations) increases cash flow, and in turn long‐term investments. This effect operates primarily through a reduction in accounts receivable (0.4 to 1 standard deviations). Our findings show that targeted educational interventions can build managerial capital and enhance corporate performance by improving financial decision making among executives.</jats:p>",
-      "doi": "10.1111/jofi.13476",
-      "url": "https://doi.org/10.1111/jofi.13476"
     }
   ]
 }
