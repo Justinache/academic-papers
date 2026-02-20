@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-19T04:22:52.683Z",
-  "count": 515,
+  "lastUpdated": "2026-02-20T04:16:48.532Z",
+  "count": 516,
   "papers": [
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -151,6 +151,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "The Macroeconomic Impact of Climate Change: Global Versus Local Temperature",
+      "authors": "Adrien Bilal, Diego R Känzig",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-02-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper estimates that the macroeconomic damages from climate change are an order of magnitude larger than previously thought. Exploiting natural global temperature variability, we find that 1○C warming reduces world GDP by over 20% in the long run. Global temperature correlates strongly with extreme climatic events, unlike country-level temperature used in previous work, explaining our larger estimate. We use this evidence to estimate damage functions in a neoclassical growth model. Business-as-usual warming implies a present welfare loss of more than 30%, and a Social Cost of Carbon in excess of $1,200 per ton. These impacts suggest that unilateral decarbonization policy is cost-effective for large countries such as the United States.</jats:p>",
+      "doi": "10.1093/qje/qjag011",
+      "url": "https://doi.org/10.1093/qje/qjag011"
     },
     {
       "title": "Cooling Auction Fever: Evidence from the Housing Market",
@@ -731,6 +741,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a dataset constructed through textual analysis and manual data collection, we show that, prior to ASC 606, firms with principal-versus-agent (PA) exposure face heightened GAAP compliance risk, reflected in a greater likelihood of receiving revenue-related SEC comment letters and higher audit fees. Following the adoption of ASC 606, these differences decline, consistent with the standard’s stated goal of simplifying PA assessments and reducing implementation challenges. Overall, our findings provide the first large-sample evidence on PA considerations and show that ASC 606 mitigates compliance risk, although further analyses suggest additional disclosure may be needed to mitigate information challenges associated with PA assessments.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L86; M41; M42; M48.</jats:p>",
       "doi": "10.2308/tar-2022-0298",
       "url": "https://doi.org/10.2308/tar-2022-0298"
+    },
+    {
+      "title": "Dynamic Trading with Realization Utility",
+      "authors": "Min Dai, Cong Qin, Neng Wang",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-02-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>An investor receives utility bursts from realizing gains and losses at the individual stock level and dynamically allocates his mental budget between risky and risk‐free assets at the trading account level. Using savings, he reduces his stockholdings and is more willing to realize losses. Using leverage, he increases his stockholdings beyond his mental budget and is more reluctant to realize losses. While leverage strengthens the disposition effect, introducing leverage constraints mitigates it. Our model predicts that investors with stocks in deep losses sell them either immediately or after stocks rebound a little.</jats:p>",
+      "doi": "10.1111/jofi.13472",
+      "url": "https://doi.org/10.1111/jofi.13472"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
@@ -1647,8 +1667,8 @@
       "authors": "Lukas Diebold, Björn Richter",
       "journal": "Review of Financial Studies",
       "field": "Finance",
-      "date": "2025-12-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Rapid credit expansions predict lower output growth and banking crises, but does it matter who finances them? We identify the ultimate counterparties financing credit expansions in a panel of 33 advanced economies and find that foreign-financed household credit expansions predict lower GDP growth and higher crisis risk, but domestically financed credit expansions do not. Studying the mechanisms, we find that foreign-financed household credit expansions are accompanied by higher supply of foreign capital (reflected in low credit spreads), are followed by elevated credit cycle reversal risk, and lead to higher debt service payments to foreigners which depress aggregate demand. (JEL: E32, E44, F34, G01, G15, G51)</jats:p>",
+      "date": "2025-12-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Rapid credit expansions predict lower output growth and banking crises, but does it matter who finances them? We identify the ultimate counterparties financing credit expansions in a panel of 33 advanced economies and find that foreign-financed household credit expansions predict lower GDP growth and higher crisis risk, but domestically financed credit expansions do not. Studying the mechanisms, we find that foreign-financed household credit expansions are accompanied by higher supply of foreign capital (reflected in low credit spreads), are followed by elevated credit cycle reversal risk, and lead to higher debt service payments to foreigners which depress aggregate demand.</jats:p>",
       "doi": "10.1093/rfs/hhaf114",
       "url": "https://doi.org/10.1093/rfs/hhaf114"
     },
@@ -3808,7 +3828,7 @@
       "journal": "Journal of Finance",
       "field": "Finance",
       "date": "2025-10-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We introduce the concept of <jats:italic>subtle discrimination</jats:italic>—biased acts that cannot be objectively ascertained as discriminatory. When candidates compete for promotions by investing in skills, firms' subtle biases induce discriminated candidates to overinvest when promotions are low‐stakes (to distinguish themselves from favored candidates) but underinvest in high‐stakes settings (anticipating low promotion probabilities). This asymmetry implies that subtle discrimination raises profits in low‐productivity firms but lowers them in high‐productivity firms. Although subtle biases are small, they generate large gaps in skills and promotion outcomes. We derive further predictions in contexts such as equity analysis, lending, fund flows, banking careers, and entrepreneurial finance.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We introduce the concept of\n                    <jats:italic>subtle discrimination</jats:italic>\n                    —biased acts that cannot be objectively ascertained as discriminatory. When candidates compete for promotions by investing in skills, firms' subtle biases induce discriminated candidates to overinvest when promotions are low‐stakes (to distinguish themselves from favored candidates) but underinvest in high‐stakes settings (anticipating low promotion probabilities). This asymmetry implies that subtle discrimination raises profits in low‐productivity firms but lowers them in high‐productivity firms. Although subtle biases are small, they generate large gaps in skills and promotion outcomes. We derive further predictions in contexts such as equity analysis, lending, fund flows, banking careers, and entrepreneurial finance.\n                  </jats:p>",
       "doi": "10.1111/jofi.13506",
       "url": "https://doi.org/10.1111/jofi.13506"
     },
@@ -5141,16 +5161,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We use newly assembled data overall encompassing up to 75 countries and starting circa 1910, to study impediments to the Schumpeterian process of creative destruction as it “proceeds by competitively destroying old businesses.” Political connections appear to represent an obstacle to the destructive part of the Schumpeterian process in the replacement of large firms. When accompanied by regulations that restrict entry, political connections can play a role in allowing large firms to remain large. When connected to Fogel, Morck, and Yeung (2008,\n                    <jats:italic>Journal of Financial Economics</jats:italic>\n                    89, 83–108), the results imply that political connections, combined with barriers to entry, can retard economic development.\n                  </jats:p>",
       "doi": "10.1111/jofi.13481",
       "url": "https://doi.org/10.1111/jofi.13481"
-    },
-    {
-      "title": "Superstar Returns? Spatial Heterogeneity in Returns to Housing",
-      "authors": "Francisco Amaral, Martin Dohmen, Sebastian Kohl, Moritz Schularick",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-19",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This paper makes the first comprehensive attempt to study within‐country heterogeneity of housing returns. We introduce a new city‐level data set covering 15 OECD countries over 150 years and show that national housing markets are characterized by systematic spatial variation in housing returns. Total returns in large agglomerations are close to 100 basis points lower per year than in other parts of the same country. Excess returns outside the large cities can be rationalized as compensation for higher risk, especially higher covariance with income growth and lower liquidity. Real estate in diversified large agglomerations is comparatively safe.</jats:p>",
-      "doi": "10.1111/jofi.13479",
-      "url": "https://doi.org/10.1111/jofi.13479"
     }
   ]
 }
