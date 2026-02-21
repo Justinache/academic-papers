@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-20T04:16:48.532Z",
-  "count": 516,
+  "lastUpdated": "2026-02-21T04:08:37.982Z",
+  "count": 518,
   "papers": [
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104257",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104257"
+    },
+    {
+      "title": "Partial homeownership: A quantitative analysis",
+      "authors": "Eirik Eylands Brandsaas, Jens Soerlie Kvaerner",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104256",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104256"
     },
     {
       "title": "Learning by lending securities",
@@ -93,6 +103,106 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104253"
     },
     {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101875",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101875"
+    },
+    {
+      "title": "On the economics of accounting and contracting in firms",
+      "authors": "Ray Ball",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101858",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101858"
+    },
+    {
+      "title": "Carbon accounting quality: Measurement and the role of assurance",
+      "authors": "Brandon Gipper, Fiona Sequeira, Shawn X. Shi",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101849",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101849"
+    },
+    {
+      "title": "Paying your fair share: Perceived fairness and tax compliance",
+      "authors": "Brad Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101838",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101838"
+    },
+    {
+      "title": "Does taxpayer assistance encourage entrepreneurship?",
+      "authors": "Daphne M. Armstrong, Stephen Glaeser",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101839",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101839"
+    },
+    {
+      "title": "News management, moral hazard, and the properties of earnings, prices, and compensation",
+      "authors": "Jonathan Bonham",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101835",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101835"
+    },
+    {
+      "title": "Supply chain shocks and firm productivity: The role of reporting quality",
+      "authors": "Philip G. Berger, Rimmy E. Tomy",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101833",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101833"
+    },
+    {
+      "title": "Critical audit matters and internal control quality: The disciplining role of CAM reporting",
+      "authors": "Carol Callaway Dee, Bing Luo, Elaine Wang, Jing Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101834",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101834"
+    },
+    {
+      "title": "Do auditors understand the implications of ESG issues for their audits? Evidence from financially material negative ESG incidents",
+      "authors": "Daniel Aobdia, Aaron Yoon",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101831",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101831"
+    },
+    {
+      "title": "Tax administration quality and foreign investment in developing countries: Evidence from participation in tax inspectors without borders",
+      "authors": "Duke Ferguson, Trent J. Krupa, Rick C. Laux",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101832",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
       "title": "Deep surrogates for finance: With an application to option pricing",
       "authors": "Hui Chen, Antoine Didisheim, Simon Scheidegger",
       "journal": "Journal of Financial Economics",
@@ -151,6 +261,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Payment for Order Flow and Option Internalization",
+      "authors": "Thomas Ernst, Chester Spatt",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-20",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Option wholesalers specialize in purchasing and executing against retail option order flow. Orders are internalized via auctions (which provide price improvement) and the limit order book. Designated market makers (DMMs) have a key advantage in internalizing limit order book trades: they obtain the first five contracts of any order they bring to an exchange where they are a DMM. We exploit variation in DMM assignments and allocation rules to highlight how these rules create a barrier to entry in option wholesaling that does not exist for equity wholesaling, protecting wholesaler profits and high option PFOF.</jats:p>",
+      "doi": "10.1093/rfs/hhaf108",
+      "url": "https://doi.org/10.1093/rfs/hhaf108"
     },
     {
       "title": "The Macroeconomic Impact of Climate Change: Global Versus Local Temperature",
@@ -683,16 +803,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101876"
     },
     {
-      "title": "Editorial data",
-      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101875",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101875"
-    },
-    {
       "title": "Taxes and competition: Evidence from the airline industry",
       "authors": "Michelle Hanlon, Nemit Shroff, Rachel Yoon",
       "journal": "Journal of Accounting and Economics",
@@ -753,6 +863,76 @@
       "url": "https://doi.org/10.1111/jofi.13472"
     },
     {
+      "title": "Gender, Confidence, and the Mismeasure of Intelligence, Competitiveness, and Literacy",
+      "authors": "Glenn W. Harrison, Don Ross, J. Todd Swarthout",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738345",
+      "url": "https://doi.org/10.1086/738345"
+    },
+    {
+      "title": "A Case for Pay-as-Bid Auctions",
+      "authors": "Marek Pycia, Kyle Woodward",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738341",
+      "url": "https://doi.org/10.1086/738341"
+    },
+    {
+      "title": "The Short-Run Policy Constraints of Long-Run Expectations",
+      "authors": "Stefano Eusepi, Marc Giannoni, Bruce Preston",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738335",
+      "url": "https://doi.org/10.1086/738335"
+    },
+    {
+      "title": "Laws and Norms",
+      "authors": "Roland Bénabou, Jean Tirole",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738343",
+      "url": "https://doi.org/10.1086/738343"
+    },
+    {
+      "title": "Screening with Persuasion",
+      "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738342",
+      "url": "https://doi.org/10.1086/738342"
+    },
+    {
+      "title": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors Appropriate?",
+      "authors": "Atsushi Inoue, Lutz Kilian",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738339",
+      "url": "https://doi.org/10.1086/738339"
+    },
+    {
+      "title": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock",
+      "authors": "Andrés Rodríguez-Clare, Mauricio Ulate, José P. Vásquez",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1086/738344",
+      "url": "https://doi.org/10.1086/738344"
+    },
+    {
       "title": "A Theory of How Workers Keep up with Inflation",
       "authors": "Hassan Afrouzi, Andres Blanco, Andres Drenik, Erik Hurst",
       "journal": "Quarterly Journal of Economics",
@@ -761,16 +941,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021-2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policymakers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</jats:p>",
       "doi": "10.1093/qje/qjag007",
       "url": "https://doi.org/10.1093/qje/qjag007"
-    },
-    {
-      "title": "Gender, Confidence, and the Mismeasure of Intelligence, Competitiveness, and Literacy",
-      "authors": "Glenn W. Harrison, Don Ross, J. Todd Swarthout",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-30",
-      "abstract": "",
-      "doi": "10.1086/738345",
-      "url": "https://doi.org/10.1086/738345"
     },
     {
       "title": "Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity",
@@ -871,16 +1041,6 @@
       "abstract": "",
       "doi": "10.1086/739329",
       "url": "https://doi.org/10.1086/739329"
-    },
-    {
-      "title": "A Case for Pay-as-Bid Auctions",
-      "authors": "Marek Pycia, Kyle Woodward",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-23",
-      "abstract": "",
-      "doi": "10.1086/738341",
-      "url": "https://doi.org/10.1086/738341"
     },
     {
       "title": "The Impact of Bank Consolidation on Credit Supply and Performance",
@@ -1031,16 +1191,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central individuals, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central individuals were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony within multiethnic communities.</jats:p>",
       "doi": "10.1093/qje/qjag001",
       "url": "https://doi.org/10.1093/qje/qjag001"
-    },
-    {
-      "title": "The Short-Run Policy Constraints of Long-Run Expectations",
-      "authors": "Stefano Eusepi, Marc Giannoni, Bruce Preston",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-15",
-      "abstract": "",
-      "doi": "10.1086/738335",
-      "url": "https://doi.org/10.1086/738335"
     },
     {
       "title": "Growth Experiences and Trust in Government",
@@ -1413,16 +1563,6 @@
       "url": "https://doi.org/10.2308/tar-2024-0105"
     },
     {
-      "title": "On the economics of accounting and contracting in firms",
-      "authors": "Ray Ball",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101858",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101858"
-    },
-    {
       "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
       "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
       "journal": "Journal of Political Economy",
@@ -1783,16 +1923,6 @@
       "url": "https://doi.org/10.1111/jofi.70002"
     },
     {
-      "title": "Laws and Norms",
-      "authors": "Roland Bénabou, Jean Tirole",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-12",
-      "abstract": "",
-      "doi": "10.1086/738343",
-      "url": "https://doi.org/10.1086/738343"
-    },
-    {
       "title": "Do Nature‐Loving CEOs Make the World Greener?",
       "authors": "Weijia Zhi",
       "journal": "Journal of Accounting Research",
@@ -1801,16 +1931,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between CEOs’ preferences for environmental protection (“nature‐loving preferences”) and corporate environmental actions. Drawing on social ecology research, I develop a proxy for CEOs’ nature‐loving preferences based on their childhood exposure to greenspace and validate it using their positive discussions of nature during earnings conference calls. Findings show a significant positive association between CEOs’ nature‐loving preferences and their firms’ participation in Clean Development Mechanism projects. This effect remains robust after addressing firm–CEO matching and omitted variable concerns. Cross‐sectional tests reveal stronger effects when local environmental demands are high and when CEOs have greater decision‐making power. Further analyses suggest that these CEOs are associated with greater corporate carbon reduction, while market reactions to their appointments remain neutral. The study highlights the link between CEOs’ personal environmental preferences and firms’ environmental actions, offering new insights into individual‐level factors behind corporate social responsibility.</jats:p>",
       "doi": "10.1111/1475-679x.70033",
       "url": "https://doi.org/10.1111/1475-679x.70033"
-    },
-    {
-      "title": "Screening with Persuasion",
-      "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-11",
-      "abstract": "",
-      "doi": "10.1086/738342",
-      "url": "https://doi.org/10.1086/738342"
     },
     {
       "title": "Who’s Afraid of the Minimum Wage? Measuring the Impacts on Independent Businesses Using Matched U.S. Tax Returns",
@@ -1831,16 +1951,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the returns to enrolling in U.S. public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10% of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8% more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26% for the marginal students themselves, 16% for society (which must pay for the additional education), and 7% for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.</jats:p>",
       "doi": "10.1093/qje/qjaf055",
       "url": "https://doi.org/10.1093/qje/qjaf055"
-    },
-    {
-      "title": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors Appropriate?",
-      "authors": "Atsushi Inoue, Lutz Kilian",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-09",
-      "abstract": "",
-      "doi": "10.1086/738339",
-      "url": "https://doi.org/10.1086/738339"
     },
     {
       "title": "Going Public and the Internal Organization of the Firm",
@@ -2553,16 +2663,6 @@
       "url": "https://doi.org/10.1093/qje/qjaf054"
     },
     {
-      "title": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock",
-      "authors": "Andrés Rodríguez-Clare, Mauricio Ulate, José P. Vásquez",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-11-26",
-      "abstract": "",
-      "doi": "10.1086/738344",
-      "url": "https://doi.org/10.1086/738344"
-    },
-    {
       "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
       "authors": "Yiming Ma, Kairong Xiao, Yao Zeng",
       "journal": "Review of Financial Studies",
@@ -3083,16 +3183,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101836"
     },
     {
-      "title": "Carbon accounting quality: Measurement and the role of assurance",
-      "authors": "Brandon Gipper, Fiona Sequeira, Shawn X. Shi",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101849",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101849"
-    },
-    {
       "title": "Does generative AI facilitate investor Trading? Early evidence from ChatGPT outages",
       "authors": "Qiang Cheng, Pengkai Lin, Yue Zhao",
       "journal": "Journal of Accounting and Economics",
@@ -3131,16 +3221,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101804",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101804"
-    },
-    {
-      "title": "Paying your fair share: Perceived fairness and tax compliance",
-      "authors": "Brad Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101838",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101838"
     },
     {
       "title": "Discussion of “real effects of lagged guidance from prudential regulators on CECL”",
@@ -4378,29 +4458,9 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-10-01",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We conduct the first large-scale study of how different stakeholder groups assess corporate culture and quantify the economic implications of those differences. We employ generative AI to analyze analyst reports, call transcripts, and employee reviews, and organize the</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We conduct the first large-scale study of how different stakeholder groups assess corporate culture and quantify the economic implications of those differences. We employ generative AI to analyze analyst reports, call transcripts, and employee reviews, and organize the extracted information into a knowledge graph that links a culture type to its perceived causes and effects. We demonstrate that the divergence in different stakeholder groups' assessment of culture aligns with their distinct roles and economic incentives. Moreover, we show that analysts' culture analyses are incorporated into stock recommendations and target prices, and investors react to divergence in stakeholders' assessment of culture.</jats:p>",
       "doi": "10.1093/rfs/hhaf081",
       "url": "https://doi.org/10.1093/rfs/hhaf081"
-    },
-    {
-      "title": "Does taxpayer assistance encourage entrepreneurship?",
-      "authors": "Daphne M. Armstrong, Stephen Glaeser",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101839",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101839"
-    },
-    {
-      "title": "News management, moral hazard, and the properties of earnings, prices, and compensation",
-      "authors": "Jonathan Bonham",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-10-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101835",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101835"
     },
     {
       "title": "Diversity Tokenism",
@@ -4678,7 +4738,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-09-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose an equilibrium corporate bond pricing model that accommodates the heterogeneity in institutional investors’ preferences and mandates in an empirically tractable way. Our model, estimated on rich holdings data, quantifies investors’ preferences and demand elasticities, with inelastic insurers focusing on the investment-grade segment, and elastic mutual funds substituting across ratings groups. The model offers a novel quantitative perspective of the effect of recent trends in institutional ownership on equilibrium credit spreads and the funding costs of corporations. Overall, our model emphasizes the composition of institutional demand as an important state variable for corporate bond pricing.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose an equilibrium corporate bond pricing model that accommodates the heterogeneity in institutional investors’ preferences and mandates in an empirically tractable way. Our model, estimated on rich holdings data, quantifies investors’ preferences and demand elasticities, with inelastic insurers focusing on the investment-grade segment, and elastic mutual funds substituting across ratings groups. The model offers a novel quantitative perspective of the effect of recent trends in institutional ownership on equilibrium credit spreads and the funding costs of corporations. Overall, our model emphasizes the composition of institutional demand as an important state variable for corporate bond pricing.</jats:p>",
       "doi": "10.1093/rfs/hhaf067",
       "url": "https://doi.org/10.1093/rfs/hhaf067"
     },
@@ -5033,36 +5093,6 @@
       "url": "https://doi.org/10.1093/rfs/hhaf028"
     },
     {
-      "title": "Supply chain shocks and firm productivity: The role of reporting quality",
-      "authors": "Philip G. Berger, Rimmy E. Tomy",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101833",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101833"
-    },
-    {
-      "title": "Critical audit matters and internal control quality: The disciplining role of CAM reporting",
-      "authors": "Carol Callaway Dee, Bing Luo, Elaine Wang, Jing Zhang",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101834",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101834"
-    },
-    {
-      "title": "Do auditors understand the implications of ESG issues for their audits? Evidence from financially material negative ESG incidents",
-      "authors": "Daniel Aobdia, Aaron Yoon",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101831",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101831"
-    },
-    {
       "title": "The Credit Line Channel",
       "authors": "Daniel L. Greenwald, John Krainer, Pascal Paul",
       "journal": "Journal of Finance",
@@ -5138,7 +5168,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-08-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We introduce a pricing kernel with time-varying volatility risk aversion to explain the observed time variations in the shape of the pricing kernel. When combined with the Heston-Nandi GARCH model, this framework yields a tractable option pricing model in which the variance risk ratio (VRR) emerges as a key variable. We show that the VRR is closely linked to economic fundamentals, as well as sentiment and uncertainty measures. A novel approximation method provides analytical option pricing formulas, and we demonstrate substantial reductions in pricing errors through an empirical application to the S&amp;P 500 index, the CBOE VIX, and option prices.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a pricing kernel with time-varying volatility risk aversion to explain the observed time variations in the shape of the pricing kernel. When combined with the Heston-Nandi GARCH model, this framework yields a tractable option pricing model in which the variance risk ratio (VRR) emerges as a key variable. We show that the VRR is closely linked to economic fundamentals, as well as sentiment and uncertainty measures. A novel approximation method provides analytical option pricing formulas, and we demonstrate substantial reductions in pricing errors through an empirical application to the S&amp;P 500 index, the CBOE VIX, and option prices.</jats:p>",
       "doi": "10.1093/rfs/hhaf063",
       "url": "https://doi.org/10.1093/rfs/hhaf063"
     },
@@ -5151,16 +5181,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a new measure of firms' disclosure based on company websites, which are widely available and contain a wealth of information. For a sample of U.S. public firms, we construct our disclosure measure using historical website data, validate it by correlating it with extant measures of disclosure and information asymmetry, and explore its determinants. We then apply our measure to the study of U.S. private firms' disclosure and French firms' compliance with a nonfinancial disclosure mandate. Our applications illustrate that our website‐based measure provides a useful complement to extant measures of disclosure, which are more narrowly focused on investors in public capital markets.</jats:p>",
       "doi": "10.1111/1475-679x.70007",
       "url": "https://doi.org/10.1111/1475-679x.70007"
-    },
-    {
-      "title": "Impediments to the Schumpeterian Process in the Replacement of Large Firms",
-      "authors": "Mara Faccio, John J. Mcconnell",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-20",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We use newly assembled data overall encompassing up to 75 countries and starting circa 1910, to study impediments to the Schumpeterian process of creative destruction as it “proceeds by competitively destroying old businesses.” Political connections appear to represent an obstacle to the destructive part of the Schumpeterian process in the replacement of large firms. When accompanied by regulations that restrict entry, political connections can play a role in allowing large firms to remain large. When connected to Fogel, Morck, and Yeung (2008,\n                    <jats:italic>Journal of Financial Economics</jats:italic>\n                    89, 83–108), the results imply that political connections, combined with barriers to entry, can retard economic development.\n                  </jats:p>",
-      "doi": "10.1111/jofi.13481",
-      "url": "https://doi.org/10.1111/jofi.13481"
     }
   ]
 }
