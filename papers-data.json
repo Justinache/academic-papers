@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-22T04:18:45.534Z",
-  "count": 518,
+  "lastUpdated": "2026-02-23T04:26:47.174Z",
+  "count": 515,
   "papers": [
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -5151,36 +5151,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock returns exhibit reversals at short horizons but slowly transition to momentum over longer horizons. To help understand this pattern, we develop a multiperiod model with short- and long-horizon noise traders, and active investors who underreact to information they do not themselves produce. The model accords with the transition from reversals to momentum and yields the following novel predictions: (a) attenuated reversals after earnings announcements, (b) a negative relation between monthly reversal and longer-term momentum profits across economies and time, and (c) larger reversals when there is more noise trading. Empirical analysis using U.S. and international data supports these predictions.</jats:p>",
       "doi": "10.1093/rfs/hhaf057",
       "url": "https://doi.org/10.1093/rfs/hhaf057"
-    },
-    {
-      "title": "Thirty Years of Change: The Evolution of Classified Boards",
-      "authors": "Scott Guernsey, Feng Guo, Tingting Liu, Matthew Serfling",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Based on a comprehensive data set of classified (staggered) boards covering nearly all U.S. public firms from 1991 to 2020, we show that contrary to conventional wisdom, the use of classified boards remains widespread. Moreover, classified board usage over a firm's life cycle depends significantly on the decade the firm matured or year it went public. While classified boards were rarely removed in the 1990s, firms became more likely to declassify as they matured during the following decades. Decreased collective action costs and increased innovation‐related investments, institutional ownership, and scrutiny of governance contributed to this more dynamic adjustment.</jats:p>",
-      "doi": "10.1111/jofi.13485",
-      "url": "https://doi.org/10.1111/jofi.13485"
-    },
-    {
-      "title": "Option Pricing with Time-Varying Volatility Risk Aversion",
-      "authors": "Peter Reinhard Hansen, Chen Tong",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-08-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a pricing kernel with time-varying volatility risk aversion to explain the observed time variations in the shape of the pricing kernel. When combined with the Heston-Nandi GARCH model, this framework yields a tractable option pricing model in which the variance risk ratio (VRR) emerges as a key variable. We show that the VRR is closely linked to economic fundamentals, as well as sentiment and uncertainty measures. A novel approximation method provides analytical option pricing formulas, and we demonstrate substantial reductions in pricing errors through an empirical application to the S&amp;P 500 index, the CBOE VIX, and option prices.</jats:p>",
-      "doi": "10.1093/rfs/hhaf063",
-      "url": "https://doi.org/10.1093/rfs/hhaf063"
-    },
-    {
-      "title": "Company Websites: A New Measure of Disclosure",
-      "authors": "Romain Boulland, Thomas Bourveau, Matthias Breuer",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-08-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a new measure of firms' disclosure based on company websites, which are widely available and contain a wealth of information. For a sample of U.S. public firms, we construct our disclosure measure using historical website data, validate it by correlating it with extant measures of disclosure and information asymmetry, and explore its determinants. We then apply our measure to the study of U.S. private firms' disclosure and French firms' compliance with a nonfinancial disclosure mandate. Our applications illustrate that our website‐based measure provides a useful complement to extant measures of disclosure, which are more narrowly focused on investors in public capital markets.</jats:p>",
-      "doi": "10.1111/1475-679x.70007",
-      "url": "https://doi.org/10.1111/1475-679x.70007"
     }
   ]
 }
