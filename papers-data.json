@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-24T04:20:48.950Z",
-  "count": 519,
+  "lastUpdated": "2026-02-25T04:23:21.375Z",
+  "count": 520,
   "papers": [
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -41,6 +41,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104265",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104265"
+    },
+    {
+      "title": "Innovation spillovers across U.S. tech clusters",
+      "authors": "Xavier Giroud, Ernest Liu, Holger Mueller",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104264",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
     },
     {
       "title": "Learning by lending securities",
@@ -2593,7 +2603,7 @@
       "url": "https://doi.org/10.1086/738147"
     },
     {
-      "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+      "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable           Energy Subsidies",
       "authors": "Michael David Ricks, Owen Kay",
       "journal": "Journal of Political Economy",
       "field": "Economics",
