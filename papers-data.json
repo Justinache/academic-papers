@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-25T04:23:21.375Z",
-  "count": 520,
+  "lastUpdated": "2026-02-26T04:18:43.944Z",
+  "count": 522,
   "papers": [
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -293,6 +293,36 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
     },
     {
+      "title": "The Value of Ratings: Evidence from Their Introduction in Securities Markets",
+      "authors": "Asaf Bernstein, Carola Frydman, Eric Hilt",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-25",
+      "abstract": "",
+      "doi": "10.1086/739333",
+      "url": "https://doi.org/10.1086/739333"
+    },
+    {
+      "title": "Efficiency and Redistribution in Environmental Policy: An Equilibrium Analysis of Agricultural Supply Chains",
+      "authors": "Tomás Domínguez-Iino",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-25",
+      "abstract": "",
+      "doi": "10.1086/739325",
+      "url": "https://doi.org/10.1086/739325"
+    },
+    {
+      "title": "Complete Pass-Through in Levels",
+      "authors": "Kunal Sangani",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-02-25",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Empirical studies find that the pass-through of input cost changes to prices is incomplete: a 10 percent increase in costs causes downstream prices to rise less than 10 percent, even at long horizons. Using microdata from gas stations, food products, and manufacturing industries, we find that incomplete pass-through in percentages often disguises complete pass-through in levels: a $1/unit increase in input costs leads to $1/unit higher downstream prices. Pass-through appears incomplete in percentages due to a gap between prices and costs. Complete pass-through in levels contrasts with workhorse macroeconomic models that feature homothetic demand systems. We identify an alternative class of demand systems that yields pass-through in levels and highlight four implications. First, measuring pass-through in percentages can lead to spurious evidence of asymmetry and size-dependence. Second, pass-through in levels leads to systematic fluctuations in relative price and markup dispersion that are not associated with changes in allocative efficiency. Third, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data that are at odds with workhorse models. Finally, incorporating pass-through in levels into an input-output model of the U.S. economy better matches the volatility of consumer price inflation and the response of inflation to identified shocks.</jats:p>",
+      "doi": "10.1093/qje/qjag014",
+      "url": "https://doi.org/10.1093/qje/qjag014"
+    },
+    {
       "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
       "authors": "Cristina Arellano, Yan Bai, Gabriel Mihalache",
       "journal": "Quarterly Journal of Economics",
@@ -331,6 +361,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper estimates that the macroeconomic damages from climate change are an order of magnitude larger than previously thought. Exploiting natural global temperature variability, we find that 1○C warming reduces world GDP by over 20% in the long run. Global temperature correlates strongly with extreme climatic events, unlike country-level temperature used in previous work, explaining our larger estimate. We use this evidence to estimate damage functions in a neoclassical growth model. Business-as-usual warming implies a present welfare loss of more than 30%, and a Social Cost of Carbon in excess of $1,200 per ton. These impacts suggest that unilateral decarbonization policy is cost-effective for large countries such as the United States.</jats:p>",
       "doi": "10.1093/qje/qjag011",
       "url": "https://doi.org/10.1093/qje/qjag011"
+    },
+    {
+      "title": "Macroeconomic Expectations and Credit Card SpendingMikhail Galashin",
+      "authors": "Mikhail Galashin, Martin Kanz, Ricardo Perez-Truglia",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how macroeconomic expectations affect consumer decisions, using an experiment with 2,872 credit card customers at a large commercial bank. In the experiment, participants are randomized into receiving expert forecasts of inflation and the nominal exchange rate. We find that forecasts significantly affect inflation and exchange rate expectations, but do not change spending or self-reported consumption plans as predicted by standard models of intertemporal choice. Results from a supplementary survey experiment suggest that consumers are sophisticated enough to anticipate nominal rigidities and reduce spending on durables for precautionary reasons, counteracting the effects predicted by standard models of intertemporal optimization. (JEL G50, C93, D83, D84, E31, R31)</jats:p>",
+      "doi": "10.1093/rfs/hhaf079",
+      "url": "https://doi.org/10.1093/rfs/hhaf079"
+    },
+    {
+      "title": "When Do Judges Throw the Book at Companies? The Influence of Partisanship in Corporate Prosecutions",
+      "authors": "Todd A Gormley, Mahsa Kaviani, Hosein I Maleki",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-02-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that judges’ political affiliations are strongly associated with the level of judicial penalties levied against companies. For example, Republican-appointed judges impose larger fines for hiring illegal immigrants, while Democrat-appointed judges impose larger fines for pollution- and environment-related violations. Time-series variation suggests that political partisanship, not fixed ideological differences, drives these findings. The differences become amplified when higher-court judicial vacancies exist and in the months before national elections. Our findings highlight the importance of political polarization for U.S. companies and illustrate how judicial composition can affect firms’ incentive to avoid violating laws connected to partisan issues. (JEL G38, K14, K42)</jats:p>",
+      "doi": "10.1093/rfs/hhaf027",
+      "url": "https://doi.org/10.1093/rfs/hhaf027"
     },
     {
       "title": "Cooling Auction Fever: Evidence from the Housing Market",
@@ -1138,7 +1188,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce and validate a novel approach to identifying good managers. In a pre-registered lab experiment, we causally identify managerial contributions by randomly assigning managers to teams and controlling for individual skill. We find that manager contributions are crucial for team success, and that people who self-select into management roles perform worse than randomly assigned managers. Managerial performance is strongly predicted by economic decision-making skill, but not by demographic characteristics. Two validation studies support our experimental results. Participants who succeed in the lab receive more real-world promotions and, in a separate study of retail store managers, skill measures strongly predict store sales. A one standard deviation increase in manager quality increases annual per-store sales by $4.1 million USD (25% increase). Selecting managers on skills rather than demographic characteristics or the desire to lead could substantially improve organizational performance.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce and validate a novel approach to identifying good managers. In a preregistered lab experiment, we causally identify managerial contributions by randomly assigning managers to teams and controlling for individual skill. We find that manager contributions are crucial for team success, and that people who self-select into management roles perform worse than randomly assigned managers. Managerial performance is strongly predicted by economic decision-making skill but not by demographic characteristics. Two validation studies support our experimental results. Participants who succeed in the lab receive more real-world promotions and, in a separate study of retail store managers, skill measures strongly predict store sales. A one standard deviation increase in manager quality increases annual per store sales by US$4.1 million (25% increase). Selecting managers on skills rather than demographic characteristics or the desire to lead could substantially improve organizational performance.</jats:p>",
       "doi": "10.1093/qje/qjag004",
       "url": "https://doi.org/10.1093/qje/qjag004"
     },
@@ -3463,16 +3513,6 @@
       "url": "https://doi.org/10.1086/739328"
     },
     {
-      "title": "The Value of Ratings: Evidence from their Introduction in Securities Markets",
-      "authors": "Asaf Bernstein, Carola Frydman, Eric Hilt",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739333",
-      "url": "https://doi.org/10.1086/739333"
-    },
-    {
       "title": "Indirect Persuasion",
       "authors": "Rahul Deb, Mallesh Pai, Maher Said",
       "journal": "Journal of Political Economy",
@@ -3481,16 +3521,6 @@
       "abstract": "",
       "doi": "10.1086/739332",
       "url": "https://doi.org/10.1086/739332"
-    },
-    {
-      "title": "Efficiency and Redistribution in Environmental Policy: An Equilibrium Analysis of Agricultural Supply Chains",
-      "authors": "Tomas Dominguez-Iino",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739325",
-      "url": "https://doi.org/10.1086/739325"
     },
     {
       "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
@@ -5191,16 +5221,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We study a search and bargaining model of over‐the‐counter markets for nonstandardized assets of heterogeneous quality. Once matched, investors privately learn their values positively correlated with asset quality. Bargaining results in delay that is hump‐shaped in quality and U‐shaped in asset turnover. We document these patterns in commercial real estate and corporate bonds markets. Extreme qualities are little affected by changes in asset standardization, while intermediate qualities are more susceptible. For nonstandardized assets, opacity ensures active trading of all assets, which explains why their trading is decentralized and suggests that trade centralization should come with greater standardization.</jats:p>",
       "doi": "10.1111/jofi.13483",
       "url": "https://doi.org/10.1111/jofi.13483"
-    },
-    {
-      "title": "Pockets of Predictability: A Replication",
-      "authors": "Nusret Cakici, Christian Fieberg, Tobias Neumaier, Thorsten Poddig, Adam Zaremba",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Farmer, Schmidt, and Timmermann (FST) document time‐variation in market return predictability, identifying “pockets” of significant predictability through kernel regressions. However, our analysis reveals a critical discrepancy between the method outlined by FST and the code actually implemented. Instead of using a one‐sided kernel, which guarantees out‐of‐sample forecasts, they perform in‐sample estimation with a two‐sided kernel. As a result, future information leaks into the forecasting model, undermining its reliability. Rectifying this error qualitatively alters the findings, invalidating most conclusions of the FST study. Thus, attempts to exploit such “pockets”—should they exist—offer little help in forecasting market returns.</jats:p>",
-      "doi": "10.1111/jofi.13484",
-      "url": "https://doi.org/10.1111/jofi.13484"
     }
   ]
 }
