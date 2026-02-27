@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-02-26T04:18:43.944Z",
+  "lastUpdated": "2026-02-27T04:14:46.202Z",
   "count": 522,
   "papers": [
+    {
+      "title": "Market feedback: Evidence from the horse’s mouth",
+      "authors": "Itay Goldstein, Bibo Liu, Liyan Yang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104255",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104255"
+    },
     {
       "title": "Which investors drive anomaly returns and how?",
       "authors": "Yizhang Li, Stanislav Sokolinski, Andrea Tamoni",
@@ -291,6 +301,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Trust and Innovation Within the Firm: Evidence from Matched CEO-Firm Data",
+      "authors": "Kieu-Trang Nguyen",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-02-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper shows that CEO’s trust enhances innovation within firms, providing a novel micro-foundation for the well-known trust-growth relationship. I build a new matched CEO-firm-patent dataset covering 5,753 CEOs in 3,598 US public firms and 700,000 patents during 2000–2011. I exploit variations in generalized trust across CEOs’ ethnic origins, inferred from their last names using de-anonymized historical censuses. Following CEO turnovers, a one standard deviation increase in CEO’s generalized trust is associated with 6% more future patents and 4–6% higher average patent quality, driven entirely by higher-quality patents. Text analysis of employee reviews shows that CEO’s trust enhances a firm’s trust culture. These results are consistent with insights from qualitative interviews suggesting that CEO’s trust and firm’s trust culture encourage researchers to undertake high-risk explorative R&amp;D. In addition, changes in CEO’s bilateral trust toward inventors in different countries have comparable effects on inventors’ patenting, controlling for CEO and other fixed effects.</jats:p>",
+      "doi": "10.1093/qje/qjag013",
+      "url": "https://doi.org/10.1093/qje/qjag013"
     },
     {
       "title": "The Value of Ratings: Evidence from Their Introduction in Securities Markets",
@@ -5201,26 +5221,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This article quantifies the effects of a multiday cyberattack that forced offline a technology service provider (TSP) to the banking sector. The attack impaired customers’ ability to send payments through the TSP, but the business continuity plans of banks and the TSP reduced the effect by more than half. Large banks performed better. Through contagion, banks not directly exposed to the attack experienced a liquidity shortfall, causing them to borrow funds or tap reserves. The ability to send payments after hours helped avoid further contagion. These results highlight the importance of preparedness by the private and official sector for cyberattacks.</jats:p>",
       "doi": "10.1111/jofi.13475",
       "url": "https://doi.org/10.1111/jofi.13475"
-    },
-    {
-      "title": "Ideas Have Consequences: The Impact of Law and Economics on American Justice",
-      "authors": "Elliott Ash, Daniel L Chen, Suresh Naidu",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-08-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article empirically studies the effects of the early law and economics movement on the U.S. judiciary. We focus on the Manne Economics Institute for Federal Judges, an intensive economics course that trained almost half of federal judges between 1976 and 1999. Using the universe of published opinions in U.S. Circuit Courts and 1 million District Court criminal sentencing decisions, we estimate the within-judge effect of Manne program attendance. Selection into attendance was limited, as the program was popular among judges of all backgrounds, frequently oversubscribed, and admitted participants on a first-come, first-served basis. We find that after attending economics training, participating judges use more economics language in their opinions, rule against regulatory agencies more often, and impose more severe criminal sentences. We argue that economics, as a rigorous social science, was especially effective in persuading judges.</jats:p>",
-      "doi": "10.1093/qje/qjaf042",
-      "url": "https://doi.org/10.1093/qje/qjaf042"
-    },
-    {
-      "title": "Over‐the‐Counter Markets for Nonstandardized Assets",
-      "authors": "Yoshio Nozawa, Anton Tsoy",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-26",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We study a search and bargaining model of over‐the‐counter markets for nonstandardized assets of heterogeneous quality. Once matched, investors privately learn their values positively correlated with asset quality. Bargaining results in delay that is hump‐shaped in quality and U‐shaped in asset turnover. We document these patterns in commercial real estate and corporate bonds markets. Extreme qualities are little affected by changes in asset standardization, while intermediate qualities are more susceptible. For nonstandardized assets, opacity ensures active trading of all assets, which explains why their trading is decentralized and suggests that trade centralization should come with greater standardization.</jats:p>",
-      "doi": "10.1111/jofi.13483",
-      "url": "https://doi.org/10.1111/jofi.13483"
     }
   ]
 }
