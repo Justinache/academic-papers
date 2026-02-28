@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-27T04:14:46.202Z",
-  "count": 522,
+  "lastUpdated": "2026-02-28T03:55:59.495Z",
+  "count": 530,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -301,6 +301,116 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104238",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
+      "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall,” whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall. (JEL E24, E32, I12, J41, J63, J64)</jats:p>",
+      "doi": "10.1257/aer.20220749",
+      "url": "https://doi.org/10.1257/aer.20220749"
+    },
+    {
+      "title": "Equal Pay for Similar Work",
+      "authors": "Diego Gentile Passaro, Fuhito Kojima, Bobak Pakzad-Hurson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Equal pay laws increasingly require that workers with different group identities doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our models’ predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. (JEL J16, J31, J38, K31, O15)</jats:p>",
+      "doi": "10.1257/aer.20230832",
+      "url": "https://doi.org/10.1257/aer.20230832"
+    },
+    {
+      "title": "Immigration, Innovation, and Growth",
+      "authors": "Stephen J. Terry, Thomas Chaney, Konrad B. Burchardi, Lisa Tarquinio, Tarek A. Hassan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent. (JEL J15, J22, J31, J61, O31, R11, R23)</jats:p>",
+      "doi": "10.1257/aer.20211601",
+      "url": "https://doi.org/10.1257/aer.20211601"
+    },
+    {
+      "title": "What You Don’t Know May Be Good for You",
+      "authors": "Johannes Hörner, Larry Samuelson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert’s and the client’s type. We study the effects of supplying information about otherwise unobservable outcomes, such as “medical report cards,” to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept. (JEL C78, D82, D83)</jats:p>",
+      "doi": "10.1257/aer.20250053",
+      "url": "https://doi.org/10.1257/aer.20250053"
+    },
+    {
+      "title": "The Value of Clean Water: Experimental Evidence from Rural India",
+      "authors": "Fiona Burlig, Amir Jina, Anant Sudarshan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Over 2 billion people lack clean drinking water. Existing solutions face high costs (piped water) or low demand (point-of-use chlorine). Using a 60,000 household cluster-randomized experiment, we test an alternative approach: decentralized treatment and home delivery of clean water to the rural poor. At low prices, take-up exceeds 90 percent, sustained throughout the experiment. High prices reduce take-up but are privately profitable. We experimentally recover revealed-preference measures of valuation. Willingness-to-pay is several times higher than prior indirect estimates; willingness-to-accept is larger and exceeds marginal cost. Self-reported health measures improve accordingly. On a cost-per-DALY basis, free water delivery regimes appear highly cost effective. (JEL I12, O12, O13, O18, Q25, Q51, Q53)</jats:p>",
+      "doi": "10.1257/aer.20250278",
+      "url": "https://doi.org/10.1257/aer.20250278"
+    },
+    {
+      "title": "Zero-Sum Thinking and the Roots of US Political Differences",
+      "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement. (JEL C83, D72, D91, H23, J15, J16, Z13)</jats:p>",
+      "doi": "10.1257/aer.20240692",
+      "url": "https://doi.org/10.1257/aer.20240692"
+    },
+    {
+      "title": "Sequential Cursed Equilibrium",
+      "authors": "Shani Cohen, Shengwu Li",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information. (JEL C73, D44, D71, D81, D83, D91)</jats:p>",
+      "doi": "10.1257/aer.20230309",
+      "url": "https://doi.org/10.1257/aer.20230309"
+    },
+    {
+      "title": "Dynamics of the Long-Term Housing Yield: Evidence from Natural Experiments",
+      "authors": "Verónica Bäcker-Peral, Jonathon Hazell, Atif Mian",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>\n                    Each month, a fraction of UK property leases are extended by 90 years or more. We construct a new dataset using thousands of these natural experiments since 2000 and estimate the expected long-term housing yield, y\n                    <jats:sup>*</jats:sup>\n                    . After remaining steady at around 5 percent, y\n                    <jats:sup>*</jats:sup>\n                    starts to decline when the Great Recession hits and reaches a low of 2.7 percent in 2024. The decline is steeper in inelastic markets, while y\n                    <jats:sup>*</jats:sup>\n                    remains higher in regions more exposed to long-run climate risk. Our estimate of y\n                    <jats:sup>*</jats:sup>\n                    is updated in real time using public data. (JEL E32, G12, Q54, R31, R38)\n                  </jats:p>",
+      "doi": "10.1257/aer.20240513",
+      "url": "https://doi.org/10.1257/aer.20240513"
+    },
+    {
+      "title": "The Price of War",
+      "authors": "Jonathan Federle, André Meier, Gernot J. Müller, Willi Mutschler, Moritz Schularick",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We assemble a new dataset spanning 150 years and 60 countries to study the economic toll of war. A war of average intensity is associated with an output drop of close to 10 percent in the war-site economy, while consumer prices rise by approximately 20 percent. The capital stock, total factor productivity, and equity returns all decline sharply. The economic ramifications of war are not confined to the war site. The evidence points to adverse economic outcomes in other belligerent and third-party countries if they are exposed to the war site through trade linkages or share a common border. (JEL D74, E23, E32, F43, F51, N40)</jats:p>",
+      "doi": "10.1257/aer.20241355",
+      "url": "https://doi.org/10.1257/aer.20241355"
+    },
+    {
+      "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
+      "authors": "Gordon B. Dahl, Matthew Knepper",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)</jats:p>",
+      "doi": "10.1257/aer.20221703",
+      "url": "https://doi.org/10.1257/aer.20221703"
+    },
+    {
+      "title": "Indirect Persuasion",
+      "authors": "Rahul Deb, Mallesh M. Pai, Maher Said",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-02-27",
+      "abstract": "",
+      "doi": "10.1086/739332",
+      "url": "https://doi.org/10.1086/739332"
     },
     {
       "title": "Trust and Innovation Within the Firm: Evidence from Matched CEO-Firm Data",
@@ -3533,16 +3643,6 @@
       "url": "https://doi.org/10.1086/739328"
     },
     {
-      "title": "Indirect Persuasion",
-      "authors": "Rahul Deb, Mallesh Pai, Maher Said",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739332",
-      "url": "https://doi.org/10.1086/739332"
-    },
-    {
       "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
       "authors": "Michael Bailey, Drew Johnston, Theresa Kuchler, Martin Koenen, Dominic Russel, Johannes Stroebel",
       "journal": "Journal of Political Economy",
@@ -5201,26 +5301,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how relative performance evaluation (RPE) affects industry competition—a question relevant for corporate boards interested in incentivizing executives. Using U.S. airline data, we estimate a dynamic game of competition between heterogeneous firms in an oligopolistic market, with managers incentivized by RPE contracts. While RPE can induce a firm to compete more intensely by smoothing compensation, it also amplifies a firm’s cost efficiency relative to its peers and can weaken competition from inefficient firms. The first effect dominates in small markets and the second in median-sized markets. RPE has little effect in large, highly profitable markets.</jats:p>",
       "doi": "10.1093/rfs/hhaf028",
       "url": "https://doi.org/10.1093/rfs/hhaf028"
-    },
-    {
-      "title": "The Credit Line Channel",
-      "authors": "Daniel L. Greenwald, John Krainer, Pascal Paul",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Aggregate U.S. bank lending to firms expanded following the outbreak of COVID‐19. Using loan‐level supervisory data, we show that this expansion was driven by draws on credit lines by large firms. Banks that experienced larger credit line drawdowns restricted term lending more, crowding out credit to smaller firms, which reacted by reducing investment. A structural model calibrated to match our empirical results shows that while credit lines increase total bank credit in bad times, they redistribute credit from firms with high propensities to invest to firms with low propensities to invest, exacerbating the decrease in aggregate investment.</jats:p>",
-      "doi": "10.1111/jofi.13486",
-      "url": "https://doi.org/10.1111/jofi.13486"
-    },
-    {
-      "title": "The Propagation of Cyberattacks through the Financial System: Evidence from an Actual Event",
-      "authors": "Antonis Kotidis, Stacey L. Schreft",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-08-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This article quantifies the effects of a multiday cyberattack that forced offline a technology service provider (TSP) to the banking sector. The attack impaired customers’ ability to send payments through the TSP, but the business continuity plans of banks and the TSP reduced the effect by more than half. Large banks performed better. Through contagion, banks not directly exposed to the attack experienced a liquidity shortfall, causing them to borrow funds or tap reserves. The ability to send payments after hours helped avoid further contagion. These results highlight the importance of preparedness by the private and official sector for cyberattacks.</jats:p>",
-      "doi": "10.1111/jofi.13475",
-      "url": "https://doi.org/10.1111/jofi.13475"
     }
   ]
 }
