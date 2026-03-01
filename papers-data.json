@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-28T03:55:59.495Z",
-  "count": 530,
+  "lastUpdated": "2026-03-01T04:24:47.799Z",
+  "count": 520,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -1171,6 +1171,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Relying on the frequency of typos in engagement partners’ graduate theses to measure their conscientiousness, we find that more conscientious partners conduct higher-quality audits, evident in that they are more likely to require an audit adjustment. Our core results hold for both upward and downward adjustments, implying that being conscientious is not equivalent to being overly conservative. Consistent with DeAngelo’s (1981) theory, cross-sectional evidence suggests that the role that partner conscientiousness plays in audit quality comes through both the auditor competence and independence channels. Additionally, we find that the frequency of partner thesis typos is negatively associated with auditor effort. Collectively, our evidence implies that engagement partner conscientiousness plays a major role in shaping audit outcomes.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42.</jats:p>",
       "doi": "10.2308/tar-2024-0397",
       "url": "https://doi.org/10.2308/tar-2024-0397"
+    },
+    {
+      "title": "Supply chain washing: Strategic disclosure of corporate suppliers",
+      "authors": "Yilin Shi, Jing Wu, Yu Zhang, Yuqing Zhou",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-02-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101883",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101883"
     },
     {
       "title": "A Theory of How Workers Keep up with Inflation",
@@ -5013,16 +5023,6 @@
       "url": "https://doi.org/10.1257/aer.20240554"
     },
     {
-      "title": "Test-Optional Admissions",
-      "authors": "Wouter Dessein, Alex Frankel, Navin Kartik",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-09-01",
-      "abstract": "<jats:p> Many US colleges now use test-optional admissions. A frequent claim is that by not seeing standardized test scores, a college can admit a student body it prefers, say, with more diversity. But how can observing less information improve decisions? This paper proposes that test-optional policies are a response to social pressure on admission decisions. We model a college that bears disutility when it makes admission decisions that “society” dislikes. Going test optional allows the college to reduce its “disagreement cost.” We analyze how missing scores are imputed and the consequences for the college, students, and society. (JEL I23, I28) </jats:p>",
-      "doi": "10.1257/aer.20231407",
-      "url": "https://doi.org/10.1257/aer.20231407"
-    },
-    {
       "title": "Labor Market Power, Self-Employment, and Development",
       "authors": "Francesco Amodio, Pamela Medina, Monica Morlacco",
       "journal": "American Economic Review",
@@ -5031,6 +5031,16 @@
       "abstract": "<jats:p> This paper shows that self-employment shapes labor market power in low-income countries, with implications for industrial development. Using Peruvian data, we find that wage-setting power increases with employer concentration but less so where self-employment is more prevalent. A general equilibrium model shows that in oligopsonistic labor markets, self-employment raises the supply elasticity of wage labor, weakening employer market power. However, by the same mechanism, procompetitive policies aimed at expanding wage employment and reducing reliance on self-employment may unintentionally strengthen labor market power, undermining their objectives. (JEL J22, J23, J31, J42, L13, O14, O15) </jats:p>",
       "doi": "10.1257/aer.20230490",
       "url": "https://doi.org/10.1257/aer.20230490"
+    },
+    {
+      "title": "Test-Optional Admissions",
+      "authors": "Wouter Dessein, Alex Frankel, Navin Kartik",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-09-01",
+      "abstract": "<jats:p> Many US colleges now use test-optional admissions. A frequent claim is that by not seeing standardized test scores, a college can admit a student body it prefers, say, with more diversity. But how can observing less information improve decisions? This paper proposes that test-optional policies are a response to social pressure on admission decisions. We model a college that bears disutility when it makes admission decisions that “society” dislikes. Going test optional allows the college to reduce its “disagreement cost.” We analyze how missing scores are imputed and the consequences for the college, students, and society. (JEL I23, I28) </jats:p>",
+      "doi": "10.1257/aer.20231407",
+      "url": "https://doi.org/10.1257/aer.20231407"
     },
     {
       "title": "Drivers of Change: Employment Responses to the Lifting of the Saudi Female Driving Ban",
@@ -5103,16 +5113,6 @@
       "url": "https://doi.org/10.1257/aer.20231725"
     },
     {
-      "title": "Can Redistribution Change Policy Views? Aid and Attitudes toward Refugees",
-      "authors": "Travis Baseler, Thomas Ginn, Robert Hakiza, Helidah Ogude-Chambert, Olivia Woldemikael",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1086/736209",
-      "url": "https://doi.org/10.1086/736209"
-    },
-    {
       "title": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
       "authors": "Matthew S. Johnson, Kurt Lavetti, Michael Lipsitz",
       "journal": "Journal of Political Economy",
@@ -5121,6 +5121,16 @@
       "abstract": "",
       "doi": "10.1086/736217",
       "url": "https://doi.org/10.1086/736217"
+    },
+    {
+      "title": "Can Redistribution Change Policy Views? Aid and Attitudes toward Refugees",
+      "authors": "Travis Baseler, Thomas Ginn, Robert Hakiza, Helidah Ogude-Chambert, Olivia Woldemikael",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-09-01",
+      "abstract": "",
+      "doi": "10.1086/736209",
+      "url": "https://doi.org/10.1086/736209"
     },
     {
       "title": "Optimal Information Design of Online Marketplaces with Return Rights",
@@ -5173,16 +5183,6 @@
       "url": "https://doi.org/10.1086/736211"
     },
     {
-      "title": "Of Cities and Slums",
-      "authors": "Pedro Cavalcanti Ferreira, Alexander Monge-Naranjo, Luciene Torres de Mello Pereira",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1086/736210",
-      "url": "https://doi.org/10.1086/736210"
-    },
-    {
       "title": "War Discourse and the Cross Section of Expected Stock Returns",
       "authors": "David Hirshleifer, Dat Mai, Kuntara Pukthuanthong",
       "journal": "Journal of Finance",
@@ -5191,106 +5191,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    A war‐related factor model derived from textual analysis of media news reports explains the cross section of expected stock returns. Using a semisupervised topic model to extract discourse topics from 7,000,000\n                    <jats:italic>New York Times</jats:italic>\n                    stories spanning 160 years, the war factor predicts the cross section of returns across test assets derived from both traditional and machine learning construction techniques, and spanning 138 anomalies. Our findings are consistent with assets that are good hedges for war risk receiving lower risk premia, or with assets that are more positively sensitive to war prospects being more overvalued. The return premium on the war factor is incremental to standard effects.\n                  </jats:p>",
       "doi": "10.1111/jofi.13482",
       "url": "https://doi.org/10.1111/jofi.13482"
-    },
-    {
-      "title": "The economics of “Buy Now, Pay Later”: A merchant’s perspective",
-      "authors": "Tobias Berg, Valentin Burg, Jan Keil, Manju Puri",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104093",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104093"
-    },
-    {
-      "title": "Printing away the mortgages: Fiscal inflation and the post-covid boom",
-      "authors": "William Diamond, Tim Landvoigt, Germán Sánchez Sánchez",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104072",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104072"
-    },
-    {
-      "title": "CRISK: Measuring the climate risk exposure of the financial system",
-      "authors": "Hyeyoon Jung, Robert F. Engle, Richard Berner",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104076",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104076"
-    },
-    {
-      "title": "Private equity in the hospital industry",
-      "authors": "Janet Gao, Yongseok Kim, Merih Sevilir",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104107",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104107"
-    },
-    {
-      "title": "The impact of prices on analyst cash flow expectations: Reconciling subjective beliefs data with rational discount rate variation",
-      "authors": "Aditya Chaudhry",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104095",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104095"
-    },
-    {
-      "title": "Conditional risk and the pricing kernel",
-      "authors": "David Schreindorfer, Tobias Sichert",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104106",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104106"
-    },
-    {
-      "title": "Bank stress testing, human capital investment and risk management",
-      "authors": "Thomas Schneider, Philip E. Strahan, Jun Yang",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104104",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104104"
-    },
-    {
-      "title": "Differential access to dark markets and execution outcomes",
-      "authors": "James Brugler, Carole Comerton-Forde",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104086",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104086"
-    },
-    {
-      "title": "Surviving the fintech disruption",
-      "authors": "Wei Jiang, Yuehua Tang, Rachel J. Xiao, Vincent Yao",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104071",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104071"
-    },
-    {
-      "title": "Economic links from bonds and cross-stock return predictability",
-      "authors": "Jian Feng, Xiaolin Huo, Xin Liu, Yifei Mao, Hong Xiang",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104110",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104110"
     },
     {
       "title": "Relative Performance Evaluation and Strategic Competition",
