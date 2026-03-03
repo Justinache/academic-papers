@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-02T04:15:55.287Z",
-  "count": 500,
+  "lastUpdated": "2026-03-03T04:17:01.482Z",
+  "count": 494,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -2063,7 +2063,7 @@
       "url": "https://doi.org/10.1086/738479"
     },
     {
-      "title": "Social Media Livestreaming: Investor Information or Persuasion?",
+      "title": "Social media livestreaming: Investor information or persuasion?",
       "authors": "Ed deHaan, Allen H. Huang, Srijith Kannan, Lu Qiu",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4941,66 +4941,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This article shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. Despite no corresponding changes in local office holding, these defeats were salient among local elites. We show that Southern newspapers, closely aligned with the Democratic Party, amplified narratives of Black criminality in the aftermath of Democratic losses. Such accusations were, in turn, frequently invoked by lynch mobs. These findings point to the strategic use of racial violence by Democratic elites, foreshadowing the institutionalized vote suppression of Jim Crow.</jats:p>",
       "doi": "10.1093/qje/qjaf045",
       "url": "https://doi.org/10.1093/qje/qjaf045"
-    },
-    {
-      "title": "Forest through the Trees: Building Cross‐Sections of Stock Returns",
-      "authors": "Svetlana Bryzgalova, Markus Pelger, Jason Zhu",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-09-02",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We build cross‐sections of asset returns for a given set of characteristics, that is, managed portfolios serving as test assets, as well as building blocks for tradable risk factors. We use decision trees to endogenously group similar stocks together by selecting optimal portfolio splits to span the stochastic discount factor, projected on individual stocks. Our portfolios are interpretable and well diversified, reflecting many characteristics and their interactions. Compared to combinations of dozens (even hundreds) of single/double sorts, as well as machine‐learning prediction‐based portfolios, our cross‐sections are low‐dimensional yet have up to three times higher out‐of‐sample Sharpe ratios and alphas.</jats:p>",
-      "doi": "10.1111/jofi.13477",
-      "url": "https://doi.org/10.1111/jofi.13477"
-    },
-    {
-      "title": "Institutional Corporate Bond Pricing",
-      "authors": "Lorenzo Bretscher, Lukas Schmid, Ishita Sen, Varun Sharma",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose an equilibrium corporate bond pricing model that accommodates the heterogeneity in institutional investors’ preferences and mandates in an empirically tractable way. Our model, estimated on rich holdings data, quantifies investors’ preferences and demand elasticities, with inelastic insurers focusing on the investment-grade segment, and elastic mutual funds substituting across ratings groups. The model offers a novel quantitative perspective of the effect of recent trends in institutional ownership on equilibrium credit spreads and the funding costs of corporations. Overall, our model emphasizes the composition of institutional demand as an important state variable for corporate bond pricing.</jats:p>",
-      "doi": "10.1093/rfs/hhaf067",
-      "url": "https://doi.org/10.1093/rfs/hhaf067"
-    },
-    {
-      "title": "Societal Inequality and Bank Deposit Dynamics: Evidence from the Freedman’s Savings Bank",
-      "authors": "Virginia Traweek, Malcolm Wardlaw",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study depositor behavior and capital flight using data from the Freedman’s Savings Bank, a bank established after the U.S. Civil War to support formerly enslaved individuals. White depositors, who generally had better access to financial information, begin providing significant funding as interest terms are enhanced. They respond faster to postpanic stabilization efforts and negative bank-specific information, and are twice as likely to close accounts before failure, passing expected losses to Black depositors, who were the bank’s primary philanthropic target. Our results show how demand deposit funding of bank-like institutions can create systemic disadvantages for less experienced borrowers.</jats:p>",
-      "doi": "10.1093/rfs/hhaf065",
-      "url": "https://doi.org/10.1093/rfs/hhaf065"
-    },
-    {
-      "title": "Man versus Machine Learning Revisited",
-      "authors": "Yingguang Zhang, Yandi Zhu, Juhani T Linnainmaa",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Binsbergen, Han, and Lopez-Lira (2023) predict analysts’ forecast errors using a random forest model. A strategy that trades against this model’s predictions earns a monthly alpha of 1.54% ($ t $-value = 5.84). This estimate represents a large improvement over studies using classical statistical methods. We attribute the difference to a look-ahead bias. Removing the bias erases the alpha. Linear models yield as accurate forecasts and superior trading profits. Neither alternative machine learning models nor combinations thereof resurrect the predictability. We discuss the state of research into the term structure of analysts’ forecasts and its causal relationship with returns.</jats:p>",
-      "doi": "10.1093/rfs/hhaf066",
-      "url": "https://doi.org/10.1093/rfs/hhaf066"
-    },
-    {
-      "title": "Why Do Investors Like Short-leg Securities? Evidence from a Textual Analysis of Buy Recommendations",
-      "authors": "Hailiang Chen, Byoung-Hyoun Hwang, Zhuozhen Peng",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Our paper examines analyst reports and online stock opinion articles which recommend buying stocks that, based on the literature, trade at high prices and earn low future returns (“short-leg securities”). Using a textual analysis, we test whether the justifications primarily (1) emphasize safe-haven qualities, (2) indicate exuberance, or (3) highlight lottery-like features. Our results strongly point to (3). We subsequently validate our text-based inferences through a survey of institutional and retail investors with long positions in short-leg securities. Overall, perceived upside potential appears to play a material role in driving investor demand for stocks in the short legs of anomalies.</jats:p>",
-      "doi": "10.1093/rfs/hhaf068",
-      "url": "https://doi.org/10.1093/rfs/hhaf068"
-    },
-    {
-      "title": "Strategic (Inconsistent) Disclosures and Sophisticated Investors: Evidence from Hedge Funds",
-      "authors": "Yichang Liu, Joshua Madsen, Frank S. Zhou",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-09-02",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Recent SEC regulations require that qualified hedge fund advisers provide their investors with narrative disclosures of their business and operations. We find that 40% of these disclosures omit or de‐emphasize information regarding advisers' operational and investment risks when compared to other sources of public information. Funds with such “inconsistencies” are associated with predictably lower fund performance but do not differ in their fund flows, flow‐performance relation, ownership structure, or management fees. These results are consistent with investors being subject to limited strategic thinking, which prevents them from fully unraveling the implications of strategic omissions. This, in turn, contributes to advisers' successful use of discretion to de‐emphasize information with adverse performance implications. Our findings suggest that information processing frictions can facilitate nondisclosure, even in markets with sophisticated investors.</jats:p>",
-      "doi": "10.1111/1475-679x.70013",
-      "url": "https://doi.org/10.1111/1475-679x.70013"
     }
   ]
 }
