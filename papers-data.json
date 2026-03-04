@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-03T04:17:01.482Z",
-  "count": 494,
+  "lastUpdated": "2026-03-04T04:10:49.290Z",
+  "count": 495,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -401,6 +401,16 @@
       "abstract": "<jats:p>Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)</jats:p>",
       "doi": "10.1257/aer.20221703",
       "url": "https://doi.org/10.1257/aer.20221703"
+    },
+    {
+      "title": "Disclosure Incentives for Firms in Light of Cross-Ownership",
+      "authors": "Anil Arya, Thomas Pfeiffer",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We model two competing firms, each operating through their controlled subsidiaries while also holding a minority financial stake in their rival’s subsidiary. Under such cross-ownership, we derive the firms’ optimal disclosure policies, showing how they are affected by technological spillovers, competitive intensity, and the nature of product markets. The results demonstrate that cross-ownership induces more disclosures, benefiting the firm because disclosures promote the profit of its subsidiary (at low spillover values) or the rival’s subsidiary (at high spillover values). The increased transparency under cross-ownership can generate Pareto gains, improving consumer surplus and firm profits relative to separate ownership. This unifying finding holds under quantity and price competition, challenging the view that cross-ownership leads firms to collude, harming consumers. Additionally, with cross-ownership, high-spillover disclosures occur more under price than quantity competition. Thus, price competition can generate Pareto gains, contradicting the view that it favors consumers at the expense of firms.</jats:p>\n                  <jats:p>JEL Classifications: D43; D60; D82.</jats:p>",
+      "doi": "10.2308/tar-2025-0486",
+      "url": "https://doi.org/10.2308/tar-2025-0486"
     },
     {
       "title": "Indirect Persuasion",
