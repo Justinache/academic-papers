@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-04T04:10:49.290Z",
-  "count": 495,
+  "lastUpdated": "2026-03-05T04:14:22.829Z",
+  "count": 496,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -411,6 +411,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We model two competing firms, each operating through their controlled subsidiaries while also holding a minority financial stake in their rival’s subsidiary. Under such cross-ownership, we derive the firms’ optimal disclosure policies, showing how they are affected by technological spillovers, competitive intensity, and the nature of product markets. The results demonstrate that cross-ownership induces more disclosures, benefiting the firm because disclosures promote the profit of its subsidiary (at low spillover values) or the rival’s subsidiary (at high spillover values). The increased transparency under cross-ownership can generate Pareto gains, improving consumer surplus and firm profits relative to separate ownership. This unifying finding holds under quantity and price competition, challenging the view that cross-ownership leads firms to collude, harming consumers. Additionally, with cross-ownership, high-spillover disclosures occur more under price than quantity competition. Thus, price competition can generate Pareto gains, contradicting the view that it favors consumers at the expense of firms.</jats:p>\n                  <jats:p>JEL Classifications: D43; D60; D82.</jats:p>",
       "doi": "10.2308/tar-2025-0486",
       "url": "https://doi.org/10.2308/tar-2025-0486"
+    },
+    {
+      "title": "Whistleblowing and Internal Communication",
+      "authors": "Lin Nan, Ronghuo Zheng",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate how incentives provided by whistleblowing programs affect the likelihood of whistleblowing, firm value, and social welfare in the presence of endogenous internal communication. Specifically, we focus on a myopic manager’s ex post decision on internal communication with the employee. An informed employee plays a dual role: working to fix the defect internally or acting as a whistleblower to expose the misconduct if the manager withholds defect information from the public. We find that, when the whistleblowing reward is relatively small, providing stronger incentives increases the likelihood of whistleblowing and can help improve firm value and social welfare. However, once rewards become excessively large and compromise internal communication, contrary to conventional wisdom, the likelihood of whistleblowing declines and both firm value and social welfare decline too. We also characterize the optimal whistleblowing rewards designed by strategic regulators seeking to maximize firm value or social welfare.</jats:p>\n                  <jats:p>JEL Classifications: D83; G30; G34; M40.</jats:p>",
+      "doi": "10.2308/tar-2024-0036",
+      "url": "https://doi.org/10.2308/tar-2024-0036"
     },
     {
       "title": "Indirect Persuasion",
