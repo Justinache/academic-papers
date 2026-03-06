@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T04:14:22.829Z",
+  "lastUpdated": "2026-03-06T04:11:44.270Z",
   "count": 496,
   "papers": [
     {
@@ -241,6 +241,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Peer Effects and the Gender Gap in Corporate Leadership: Evidence from MBA Students",
+      "authors": "Menaka Hampole, Francesca Truffa, Ashley Wong",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-03-05",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This paper studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top-10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next, we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
+      "doi": "10.1093/qje/qjag015",
+      "url": "https://doi.org/10.1093/qje/qjag015"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -4951,16 +4961,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do banks fail? We create a panel covering most commercial banks from 1863 through 2024 to study the history of failing banks in the United States. Failing banks are characterized by rising asset losses, deteriorating solvency, and an increasing reliance on expensive noncore funding. These commonalities imply that bank failures are highly predictable using simple accounting metrics from publicly available financial statements. Failures with runs were common before deposit insurance, but these failures are strongly related to weak fundamentals, casting doubt on the importance of non-fundamental runs. Furthermore, low recovery rates on failed banks’ assets suggest that most failed banks subject to runs were fundamentally insolvent, barring large value destruction of receiverships. Altogether, our evidence suggests that the primary cause of bank failures and banking crises is almost always and everywhere a deterioration of bank fundamentals.</jats:p>",
       "doi": "10.1093/qje/qjaf044",
       "url": "https://doi.org/10.1093/qje/qjaf044"
-    },
-    {
-      "title": "Political Foundations of Racial Violence in the Post-Reconstruction South",
-      "authors": "Patrick A Testa, Jhacova Williams",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-09-05",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This article shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. Despite no corresponding changes in local office holding, these defeats were salient among local elites. We show that Southern newspapers, closely aligned with the Democratic Party, amplified narratives of Black criminality in the aftermath of Democratic losses. Such accusations were, in turn, frequently invoked by lynch mobs. These findings point to the strategic use of racial violence by Democratic elites, foreshadowing the institutionalized vote suppression of Jim Crow.</jats:p>",
-      "doi": "10.1093/qje/qjaf045",
-      "url": "https://doi.org/10.1093/qje/qjaf045"
     }
   ]
 }
