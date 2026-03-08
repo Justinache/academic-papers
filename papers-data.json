@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-07T04:01:57.892Z",
-  "count": 496,
+  "lastUpdated": "2026-03-08T04:13:38.770Z",
+  "count": 499,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104255",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104255"
+    },
+    {
+      "title": "Dual peer effects and cross-stock predictability",
+      "authors": "Doron Avramov, Shuyi Ge, Shaoran Li, Oliver Linton",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104274",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104274"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -241,6 +251,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Making a Swap:  Network Formation with Increasing Marginal Costs",
+      "authors": "Evan Sadler",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-06",
+      "abstract": "",
+      "doi": "10.1086/741274",
+      "url": "https://doi.org/10.1086/741274"
+    },
+    {
+      "title": "Blackwell-Monotone Updating Rules",
+      "authors": "Mark Whitmeyer",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-06",
+      "abstract": "",
+      "doi": "10.1086/741272",
+      "url": "https://doi.org/10.1086/741272"
     },
     {
       "title": "Peer Effects and the Gender Gap in Corporate Leadership: Evidence from MBA Students",
@@ -1588,7 +1618,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children’s education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomized controlled trial in remote, rural Ethiopia to explore this and evaluate an intervention that aims to change how poor people perceive their future opportunities, alter their aspirations, and through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and who serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children’s education, and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</jats:p>",
       "doi": "10.1093/qje/qjag002",
       "url": "https://doi.org/10.1093/qje/qjag002"
     },
