@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T04:13:38.770Z",
+  "lastUpdated": "2026-03-09T04:19:18.830Z",
   "count": 499,
   "papers": [
     {
@@ -281,6 +281,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This paper studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top-10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next, we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
       "doi": "10.1093/qje/qjag015",
       "url": "https://doi.org/10.1093/qje/qjag015"
+    },
+    {
+      "title": "Beyond Old Boys' Clubs: Financial Analysts' Utilization of Professional Connections",
+      "authors": "Mengqiao Du, Rachel Xi Zhang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-03-03",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Women often lack the opportunity to join exclusive social clubs, limiting the benefits they derive from their social networks. We investigate whether, when given the opportunity to interact with the right people in a professional setting, women gain greater advantages from these connections for career performance and advancement compared to men. Using a unique data set that documents when, where, and with whom financial analysts interact at investor conferences, we find that female analysts show greater improvement in earnings forecast accuracy than their male counterparts after interacting with a firm's executives. Further evidence suggests that female analysts overcome homophily in conference interactions with executives and that they sustain their gains, enhancing forecast accuracy for up to three years. In addition, both the capital and labor markets recognize women's superior gains from conference connections. Our findings suggest that women capitalize on professional connections, highlighting the importance of promoting structured networking opportunities for women in professional environments.</jats:p>",
+      "doi": "10.1111/1475-679x.70044",
+      "url": "https://doi.org/10.1111/1475-679x.70044"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -4981,16 +4991,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>As the use of audit data analytic tests (ADA) becomes increasingly established in practice, auditors will often confront situations in which they inherit ADA developed by others, as opposed to developing the ADA themselves. Despite the potential benefits of ADA, inheriting ADA could decrease auditors’ skeptical actions by diminishing their psychological ownership of the ADA. In an experiment where an ADA identifies a fraud red flag, we find that auditors who inherited the ADA are less likely to exercise skeptical actions than those who were personally involved in its development. We then provide evidence that informing auditors who inherit an ADA about the test development activities (e.g., a brief memorandum documenting the ADA's development) mitigates the negative effect of inheriting the ADA. Evidence from mediation analyses suggests that these effects are driven by decreased psychological ownership when auditors inherit the ADA.</jats:p>",
       "doi": "10.1111/1475-679x.70014",
       "url": "https://doi.org/10.1111/1475-679x.70014"
-    },
-    {
-      "title": "Failing Banks",
-      "authors": "Sergio Correia, Stephan Luck, Emil Verner",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-09-08",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do banks fail? We create a panel covering most commercial banks from 1863 through 2024 to study the history of failing banks in the United States. Failing banks are characterized by rising asset losses, deteriorating solvency, and an increasing reliance on expensive noncore funding. These commonalities imply that bank failures are highly predictable using simple accounting metrics from publicly available financial statements. Failures with runs were common before deposit insurance, but these failures are strongly related to weak fundamentals, casting doubt on the importance of non-fundamental runs. Furthermore, low recovery rates on failed banks’ assets suggest that most failed banks subject to runs were fundamentally insolvent, barring large value destruction of receiverships. Altogether, our evidence suggests that the primary cause of bank failures and banking crises is almost always and everywhere a deterioration of bank fundamentals.</jats:p>",
-      "doi": "10.1093/qje/qjaf044",
-      "url": "https://doi.org/10.1093/qje/qjaf044"
     }
   ]
 }
