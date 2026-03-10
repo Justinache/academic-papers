@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-09T04:19:18.830Z",
-  "count": 499,
+  "lastUpdated": "2026-03-10T04:11:41.800Z",
+  "count": 498,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -291,6 +291,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Women often lack the opportunity to join exclusive social clubs, limiting the benefits they derive from their social networks. We investigate whether, when given the opportunity to interact with the right people in a professional setting, women gain greater advantages from these connections for career performance and advancement compared to men. Using a unique data set that documents when, where, and with whom financial analysts interact at investor conferences, we find that female analysts show greater improvement in earnings forecast accuracy than their male counterparts after interacting with a firm's executives. Further evidence suggests that female analysts overcome homophily in conference interactions with executives and that they sustain their gains, enhancing forecast accuracy for up to three years. In addition, both the capital and labor markets recognize women's superior gains from conference connections. Our findings suggest that women capitalize on professional connections, highlighting the importance of promoting structured networking opportunities for women in professional environments.</jats:p>",
       "doi": "10.1111/1475-679x.70044",
       "url": "https://doi.org/10.1111/1475-679x.70044"
+    },
+    {
+      "title": "Real Effects of Subjectivity in Measuring Fair Values",
+      "authors": "Verena Braun, Robert F. Göx, Felix P. Niggemann, Ulrich Schäfer",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-03-02",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines how the subjectivity in measuring fair values of assets without readily observable market prices affects investment efficiency and shareholder value. When fair values are objective measures of asset value, they facilitate efficient investment decisions that align with shareholder interests. In contrast, firms' reliance on subjective valuation inputs causes underinvestment in long‐term projects. If fair values are highly subjective, they may lead firms to favor less profitable short‐term projects with objectively measurable fair values. When project returns are positively correlated, subjectivity in valuing long‐term projects induces overinvestment in short‐term projects with objective fair values. Regardless of these distortions, fair value measurement can add shareholder value. Not measuring fair values altogether leads to underinvestment, which moderately subjective fair values can alleviate.</jats:p>",
+      "doi": "10.1111/1475-679x.70045",
+      "url": "https://doi.org/10.1111/1475-679x.70045"
     },
     {
       "title": "Deep surrogates for finance: With an application to option pricing",
@@ -4971,26 +4981,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In March 2020, safe asset markets experienced surprising and unprecedented price crashes. We explain how strategic investor behavior can create such market fragility in a model with investors valuing safety, investors valuing liquidity, and constrained dealers. While safety investors and liquidity investors can form a symbiotic relationship with offsetting trades during times of stress, strategic interactions among liquidity investors harbor the potential for self-fulfilling fragility. When the market is fragile, standard flight-to-safety can have a destabilizing effect and trigger a “dash-for-cash” by liquidity investors. Well-designed policy interventions can reduce market fragility ex ante and restore orderly functioning ex post.</jats:p>",
       "doi": "10.1093/rfs/hhaf064",
       "url": "https://doi.org/10.1093/rfs/hhaf064"
-    },
-    {
-      "title": "Listen Closely: Measuring Vocal Tone in Corporate Disclosures",
-      "authors": "Jonas Ewertz, Charlotte Knickrehm, Martin Nienhaus, Doron Reichmann",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-09-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the usefulness of machine learning approaches for measuring vocal tone in corporate disclosures. We document a substantial mismatch between the widely adopted actor‐based training data underlying these approaches and speech in corporate disclosures. We find that existing models achieve near‐perfect vocal tone classification within their training domain. However, when tested on actual executive speech during conference calls, their performance declines to chance levels. We thus introduce FinVoc2Vec, a deep learning model that adapts to audio recordings of conference calls and classifies the vocal tone of executive speech significantly more accurately than chance. FinVoc2Vec estimates are associated with future firm performance and can be used to construct profitable stock portfolios. Throughout our analyses, estimates from previous vocal tone models are largely unrelated to firm performance. Our findings emphasize the importance of a domain‐specific approach to voice analysis in accounting and finance.</jats:p>",
-      "doi": "10.1111/1475-679x.70015",
-      "url": "https://doi.org/10.1111/1475-679x.70015"
-    },
-    {
-      "title": "Inheriting Versus Developing Data Analytic Tests and Auditors’ Professional Skepticism",
-      "authors": "Xiaoxing Li, Joseph F. Brazel, Anna Gold, Justin Leiby",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-09-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>As the use of audit data analytic tests (ADA) becomes increasingly established in practice, auditors will often confront situations in which they inherit ADA developed by others, as opposed to developing the ADA themselves. Despite the potential benefits of ADA, inheriting ADA could decrease auditors’ skeptical actions by diminishing their psychological ownership of the ADA. In an experiment where an ADA identifies a fraud red flag, we find that auditors who inherited the ADA are less likely to exercise skeptical actions than those who were personally involved in its development. We then provide evidence that informing auditors who inherit an ADA about the test development activities (e.g., a brief memorandum documenting the ADA's development) mitigates the negative effect of inheriting the ADA. Evidence from mediation analyses suggests that these effects are driven by decreased psychological ownership when auditors inherit the ADA.</jats:p>",
-      "doi": "10.1111/1475-679x.70014",
-      "url": "https://doi.org/10.1111/1475-679x.70014"
     }
   ]
 }
