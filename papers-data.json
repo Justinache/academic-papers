@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T04:11:41.800Z",
-  "count": 498,
+  "lastUpdated": "2026-03-11T04:11:58.383Z",
+  "count": 497,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -253,6 +253,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "The End of the American Dream? Inequality and Segregation in US Cities",
+      "authors": "Alessandra Fogli, Veronica Guerrieri, Mark Ponder, Marta Prato",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-09",
+      "abstract": "",
+      "doi": "10.1086/739328",
+      "url": "https://doi.org/10.1086/739328"
+    },
+    {
       "title": "Making a Swap:  Network Formation with Increasing Marginal Costs",
       "authors": "Evan Sadler",
       "journal": "Journal of Political Economy",
@@ -483,6 +493,16 @@
       "url": "https://doi.org/10.2308/tar-2024-0036"
     },
     {
+      "title": "Accounting Enforcement and Bank Transparency under Hierarchical Supervision in a Banking Union",
+      "authors": "Jannis Bischof, Ferdinand Elfers, Nicolas Rudolf",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Banks often adjust their financial reporting in response to supervisory intervention. However, many banks operate under multiple supervisors with varying preferences. We examine how banks respond to such conflicting oversight within the European Banking Union, where the European Central Bank (ECB) is the central authority. The ECB’s Asset Quality Review revealed that its preferred asset valuations diverged from many banks’ IFRS-compliant practices that were previously accepted by local supervisors. Banks voluntarily aligned their reporting with the nonbinding preferences of the new central supervisor, although the adjustments varied across jurisdictions. Alignment was weaker when central and local supervisory objectives conflicted and stronger when joint supervision mitigated regulatory capture. Overall, these adjustments enhanced the informativeness of loan loss provisioning. With aligned reporting preferences across supervisory layers, the introduction of a central supervisor can thus significantly improve bank reporting and transparency, even without formal enforcement.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are available from the sources identified in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; G20; G21; G28.</jats:p>",
+      "doi": "10.2308/tar-2023-0162",
+      "url": "https://doi.org/10.2308/tar-2023-0162"
+    },
+    {
       "title": "Indirect Persuasion",
       "authors": "Rahul Deb, Mallesh M. Pai, Maher Said",
       "journal": "Journal of Political Economy",
@@ -588,7 +608,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-02-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that judges’ political affiliations are strongly associated with the level of judicial penalties levied against companies. For example, Republican-appointed judges impose larger fines for hiring illegal immigrants, while Democrat-appointed judges impose larger fines for pollution- and environment-related violations. Time-series variation suggests that political partisanship, not fixed ideological differences, drives these findings. The differences become amplified when higher-court judicial vacancies exist and in the months before national elections. Our findings highlight the importance of political polarization for U.S. companies and illustrate how judicial composition can affect firms’ incentive to avoid violating laws connected to partisan issues. (JEL G38, K14, K42)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that judges&amp;#x02019; political affiliations are strongly associated with the level of judicial penalties levied against companies. For example, Republican-appointed judges impose larger fines for hiring illegal immigrants, while Democrat-appointed judges impose larger fines for pollution- and environment-related violations. Time-series variation suggests that political partisanship, not fixed ideological differences, drives these findings. The differences become amplified when higher-court judicial vacancies exist and in the months before national elections. Our findings highlight the importance of political polarization for U.S. companies and illustrate how judicial composition can affect firms&amp;#x02019; incentive to avoid violating laws connected to partisan issues.</jats:p>",
       "doi": "10.1093/rfs/hhaf027",
       "url": "https://doi.org/10.1093/rfs/hhaf027"
     },
@@ -598,7 +618,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-02-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effects of underquoting, the practice of setting listing prices below sellers’ reservation values, on housing auctions. Laws introduced in Australia to deter underquoting lead to higher listing prices, but also to declines in sales prices and sales probabilities. We develop a quantitative model to formalize predictions under different assumptions about bidders’ information and rationality. The effects of the laws are matched by a version of the model in which participating bidders overbid. While both behavioral biases arising during the auction and switching costs can explain overbidding, empirical and survey evidence points to behavioral biases as the main mechanism. (JEL D10, D80, G40, R30)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effects of underquoting, the practice of setting listing prices below sellers’ reservation values, on housing auctions. Laws introduced in Australia to deter underquoting lead to higher listing prices, but also to declines in sales prices and sales probabilities. We develop a quantitative model to formalize predictions under different assumptions about bidders’ information and rationality. The effects of the laws are matched by a version of the model in which participating bidders overbid. While both behavioral biases arising during the auction and switching costs can explain overbidding, empirical and survey evidence points to behavioral biases as the main mechanism.</jats:p>",
       "doi": "10.1093/rfs/hhaf101",
       "url": "https://doi.org/10.1093/rfs/hhaf101"
     },
@@ -614,7 +634,7 @@
     },
     {
       "title": "Financial Intermediaries and the Yield Curve",
-      "authors": "Andres Schneider",
+      "authors": "Andrés Schneider",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-02-17",
@@ -2248,7 +2268,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-12-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does the design of debt repayment schedules affect household borrowing? To answer this question, we exploit a Swedish policy reform that eliminated interest-only mortgages for loan-to-value ratios above 50%. We document substantial bunching at the threshold, leading to 5% lower borrowing. Wealthy borrowers drive the results, challenging credit constraints as the primary explanation. We develop a model to evaluate the mechanisms driving household behavior and find that much of the effect comes from households experiencing ongoing flow disutility to amortization payments. Our results indicate that mortgage contracts with low initial payments substantially increase household borrowing and lifetime interest costs. (JEL G51, G21, E21, E6)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does the design of debt repayment schedules affect household borrowing? To answer this question, we exploit a Swedish policy reform that eliminated interest-only mortgages for loan-to-value ratios above 50%. We document substantial bunching at the threshold, leading to 5% lower borrowing. Wealthy borrowers drive the results, challenging credit constraints as the primary explanation. We develop a model to evaluate the mechanisms driving household behavior and find that much of the effect comes from households experiencing ongoing flow disutility to amortization payments. Our results indicate that mortgage contracts with low initial payments substantially increase household borrowing and lifetime interest costs.</jats:p>",
       "doi": "10.1093/rfs/hhaf115",
       "url": "https://doi.org/10.1093/rfs/hhaf115"
     },
@@ -2258,7 +2278,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-12-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How do resolution frameworks affect the private restructuring of distressed banks? We model a bank’s shareholders and creditors negotiating a restructuring, under two frictions: asymmetric information about asset quality and externalities on the government. High-quality banks signal themselves by delaying the negotiation, which is socially inefficient. Public policies can improve welfare if they reduce the signaling motive or increase the negotiation surplus. Stricter bail-in rules make debt more information sensitive and increase delays. The bank chooses a capital structure with too little renegotiable debt, giving a new rationale, for example, for Total Loss Absorbing Capacity requirements. (JEL G21, G28)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How do resolution frameworks affect the private restructuring of distressed banks? We model a bank’s shareholders and creditors negotiating a restructuring, under two frictions: asymmetric information about asset quality and externalities on the government. High-quality banks signal themselves by delaying the negotiation, which is socially inefficient. Public policies can improve welfare if they reduce the signaling motive or increase the negotiation surplus. Stricter bail-in rules make debt more information sensitive and increase delays. The bank chooses a capital structure with too little renegotiable debt, giving a new rationale, for example, for Total Loss Absorbing Capacity requirements.</jats:p>",
       "doi": "10.1093/rfs/hhaf113",
       "url": "https://doi.org/10.1093/rfs/hhaf113"
     },
@@ -3723,16 +3743,6 @@
       "url": "https://doi.org/10.1086/739323"
     },
     {
-      "title": "The End of the American Dream? Inequality and Segregation in US Cities",
-      "authors": "Alessandra Fogli, Veronica Guerrieri, Mark Ponder, Marta Prato",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739328",
-      "url": "https://doi.org/10.1086/739328"
-    },
-    {
       "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
       "authors": "Michael Bailey, Drew Johnston, Theresa Kuchler, Martin Koenen, Dominic Russel, Johannes Stroebel",
       "journal": "Journal of Political Economy",
@@ -4961,26 +4971,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>I use the setting of generative AI (GenAI) to examine how processing tool interactivity affects investors’ self‐assessments of ability and willingness to invest. Although GenAI can help investors process financial information, I theorize that the interactive nature of GenAI blurs the boundaries between investors’ own abilities and those of GenAI, prompting investors to discount their reliance on GenAI and misattribute its abilities to themselves. I rely on the advantages of a laboratory setting to disentangle the interactive element of GenAI from the mere presence of GenAI assistance. Across three experiments, I find that the interactivity underpinning GenAI heightens investors’ self‐assessments of their own abilities and increases their willingness to invest, despite this interactivity not improving, and in fact hindering, their actual processing of information provided by GenAI. My study thus highlights one potential cost of using GenAI and other highly interactive processing tools.</jats:p>",
       "doi": "10.1111/1475-679x.70017",
       "url": "https://doi.org/10.1111/1475-679x.70017"
-    },
-    {
-      "title": "The Persistence of Miscalibration",
-      "authors": "Michael Boutros, Itzhak Ben-David, John R Graham, Campbell R Harvey, John W Payne",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze a panel of over 28,400 S&amp;P 500 return forecasts by CFOs to examine whether the extent of CFOs’ miscalibration—providing forecast confidence intervals that are too narrow—decreases over time. We find no improvement with task repetition nor evidence of learning, that is, no improvement in response to past performance. Across CFOs, miscalibration appears to be a persistent personal trait. We find some evidence that the degree of miscalibration is related to birth cohort and stock market familiarity.</jats:p>",
-      "doi": "10.1093/rfs/hhaf070",
-      "url": "https://doi.org/10.1093/rfs/hhaf070"
-    },
-    {
-      "title": "Fragility of Safe Asset Markets",
-      "authors": "Thomas M Eisenbach, Gregory Phelan",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In March 2020, safe asset markets experienced surprising and unprecedented price crashes. We explain how strategic investor behavior can create such market fragility in a model with investors valuing safety, investors valuing liquidity, and constrained dealers. While safety investors and liquidity investors can form a symbiotic relationship with offsetting trades during times of stress, strategic interactions among liquidity investors harbor the potential for self-fulfilling fragility. When the market is fragile, standard flight-to-safety can have a destabilizing effect and trigger a “dash-for-cash” by liquidity investors. Well-designed policy interventions can reduce market fragility ex ante and restore orderly functioning ex post.</jats:p>",
-      "doi": "10.1093/rfs/hhaf064",
-      "url": "https://doi.org/10.1093/rfs/hhaf064"
     }
   ]
 }
