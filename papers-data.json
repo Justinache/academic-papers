@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T04:11:58.383Z",
+  "lastUpdated": "2026-03-13T04:14:18.475Z",
   "count": 497,
   "papers": [
     {
@@ -253,6 +253,26 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in US History",
+      "authors": "Max Posch, Jonathan Schulz, Joseph Henrich",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-11",
+      "abstract": "",
+      "doi": "10.1086/739323",
+      "url": "https://doi.org/10.1086/739323"
+    },
+    {
+      "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
+      "authors": "Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, Dominic Russel, Johannes Stroebel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-11",
+      "abstract": "",
+      "doi": "10.1086/739335",
+      "url": "https://doi.org/10.1086/739335"
+    },
+    {
       "title": "The End of the American Dream? Inequality and Segregation in US Cities",
       "authors": "Alessandra Fogli, Veronica Guerrieri, Mark Ponder, Marta Prato",
       "journal": "Journal of Political Economy",
@@ -501,6 +521,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Banks often adjust their financial reporting in response to supervisory intervention. However, many banks operate under multiple supervisors with varying preferences. We examine how banks respond to such conflicting oversight within the European Banking Union, where the European Central Bank (ECB) is the central authority. The ECB’s Asset Quality Review revealed that its preferred asset valuations diverged from many banks’ IFRS-compliant practices that were previously accepted by local supervisors. Banks voluntarily aligned their reporting with the nonbinding preferences of the new central supervisor, although the adjustments varied across jurisdictions. Alignment was weaker when central and local supervisory objectives conflicted and stronger when joint supervision mitigated regulatory capture. Overall, these adjustments enhanced the informativeness of loan loss provisioning. With aligned reporting preferences across supervisory layers, the introduction of a central supervisor can thus significantly improve bank reporting and transparency, even without formal enforcement.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are available from the sources identified in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; G20; G21; G28.</jats:p>",
       "doi": "10.2308/tar-2023-0162",
       "url": "https://doi.org/10.2308/tar-2023-0162"
+    },
+    {
+      "title": "Antitrust Risk and Voluntary M&A Disclosure",
+      "authors": "Jun Oh",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101884",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101884"
+    },
+    {
+      "title": "Income Tax Over-Withholding and Household Investment Decisions",
+      "authors": "Xi Chen, Jungbae Kim, Ben Lourie, Chenqi Zhu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Over three-quarters of U.S. taxpayers receive federal tax refunds, largely due to income tax over-withholding. This study explores how over-withholding impacts investments by comparing individuals’ investment behavior following wage receipts and tax refunds. We find a significantly higher marginal propensity to invest out of wages than refunds, suggesting that over-withholding, which alters the labeling and timing of income, meaningfully influences financial decision-making. Our cross-sectional analysis indicates that the differential investment rates are more pronounced for individuals with automatic investment setups and lower financial sophistication. The difference cannot be fully explained by alternative explanations such as lack of awareness, fixed dollar investment goals, timing differences between wages and refunds, uncertainty of refunds, transaction costs, or the perception of refunds as additional windfall income. Our findings underscore the importance of considering behavioral factors in the formulation of tax policies and contribute to the accounting literature that examines taxes and investment behavior.</jats:p>",
+      "doi": "10.2308/tar-2024-0408",
+      "url": "https://doi.org/10.2308/tar-2024-0408"
     },
     {
       "title": "Indirect Persuasion",
@@ -1698,7 +1738,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central individuals, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central individuals were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony within multiethnic communities.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic-minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central people, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual-work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic-majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central people were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony in multiethnic communities.</jats:p>",
       "doi": "10.1093/qje/qjag001",
       "url": "https://doi.org/10.1093/qje/qjag001"
     },
@@ -3733,26 +3773,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70026"
     },
     {
-      "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in U.S. History",
-      "authors": "Max Posch, Jonathan Schulz, Joseph Henrich",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739323",
-      "url": "https://doi.org/10.1086/739323"
-    },
-    {
-      "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
-      "authors": "Michael Bailey, Drew Johnston, Theresa Kuchler, Martin Koenen, Dominic Russel, Johannes Stroebel",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-10-28",
-      "abstract": "",
-      "doi": "10.1086/739335",
-      "url": "https://doi.org/10.1086/739335"
-    },
-    {
       "title": "How Likely Is an Inflation Disaster?",
       "authors": "Jens Hilscher, Alon Raviv, Ricardo Reis",
       "journal": "Review of Financial Studies",
@@ -4951,26 +4971,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We examine whether and how common ownership affects Environmental, Social, and Governance (ESG) ratings—an important research question given the increasing use of these ratings in investment decisions and corporate evaluations. We find that companies with major shareholders in common with the rating agency (“sister firms”) tend to receive higher ESG ratings. When a company becomes a sister firm through a change in the rating agency's ownership structure, its rating from that agency is subsequently upgraded, whereas its ESG ratings from other agencies remain unchanged. Sister firms exhibit greater rating disagreements across agencies than other firms. The higher ESG ratings for sister firms are partly attributable to the transfer of immaterial positive ESG information through common owners. The common ownership effect is more pronounced when the owner can exert a greater influence on the rating agency. Moreover, sister firms with initially elevated ratings demonstrate poorer future ESG performance. Overall, our findings suggest that owners can affect ESG ratings of their portfolio companies in a way consistent with their influence and interest.</jats:p>",
       "doi": "10.1111/1475-679x.70016",
       "url": "https://doi.org/10.1111/1475-679x.70016"
-    },
-    {
-      "title": "High-Yield Debt Covenants and Their Real Effects",
-      "authors": "Falk Bräuning, Victoria Ivashina, Ali Ozdagli",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>High-yield debt, including leveraged loans, typically features incurrence or ′′cov-lite'' financial covenants. Unlike traditional maintenance covenants, incurrence covenants preserve equity control rights but impose specific contractual restrictions on the borrower once certain financial thresholds are crossed. Contrary to the prevailing view that incurrence covenants have limited practical impact, we document a substantial decline in investment when these covenants are triggered. During economic downturns, these provisions can become binding well before default or bankruptcy. Our findings reveal a novel channel through which economic shocks propagate, driven by incurrence-based contractual restrictions that are widespread in the highly leveraged corporate sector.</jats:p>",
-      "doi": "10.1093/rfs/hhaf069",
-      "url": "https://doi.org/10.1093/rfs/hhaf069"
-    },
-    {
-      "title": "Interactivity and Illusions of Ability: How Using Generative AI Affects Investor Judgments",
-      "authors": "Joe Croom",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-09-11",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>I use the setting of generative AI (GenAI) to examine how processing tool interactivity affects investors’ self‐assessments of ability and willingness to invest. Although GenAI can help investors process financial information, I theorize that the interactive nature of GenAI blurs the boundaries between investors’ own abilities and those of GenAI, prompting investors to discount their reliance on GenAI and misattribute its abilities to themselves. I rely on the advantages of a laboratory setting to disentangle the interactive element of GenAI from the mere presence of GenAI assistance. Across three experiments, I find that the interactivity underpinning GenAI heightens investors’ self‐assessments of their own abilities and increases their willingness to invest, despite this interactivity not improving, and in fact hindering, their actual processing of information provided by GenAI. My study thus highlights one potential cost of using GenAI and other highly interactive processing tools.</jats:p>",
-      "doi": "10.1111/1475-679x.70017",
-      "url": "https://doi.org/10.1111/1475-679x.70017"
     }
   ]
 }
