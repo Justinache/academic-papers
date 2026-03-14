@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-13T04:14:18.475Z",
-  "count": 497,
+  "lastUpdated": "2026-03-14T04:12:14.740Z",
+  "count": 496,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -4961,16 +4961,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop an asymptotic framework for conducting inference on continuous-time asset pricing models using high-frequency returns over an increasing time horizon. Our study focuses on the identification and estimation of risk premiums associated with the continuous component and jumps of various size brackets. We extend the classical Fama-MacBeth regression from the discrete-time setting to a continuous-time factor model, incorporating general dynamics for factors, idiosyncratic components, and factor loadings. Our empirical analysis of U.S. equities, foreign exchange, and commodities underscores the distinct significance of continuous and jump risk premiums for the specific factors constructed within each asset class in determining expected returns.</jats:p>",
       "doi": "10.1093/rfs/hhaf072",
       "url": "https://doi.org/10.1093/rfs/hhaf072"
-    },
-    {
-      "title": "The Determinants of ESG Ratings: Rater Ownership Matters",
-      "authors": "Dragon Yongjun Tang, Jiali Yan, Yaqiong Yao",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-09-13",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We examine whether and how common ownership affects Environmental, Social, and Governance (ESG) ratings—an important research question given the increasing use of these ratings in investment decisions and corporate evaluations. We find that companies with major shareholders in common with the rating agency (“sister firms”) tend to receive higher ESG ratings. When a company becomes a sister firm through a change in the rating agency's ownership structure, its rating from that agency is subsequently upgraded, whereas its ESG ratings from other agencies remain unchanged. Sister firms exhibit greater rating disagreements across agencies than other firms. The higher ESG ratings for sister firms are partly attributable to the transfer of immaterial positive ESG information through common owners. The common ownership effect is more pronounced when the owner can exert a greater influence on the rating agency. Moreover, sister firms with initially elevated ratings demonstrate poorer future ESG performance. Overall, our findings suggest that owners can affect ESG ratings of their portfolio companies in a way consistent with their influence and interest.</jats:p>",
-      "doi": "10.1111/1475-679x.70016",
-      "url": "https://doi.org/10.1111/1475-679x.70016"
     }
   ]
 }
