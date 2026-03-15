@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T04:12:14.740Z",
+  "lastUpdated": "2026-03-15T04:34:15.373Z",
   "count": 496,
   "papers": [
     {
@@ -251,6 +251,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Asset Overhang and Technological Change",
+      "authors": "Hans Degryse, Tarik Roukny, Joris Tielens",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Investors face reduced incentives to finance technological change that devalues their legacy investments. We formalize this “asset overhang” and apply our framework to the climate-banking nexus. Leveraging (1) firm-level data on green innovation and diffusion and (2) the sets of product and technology market peers, we implement a shift-share design that identifies banks’ credit facilities impacted by green firm activities. We find that green firms imposing an asset overhang across all lenders are 3 to 7 percentage points more likely to report tight credit supply conditions. The presence of legacy-free investors mitigates the asset overhang problem, thereby facilitating technological change.</jats:p>",
+      "doi": "10.1093/rfs/hhaf103",
+      "url": "https://doi.org/10.1093/rfs/hhaf103"
     },
     {
       "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in US History",
@@ -4951,16 +4961,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper explores U.S. public firms’ cryptocurrency holdings and accounting practices from 2013 to 2022 against the backdrop of the recently enacted crypto accounting rule, ASU 2023‐08. Descriptive analyses suggest exponential growth in corporate crypto holdings and significant variation in crypto accounting practices, underscoring the rule's necessity. Hypothesis tests using the pre‐rule data reveal three insights with direct relevance to the rule. First, firms appear to view crypto assets more akin to investments than intangible assets, consistent with the rule's mandate of the fair value model. Second, Big 4 auditors steer firms toward the impairment model and less detailed presentation choices. This conservative approach is unlikely to meet the new rule's goal of providing the most decision‐useful information. Third, increased liquidity of crypto markets prompts the use of the fair value model and a more detailed presentation, consistent with the rule's focus on more actively traded tokens. However, within our sample, we find some evidence consistent with fair value reporting increasing stock return volatility and no evidence that it enhances earnings informativeness.</jats:p>",
       "doi": "10.1111/1475-679x.70018",
       "url": "https://doi.org/10.1111/1475-679x.70018"
-    },
-    {
-      "title": "Continuous-Time Fama-MacBeth Regressions",
-      "authors": "Yacine Aït-Sahalia, Jean Jacod, Dacheng Xiu",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop an asymptotic framework for conducting inference on continuous-time asset pricing models using high-frequency returns over an increasing time horizon. Our study focuses on the identification and estimation of risk premiums associated with the continuous component and jumps of various size brackets. We extend the classical Fama-MacBeth regression from the discrete-time setting to a continuous-time factor model, incorporating general dynamics for factors, idiosyncratic components, and factor loadings. Our empirical analysis of U.S. equities, foreign exchange, and commodities underscores the distinct significance of continuous and jump risk premiums for the specific factors constructed within each asset class in determining expected returns.</jats:p>",
-      "doi": "10.1093/rfs/hhaf072",
-      "url": "https://doi.org/10.1093/rfs/hhaf072"
     }
   ]
 }
