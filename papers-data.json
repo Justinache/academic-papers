@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T04:34:15.373Z",
+  "lastUpdated": "2026-03-16T04:42:02.518Z",
   "count": 496,
   "papers": [
     {
@@ -251,6 +251,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Machine Learning and the Implementable Efficient Frontier",
+      "authors": "Theis Ingerslev Jensen, Bryan Kelly, Semyon Malamud, Lasse Heje Pedersen",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-14",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.” (JEL C5, C61, G00, G11, G12)</jats:p>",
+      "doi": "10.1093/rfs/hhag022",
+      "url": "https://doi.org/10.1093/rfs/hhag022"
     },
     {
       "title": "Asset Overhang and Technological Change",
@@ -4951,16 +4961,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the United States between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt, and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize a substantial share of the observed housing and debt boom.</jats:p>",
       "doi": "10.1093/rfs/hhaf062",
       "url": "https://doi.org/10.1093/rfs/hhaf062"
-    },
-    {
-      "title": "Accounting for Cryptocurrencies*",
-      "authors": "Chelsea M. Anderson, Vivian W. Fang, James R. Moon, Jonathan E. Shipman",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-09-15",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper explores U.S. public firms’ cryptocurrency holdings and accounting practices from 2013 to 2022 against the backdrop of the recently enacted crypto accounting rule, ASU 2023‐08. Descriptive analyses suggest exponential growth in corporate crypto holdings and significant variation in crypto accounting practices, underscoring the rule's necessity. Hypothesis tests using the pre‐rule data reveal three insights with direct relevance to the rule. First, firms appear to view crypto assets more akin to investments than intangible assets, consistent with the rule's mandate of the fair value model. Second, Big 4 auditors steer firms toward the impairment model and less detailed presentation choices. This conservative approach is unlikely to meet the new rule's goal of providing the most decision‐useful information. Third, increased liquidity of crypto markets prompts the use of the fair value model and a more detailed presentation, consistent with the rule's focus on more actively traded tokens. However, within our sample, we find some evidence consistent with fair value reporting increasing stock return volatility and no evidence that it enhances earnings informativeness.</jats:p>",
-      "doi": "10.1111/1475-679x.70018",
-      "url": "https://doi.org/10.1111/1475-679x.70018"
     }
   ]
 }
