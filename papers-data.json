@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-16T04:42:02.518Z",
-  "count": 496,
+  "lastUpdated": "2026-03-17T04:20:26.289Z",
+  "count": 497,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -21,6 +21,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104274",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104274"
+    },
+    {
+      "title": "Face-to-face social interactions and local informational advantage",
+      "authors": "Robin Y. Lee",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104280",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104280"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -253,11 +263,21 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
+      "authors": "Sangmin S. Oh, Ishita Sen, Ana‐maria Tenekedjieva",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-03-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Homeowners insurance is central to managing the rising losses from climate‐related disasters. We show that insurance premiums are subject to starkly different regulations across states, creating persistent cross‐subsidies and price distortions. We employ states' regulatory rules in an instrumental variable estimation and a border discontinuity design to show insurers do not adjust rates in highly regulated states and compensate by raising rates in less regulated states. Rates and risks diverge in the long run, distorting cross‐state risk‐sharing and increasing insurer exits from highly regulated states. We argue these patterns stem from the interactions between rate regulation and insurers' financing constraints.</jats:p>",
+      "doi": "10.1111/jofi.70029",
+      "url": "https://doi.org/10.1111/jofi.70029"
+    },
+    {
       "title": "Machine Learning and the Implementable Efficient Frontier",
       "authors": "Theis Ingerslev Jensen, Bryan Kelly, Semyon Malamud, Lasse Heje Pedersen",
       "journal": "Review of Financial Studies",
       "field": "Finance",
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.” (JEL C5, C61, G00, G11, G12)</jats:p>",
       "doi": "10.1093/rfs/hhag022",
       "url": "https://doi.org/10.1093/rfs/hhag022"
@@ -4951,16 +4971,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Professional house price forecast data are consistent with a rational model where agents must learn about the parameters of the house price growth process and the underlying state of the housing market. Slow learning about the long-run mean generates overreaction to forecast revisions and a modest response of forecasts to lagged realizations. Heterogeneity in signals and priors about the long-run mean helps the model account for cross-sectional dispersion in forecasts. Introducing behavioral frictions helps improve the model’s predictions for short-horizon overreaction and dispersion. Using a cross-section of forecasters and a term structure of forecasts are crucial for inference.</jats:p>",
       "doi": "10.1093/rfs/hhaf073",
       "url": "https://doi.org/10.1093/rfs/hhaf073"
-    },
-    {
-      "title": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
-      "authors": "Moritz Drechsel-Grau, Fabian Greimel",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the United States between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt, and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize a substantial share of the observed housing and debt boom.</jats:p>",
-      "doi": "10.1093/rfs/hhaf062",
-      "url": "https://doi.org/10.1093/rfs/hhaf062"
     }
   ]
 }
