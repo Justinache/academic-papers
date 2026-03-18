@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-17T04:20:26.289Z",
-  "count": 497,
+  "lastUpdated": "2026-03-18T04:27:30.247Z",
+  "count": 498,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -31,6 +31,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104280",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104280"
+    },
+    {
+      "title": "Past is prologue: Inference from the cross section of returns around an event",
+      "authors": "Jonathan B. Cohn, Travis L. Johnson, Zack Liu, Malcolm I. Wardlaw",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104278",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104278"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -748,7 +758,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-02-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the impact of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977 - 1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories within a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, employing a “movers design,” we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced report higher education than their siblings who stayed behind, but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effect of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977–1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories in a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, using a movers design, we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced people report higher education than their siblings who stayed behind but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.</jats:p>",
       "doi": "10.1093/qje/qjag009",
       "url": "https://doi.org/10.1093/qje/qjag009"
     },
