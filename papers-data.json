@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-18T04:27:30.247Z",
-  "count": 498,
+  "lastUpdated": "2026-03-19T04:25:21.953Z",
+  "count": 497,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -1538,7 +1538,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021-2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policymakers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021–2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policy makers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</jats:p>",
       "doi": "10.1093/qje/qjag007",
       "url": "https://doi.org/10.1093/qje/qjag007"
     },
@@ -4971,16 +4971,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Has the dominance of the dollar in global trade rendered monetary policy ineffective? An emerging view contends that if a country invoices its exports in dollars, exchange rates cannot stabilize economic activity, as the classical expenditure-switching channel is muted. This view rests on the premise that export prices are sticky in dollars, breaking the link between export demand and depreciations. But this assumption is not borne out by the data: goods priced in dollars tend to have more flexible prices, along with higher elasticities of substitution. We propose a model with more realistic assumptions and show that even with dollar pricing, depreciating the currency by loosening monetary policy can still boost exports and activity materially. The limit to any expansion is not demand, but supply capacity. We also show that low exchange rate pass-through to dollar prices is not informative about price stickiness. The price response to exchange rates is small when demand elasticities are high, even with flexible prices: low pass-through is an equilibrium result, not evidence of a nominal friction.</jats:p>",
       "doi": "10.1093/qje/qjaf043",
       "url": "https://doi.org/10.1093/qje/qjaf043"
-    },
-    {
-      "title": "Understanding Rationality and Disagreement in House Price Expectations",
-      "authors": "Zigang Li, Stijn Van Nieuwerburgh, Wang Renxuan",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-18",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Professional house price forecast data are consistent with a rational model where agents must learn about the parameters of the house price growth process and the underlying state of the housing market. Slow learning about the long-run mean generates overreaction to forecast revisions and a modest response of forecasts to lagged realizations. Heterogeneity in signals and priors about the long-run mean helps the model account for cross-sectional dispersion in forecasts. Introducing behavioral frictions helps improve the model’s predictions for short-horizon overreaction and dispersion. Using a cross-section of forecasters and a term structure of forecasts are crucial for inference.</jats:p>",
-      "doi": "10.1093/rfs/hhaf073",
-      "url": "https://doi.org/10.1093/rfs/hhaf073"
     }
   ]
 }
