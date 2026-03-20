@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-19T04:25:21.953Z",
-  "count": 497,
+  "lastUpdated": "2026-03-20T04:16:11.250Z",
+  "count": 500,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -271,6 +271,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "US Public Debt and Safe Asset Market Power",
+      "authors": "Jason Choi, Rishabh Kirpalani, Diego J. Perez",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-19",
+      "abstract": "",
+      "doi": "10.1086/739824",
+      "url": "https://doi.org/10.1086/739824"
+    },
+    {
+      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
+      "authors": "Rong Hai, James Heckman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-19",
+      "abstract": "",
+      "doi": "10.1086/739828",
+      "url": "https://doi.org/10.1086/739828"
     },
     {
       "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
@@ -591,6 +611,36 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Over three-quarters of U.S. taxpayers receive federal tax refunds, largely due to income tax over-withholding. This study explores how over-withholding impacts investments by comparing individuals’ investment behavior following wage receipts and tax refunds. We find a significantly higher marginal propensity to invest out of wages than refunds, suggesting that over-withholding, which alters the labeling and timing of income, meaningfully influences financial decision-making. Our cross-sectional analysis indicates that the differential investment rates are more pronounced for individuals with automatic investment setups and lower financial sophistication. The difference cannot be fully explained by alternative explanations such as lack of awareness, fixed dollar investment goals, timing differences between wages and refunds, uncertainty of refunds, transaction costs, or the perception of refunds as additional windfall income. Our findings underscore the importance of considering behavioral factors in the formulation of tax policies and contribute to the accounting literature that examines taxes and investment behavior.</jats:p>",
       "doi": "10.2308/tar-2024-0408",
       "url": "https://doi.org/10.2308/tar-2024-0408"
+    },
+    {
+      "title": "Website cookies and voluntary disclosure",
+      "authors": "Junhao Liu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101885",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101885"
+    },
+    {
+      "title": "R&D Disclosure and Short-Term Investors: Evidence from Mandated Patent Disclosure",
+      "authors": "Iván Blanco, Sergio J. García, David Wehrheim",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the prospect of research and development (R&amp;D) disclosure affects a firm’s institutional investor base. Difference-in-differences (DiD) regressions around the enactment of the American Inventors Protection Act (AIPA), which mandated the public disclosure of patent applications within 18 months of filing, show that short-term institutional investors increase their holdings before public information is released, whereas long-term investors do not adjust their positions. This anticipatory shift is consistent with theoretical predictions that expected disclosure strengthens short-horizon investors’ incentives to acquire and trade on private information. We further document that stock prices reflect more firm-specific information leading up to disclosure and that improved liquidity at disclosure enables short-term investors to partially unwind their positions. Our paper offers novel evidence on how increases in the expected likelihood of disclosure shape investor behavior and the composition of firms’ investor bases.</jats:p>",
+      "doi": "10.2308/tar-2025-0077",
+      "url": "https://doi.org/10.2308/tar-2025-0077"
+    },
+    {
+      "title": "Do School Alma Mater Ties Between Engagement and Review Partners Threaten Audit Firm Quality Control? Evidence from Audit Adjustments",
+      "authors": "Divesh S. Sharma, Liansheng Wu, Qiuhang Xing",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Although audit regulators worldwide concur that the rigor of audit firms’ internal engagement quality reviews (EQRs) is paramount to an audit firm’s audit quality, they are concerned that relationships between audit engagement partner (AEP) and engagement review partner (ERP) working in the same firm can undermine these reviews. We utilize confidential proprietary ERP and audit adjustment data to investigate how school alma mater ties between AEPs and ERPs affect audit adjustments in China. Our results reveal that audit adjustments are significantly lower when an AEP and ERP share school ties. This effect is more pronounced when the ERP is less competent than and lacks authority over the AEP, when the ERP and AEP perform mutual reviews or previously coaudited a client, and when the AEP’s work is flawed. Finally, semistructured partner interviews corroborate our empirical findings and strengthen our practical and policy implications.</jats:p>\n                  <jats:p>Data Availability: These proprietary data were provided to us with the understanding that it would be used only for independent academic research. Our research team is obligated under nondisclosure and confidentiality conditions to not disclose or share the confidential information which includes all of the data received from the data providers of the Chinese government and not to report information in any article or presentation that would inadvertently reveal (including any potential link) the identity of the partners, firms, their characteristics, and the audit adjustment data. No other restrictions were imposed by the data providers regarding the use of the data purely for academic research purposes and in communicating the research findings. Other data not subject to this confidentiality nondisclosure are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41; M42.</jats:p>",
+      "doi": "10.2308/tar-2024-0070",
+      "url": "https://doi.org/10.2308/tar-2024-0070"
     },
     {
       "title": "Indirect Persuasion",
@@ -2923,16 +2973,6 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
     },
     {
-      "title": "US Public Debt and Safe Asset Market Power",
-      "authors": "Jason Choi, Rishabh Kirpalani, Diego J Perez",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739824",
-      "url": "https://doi.org/10.1086/739824"
-    },
-    {
       "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
       "authors": "Victor Gay, Paula Gobbi, Marc Goñi",
       "journal": "Journal of Political Economy",
@@ -2941,16 +2981,6 @@
       "abstract": "",
       "doi": "10.1086/739821",
       "url": "https://doi.org/10.1086/739821"
-    },
-    {
-      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
-      "authors": "Rong Hai, James Heckman",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739828",
-      "url": "https://doi.org/10.1086/739828"
     },
     {
       "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
