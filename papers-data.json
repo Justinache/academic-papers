@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-20T04:16:11.250Z",
-  "count": 500,
+  "lastUpdated": "2026-03-21T04:06:48.629Z",
+  "count": 501,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -41,6 +41,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104278",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104278"
+    },
+    {
+      "title": "Operational shorting and ETF liquidity provision",
+      "authors": "Richard B. Evans, Rabih Moussawi, Michael S. Pagano, John Sedunov",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104241",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104241"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -643,6 +653,56 @@
       "url": "https://doi.org/10.2308/tar-2024-0070"
     },
     {
+      "title": "The Value of Ratings: Evidence from Their Introduction in Securities Markets",
+      "authors": "Asaf Bernstein, Carola Frydman, Eric Hilt",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739333",
+      "url": "https://doi.org/10.1086/739333"
+    },
+    {
+      "title": "Making Information More Valuable",
+      "authors": "Mark Whitmeyer",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739326",
+      "url": "https://doi.org/10.1086/739326"
+    },
+    {
+      "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
+      "authors": "Zhongjian Lin, Francis Vella",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739329",
+      "url": "https://doi.org/10.1086/739329"
+    },
+    {
+      "title": "Automation and Polarization",
+      "authors": "Daron Acemoglu, Jonas Loebbing",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739330",
+      "url": "https://doi.org/10.1086/739330"
+    },
+    {
+      "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
+      "authors": "Patrick Baylis, Judson Boomhower",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739331",
+      "url": "https://doi.org/10.1086/739331"
+    },
+    {
       "title": "Indirect Persuasion",
       "authors": "Rahul Deb, Mallesh M. Pai, Maher Said",
       "journal": "Journal of Political Economy",
@@ -661,16 +721,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper shows that CEO’s trust enhances innovation within firms, providing a novel micro-foundation for the well-known trust-growth relationship. I build a new matched CEO-firm-patent dataset covering 5,753 CEOs in 3,598 US public firms and 700,000 patents during 2000–2011. I exploit variations in generalized trust across CEOs’ ethnic origins, inferred from their last names using de-anonymized historical censuses. Following CEO turnovers, a one standard deviation increase in CEO’s generalized trust is associated with 6% more future patents and 4–6% higher average patent quality, driven entirely by higher-quality patents. Text analysis of employee reviews shows that CEO’s trust enhances a firm’s trust culture. These results are consistent with insights from qualitative interviews suggesting that CEO’s trust and firm’s trust culture encourage researchers to undertake high-risk explorative R&amp;D. In addition, changes in CEO’s bilateral trust toward inventors in different countries have comparable effects on inventors’ patenting, controlling for CEO and other fixed effects.</jats:p>",
       "doi": "10.1093/qje/qjag013",
       "url": "https://doi.org/10.1093/qje/qjag013"
-    },
-    {
-      "title": "The Value of Ratings: Evidence from Their Introduction in Securities Markets",
-      "authors": "Asaf Bernstein, Carola Frydman, Eric Hilt",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-25",
-      "abstract": "",
-      "doi": "10.1086/739333",
-      "url": "https://doi.org/10.1086/739333"
     },
     {
       "title": "Efficiency and Redistribution in Environmental Policy: An Equilibrium Analysis of Agricultural Supply Chains",
@@ -1613,16 +1663,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag004"
     },
     {
-      "title": "Making Information More Valuable",
-      "authors": "Mark Whitmeyer",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-28",
-      "abstract": "",
-      "doi": "10.1086/739326",
-      "url": "https://doi.org/10.1086/739326"
-    },
-    {
       "title": "Monetary Policy, Inflation, and Crises: Evidence from History and Administrative Data",
       "authors": "Gabriel Jiménez, Dmitry Kuvshinov, José‐luis Peydró, Björn Richter",
       "journal": "Journal of Finance",
@@ -1683,16 +1723,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag005"
     },
     {
-      "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
-      "authors": "Zhongjian Lin, Francis Vella",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-23",
-      "abstract": "",
-      "doi": "10.1086/739329",
-      "url": "https://doi.org/10.1086/739329"
-    },
-    {
       "title": "The Impact of Bank Consolidation on Credit Supply and Performance",
       "authors": "Sergio Mayordomo, Nicola Pavanini, Emanuele Tarantino",
       "journal": "Review of Financial Studies",
@@ -1701,16 +1731,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Between 2009 and 2011, the Spanish banking system underwent a restructuring process based on savings banks’ consolidation. The program’s design allows us to study how banks’ consolidation affects credit supply and performance. We propose a quasi-experimental analysis showing that bank mergers restrict credit supply and set higher interest rates but also reject fewer applicants and report fewer nonperforming loans. We then estimate a structural model of credit in which banks set interest rates and lending standards. We find that, despite the relaxation in their lending standards, merged banks’ credit performance improved thanks to a significant drop in their screening costs.</jats:p>",
       "doi": "10.1093/rfs/hhaf107",
       "url": "https://doi.org/10.1093/rfs/hhaf107"
-    },
-    {
-      "title": "Automation and Polarization",
-      "authors": "Daron Acemoglu, Jonas Loebbing",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-22",
-      "abstract": "",
-      "doi": "10.1086/739330",
-      "url": "https://doi.org/10.1086/739330"
     },
     {
       "title": "Bank Monitoring with On‐Site Inspections",
@@ -1901,16 +1921,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how the assignment of intellectual property rights between inventors and their employers affects innovation. Incomplete contracting theories predict that stronger employer property rights reduce the threat that employee inventors hold up their employers, thereby affecting inventor and invention outcomes. We test these predictions using a U.S. appellate court ruling that shifted the assignment of property rights from inventors to their employers. Within‐employer‐year analyses demonstrate that affected inventors are less likely to retain patent rights, assign patents to new employers, or leave their current employer, all consistent with reduced inventor ability to hold up their employers. Due to the reduced possibility of hold‐up, affected inventors’ innovations are revealed more promptly when disclosed, draw from a broader set of prior patents, and spread more to subsequent patents. If affected inventors do leave their employer, they are more likely to relocate to unaffected states. Furthermore, employers affected by the ruling are more likely to locate their inventors in agglomeration economies and alter their innovation strategy by reallocating activity across states and expanding their innovation portfolios. Our collective evidence suggests that shifting intellectual property rights to employers affects inventor and invention outcomes by reducing the threat of employee hold‐up from the employer's perspective.</jats:p>",
       "doi": "10.1111/1475-679x.70035",
       "url": "https://doi.org/10.1111/1475-679x.70035"
-    },
-    {
-      "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
-      "authors": "Patrick Baylis, Judson Boomhower",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/739331",
-      "url": "https://doi.org/10.1086/739331"
     },
     {
       "title": "The Macroeconomic Consequences of Early Childhood Development Policies",
