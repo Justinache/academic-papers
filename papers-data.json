@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-21T04:06:48.629Z",
-  "count": 501,
+  "lastUpdated": "2026-03-22T04:22:22.578Z",
+  "count": 503,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -51,6 +51,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104241",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104241"
+    },
+    {
+      "title": "Did pandemic relief fraud inflate house prices?",
+      "authors": "John M. Griffin, Samuel Kruger, Prateek Mahajan",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104275",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104275"
+    },
+    {
+      "title": "Foundational processes and growth",
+      "authors": "Wing Wah Tham, Salomé Baslandze, Elvira Sojli, Leo Liu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104276",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104276"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
