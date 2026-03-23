@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-22T04:22:22.578Z",
-  "count": 503,
+  "lastUpdated": "2026-03-23T04:30:30.759Z",
+  "count": 502,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -838,7 +838,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-02-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study “Algorithmic Market Makers” (AMs) that use Q-learning algorithms to set prices for a risky asset. We find that while AMs successfully adapt to adverse selection, they struggle to learn competitive pricing strategies. This failure is driven by limited experimentation and noisy feedback regarding the profitability of undercutting a competitor. Consequently, an increase in AMs’ profit volatility tends to result in less competitive market outcomes. These features leave identifiable patterns: for example, AMs earn higher rents in the absence of adverse selection, and their bid-ask spreads respond asymmetrically to symmetric shocks to their costs. (JEL D43, G10, G14)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study “Algorithmic Market Makers” (AMs) that use Q-learning algorithms to set prices for a risky asset. We find that while AMs successfully adapt to adverse selection, they struggle to learn competitive pricing strategies. This failure is driven by limited experimentation and noisy feedback regarding the profitability of undercutting a competitor. Consequently, an increase in AMs’ profit volatility tends to result in less competitive market outcomes. These features leave identifiable patterns: for example, AMs earn higher rents in the absence of adverse selection, and their bid-ask spreads respond asymmetrically to symmetric shocks to their costs.</jats:p>",
       "doi": "10.1093/rfs/hhag010",
       "url": "https://doi.org/10.1093/rfs/hhag010"
     },
@@ -1678,7 +1678,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-01-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Fraud indicators within the Paycheck Protection Program (PPP), a major COVID relief program, are highly geographically concentrated. ZIP codes and counties with high rates of suspicious PPP loans are strongly social connected, with evidence that fraud spreads spatially over time through social networks. Individuals in suspicious social media groups have higher rates of PPP fraud, and socially connected ZIP codes frequently use the same specific FinTech lenders, consistent with social networks influencing detailed loan decisions. Our findings suggest that more proactive data analysis is needed for fraud prevention, detection, and prosecution to prevent the social spread of fraudulent schemes. (JEL G21, G23, G28, H12)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Fraud indicators within the Paycheck Protection Program (PPP), a major COVID relief program, are highly geographically concentrated. ZIP codes and counties with high rates of suspicious PPP loans are strongly socially connected, with evidence that fraud spreads spatially over time through social networks. Individuals in suspicious social media groups have higher rates of PPP fraud, and socially connected ZIP codes frequently use the same specific FinTech lenders, consistent with social networks influencing detailed loan decisions. Our findings suggest that more proactive data analysis is needed for fraud prevention, detection, and prosecution to prevent the social spread of fraudulent schemes.</jats:p>",
       "doi": "10.1093/rfs/hhag004",
       "url": "https://doi.org/10.1093/rfs/hhag004"
     },
@@ -5021,16 +5021,6 @@
       "abstract": "",
       "doi": "10.1111/jofi.13487",
       "url": "https://doi.org/10.1111/jofi.13487"
-    },
-    {
-      "title": "Dollar Dominance and the Transmission of Monetary Policy",
-      "authors": "Michael McLeay, Silvana Tenreyro",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-09-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Has the dominance of the dollar in global trade rendered monetary policy ineffective? An emerging view contends that if a country invoices its exports in dollars, exchange rates cannot stabilize economic activity, as the classical expenditure-switching channel is muted. This view rests on the premise that export prices are sticky in dollars, breaking the link between export demand and depreciations. But this assumption is not borne out by the data: goods priced in dollars tend to have more flexible prices, along with higher elasticities of substitution. We propose a model with more realistic assumptions and show that even with dollar pricing, depreciating the currency by loosening monetary policy can still boost exports and activity materially. The limit to any expansion is not demand, but supply capacity. We also show that low exchange rate pass-through to dollar prices is not informative about price stickiness. The price response to exchange rates is small when demand elasticities are high, even with flexible prices: low pass-through is an equilibrium result, not evidence of a nominal friction.</jats:p>",
-      "doi": "10.1093/qje/qjaf043",
-      "url": "https://doi.org/10.1093/qje/qjaf043"
     }
   ]
 }
