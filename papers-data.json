@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-23T04:30:30.759Z",
-  "count": 502,
+  "lastUpdated": "2026-03-24T04:21:22.472Z",
+  "count": 503,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -301,6 +301,36 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Technology Sophistication Across Establishments",
+      "authors": "Xavier Cirera, Diego Comin, Marcio Cruz",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-03-23",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study technology sophistication using a novel approach that measures the sophistication of the most advanced (MAX) and the most widely used (MOST) technologies in each of the key business functions within establishments. Using data from over 21,000 establishments across 15 countries, we find that establishments generally underutilize the most sophisticated technologies available within a business function. These MAX-MOST gaps are persistent and strongly associated with productivity both across establishments and countries. At the establishment level, there is substantial variation in both MAX and MOST, with MOST showing a more skewed distribution. MAX and MOST follow different lifecycle patterns in low-income countries and among small establishments, and they exhibit different associations with several establishment characteristics and performance indicators. This evidence underscores the different nature of the technology upgrading processes that drive MAX and MOST.</jats:p>",
+      "doi": "10.1093/qje/qjag018",
+      "url": "https://doi.org/10.1093/qje/qjag018"
+    },
+    {
+      "title": "MAking The Invisible Hand Visible: Managers and The Allocation of Workers to Jobs",
+      "authors": "Virginia Minni",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-03-23",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do managers matter for firm performance? This paper provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data covers 200,000 white-collar workers and 30,000 managers over 11 years in 100 countries. I identify good managers by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers and generate large and persistent gains in workers’ career progression and productivity. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.</jats:p>",
+      "doi": "10.1093/qje/qjag017",
+      "url": "https://doi.org/10.1093/qje/qjag017"
+    },
+    {
+      "title": "Consumer Choice and Corporate Bankruptcy",
+      "authors": "Samuel Antill, Megan Hunter",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-03-23",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We estimate the indirect costs of corporate bankruptcy associated with lost customers. In incentivized experiments, randomly informing consumers about a firm's Chapter 11 reorganization lowers their willingness to pay for the firm's products by 17% to 28%. Consumers worry that bankruptcy could reduce product quality or prevent future interactions with the bankrupt firm. On average, 38% of consumers are aware of major bankruptcies. Using our experiments to estimate a structural model, we show that these indirect costs of bankruptcy amount to 12% to 15% of a firm's value. We show that these costs are unlikely to arise before bankruptcy.</jats:p>",
+      "doi": "10.1111/jofi.70030",
+      "url": "https://doi.org/10.1111/jofi.70030"
     },
     {
       "title": "US Public Debt and Safe Asset Market Power",
@@ -623,7 +653,7 @@
       "url": "https://doi.org/10.2308/tar-2023-0162"
     },
     {
-      "title": "Antitrust Risk and Voluntary M&A Disclosure",
+      "title": "Antitrust risk and voluntary M&A disclosure",
       "authors": "Jun Oh",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1668,7 +1698,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-01-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies the effects of automation in a task-based economy in which some jobs pay workers rents—wages above their outside option. We show that automation targets high-rent tasks, dissipating rents, amplifying wage losses, and reducing within-group wage dispersion in exposed groups. This form of rent dissipation is inefficient and offsets the productivity gains from automation. Using US data from 1980 to 2016, we find evidence of sizable rent dissipation and reduced within-group wage dispersion due to automation. Automation accounts for 52% of the increase in between-group inequality since 1980, with rent dissipation explaining one-fifth of this total. Our estimates imply that inefficient rent dissipation has offset 60–90% of the productivity gains from automation over this period.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the effects of automation in a task-based economy in which some jobs pay workers rents—wages above workers' outside options. We show that automation targets high-rent tasks, dissipating rents, amplifying wage losses, and reducing within-group wage dispersion in exposed groups. This form of rent dissipation is inefficient and offsets the productivity gains from automation. Using U.S. data from 1980 to 2016, we find evidence of sizable rent dissipation and reduced within-group wage dispersion due to automation. Automation accounts for 52% of the increase in between-group inequality since 1980, with rent dissipation explaining one-fifth of this total. Our estimates imply that inefficient rent dissipation has offset 60%–90% of the productivity gains from automation over this period.</jats:p>",
       "doi": "10.1093/qje/qjag006",
       "url": "https://doi.org/10.1093/qje/qjag006"
     },
@@ -5001,26 +5031,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper estimates willingness to pay (WTP) for carbon mitigation from demand for carbon offsets in a field experiment with an online supermarket. The experiment randomizes whether the firm subsidizes the price of the offset or matches the offset’s impact on carbon mitigation. Consumers are price-elastic but fully impact-inelastic, implying that they buy the offset but their WTP for the carbon it mitigates is zero. If the firm informs consumers that it contributes to the offset costs, WTP increases to 16 EUR/tCO$ {}_{2} $. A complementary survey shows that consumers’ stated WTP is 238 EUR/tCO$ {}_{2} $, far above their revealed preferences.</jats:p>",
       "doi": "10.1093/rfs/hhaf054",
       "url": "https://doi.org/10.1093/rfs/hhaf054"
-    },
-    {
-      "title": "Vanguard: Black Veterans and Civil Rights After World War I",
-      "authors": "Desmond Ang, Sahil Chinoy",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-09-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Nearly 400,000 Black men were drafted into the National Army during World War I, where they toiled primarily as menial laborers in segregated units. Leveraging novel variation from the World War I draft lottery and millions of digitized military and NAACP records, we document the pioneering role these men played in the early civil rights movement. Relative to observably similar individuals from the same draft board, Black men randomly inducted into the Army were significantly more likely to join the nascent NAACP and become prominent community leaders in the New Negro era. We find little evidence that these effects are explained by migration or improved socioeconomic status. Rather, corroborating historical accounts about the catalyzing influence of institutional racism in the military, we show that increased civic activism was driven by soldiers who experienced the most discriminatory treatment while serving their country.</jats:p>",
-      "doi": "10.1093/qje/qjaf046",
-      "url": "https://doi.org/10.1093/qje/qjaf046"
-    },
-    {
-      "title": "Tyler Muir: Winner of the 2025 Fischer Black Prize",
-      "authors": "Arvind Krishnamurthy",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-09-23",
-      "abstract": "",
-      "doi": "10.1111/jofi.13487",
-      "url": "https://doi.org/10.1111/jofi.13487"
     }
   ]
 }
