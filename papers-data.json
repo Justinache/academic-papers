@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-24T04:21:22.472Z",
-  "count": 503,
+  "lastUpdated": "2026-03-25T04:23:22.487Z",
+  "count": 507,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -71,6 +71,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104276",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104276"
+    },
+    {
+      "title": "Cashless payment and financial inclusion",
+      "authors": "Shumiao Ouyang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104277",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104277"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -303,6 +313,26 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "Risk Managers in Banks",
+      "authors": "Matthias Efing, Patrick Kampkötter, Vincent Maurin",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Some bank regulators require that performance bonuses for risk managers (RMs) and for employees in front offices (FOs) be linked to distinct performance metrics, as correlated pay incentives could lead RMs to rubber-stamp risky investments. We theoretically show that a positive correlation between FOs and RMs is optimal for banks, but can be socially excessive in leveraged institutions. Using data from German bank employees, we show empirically that incentive pay is indeed positively correlated between RMs and FOs. Consistent with our predictions, bonus correlations are higher in banks with higher leverage and weaker performance during the Great Financial Crisis.</jats:p>",
+      "doi": "10.1093/rfs/hhag012",
+      "url": "https://doi.org/10.1093/rfs/hhag012"
+    },
+    {
+      "title": "Debt Maturity Management",
+      "authors": "Yunzhi Hu, Felipe Varas, Chao Ying",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how a borrower issues long- and short-term debt in response to shocks to the fundamental value. Short-term debt protects creditors from future dilution and incentivizes the borrower to reduce leverage after small negative shocks. Long-term debt postpones default and allows the borrower time to recover after large negative shocks. When borrowers are in distress, they rely on short-term debt; however, they issue both types of debt during more normal periods. Our model generates novel implications for the dynamic adjustment of debt maturities. (JEL G32, G33)</jats:p>",
+      "doi": "10.1093/rfs/hhag007",
+      "url": "https://doi.org/10.1093/rfs/hhag007"
+    },
+    {
       "title": "Technology Sophistication Across Establishments",
       "authors": "Xavier Cirera, Diego Comin, Marcio Cruz",
       "journal": "Quarterly Journal of Economics",
@@ -441,6 +471,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This paper studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top-10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next, we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
       "doi": "10.1093/qje/qjag015",
       "url": "https://doi.org/10.1093/qje/qjag015"
+    },
+    {
+      "title": "Too Many Managers: The Strategic Use of Titles to Avoid Overtime Payments",
+      "authors": "Lauren H Cohen, Umit G Gurun, N Bugra Ozel",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-04",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find widespread evidence that firms avoid overtime payments by strategically assigning “managerial” titles. Exploiting the exemption threshold under the Fair Labor Standards Act (FLSA), we find managerial titles increase almost fivefold just above the overtime pay cutoff, including suspect listings, such as “Director of First Impressions” for a role equivalent to “Front-Desk Clerk.” Avoidance is higher when firms have more bargaining power and are financially constrained. It is also more common in occupations with volatile demand and unpredictable worker scheduling. Patterns align with litigation and Department of Labor enforcement. Firms avoid roughly 13.5% in compensation costs, hiring strategic “managers.” (JEL M51, M54, G30, G38)</jats:p>",
+      "doi": "10.1093/rfs/hhag016",
+      "url": "https://doi.org/10.1093/rfs/hhag016"
     },
     {
       "title": "Beyond Old Boys' Clubs: Financial Analysts' Utilization of Professional Connections",
