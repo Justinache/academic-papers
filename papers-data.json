@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T04:23:22.487Z",
-  "count": 507,
+  "lastUpdated": "2026-03-26T04:34:34.144Z",
+  "count": 508,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -311,6 +311,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
+      "authors": "Nicholas Vreugdenhil",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-25",
+      "abstract": "",
+      "doi": "10.1086/739827",
+      "url": "https://doi.org/10.1086/739827"
     },
     {
       "title": "Risk Managers in Banks",
@@ -791,6 +801,26 @@
       "abstract": "",
       "doi": "10.1086/739331",
       "url": "https://doi.org/10.1086/739331"
+    },
+    {
+      "title": "Effects of Mandatory Carbon Reporting on Greenwashing",
+      "authors": "Jody Grewal, Gordon Richardson, Jingjing Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the effects of mandatory environmental reporting on greenwashing. Our setting is a regulation in the United Kingdom requiring firms to report carbon emissions, or mandatory carbon reporting (MCR). Measuring greenwashing as the discrepancy between companies’ external carbon-related discussions in corporate social responsibility (CSR) reports and their underlying carbon performance, we find MCR leads to a decline in three types of greenwashing: excessive length, over-optimism, and vague commitments, relative to performance. MCR also curtails greenwashing in other (noncarbon) environmental disclosures, suggesting a spillover from MCR to firms’ broader environmental reporting. Drivers are shown to include higher expected reputational and regulatory risks for noncarbon issues after MCR, and a governance spillover, where the governance resources allocated to MCR also benefit noncarbon reporting.</jats:p>\n                  <jats:p>Data Availability: Data are publicly available from sources indicated in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; Q56; G38; Q54.</jats:p>",
+      "doi": "10.2308/tar-2023-0247",
+      "url": "https://doi.org/10.2308/tar-2023-0247"
+    },
+    {
+      "title": "Differential Communication and Local Information Advantage: Revelations from Translation Differences",
+      "authors": "Tina Lang, Lorien Stice-Lawrence, Yu Ting Forester Wong, T. J. Wong",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop an empirical proxy for companies’ differential communication to local and foreign investors using translation differences in public disclosure. We validate our proxy using a field experiment and then use this proxy to document that differential communication is associated with increases in information asymmetry between local and foreign investors. It is also linked to decreases in the relative information quality of foreign analysts, even when foreign demand for information is high and communication costs are low. These and a variety of supporting tests, including those using an alternative artificial intelligence (AI)-based measure of translation differences, suggest that firms engage in differential communication because of a preference for local investors and when responding to incentives to maximize stock price. This study highlights the role of differential communication as one driver of local information advantage in our setting.</jats:p>\n                  <jats:p>Data Availability: Most data are available from publicly available sources, as described in the paper. The field experiment data are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: G15; G14; M40; M41; G30.</jats:p>",
+      "doi": "10.2308/tar-2023-0274",
+      "url": "https://doi.org/10.2308/tar-2023-0274"
     },
     {
       "title": "Indirect Persuasion",
@@ -3083,16 +3113,6 @@
       "url": "https://doi.org/10.1086/739821"
     },
     {
-      "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
-      "authors": "Nicholas Vreugdenhil",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739827",
-      "url": "https://doi.org/10.1086/739827"
-    },
-    {
       "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
       "authors": "Elena Capatina, Michael P. Keane",
       "journal": "Journal of Political Economy",
@@ -5008,7 +5028,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-09-30",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>We study plaintiff law firms in corporate litigation, focusing on “star” firms that dominate settlement outcomes. Stars are associated with larger settlements; however, much of this effect is predicted by the defendant's litigation insurance coverage, suggesting assortative matching of stars with lawsuits that have ex ante larger expected payoffs. Moreover, stars charge higher fees for a given settlement size. Additional tests suggest that visibility and information asymmetry vis‐à‐vis less sophisticated plaintiffs help sustain the stars’ market share. These findings advance our understanding of corporate litigation and the agency relationship between plaintiff law firms and their clients.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study plaintiff law firms in corporate litigation, focusing on “star” firms that dominate settlement outcomes. Stars are associated with larger settlements; however, much of this effect is predicted by the defendant's litigation insurance coverage, suggesting assortative matching of stars with lawsuits that have ex ante larger expected payoffs. Moreover, stars charge higher fees for a given settlement size. Additional tests suggest that visibility and information asymmetry vis‐à‐vis less sophisticated plaintiffs help sustain the stars’ market share. These findings advance our understanding of corporate litigation and the agency relationship between plaintiff law firms and their clients.</jats:p>",
       "doi": "10.1111/1475-679x.70021",
       "url": "https://doi.org/10.1111/1475-679x.70021"
     },
@@ -5018,7 +5038,7 @@
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
       "date": "2025-09-30",
-      "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Research shows that investors acquire and process less firm‐specific information on days when many firms announce earnings (hereafter earnings clusters). We show that investors gather more <jats:italic>macroeconomic</jats:italic> information during earnings clusters, that this behavior is amplified during negative economic shocks and concurrent macroeconomic announcements, and that these information acquisition patterns have implications for equity valuations. Our findings are consistent with the benefit of extracting macroeconomic information from earnings announcements increasing during earnings clusters, which we confirm empirically. Thus, our results help explain why investors focus less on individual firm news during earnings clusters: They rationally redirect their attention to the most beneficial information.</jats:p>",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Research shows that investors acquire and process less firm‐specific information on days when many firms announce earnings (hereafter earnings clusters). We show that investors gather more\n                    <jats:italic>macroeconomic</jats:italic>\n                    information during earnings clusters, that this behavior is amplified during negative economic shocks and concurrent macroeconomic announcements, and that these information acquisition patterns have implications for equity valuations. Our findings are consistent with the benefit of extracting macroeconomic information from earnings announcements increasing during earnings clusters, which we confirm empirically. Thus, our results help explain why investors focus less on individual firm news during earnings clusters: They rationally redirect their attention to the most beneficial information.\n                  </jats:p>",
       "doi": "10.1111/1475-679x.70020",
       "url": "https://doi.org/10.1111/1475-679x.70020"
     },
@@ -5061,16 +5081,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper examines the impact of childhood cultural upbringing on financial advisor misconduct using novel data on advisors’ childhood addresses. We find that an advisor’s childhood location significantly predicts misconduct, with exposure to misbehavior culture during childhood playing a stronger role than exposure during adulthood. Addressing endogeneity concerns, we conduct several tests that support the notion that our results reflect cultural exposure rather than advisors’ employment choices, location preferences, local conditions, family characteristics, or clientele characteristics. Our findings underscore the formative influence of culture in shaping financial advisors’ personal ethics and could help us understand and prevent financial misconduct.</jats:p>",
       "doi": "10.1093/rfs/hhaf075",
       "url": "https://doi.org/10.1093/rfs/hhaf075"
-    },
-    {
-      "title": "Willingness to Pay for Carbon Mitigation: Field Evidence from the Market for Carbon Offsets",
-      "authors": "Matthias Rodemeier",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper estimates willingness to pay (WTP) for carbon mitigation from demand for carbon offsets in a field experiment with an online supermarket. The experiment randomizes whether the firm subsidizes the price of the offset or matches the offset’s impact on carbon mitigation. Consumers are price-elastic but fully impact-inelastic, implying that they buy the offset but their WTP for the carbon it mitigates is zero. If the firm informs consumers that it contributes to the offset costs, WTP increases to 16 EUR/tCO$ {}_{2} $. A complementary survey shows that consumers’ stated WTP is 238 EUR/tCO$ {}_{2} $, far above their revealed preferences.</jats:p>",
-      "doi": "10.1093/rfs/hhaf054",
-      "url": "https://doi.org/10.1093/rfs/hhaf054"
     }
   ]
 }
