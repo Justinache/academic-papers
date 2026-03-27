@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-26T04:34:34.144Z",
-  "count": 508,
+  "lastUpdated": "2026-03-27T04:35:37.459Z",
+  "count": 512,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -313,6 +313,36 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "The Broader Role of Venture Capital Due Diligence",
+      "authors": "Juanita González-Uribe, Robyn Klingler-Vidra, Su Wang, Xiang Yin",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Analyzing approximately 2,000 applicants to a U.K. seed fund, this study examines how venture capital (VC) due diligence affects startup outcomes independent of funding decisions. Leveraging random reviewer assignment, we find that due diligence increases 2-year growth but lowers continuation rates among nonfunded applicants, reflecting a dynamic of accelerated scaling or exit. Evidence points to a learning mechanism: due diligence exposes founders to advanced website technologies, prompting capability building in digital skills. Firms selected for due diligence adopt these technologies, even before raising external capital. The findings highlight VC due diligence as a formative process influencing startups beyond the funded few.</jats:p>",
+      "doi": "10.1093/rfs/hhag014",
+      "url": "https://doi.org/10.1093/rfs/hhag014"
+    },
+    {
+      "title": "The Covenant-Defeasance Option in Corporate Bonds",
+      "authors": "Carsten Bienz, Zsuzsanna Fluck, Karin S Thorburn",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Corporate bonds include restrictive covenants that may prevent firms from pursuing valuable growth opportunities ex post and are virtually impossible to renegotiate. We study a common but little-known contractual provision—the defeasance option—which allows issuers to immediately remove all covenants without retiring the bond. Our theoretical model predicts, and our empirical analysis confirms, that defeasance inclusion is more likely when covenants are numerous and issuers face financial constraints, uncertainty, and growth opportunities. We also show that investors require lower yields when defeasance is included in noncallable bonds, and higher yields in fixed-price callable bonds, where it raises call risk. (JEL G32, D86, G12)</jats:p>",
+      "doi": "10.1093/rfs/hhag027",
+      "url": "https://doi.org/10.1093/rfs/hhag027"
+    },
+    {
+      "title": "How Financial Markets Create Superstars",
+      "authors": "Spyros Terovitis, Vladimir Vladimirov",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>By aggregating information into stock prices, financial markets help guide the allocation of resources. We show that speculators without information about firms’ fundamentals can exploit this role of prices and profit from inflating firm valuations. Uninformed speculation is profitable because high valuations attract employees, business partners, and investors, creating value at targeted firms at the cost of diverting resources from better firms. Both large and small speculators, without pre-existing stock positions, can profit from uninformed speculation, particularly when targeting firms with moderate Q, operating in “normal” (neither hot nor cold) markets, and using performance pay or equity to attract stakeholders.</jats:p>",
+      "doi": "10.1093/rfs/hhag015",
+      "url": "https://doi.org/10.1093/rfs/hhag015"
+    },
+    {
       "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
       "authors": "Nicholas Vreugdenhil",
       "journal": "Journal of Political Economy",
@@ -321,6 +351,16 @@
       "abstract": "",
       "doi": "10.1086/739827",
       "url": "https://doi.org/10.1086/739827"
+    },
+    {
+      "title": "Excess Commitment in R&D",
+      "authors": "Marius Guenzel, Tong Liu",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-25",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that firms exhibit “excess” commitment to R&amp;D projects and examine its consequences for innovation outcomes. Using detailed data on pharmaceutical firms’ clinical trial projects, we find that trial delays, empirically uncorrelated with multiple project-quality measures, substantially reduce firms’ subsequent project-termination propensity. This result remains robust when we use variation in clinical trial site congestion to instrument for unexpected delays. Excess commitment intensifies when CEO compensation has greater stock-price sensitivity and the CEO is responsible for the project’s initiation. Our findings have broader implications: delay-driven commitment reduces new drug project initiations, with further evidence suggesting efficiency losses for firms.</jats:p>",
+      "doi": "10.1093/rfs/hhag026",
+      "url": "https://doi.org/10.1093/rfs/hhag026"
     },
     {
       "title": "Risk Managers in Banks",
@@ -868,7 +908,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-02-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper develops a New Keynesian model with sovereign default risk. Inflation is set by forward-looking firms, monetary policy is an interest rate rule, and the fiscal government borrows externally, long-term, with an option to default. In this framework, default risk creates inflation pressures through an expectations channel, and tight monetary policy disincentivizes fiscal overborrowing. The model sheds light on temporary inflation events in emerging-market data: short-lived spikes in inflation, spreads, and domestic policy rates. As spreads rise, firms increase their prices in expectation of higher future inflation and low consumption during default. Monetary policy tightens, which reduces inflation and helps bring spreads down by disciplining government borrowing. These monetary-fiscal interactions imply that delivering the flexible prices allocation may not be optimal for monetary policy.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article develops a New Keynesian model with sovereign default risk. Inflation is set by forward-looking firms, monetary policy is an interest rate rule, and the fiscal government borrows externally, long-term, with an option to default. In this framework, default risk creates inflation pressures through an expectations channel, and tight monetary policy disincentivizes fiscal overborrowing. The model sheds light on temporary inflation events in emerging-market data: short-lived spikes in inflation, spreads, and domestic policy rates. As spreads rise, firms increase their prices in expectation of higher future inflation and low consumption during default. Monetary policy tightens, which reduces inflation and helps bring spreads down by disciplining government borrowing. These monetary-fiscal interactions imply that delivering the flexible-prices allocation may not be optimal for monetary policy.</jats:p>",
       "doi": "10.1093/qje/qjag012",
       "url": "https://doi.org/10.1093/qje/qjag012"
     },
@@ -984,11 +1024,11 @@
     },
     {
       "title": "Disaggregated Economic Accounts",
-      "authors": "Asger Andersen, Kilian Huber, Niels Johannesen, Ludwig Straub, Emil Toft Vestergaard",
+      "authors": "Asger Lau Andersen, Kilian Huber, Niels Johannesen, Ludwig Straub, Emil Toft Vestergaard",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-02-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a system of disaggregated economic accounts. The system breaks down national accounting positions into bilateral flows between consistently defined groups of consumers (“consumer cells”), groups of producers (“producer cells”), the government, and the rest of the world. We disaggregate the full circular flow of money, including consumer spending, labor compensation, firm profits, trade in intermediates, foreign trade, and government transactions, while satisfying all national accounting identities. We implement the disaggregated system for small region-by-industry cells in Denmark and present stylized facts, including variation in domestic spending shares, local and urban bias in consumer spending, and a pattern of “triangular flows” across regions. Cell-level measures of “spending intensity” capture how much spending by a cell contributes to the income of cells experiencing unemployment after a shock. Using a general equilibrium model, we show that fiscal transfers are more effective in stimulating aggregate GDP when they target cells with high spending intensity on unemployed cells. Knowledge of the disaggregated economic accounts helps governments select more effective policies.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a system of disaggregated economic accounts. The system breaks down national accounting positions into bilateral flows between consistently defined groups of consumers (consumer cells), groups of producers (producer cells), the government, and the rest of the world. We disaggregate the full circular flow of money, including consumer spending, labor compensation, firm profits, intermediates trade, foreign trade, and government transactions, while satisfying all national accounting identities. We implement the disaggregated system for small region-by-industry cells in Denmark and present stylized facts, such as variation in domestic spending, local and urban bias in consumer spending, and a pattern of triangular flows across regions. Cell-level measures of spending intensity capture how much spending by a cell contributes to the income of cells experiencing unemployment after a shock. Using a general equilibrium model, we show that fiscal transfers raise aggregate GDP by more when they target cells with high spending intensity on unemployed cells. The disaggregated economic accounts help governments select more effective policies.</jats:p>",
       "doi": "10.1093/qje/qjag010",
       "url": "https://doi.org/10.1093/qje/qjag010"
     },
