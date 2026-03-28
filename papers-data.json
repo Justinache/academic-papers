@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-27T04:35:37.459Z",
-  "count": 512,
+  "lastUpdated": "2026-03-28T04:23:06.998Z",
+  "count": 514,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -81,6 +81,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104277",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104277"
+    },
+    {
+      "title": "Patents that match your standards: Firm-level evidence on competition, innovation and growth",
+      "authors": "Antonin Bergeaud, Julia Schmidt, Riccardo Zago",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104281",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -311,6 +321,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101832",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Private Private Information",
+      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-27",
+      "abstract": "",
+      "doi": "10.1086/739833",
+      "url": "https://doi.org/10.1086/739833"
+    },
+    {
+      "title": "The Effects of Gender Integration on Men: Evidence from the U.S. Military",
+      "authors": "Kyle Greenberg, Melanie Wasserman, E Anna Weber",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-03-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do men negatively respond when women first enter an occupation? We answer this question by studying the end of one of the final explicit occupational barriers to women in the U.S.: in 2016, the U.S. military opened all positions to women, including historically male-only combat occupations. We exploit the staggered integration of women into combat units to estimate the causal effects of the introduction of female colleagues on men’s job performance, behavior, and perceptions of workplace quality, using monthly administrative personnel records and rich survey responses. We find that integrating women into previously all-male units does not negatively affect men’s performance or behavioral outcomes, including retention, promotions, demotions, separations for misconduct, criminal investigations, and medical conditions. Most of our results are precise enough to rule out small detrimental effects. However, there is a wedge between men’s perceptions and performance. The integration of women causes a negative shift in male soldiers’ perceptions of workplace quality. The decline is driven by units integrated with female officers, likely arising from female officers increasing men’s awareness of workplace problems or from men’s dissatisfaction from working with women in positions of authority—even though men in such units show some performance gains. If male-dominated workplaces are reluctant to incorporate women due to expectations that men will become less productive, our paper provides evidence to weigh against that notion.</jats:p>",
+      "doi": "10.1093/qje/qjag016",
+      "url": "https://doi.org/10.1093/qje/qjag016"
     },
     {
       "title": "The Broader Role of Venture Capital Due Diligence",
@@ -3203,16 +3233,6 @@
       "url": "https://doi.org/10.1086/739834"
     },
     {
-      "title": "Private Private Information",
-      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739833",
-      "url": "https://doi.org/10.1086/739833"
-    },
-    {
       "title": "Seasonal variation in cash flows and the timing role of accruals",
       "authors": "Martin Kapons, David Veenman",
       "journal": "Journal of Accounting and Economics",
@@ -3478,7 +3498,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The difference between corporate bond yields at issuance and in secondary markets, the “issuance premium,” spikes in bad times, raising firms’ capital costs. Using new bond-level data and high-frequency variation in bond supply and demand, I estimate a model of primary markets with imperfectly elastic investors, endogenous bond supply, and underwriter frictions that quantifies drivers of issuance premiums. I find underwriters’ favoritism toward investors increases issuance premiums’ levels and cyclical variation. On the other hand, relatively elastic investors allow primary markets to absorb large bond issuances. My findings inform policies targeted at bond issuance markets. (JEL G23, E44, G32, E52)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The difference between corporate bond yields at issuance and in secondary markets, the “issuance premium,” spikes in bad times, raising firms’ capital costs. Using new bond-level data and high-frequency variation in bond supply and demand, I estimate a model of primary markets with imperfectly elastic investors, endogenous bond supply, and underwriter frictions that quantifies drivers of issuance premiums. I find underwriters’ favoritism toward investors increases issuance premiums’ levels and cyclical variation. On the other hand, relatively elastic investors allow primary markets to absorb large bond issuances. My findings inform policies targeted at bond issuance markets.</jats:p>",
       "doi": "10.1093/rfs/hhaf092",
       "url": "https://doi.org/10.1093/rfs/hhaf092"
     },
