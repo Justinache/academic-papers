@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T04:23:06.998Z",
-  "count": 514,
+  "lastUpdated": "2026-03-29T04:39:05.536Z",
+  "count": 517,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -323,6 +323,26 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+      "authors": "Zhongchen Hu",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-28",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Flooding is among the costliest natural disasters in many countries. To protect collateral, many mortgage borrowers in the United States are legally required to maintain flood insurance. However, lax enforcement leads to frequent policy lapses. This paper shows that lenders provide credit contingent on borrowers’ insurance incentives. Exploiting exogenous premium rises ($266 annually) that disincentivize insurance take-up, I find mortgage denial rates dramatically increase by 0.49–0.81 pp. By comparison, lowering income by $266 has an effect of only 0.01 pp. Mortgage applicants’ composition remains unchanged, refuting demand-side explanations. Evidence suggests lenders internalize ex-post monitoring costs into ex-ante credit restrictions.</jats:p>",
+      "doi": "10.1093/rfs/hhag031",
+      "url": "https://doi.org/10.1093/rfs/hhag031"
+    },
+    {
+      "title": "Who Bears Flood Risk? Evidence from Mortgage Markets in Florida",
+      "authors": "Parinitha Sastry",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-28",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Government-provided flood insurance contracts have strict coverage limits, leaving some households underinsured against flood risk. This paper exploits these strict coverage limits as well as staggered flood map updates to show that mortgage lenders screen for uninsurable flood risk by requiring lower loan-to-value ratios at origination. This credit rationing leads delinquency rates to equalize inside and outside of flood zones, and shifts the composition of mortgage borrowers in flood zones toward richer and higher credit quality individuals. I conclude that lenders reduce credit supply when they retain residual uninsured exposures to flood risk, which has distributional consequences for flood zones.</jats:p>",
+      "doi": "10.1093/rfs/hhag030",
+      "url": "https://doi.org/10.1093/rfs/hhag030"
+    },
+    {
       "title": "Private Private Information",
       "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
       "journal": "Journal of Political Economy",
@@ -341,6 +361,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do men negatively respond when women first enter an occupation? We answer this question by studying the end of one of the final explicit occupational barriers to women in the U.S.: in 2016, the U.S. military opened all positions to women, including historically male-only combat occupations. We exploit the staggered integration of women into combat units to estimate the causal effects of the introduction of female colleagues on men’s job performance, behavior, and perceptions of workplace quality, using monthly administrative personnel records and rich survey responses. We find that integrating women into previously all-male units does not negatively affect men’s performance or behavioral outcomes, including retention, promotions, demotions, separations for misconduct, criminal investigations, and medical conditions. Most of our results are precise enough to rule out small detrimental effects. However, there is a wedge between men’s perceptions and performance. The integration of women causes a negative shift in male soldiers’ perceptions of workplace quality. The decline is driven by units integrated with female officers, likely arising from female officers increasing men’s awareness of workplace problems or from men’s dissatisfaction from working with women in positions of authority—even though men in such units show some performance gains. If male-dominated workplaces are reluctant to incorporate women due to expectations that men will become less productive, our paper provides evidence to weigh against that notion.</jats:p>",
       "doi": "10.1093/qje/qjag016",
       "url": "https://doi.org/10.1093/qje/qjag016"
+    },
+    {
+      "title": "Incentivizing Effort and Informing Investment: The Dual Role of Stock Prices",
+      "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock prices aggregate investor information about investment opportunities and reflect managerial performance. These dual roles may be in tension: when prices are more informative about investment opportunities, they may be less effective at incentivizing managerial effort. This tradeoff has novel consequences. Lower information costs can lead to both more efficient investment but lower firm value. The principal may strictly prefer to delegate investment to a manager who has no informational advantage and makes ex-post inefficient choices. Investment in diversifying and (ex-ante) negative NPV projects mitigate agency problems. Finally, standard measures of price efficiency provide an incomplete picture of firm value. (JEL D8, G1)</jats:p>",
+      "doi": "10.1093/rfs/hhag008",
+      "url": "https://doi.org/10.1093/rfs/hhag008"
     },
     {
       "title": "The Broader Role of Venture Capital Due Diligence",
