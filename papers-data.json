@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-29T04:39:05.536Z",
-  "count": 517,
+  "lastUpdated": "2026-03-30T04:47:00.096Z",
+  "count": 513,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -5131,46 +5131,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Research shows that investors acquire and process less firm‐specific information on days when many firms announce earnings (hereafter earnings clusters). We show that investors gather more\n                    <jats:italic>macroeconomic</jats:italic>\n                    information during earnings clusters, that this behavior is amplified during negative economic shocks and concurrent macroeconomic announcements, and that these information acquisition patterns have implications for equity valuations. Our findings are consistent with the benefit of extracting macroeconomic information from earnings announcements increasing during earnings clusters, which we confirm empirically. Thus, our results help explain why investors focus less on individual firm news during earnings clusters: They rationally redirect their attention to the most beneficial information.\n                  </jats:p>",
       "doi": "10.1111/1475-679x.70020",
       "url": "https://doi.org/10.1111/1475-679x.70020"
-    },
-    {
-      "title": "Long‐Horizon Exchange Rate Expectations",
-      "authors": "Lukas Kremens, Ian W. R. Martin, Liliana Varela",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-09-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study exchange rate expectations in surveys of financial professionals and find that they successfully forecast currency appreciation at the two‐year horizon, both in and out of sample. Exchange rate expectations are also interpretable, in the sense that three macro‐finance variables—the risk‐neutral covariance between the exchange rate and equity market, the real exchange rate, and the current account relative to GDP—explain most of their variation. There is no “secret sauce,” however, in expectations: After controlling for the three macro‐finance variables, the residual information in survey expectations does not forecast currency appreciation in our sample.</jats:p>",
-      "doi": "10.1111/jofi.13504",
-      "url": "https://doi.org/10.1111/jofi.13504"
-    },
-    {
-      "title": "Green Window Dressing",
-      "authors": "Gianpaolo Parise, Mirco Rubin",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-09-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper establishes that mutual funds strategically time their trades in environmental, social, and governance (ESG) stocks around disclosure dates to inflate their sustainability ratings. This claim is supported by three empirical findings. First, we show that funds' ESG betas increase shortly before disclosure and decrease shortly afterwards. Second, we document that post‐disclosure fund returns are higher but have lower ESG exposure than disclosed portfolios. Third, we provide evidence that ESG stock prices temporarily rise before disclosure and decline afterwards. Overall, we establish that green window dressing positively impacts fund sustainability ratings, performance, and flows.</jats:p>",
-      "doi": "10.1111/jofi.13499",
-      "url": "https://doi.org/10.1111/jofi.13499"
-    },
-    {
-      "title": "The Effect of Student Loan Payment Burdens and Nonfinancial Frictions on Borrower Outcomes",
-      "authors": "Tomás E Monarrez, Lesley J Turner",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Rising student loan debt and concerns over unaffordable payments provide rationale for “income-driven repayment” (IDR) plans, which aim to protect borrowers from default and resulting financial consequences by linking payments to income. We estimate the causal effect of IDR payment burdens on loan repayment and attainment for several cohorts of first-time IDR applicants using a regression discontinuity design. Borrowers who are not required to make payments experience short-run reductions in delinquency and default risk, primarily because of lower costs of inattention, but this effect fades over the longer run as some borrowers become disconnected from the student loan repayment system.</jats:p>",
-      "doi": "10.1093/rfs/hhaf076",
-      "url": "https://doi.org/10.1093/rfs/hhaf076"
-    },
-    {
-      "title": "Childhood Exposure to Misbehavior and the Culture of Financial Misconduct",
-      "authors": "Christopher P Clifford, Jesse A Ellis, William C Gerken",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-09-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper examines the impact of childhood cultural upbringing on financial advisor misconduct using novel data on advisors’ childhood addresses. We find that an advisor’s childhood location significantly predicts misconduct, with exposure to misbehavior culture during childhood playing a stronger role than exposure during adulthood. Addressing endogeneity concerns, we conduct several tests that support the notion that our results reflect cultural exposure rather than advisors’ employment choices, location preferences, local conditions, family characteristics, or clientele characteristics. Our findings underscore the formative influence of culture in shaping financial advisors’ personal ethics and could help us understand and prevent financial misconduct.</jats:p>",
-      "doi": "10.1093/rfs/hhaf075",
-      "url": "https://doi.org/10.1093/rfs/hhaf075"
     }
   ]
 }
