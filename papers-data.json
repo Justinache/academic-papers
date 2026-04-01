@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-31T04:38:24.930Z",
-  "count": 495,
+  "lastUpdated": "2026-04-01T04:49:01.349Z",
+  "count": 509,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -323,6 +323,116 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
     },
     {
+      "title": "Market Power and Capital Constraints",
+      "authors": "Milena Wittwer, Jason Allen",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We explore how traders’ equity capitalization influences asset prices in a framework that accounts for market power. In our model, traders with capital constraints engage in transactions in an imperfectly competitive market. We demonstrate that looser capital constraints elevate both asset prices and price impact, the latter diminishing market liquidity. Using Canadian Treasury auction data, we illustrate how to apply our model to quantify these effects. We estimate the shadow costs of capital constraints by leveraging a temporary policy exemption during 2020–2021. We show that while these constraints are only infrequently binding, their relative impact when activated can be sizable. (JEL E63, G12, G14, G23, G41, L13)</jats:p>",
+      "doi": "10.1257/aer.20231202",
+      "url": "https://doi.org/10.1257/aer.20231202"
+    },
+    {
+      "title": "A Long and a Short Leg Make for a Wobbly Equilibrium",
+      "authors": "Nicolae Gârleanu, Stavros Panageas, Geoffery Zheng",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We provide a model to explain how the interaction between the spot and lending markets for stocks can lead to abrupt changes in short selling activity. Furthermore, rational short sellers may choose to abandon the market even as mispricing widens. We document empirically that the dynamics of short selling are fat tailed and subject to abrupt changes, especially for the stocks that the model identifies as susceptible to such dynamics. (JEL G11, G12, G14, G41)</jats:p>",
+      "doi": "10.1257/aer.20211548",
+      "url": "https://doi.org/10.1257/aer.20211548"
+    },
+    {
+      "title": "Negative Control Falsification Tests for Instrumental Variable Designs",
+      "authors": "Oren Danieli, Daniel Nevo, Itai Walk, Bar Weinstein, Dan Zeltzer",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)</jats:p>",
+      "doi": "10.1257/aer.20240636",
+      "url": "https://doi.org/10.1257/aer.20240636"
+    },
+    {
+      "title": "Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan",
+      "authors": "Shan Aman-Rana, Clement Minaudier",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)</jats:p>",
+      "doi": "10.1257/aer.20240880",
+      "url": "https://doi.org/10.1257/aer.20240880"
+    },
+    {
+      "title": "Similarity of Information and Collective Action",
+      "authors": "Deepal Basak, Joyee Deb, Aditya Kuvalekar",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We study a canonical collective action game with incomplete information. Individuals attempt to coordinate to achieve a shared goal, while also facing a temptation to free-ride. More similar information can help them coordinate, but it can also exacerbate free-riding. Our main result shows that more similar information facilitates (impedes) achieving the common goal when it is sufficiently challenging (easy). We apply this insight to show why less powerful authoritarian governments may face larger protests if they restrict press freedom, when committee diversity is beneficial in costly voting, and when a more diverse community contributes more to public good provision. (JEL C71, D71, D72, D81, D82, D83, H41)</jats:p>",
+      "doi": "10.1257/aer.20241056",
+      "url": "https://doi.org/10.1257/aer.20241056"
+    },
+    {
+      "title": "Making Bricks from Straw: Resources and Productivity in Health Care",
+      "authors": "Edward N. Okeke",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>Why do health facilities in developing countries do so poorly? This paper examines the role of financial constraints. I describe an experiment in which we surprised health workers in randomly selected public health clinics in Nigeria with a ₦600,000 grant paid out in installments over one year. Its administration was left entirely to health workers. The award led to large productivity gains. Using expenditure data combined with novel textual data, I provide an explanation for these effects. I show the award increased investments in physical and human capital, led to lower prices for patients, and inspired health workers to do better. (JEL D24, G31, H75, I11, J24, J31, O15)</jats:p>",
+      "doi": "10.1257/aer.20241459",
+      "url": "https://doi.org/10.1257/aer.20241459"
+    },
+    {
+      "title": "Abundance from Abroad: Migrant Income and Long-Run Economic Development",
+      "authors": "Gaurav Khanna, Emir Murathanoglu, Caroline Theoharides, Dean Yang",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We study how international migrant income prospects affect long-run development in origin areas. We leverage the 1997 Asian Financial Crisis exchange rate shocks in a shift-share identification strategy across Philippine provinces. Initial migrant income shocks are magnified six-fold over time, increasing domestic income, education levels, migrant skills, and high-skilled migration. Remarkably, 74.9 percent of long-run income gains come from domestic rather than migrant income. Trade driven impacts of exchange rate shocks are orthogonal to effects via migrant income. A structural model reveals that 19.7 percent of long-run income gains stem from educational investments. International migration fosters broad economic development in origin communities. (JEL F22, F31, G01, J24, J82, O15, O16)</jats:p>",
+      "doi": "10.1257/aer.20241465",
+      "url": "https://doi.org/10.1257/aer.20241465"
+    },
+    {
+      "title": "Games on Multiplex Networks",
+      "authors": "Yves Zenou, Junjie Zhou",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We develop a simple multilayer network model in which agents allocate effort across layers with heterogeneous structures, subject to an aggregate effort constraint. Incentives are shaped by agents’ network positions within each layer, and equilibrium behavior reflects both within- and cross-layer interactions. We analyze how shocks propagate through the network and characterize optimal targeting interventions. Our results show that effective policy design must account for effort allocation across layers. We also demonstrate that predictions from monolayer models can diverge sharply from those of multilayer models, underscoring the importance of accounting for network complexity in both empirical and policy analyses. (JEL C70, D78, D82, D85, H41, Z13)</jats:p>",
+      "doi": "10.1257/aer.20240763",
+      "url": "https://doi.org/10.1257/aer.20240763"
+    },
+    {
+      "title": "Robust Misspecified Models",
+      "authors": "Cuimin Ba",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: The model’s asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model—including the true model—despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models. (JEL C11, C52, D11, L82)</jats:p>",
+      "doi": "10.1257/aer.20240246",
+      "url": "https://doi.org/10.1257/aer.20240246"
+    },
+    {
+      "title": "Real Credit Cycles",
+      "authors": "Pedro Bordalo, Nicola Gennaioli, Andrei Shleifer, Stephen J. Terry",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We embed diagnostic expectations in a workhorse neoclassical model with heterogeneous firms and risky debt. A realistic degree of overreaction estimated from US firms’ earnings forecasts generates realistic credit cycles. Good times produce economic and financial fragility, predicting future disappointment of expectations, low bond returns, and investment declines. To generate the size of spread increases observed during 2007–2009, the model requires only moderate negative shocks. Diagnostic expectations offer a realistic, parsimonious way to produce financial reversals in business cycle models. (JEL D84, E13, E22, E32, E44, G12, G32)</jats:p>",
+      "doi": "10.1257/aer.20211820",
+      "url": "https://doi.org/10.1257/aer.20211820"
+    },
+    {
+      "title": "A Model of Social Duties",
+      "authors": "Tore Ellingsen, Erik Mohlin",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-31",
+      "abstract": "",
+      "doi": "10.1086/739834",
+      "url": "https://doi.org/10.1086/739834"
+    },
+    {
       "title": "The Voting Premium",
       "authors": "Doron Levit, Nadya Malenko, Ernst Maug",
       "journal": "Journal of Finance",
@@ -331,6 +441,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop a unified theory of blockholder governance and the voting premium in a setting without takeovers or controlling shareholders. A voting premium emerges when a minority blockholder can influence shareholder composition by accumulating\nvotes and buying shares from dissenting shareholders. Our theory reconciles conflicting empirical findings by showing that standard measures of the voting premium often misrepresent the true value of voting rights, increased conflicts between the blockholder and small shareholders do not necessarily raise the voting premium, and the voting premium can even turn negative when small shareholders free‐ride on the blockholder's trades.</jats:p>",
       "doi": "10.1111/jofi.70037",
       "url": "https://doi.org/10.1111/jofi.70037"
+    },
+    {
+      "title": "Beliefs and Portfolios: Causal Evidence*",
+      "authors": "Johannes Beutel, Michael Weber",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We causally test alternative theories of expectation formation. Using a randomized information experiment we show overreaction is a key feature of individuals’ return expectations, and individuals’ response to the price-earnings ratio is opposite of academic consensus. Our evidence is inconsistent with standard models of expectation formation, but subjective mental models that deviate from objective benchmarks can jointly explain the updating behavior in the experiment, the link between individuals’ prior perceptions and expectations, and the heterogeneity of updating. Conditional on their beliefs, individuals’ sensitivity of equity shares in a hypothetical portfolio choice experiment is consistent with the standard Merton model.</jats:p>",
+      "doi": "10.1093/rfs/hhag011",
+      "url": "https://doi.org/10.1093/rfs/hhag011"
+    },
+    {
+      "title": "Bond Convenience Yields in the Eurozone Currency Union",
+      "authors": "Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z Xiaolanx",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a monetary union, the risk-free rate cannot adjust to country-level fiscal positions, leaving only default spreads and convenience yields to respond. Empirically, we find that convenience yields explain a large share of the variation in eurozone (EZ) sovereign bond yields. EZ sovereign bonds earn larger convenience yields when their governments run larger surpluses. Since convenience yields generate substantial seigniorage revenue from debt issuance, our estimates imply economically large fiscal costs from low convenience yields for peripheral countries in the EZ. (JEL E42, F33, G15)</jats:p>",
+      "doi": "10.1093/rfs/hhag018",
+      "url": "https://doi.org/10.1093/rfs/hhag018"
     },
     {
       "title": "Specialization in Banking",
@@ -943,6 +1073,26 @@
       "url": "https://doi.org/10.2308/tar-2023-0274"
     },
     {
+      "title": "An Accounting-Based Measure of Valuation Uncertainty",
+      "authors": "Andrey Golubov, Theodosia Konstantinidi",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Existing measures of valuation uncertainty are indirect or available for limited samples. We use an accounting-based valuation model to estimate a set of hypothetical intrinsic equity values and measure uncertainty by their spread. We show that our measure reflects both cash flow and discount rate uncertainty, explains price ranges in IPO prospectuses and M&amp;A fairness opinions, and incrementally predicts various future outcomes indicative of uncertainty. An application of our measure to a popular asset pricing context yields new insights into the properties of the value premium. Overall, our paper demonstrates how accounting information can be used to summarize uncertainty about intrinsic equity value.</jats:p>\n                  <jats:p>Data Availability: Data used in the article are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; G12; G14.</jats:p>",
+      "doi": "10.2308/tar-2023-0399",
+      "url": "https://doi.org/10.2308/tar-2023-0399"
+    },
+    {
+      "title": "Metering Problems and Resource Allocation",
+      "authors": "Ionela Andreicovici, Valeri Nikolaev, Laurence van Lent, Ruishen Zhang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-03-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Why do seemingly similar firms show such different productivity? We argue that unresolved measurement problems, i.e., the persistent incongruity between economic transactions and their accounting representation, affect resource allocation. Our metric quantifies technical accounting terminology in firm disclosures to capture these unresolved measurement problems, UMPs, using over 90,000 10-Ks. A one standard deviation increase in UMP is associated with lower capital investment (6 percent), R&amp;D (5 percent), and hiring growth (30 percent). We also find a reduction in total factor productivity (5 percent) and Tobin’s q (4 percent). Further, CEO compensation sensitivity to accounting performance decreases with UMP, whereas stock-based sensitivity remains unaffected. Our inferences continue to hold when we use a Bartik instrument, which exploits differential exposure to GAAP changes to isolate accounting-driven variation from the firm’s underlying economics. The results suggest unresolved measurement problems are a significant friction in resource allocation.</jats:p>\n                  <jats:p>Data Availability: The UMP dataset is available upon request. Please contact the first author.</jats:p>\n                  <jats:p>JEL Classifications: D22; D23; D24; G12; J23; M40.</jats:p>",
+      "doi": "10.2308/tar-2024-0698",
+      "url": "https://doi.org/10.2308/tar-2024-0698"
+    },
+    {
       "title": "Indirect Persuasion",
       "authors": "Rahul Deb, Mallesh M. Pai, Maher Said",
       "journal": "Journal of Political Economy",
@@ -978,7 +1128,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-02-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Empirical studies find that the pass-through of input cost changes to prices is incomplete: a 10 percent increase in costs causes downstream prices to rise less than 10 percent, even at long horizons. Using microdata from gas stations, food products, and manufacturing industries, we find that incomplete pass-through in percentages often disguises complete pass-through in levels: a $1/unit increase in input costs leads to $1/unit higher downstream prices. Pass-through appears incomplete in percentages due to a gap between prices and costs. Complete pass-through in levels contrasts with workhorse macroeconomic models that feature homothetic demand systems. We identify an alternative class of demand systems that yields pass-through in levels and highlight four implications. First, measuring pass-through in percentages can lead to spurious evidence of asymmetry and size-dependence. Second, pass-through in levels leads to systematic fluctuations in relative price and markup dispersion that are not associated with changes in allocative efficiency. Third, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data that are at odds with workhorse models. Finally, incorporating pass-through in levels into an input-output model of the U.S. economy better matches the volatility of consumer price inflation and the response of inflation to identified shocks.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Empirical studies find that the pass-through of input cost changes to prices is incomplete: a 10% increase in costs causes downstream prices to rise less than 10%, even at long horizons. Using microdata from gas stations, food products, and manufacturing industries, I find that incomplete pass-through in percentages often disguises complete pass-through in levels: a $1/unit increase in input costs leads to $1/unit higher downstream prices. Pass-through appears incomplete in percentages due to a gap between prices and costs. Complete pass-through in levels contrasts with workhorse macroeconomic models that feature homothetic industry demand systems. I identify an alternative class of demand systems that yields pass-through in levels and highlight four implications. First, measuring pass-through in percentages can lead to spurious evidence of asymmetry and size dependence. Second, pass-through in levels leads to systematic fluctuations in relative price and markup dispersion that are not associated with changes in allocative efficiency. Third, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data that are at odds with workhorse models. Finally, incorporating pass-through in levels into an input-output model of the U.S. economy better matches the volatility of consumer price inflation and the response of inflation to identified shocks.</jats:p>",
       "doi": "10.1093/qje/qjag014",
       "url": "https://doi.org/10.1093/qje/qjag014"
     },
@@ -3273,16 +3423,6 @@
       "url": "https://doi.org/10.1086/739829"
     },
     {
-      "title": "A Model of Social Duties",
-      "authors": "Tore Ellingsen, Erik Mohlin",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739834",
-      "url": "https://doi.org/10.1086/739834"
-    },
-    {
       "title": "Seasonal variation in cash flows and the timing role of accruals",
       "authors": "Martin Kapons, David Veenman",
       "journal": "Journal of Accounting and Economics",
@@ -4603,16 +4743,6 @@
       "url": "https://doi.org/10.1257/aer.20230039"
     },
     {
-      "title": "Diffusion of Reproductive Health Behavior through International Migration: Effects on Origin-Country Fertility",
-      "authors": "Susan Godlonton, Caroline Theoharides",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-10-01",
-      "abstract": "<jats:p> International migrants may facilitate the transmission of ideas across countries. We examine the impact of migrant exposure to reproductive health policies on origin-country fertility in the Philippines. We exploit temporal variation in destination-country reproductive health policies combined with spatial variation across Philippine provinces in their migration intensity and historical composition of migrant destinations. Migrant exposure to more liberalized reproductive health policies reduces origin-community fertility. This reduction is driven by increased adoption of modern contraceptives. Visible policy changes, such as commercial advertising of contraceptives, lead to this change in behavior. Firmly established family planning values moderate the fertility response. (JEL D91, F22, I18, J13, O15, O18, Z13) </jats:p>",
-      "doi": "10.1257/aer.20231286",
-      "url": "https://doi.org/10.1257/aer.20231286"
-    },
-    {
       "title": "Place-Based Redistribution",
       "authors": "Cecile Gaubert, Patrick Kline, Damian Vergara, Danny Yagan",
       "journal": "American Economic Review",
@@ -4621,6 +4751,16 @@
       "abstract": "<jats:p> We study optimal income taxation in a spatial equilibrium model with heterogeneous locational preferences, labor supply decisions, and competitive housing and labor markets. Expressions characterizing the optimal tax schedule in each community are provided that capture the fiscal externalities associated with migration and the effects of redistribution between households and landlords. Correlation between skill and locational preferences yields optimal transfers to poor areas, while sorting based on comparative advantage can motivate transfers in either direction. A calibration to areas targeted by the US Empowerment Zone program yields sizable optimal spatial transfers that are sensitive to assumed levels of migration responsiveness. (JEL H21, H23, H24, J24, J31, R23) </jats:p>",
       "doi": "10.1257/aer.20202067",
       "url": "https://doi.org/10.1257/aer.20202067"
+    },
+    {
+      "title": "Diffusion of Reproductive Health Behavior through International Migration: Effects on Origin-Country Fertility",
+      "authors": "Susan Godlonton, Caroline Theoharides",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-10-01",
+      "abstract": "<jats:p> International migrants may facilitate the transmission of ideas across countries. We examine the impact of migrant exposure to reproductive health policies on origin-country fertility in the Philippines. We exploit temporal variation in destination-country reproductive health policies combined with spatial variation across Philippine provinces in their migration intensity and historical composition of migrant destinations. Migrant exposure to more liberalized reproductive health policies reduces origin-community fertility. This reduction is driven by increased adoption of modern contraceptives. Visible policy changes, such as commercial advertising of contraceptives, lead to this change in behavior. Firmly established family planning values moderate the fertility response. (JEL D91, F22, I18, J13, O15, O18, Z13) </jats:p>",
+      "doi": "10.1257/aer.20231286",
+      "url": "https://doi.org/10.1257/aer.20231286"
     },
     {
       "title": "Do Credit Conditions Move House Prices?",
@@ -4813,16 +4953,6 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104130"
     },
     {
-      "title": "Too Levered for Pigou: Carbon pricing, financial constraints, and leverage regulation",
-      "authors": "Robin Döttling, Magdalena Rola-Janicka",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-10-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104105",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104105"
-    },
-    {
       "title": "Overvaluing simple bets: Evidence from the options market",
       "authors": "Aaron Goodman, Indira Puri",
       "journal": "Journal of Financial Economics",
@@ -4831,6 +4961,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104140",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104140"
+    },
+    {
+      "title": "Too Levered for Pigou: Carbon pricing, financial constraints, and leverage regulation",
+      "authors": "Robin Döttling, Magdalena Rola-Janicka",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2025-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104105",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104105"
     },
     {
       "title": "Measurement and effects of bank exit policies",
