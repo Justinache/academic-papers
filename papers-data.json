@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-02T04:31:39.880Z",
-  "count": 472,
+  "lastUpdated": "2026-04-03T04:31:40.308Z",
+  "count": 480,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -141,6 +141,56 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104264",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
+    },
+    {
+      "title": "Optimal Queue Design",
+      "authors": "Yeon-Koo Che, Olivier Tercieux",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-02",
+      "abstract": "",
+      "doi": "10.1086/741622",
+      "url": "https://doi.org/10.1086/741622"
+    },
+    {
+      "title": "Robust Estimation and Inference in Panels with Interactive Fixed Effects",
+      "authors": "Timothy Armstrong, Martin Weidner, Andrei Zeleneev",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-02",
+      "abstract": "",
+      "doi": "10.1086/741623",
+      "url": "https://doi.org/10.1086/741623"
+    },
+    {
+      "title": "Exchange Rates and Asset Prices in a Global Demand System",
+      "authors": "Ralph S.J. Koijen, Motohiro Yogo",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-02",
+      "abstract": "",
+      "doi": "10.1086/741624",
+      "url": "https://doi.org/10.1086/741624"
+    },
+    {
+      "title": "Leader‐Follower Dynamics in Shareholder Activism",
+      "authors": "Doruk Cetemen, Gonzalo Cisternas, Aaron Kolb, S. Viswanathan",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-04-02",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We propose a theory of coordination and influence among blockholders. Privately informed activists time their trades in sequence to lower acquisition costs, prompting a strategic use of order flows: leader activists create trading gains for their followers, ultimately influencing their willingness to bear greater value‐enhancing intervention costs. Through this channel, informed trades can exhibit predictability, in sharp contrast with Kyle (1985,\n                    <jats:italic>Econometrica</jats:italic>\n                    53, 1315–1335). We explain how this novel predictability shapes free‐rider problems affecting governance, and how it produces price abnormalities analogous to those documented empirically. We also uncover how private information interdependence can be a key catalyst for the mechanism studied.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70033",
+      "url": "https://doi.org/10.1111/jofi.70033"
+    },
+    {
+      "title": "Fixed Pay for Output or Time? Implications for Work Speed and Quality",
+      "authors": "Carolyn Deller, Santiago Gallino",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-02",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    This paper explores the influence of two fixed payment arrangements—time‐based and output‐based wages—on worker behavior and performance in a multidimensional task setting. We examine how these wages affect the time workers spend on individual units of a task and their work quality. We contend that fixed compensation schemes can implicitly communicate standards of acceptable work. Our empirical evidence from MTurk experiments and a laboratory experiment indicates that workers on output‐based wages deliver higher quality and spend\n                    <jats:italic>more</jats:italic>\n                    time on individual units than their time‐based counterparts. These findings are consistent with output‐based wages, implying a standard of acceptable quality—without a conflicting standard of speed—to which workers respond. Our results emphasize the power of implicit cues from fixed compensation schemes and offer insights for employers, suggesting the choice between output‐ and time‐based wages should be informed by whether quality or turnaround time is valued more.\n                  </jats:p>",
+      "doi": "10.1111/1475-679x.70049",
+      "url": "https://doi.org/10.1111/1475-679x.70049"
     },
     {
       "title": "Learning by lending securities",
@@ -431,6 +481,36 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that the Democratic Party’s evolution on economic policy helps explain partisan realignment by education. First, we document that educated Americans differentially oppose “predistribution” (e.g., job guarantees, higher minimum wages, protectionism, and stronger unions), while the educational gradient for redistribution (taxes and transfers) is close to zero. These relationships have been largely unchanged since the 1940s. Second, focusing on politicians and donors as key party actors, we show that the Democratic Party has moved away from predistribution since the 1970s. The number of predistribution bills introduced by Democratic House Speakers has declined by half since the 1970s. Unions—the traditional lobbying force for predistribution—see their share of Democratic Party PAC donations decline from ninety to forty percent from 1968 to 1980, following 1970s legislation that facilitated corporate PAC donations. From 1980 onward, the Democrats rely increasingly on individual contributions from educated donors relative to the Republicans. We show the increased reliance on corporate PACs and educated donors is driven by the rise of a self-described “New Democrat’ faction particularly conservative on pre-distribution and social issues. Finally, we trace out the reaction of voters to these changes in the Democratic Party. Less-educated Americans begin to leave the party in the 1970s, after decades of serving as its base. We also show that in the crucial transition period of the 1970s through 1990s, New Democrat candidates out-perform other Democrats among more-educated voters in both survey questions and actual Congressional elections. As the New Democrats are more socially conservative than other Democrats, their success with educated voters suggests that social issues alone cannot explain educational realignment.</jats:p>",
       "doi": "10.1093/qje/qjag019",
       "url": "https://doi.org/10.1093/qje/qjag019"
+    },
+    {
+      "title": "Corporate M&As and Labor Market Concentration: Efficiency Gains or Power Grabs?",
+      "authors": "David Cicero, Mo Shen, Jaideep Shenoy",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mergers of firms that share labor markets increase labor market concentration which can lead to labor efficiency gains and/or create labor market power for the merged firms. Using a novel measure based on establishment‐level employment data, we find that merger‐induced increases in labor market concentration explain value creation in a sample of completed U.S. public firm mergers from 1991 to 2016. Analysis of the stock market reactions of rival, supplier, and customer firms, as well as firm‐ and establishment‐level real effects in the merging firms, supports a labor efficiency explanation of these merger gains.</jats:p>",
+      "doi": "10.1111/jofi.70035",
+      "url": "https://doi.org/10.1111/jofi.70035"
+    },
+    {
+      "title": "Borrowing from a Bigtech Platform",
+      "authors": "Jian Li, Stefano Pegoraro",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We model credit competition between a bigtech platform and a bank lending to a merchant under limited commitment and asymmetric information about the merchant’s incentives to default. The platform leverages its control over a marketplace to enforce partial loan repayments, enabling it to serve certain unbanked borrowers. When directly competing with the bank, the platform gains an endogenous screening advantage as borrowers with stronger incentives to default self-select into bank loans to avoid the platform’s enforcement. Whereas the platform improves financial inclusion for unbanked borrowers, social welfare may decline because the bank tightens credit in response to adverse screening.(JELG21, G23, C72, D82)</jats:p>",
+      "doi": "10.1093/rfs/hhag033",
+      "url": "https://doi.org/10.1093/rfs/hhag033"
+    },
+    {
+      "title": "Who Clears the Market When Passive Investors Trade?",
+      "authors": "Marco Sammon, John J Shim",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find that firms are the primary sellers who clear the market for index fund buying, providing shares at a nearly one-for-one rate. Most demand-side institutions trade in the same direction as index funds rather than accommodating passive demand. We use two instruments for index fund demand and show that firms causally respond to exogenous passive demand, with prices serving as the coordinating mechanism. Firms satisfy passive demand mostly through nonprimary market issuance, for example, through employee stock-based compensation. Our results suggest that passive investing has systematically supplied capital to firms by enabling equity issuance over the last two decades.(JELG11, G12, G23)</jats:p>",
+      "doi": "10.1093/rfs/hhag032",
+      "url": "https://doi.org/10.1093/rfs/hhag032"
     },
     {
       "title": "A Model of Social Duties",
