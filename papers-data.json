@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-03T04:31:40.308Z",
-  "count": 480,
+  "lastUpdated": "2026-04-04T04:19:25.361Z",
+  "count": 482,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -141,6 +141,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104264",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
+    },
+    {
+      "title": "Scalable Demand and Markups",
+      "authors": "Enghin Atalay, Erika Frost, Alan T. Sorensen, Christopher Sullivan, Wanjia Zhu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-03",
+      "abstract": "",
+      "doi": "10.1086/741641",
+      "url": "https://doi.org/10.1086/741641"
+    },
+    {
+      "title": "Size, Returns, and Value: Do Private Equity Firms Allocate Capital According to Manager Skill?",
+      "authors": "Reiner Braun, Nils Dorau, Tim Jenkinson, Daniel Urban",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-04-03",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set linking private equity (PE) deals to individual managers, we document evidence of manager skill in terms of generating net present value (NPV), a performance measure that captures both scale and returns. PE firms have strong economic incentives to raise larger funds and execute larger deals. While relative returns decline with scale, NPV persists and even increases. Skilled managers are entrusted with more capital and achieve better career outcomes, and approximately 40% of NPV is attributable to internal capital allocation decisions. These findings highlight the role of PE firms in creating value through performance‐based capital deployment.</jats:p>",
+      "doi": "10.1111/jofi.70036",
+      "url": "https://doi.org/10.1111/jofi.70036"
     },
     {
       "title": "Optimal Queue Design",
@@ -511,6 +531,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find that firms are the primary sellers who clear the market for index fund buying, providing shares at a nearly one-for-one rate. Most demand-side institutions trade in the same direction as index funds rather than accommodating passive demand. We use two instruments for index fund demand and show that firms causally respond to exogenous passive demand, with prices serving as the coordinating mechanism. Firms satisfy passive demand mostly through nonprimary market issuance, for example, through employee stock-based compensation. Our results suggest that passive investing has systematically supplied capital to firms by enabling equity issuance over the last two decades.(JELG11, G12, G23)</jats:p>",
       "doi": "10.1093/rfs/hhag032",
       "url": "https://doi.org/10.1093/rfs/hhag032"
+    },
+    {
+      "title": "R&D Disclosure and Short-Term Investors: Evidence from Mandated Patent Disclosure",
+      "authors": "Iván Blanco, Sergio J. García, David Wehrheim",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the prospect of research and development (R&amp;D) disclosure affects a firm’s institutional investor base. Difference-in-differences (DiD) regressions around the enactment of the American Inventors Protection Act (AIPA), which mandated the public disclosure of patent applications within 18 months of filing, show that short-term institutional investors increase their holdings before public information is released, whereas long-term investors do not adjust their positions. This anticipatory shift is consistent with theoretical predictions that expected disclosure strengthens short-horizon investors’ incentives to acquire and trade on private information. We further document that stock prices reflect more firm-specific information leading up to disclosure and that improved liquidity at disclosure enables short-term investors to partially unwind their positions. Our paper offers novel evidence on how increases in the expected likelihood of disclosure shape investor behavior and the composition of firms’ investor bases.</jats:p>",
+      "doi": "10.2308/tar-2025-0077",
+      "url": "https://doi.org/10.2308/tar-2025-0077"
+    },
+    {
+      "title": "An Accounting-Based Measure of Valuation Uncertainty",
+      "authors": "Andrey Golubov, Theodosia Konstantinidi",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Existing measures of valuation uncertainty are indirect or available for limited samples. We use an accounting-based valuation model to estimate a set of hypothetical intrinsic equity values and measure uncertainty by their spread. We show that our measure reflects both cash flow and discount rate uncertainty, explains price ranges in IPO prospectuses and M&amp;A fairness opinions, and incrementally predicts various future outcomes indicative of uncertainty. An application of our measure to a popular asset pricing context yields new insights into the properties of the value premium. Overall, our paper demonstrates how accounting information can be used to summarize uncertainty about intrinsic equity value.</jats:p>\n                  <jats:p>Data Availability: Data used in the article are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; G12; G14.</jats:p>",
+      "doi": "10.2308/tar-2023-0399",
+      "url": "https://doi.org/10.2308/tar-2023-0399"
     },
     {
       "title": "A Model of Social Duties",
@@ -1073,16 +1113,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101885"
     },
     {
-      "title": "R&D Disclosure and Short-Term Investors: Evidence from Mandated Patent Disclosure",
-      "authors": "Iván Blanco, Sergio J. García, David Wehrheim",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-03-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the prospect of research and development (R&amp;D) disclosure affects a firm’s institutional investor base. Difference-in-differences (DiD) regressions around the enactment of the American Inventors Protection Act (AIPA), which mandated the public disclosure of patent applications within 18 months of filing, show that short-term institutional investors increase their holdings before public information is released, whereas long-term investors do not adjust their positions. This anticipatory shift is consistent with theoretical predictions that expected disclosure strengthens short-horizon investors’ incentives to acquire and trade on private information. We further document that stock prices reflect more firm-specific information leading up to disclosure and that improved liquidity at disclosure enables short-term investors to partially unwind their positions. Our paper offers novel evidence on how increases in the expected likelihood of disclosure shape investor behavior and the composition of firms’ investor bases.</jats:p>",
-      "doi": "10.2308/tar-2025-0077",
-      "url": "https://doi.org/10.2308/tar-2025-0077"
-    },
-    {
       "title": "Do School Alma Mater Ties Between Engagement and Review Partners Threaten Audit Firm Quality Control? Evidence from Audit Adjustments",
       "authors": "Divesh S. Sharma, Liansheng Wu, Qiuhang Xing",
       "journal": "The Accounting Review",
@@ -1161,16 +1191,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop an empirical proxy for companies’ differential communication to local and foreign investors using translation differences in public disclosure. We validate our proxy using a field experiment and then use this proxy to document that differential communication is associated with increases in information asymmetry between local and foreign investors. It is also linked to decreases in the relative information quality of foreign analysts, even when foreign demand for information is high and communication costs are low. These and a variety of supporting tests, including those using an alternative artificial intelligence (AI)-based measure of translation differences, suggest that firms engage in differential communication because of a preference for local investors and when responding to incentives to maximize stock price. This study highlights the role of differential communication as one driver of local information advantage in our setting.</jats:p>\n                  <jats:p>Data Availability: Most data are available from publicly available sources, as described in the paper. The field experiment data are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: G15; G14; M40; M41; G30.</jats:p>",
       "doi": "10.2308/tar-2023-0274",
       "url": "https://doi.org/10.2308/tar-2023-0274"
-    },
-    {
-      "title": "An Accounting-Based Measure of Valuation Uncertainty",
-      "authors": "Andrey Golubov, Theodosia Konstantinidi",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-03-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Existing measures of valuation uncertainty are indirect or available for limited samples. We use an accounting-based valuation model to estimate a set of hypothetical intrinsic equity values and measure uncertainty by their spread. We show that our measure reflects both cash flow and discount rate uncertainty, explains price ranges in IPO prospectuses and M&amp;A fairness opinions, and incrementally predicts various future outcomes indicative of uncertainty. An application of our measure to a popular asset pricing context yields new insights into the properties of the value premium. Overall, our paper demonstrates how accounting information can be used to summarize uncertainty about intrinsic equity value.</jats:p>\n                  <jats:p>Data Availability: Data used in the article are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; G12; G14.</jats:p>",
-      "doi": "10.2308/tar-2023-0399",
-      "url": "https://doi.org/10.2308/tar-2023-0399"
     },
     {
       "title": "Metering Problems and Resource Allocation",
