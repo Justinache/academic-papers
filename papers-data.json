@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T04:38:29.694Z",
-  "count": 482,
+  "lastUpdated": "2026-04-06T04:44:14.671Z",
+  "count": 476,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -4761,66 +4761,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper examines CEO pay at nonprofits. Using compensation data for 14,111 nonprofits, we find that CEO pay dropped by 2% after legislation in New York reduced CEOs’ ability to influence their own pay. Despite lower pay, CEOs exerted more effort, and nonprofit performance improved. The effects were stronger at commercial nonprofits than at charities and for male CEOs than female CEOs. These findings are consistent with a model where some nonprofit CEOs derive meaning from their work and compensation can be rigged. Overall, our results suggest that regulation that targets the pay-setting process can improve organizational outcomes at nonprofits.</jats:p>",
       "doi": "10.1093/rfs/hhaf077",
       "url": "https://doi.org/10.1093/rfs/hhaf077"
-    },
-    {
-      "title": "The Macroeconomic Consequences of Exchange Rate Depreciations",
-      "authors": "Masao Fukui, Emi Nakamura, Jón Steinsson",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-10-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study the consequences of “regime-induced” exchange rate depreciations by comparing outcomes for peggers versus floaters to the U.S. dollar in response to a dollar depreciation. Pegger currencies depreciate relative to floater currencies and these depreciations are strongly expansionary. The boom is associated with a fall in net exports, and (if anything) an increase in interest rates in the pegger countries. This suggests that expenditure switching and domestic monetary policy are not the main drivers of the boom. We show that a large class of existing models cannot match our estimated responses and develop a model with imperfect financial openness that can. Following a depreciation, uncovered interest parity deviations lower the costs of borrowing from abroad and stimulate the economy, as in the data. The model is consistent with (unconditional) exchange rate disconnect and the Mussa fact, even though exchange rates have large effects on the economy.</jats:p>",
-      "doi": "10.1093/qje/qjaf039",
-      "url": "https://doi.org/10.1093/qje/qjaf039"
-    },
-    {
-      "title": "The Stock Market and Bank Risk‐Taking",
-      "authors": "Antonio Falato, David Scharfstein",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using confidential supervisory risk ratings, we document that banks increase risk after going public compared to a control group of banks that filed to go public but withdrew their filings for plausibly exogenous reasons. The increase in risk improves short‐term performance at the expense of long‐term performance. We argue that the increase in risk stems from pressure to maximize short‐term stock prices and earnings once the bank is publicly traded. After going public, banks owned by investors that place greater value on short‐term performance increase risk more, and those managed by CEOs with more short‐term compensation also increase risk more.</jats:p>",
-      "doi": "10.1111/jofi.13502",
-      "url": "https://doi.org/10.1111/jofi.13502"
-    },
-    {
-      "title": "Going for Broke: Bank Reputation and the Performance of Opaque Securities",
-      "authors": "Abe De Jong, Tim Kooijmans, Peter Koudijs",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Can banks’ reputational concerns improve the quality of opaque, off‐balance sheet securities, such as mortgage‐backed securities? We study this question in a uniquely parsimonious setting. In the 1760s, Dutch banking partnerships securitized West‐Indian plantation mortgages that were risky and opaque. High‐reputation banks originated better mortgages and issued securities that, on average, retained 17.5% more of their value during a market collapse. Reputational effects are attenuated when the managing partners were married into wealth or received a large share of profits in the short term, suggesting that bank reputation only works if bankers are personally exposed to (long‐run) reputational losses.</jats:p>",
-      "doi": "10.1111/jofi.13503",
-      "url": "https://doi.org/10.1111/jofi.13503"
-    },
-    {
-      "title": "Subtle Discrimination",
-      "authors": "Elena S. Pikulina, Daniel Ferreira",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We introduce the concept of\n                    <jats:italic>subtle discrimination</jats:italic>\n                    —biased acts that cannot be objectively ascertained as discriminatory. When candidates compete for promotions by investing in skills, firms' subtle biases induce discriminated candidates to overinvest when promotions are low‐stakes (to distinguish themselves from favored candidates) but underinvest in high‐stakes settings (anticipating low promotion probabilities). This asymmetry implies that subtle discrimination raises profits in low‐productivity firms but lowers them in high‐productivity firms. Although subtle biases are small, they generate large gaps in skills and promotion outcomes. We derive further predictions in contexts such as equity analysis, lending, fund flows, banking careers, and entrepreneurial finance.\n                  </jats:p>",
-      "doi": "10.1111/jofi.13506",
-      "url": "https://doi.org/10.1111/jofi.13506"
-    },
-    {
-      "title": "Collateral Effects: The Role of FinTech in Small Business Lending",
-      "authors": "Paul Beaumont, Huan Tang, Eric Vansteenberghe",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates the impact of introducing junior unsecured loans (i.e., FinTech loans) into the small business lending market. Using French administrative data, we find that firms experience a 13% increase in bank credit after receiving a FinTech loan. We use propensity score matching procedures and a shift-share instrument to account for credit demand. The credit increase only occurs when FinTech borrowers invest in new assets, and Fintech borrowers are subsequently more likely to pledge collateral to banks. This suggests that firms use FinTech loans to acquire assets that they then pledge to banks, thereby increasing total borrowing capacity.</jats:p>",
-      "doi": "10.1093/rfs/hhaf080",
-      "url": "https://doi.org/10.1093/rfs/hhaf080"
-    },
-    {
-      "title": "Educating Investors about Dividends",
-      "authors": "Andreas Hackethal, Tobin Hanspal, Samuel M Hartzmark, Konstantin Bräuer",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We educate investors about the benefits of dividend reinvestment and costs of misperceiving dividends as free income. The intervention increases planned dividend reinvestment in survey responses. Using trading records, we observe a causal increase in dividend reinvestment in the field of roughly 50 cents for every euro received. This holds relative to investors’ prior behavior and various control samples. Investors who learned the most from the intervention update their trading the most. The results suggest the free dividends fallacy is a significant source of dividend demand. Our study demonstrates that simple, targeted, and focused educational interventions can affect investment behavior.</jats:p>",
-      "doi": "10.1093/rfs/hhaf074",
-      "url": "https://doi.org/10.1093/rfs/hhaf074"
     }
   ]
 }
