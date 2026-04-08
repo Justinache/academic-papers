@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T04:35:24.432Z",
-  "count": 477,
+  "lastUpdated": "2026-04-08T04:38:44.612Z",
+  "count": 474,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -141,6 +141,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104264",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
+    },
+    {
+      "title": "Deposit Franchise Runs",
+      "authors": "Itamar Drechsler, Alexi Savov, Philipp Schnabl, Olivier Wang",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-04-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The deposit franchise is valuable because banks pay below‐market deposit rates. However, if depositors leave, its value vanishes. This can trigger runs by uninsured depositors, even if banks hold fully liquid assets. Because the franchise value increases with interest rates, runs are more harmful, and hence likelier, when rates are high. Banks can deter runs by shortening asset duration, but this risks insolvency if rates fall. Avoiding both runs and insolvency requires capital covering the potential loss of the uninsured deposit franchise. We estimate deposit franchise values and use them to identify vulnerable banks during the 2023 regional bank crisis.</jats:p>",
+      "doi": "10.1111/jofi.70034",
+      "url": "https://doi.org/10.1111/jofi.70034"
     },
     {
       "title": "Scalable Demand and Markups",
@@ -611,6 +621,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Macroeconomic forces are challenging the ability of audit firms to sustain engagement profitability. Although one available strategy for multinational clients is to employ non-U.S. firms as component auditors (CAs), the impacts of this choice are unclear. We investigate the influence of CAs on engagement economics in Big 6 audits from 2012 to 2022, a period of increasing non-U.S. labor use. Results show that global hours increase with CA participation, suggesting that additional CA labor is needed to substitute for each U.S. hour. Global billing rates decline, implying that principal auditors share savings from lower cost labor with clients. However, U.S. lead team realizations rise with increasing substitution of non-U.S. labor, incentivizing more extensive CA use. Further analysis shows that these impacts are concentrated in engagements with high CA participation in countries with low wages and low English proficiency. Audit quality is not reduced by greater substitution of non-U.S. labor.</jats:p>\n                  <jats:p>JEL Classifications: M40; M42; M48; F66.</jats:p>",
       "doi": "10.2308/tar-2023-0360",
       "url": "https://doi.org/10.2308/tar-2023-0360"
+    },
+    {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101886",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101886"
     },
     {
       "title": "A Model of Social Duties",
@@ -1993,7 +2013,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101876"
     },
     {
-      "title": "Taxes and competition: Evidence from the airline industry",
+      "title": "Taxes and Competition: Evidence from the airline industry",
       "authors": "Michelle Hanlon, Nemit Shroff, Rachel Yoon",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4721,56 +4741,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Environmental, social, and governance (ESG) funds have heterogeneous incentives to engage with portfolio firms. If funds view ESG as a value driver, then these incentives will affect funds’ behavior and thus their impact on firms. We compare ESG funds with similar levels of ESG investments but different incentives to engage. Funds with higher incentives to engage, that is, committed ESG funds, conduct more ESG-related information acquisition, pursue longer term investment strategies, engage more intensely on ESG issues, and have greater real impacts. Moreover, committed ESG funds have outperformed other ESG funds within subportfolios with higher and more effective ESG engagement.</jats:p>",
       "doi": "10.1093/rfs/hhaf084",
       "url": "https://doi.org/10.1093/rfs/hhaf084"
-    },
-    {
-      "title": "Asset Pricing and Risk‐Sharing Implications of Alternative Pension Plan Systems",
-      "authors": "Nuno Coimbra, Francisco Gomes, Alexander Michaelides, Jialu Shen",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that incorporating defined benefit pension funds in an incomplete markets asset pricing model improves its ability to match the historical equity premium and riskless rate and has important risk‐sharing implications. We document the importance of the pension fund's size and asset demands, and a new risk channel arising from fluctuations in the fund's returns. We use our calibrated model to study the implications of a shift to an economy with defined contribution plans. The new steady state is characterized by a higher riskless rate and a lower equity premium. Consumption volatility increases for retirees but decreases for workers.</jats:p>",
-      "doi": "10.1111/jofi.13507",
-      "url": "https://doi.org/10.1111/jofi.13507"
-    },
-    {
-      "title": "Value without Employment",
-      "authors": "Simcha Barkai, Stavros Panageas",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Young firms' contribution to aggregate employment has been underwhelming. We show that a similar trend is not apparent, however, in their contribution to aggregate sales or stock market capitalization, implying that these firms have exhibited a high average‐to‐marginal revenue product of labor. We study the implications of a gradual shift in the average‐to‐marginal revenue product of labor within a model of dynamic firm heterogeneity. We show that this shift provides (i) a unified explanation for several aspects of the decline in dynamism and (ii) a possible explanation for why large declines in young‐firm employment may have only a moderate effect on aggregate output and consumption.</jats:p>",
-      "doi": "10.1111/jofi.13505",
-      "url": "https://doi.org/10.1111/jofi.13505"
-    },
-    {
-      "title": "CEO Stress, Aging, and Death",
-      "authors": "Mark Borgschulte, Marius Guenzel, Canyao Liu, Ulrike Malmendier",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We assess the long‐term effects of managerial stress on aging and mortality. Using a difference‐in‐differences design, we apply neural network–based machine‐learning techniques to CEOs' facial images and show that exposure to industry distress shocks during the Great Recession produces visible signs of aging. We estimate a one‐year increase in “apparent” age. Moreover, using data on CEOs since the mid‐1970s, we estimate a 1.1‐year decrease in life expectancy after an industry distress shock, but a two‐year increase when antitakeover laws insulate CEOs from market discipline. The estimated health costs are significant, both in absolute terms and relative to other health risks.</jats:p>",
-      "doi": "10.1111/jofi.13497",
-      "url": "https://doi.org/10.1111/jofi.13497"
-    },
-    {
-      "title": "Anticipatory Trading Against Distressed Mega Hedge Funds",
-      "authors": "Vikas Agarwal, George O Aragon, Vikram Nanda, Kelsey Wei",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stocks expected to be sold by distressed mega hedge funds (MHFs) face anticipatory institutional selling and increased short interest. However, no evidence of anticipatory trading is found in stocks held by nondistressed MHFs, distressed non-MHFs, or stocks confidentially held by distressed MHFs, suggesting that public portfolio disclosure by large and closely followed distressed investors, and not common investment signals, drives anticipatory trading. Distressed MHFs with greater exposure to such anticipatory trading suffer 2.21% lower style-adjusted returns. Stocks subject to anticipatory trading experience negative abnormal returns followed by reversals, indicating the price destabilizing effect of anticipatory trading.</jats:p>",
-      "doi": "10.1093/rfs/hhaf082",
-      "url": "https://doi.org/10.1093/rfs/hhaf082"
-    },
-    {
-      "title": "Regulating CEO Pay: Evidence from the Nonprofit Revitalization Act",
-      "authors": "Ilona Babenko, Benjamin Bennett, Rik Sen",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper examines CEO pay at nonprofits. Using compensation data for 14,111 nonprofits, we find that CEO pay dropped by 2% after legislation in New York reduced CEOs’ ability to influence their own pay. Despite lower pay, CEOs exerted more effort, and nonprofit performance improved. The effects were stronger at commercial nonprofits than at charities and for male CEOs than female CEOs. These findings are consistent with a model where some nonprofit CEOs derive meaning from their work and compensation can be rigged. Overall, our results suggest that regulation that targets the pay-setting process can improve organizational outcomes at nonprofits.</jats:p>",
-      "doi": "10.1093/rfs/hhaf077",
-      "url": "https://doi.org/10.1093/rfs/hhaf077"
     }
   ]
 }
