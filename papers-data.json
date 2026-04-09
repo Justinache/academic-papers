@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-08T04:38:44.612Z",
-  "count": 474,
+  "lastUpdated": "2026-04-09T04:35:37.271Z",
+  "count": 477,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -151,6 +151,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The deposit franchise is valuable because banks pay below‐market deposit rates. However, if depositors leave, its value vanishes. This can trigger runs by uninsured depositors, even if banks hold fully liquid assets. Because the franchise value increases with interest rates, runs are more harmful, and hence likelier, when rates are high. Banks can deter runs by shortening asset duration, but this risks insolvency if rates fall. Avoiding both runs and insolvency requires capital covering the potential loss of the uninsured deposit franchise. We estimate deposit franchise values and use them to identify vulnerable banks during the 2023 regional bank crisis.</jats:p>",
       "doi": "10.1111/jofi.70034",
       "url": "https://doi.org/10.1111/jofi.70034"
+    },
+    {
+      "title": "Generative AI in Financial Reporting",
+      "authors": "Elizabeth Blankespoor, Ed Dehaan, Qianqian Li",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Generative artificial intelligence (GAI) will likely alter many aspects of the financial reporting process and spawn a deep stream of academic research. We take an early step by examining the extent to which firms have begun using GAI in one important part of the reporting process: writing disclosures. We begin by evaluating a commercial tool's ability to detect GAI writing in disclosures, and we find that it reliably identifies even very small amounts of GAI usage in realistic samples. We then examine firms’ actual earnings press releases, conference call prepared remarks, risk factors, MD&amp;As, and IPO filings through 2024 and find statistically significant GAI usage in all five disclosure types, with up to 4.5% of new text written by GAI in 2024. Usage is predictably higher in the cross‐section, and filings with higher GAI have systematically different linguistic properties. Our study provides early insights into the use and effects of GAI in financial reporting, and it motivates future research in this evolving area.</jats:p>",
+      "doi": "10.1111/1475-679x.70050",
+      "url": "https://doi.org/10.1111/1475-679x.70050"
     },
     {
       "title": "Scalable Demand and Markups",
@@ -633,6 +643,26 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101886"
     },
     {
+      "title": "When Large Employers Come to Town: Labor Market Entry and Corporate Disclosure",
+      "authors": "Yongoh Roh",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines how incumbent firms adjust their disclosure behavior in response to heightened labor market competition. Using announcements of large employer entries into local labor markets, I find that incumbent firms located in the affected counties increase the disclosure of positive, forward-looking information. This response is concentrated among incumbent firms that compete more directly with entrant firms for similar workers and is strongest in local labor markets where employee retention pressures are likely to be more severe. Additional analyses show that the response extends to qualitative disclosure, particularly job-related and reputation-enhancing press releases, is associated with more favorable subsequent employment outcomes, and is unlikely to be explained by alternative motives related to productivity spillovers, supply-chain linkages, product market competition, or capital market considerations. Overall, the evidence supports the view that firms use public disclosure to shape employee perceptions and mitigate turnover risk when competition for talent intensifies.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public and commercial sources cited in the paper.</jats:p>\n                  <jats:p>JEL Classifications: M41; D22; J23; J63.</jats:p>",
+      "doi": "10.2308/tar-2024-0309",
+      "url": "https://doi.org/10.2308/tar-2024-0309"
+    },
+    {
+      "title": "Cross-Border Impact of the ESG Disclosure Mandate: Evidence from Foreign Government Procurement Contracts",
+      "authors": "Yongtae Kim, Chengzhu Sun, Yi Xiang, Cheng Zeng",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines whether and how mandating environmental, social, and governance (ESG) disclosure affects firms’ competitiveness for foreign government procurement contracts. Exploiting staggered enactment of ESG disclosure mandates across countries, we find that firms attain more and larger contracts from foreign governments after their home countries mandate ESG disclosure. We show that the ESG disclosure mandate affects the global allocation of government procurements through two channels: increased transparency of ESG information and enhanced ESG performance. The mandate’s effect is more pronounced when government customers are more conscious of ESG, when the procurement process has ESG-related requirements, when government customers have a larger pool of potential suppliers, when the mandate is more strictly enforced, and when bidders significantly improve their ESG transparency following the mandate. Overall, our findings provide novel insight into the cross-border impact of mandatory ESG disclosure.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G14; G15; K22; M14; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2024-0178",
+      "url": "https://doi.org/10.2308/tar-2024-0178"
+    },
+    {
       "title": "A Model of Social Duties",
       "authors": "Tore Ellingsen, Erik Mohlin",
       "journal": "Journal of Political Economy",
@@ -868,7 +898,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-03-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.” (JEL C5, C61, G00, G11, G12)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.”</jats:p>",
       "doi": "10.1093/rfs/hhag022",
       "url": "https://doi.org/10.1093/rfs/hhag022"
     },
