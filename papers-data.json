@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-11T04:24:36.259Z",
-  "count": 478,
+  "lastUpdated": "2026-04-12T04:48:31.081Z",
+  "count": 477,
   "papers": [
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -4771,16 +4771,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does the increased use of data technologies, like machine learning, by financial intermediaries affect the allocation of capital towards innovation? I study this question in the context of startup financing by venture capitalists (VCs). While VCs adopting data technologies become better at screening startups similar to those in historical data, they tilt their investments towards this pool and become concurrently less likely to finance innovative startups that achieve rare major success. Plausibly exogenous variations in VCs’ screening automation suggest that these effects are causal. These findings highlight how investors’ adoption of data technologies can have real effects through innovation financing.</jats:p>",
       "doi": "10.1093/rfs/hhaf078",
       "url": "https://doi.org/10.1093/rfs/hhaf078"
-    },
-    {
-      "title": "Common Factors in Equity Option Returns",
-      "authors": "Alex Horenstein, Aurelio Vasquez, Xiao Xiao",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We explore the factor structure in delta-hedged equity option returns. A sparse latent factor model generates a correlation of 0.90 or higher between average and predicted option returns. A comparable performance is achieved with a characteristic-based model containing four factors: the equally weighted option portfolio, a factor based on the difference between historical and implied volatilities, a factor based on the ratio of corporate cash holdings to the total value of the firm’s assets, and a factor based on volatility of volatility. Traditional stock return factors cannot explain these option factors.</jats:p>",
-      "doi": "10.1093/rfs/hhaf060",
-      "url": "https://doi.org/10.1093/rfs/hhaf060"
     }
   ]
 }
