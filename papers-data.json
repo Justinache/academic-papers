@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-04-12T04:48:31.081Z",
-  "count": 477,
+  "lastUpdated": "2026-04-13T05:00:25.137Z",
+  "count": 480,
   "papers": [
+    {
+      "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
+      "authors": "Teng Huang, Stefano Sacchetto",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104283",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104283"
+    },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
       "authors": "Itay Goldstein, Bibo Liu, Liyan Yang",
@@ -141,6 +151,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104264",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
+    },
+    {
+      "title": "Collusion with Optimal Information Disclosure",
+      "authors": "Takuo Sugaya, Alexander Wolitzky",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-04-11",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.</jats:p>",
+      "doi": "10.1093/qje/qjag020",
+      "url": "https://doi.org/10.1093/qje/qjag020"
+    },
+    {
+      "title": "Codification, Technology Absorption, and The Globalization of the Industrial Revolution",
+      "authors": "Réka Juhász, Shogo Sakabe, David E Weinstein",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-04-10",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper examines the global adoption of technology in the late nineteenth century. We construct several novel datasets to test the idea that the codification of technical knowledge in the vernacular was necessary for countries to absorb the technologies of the First Industrial Revolution. We find that comparative advantage shifted to industries that could benefit from these technologies in countries and colonies with access to codified technical knowledge, but not in other regions. Using the rapid and unprecedented codification of technical knowledge in Meiji Japan as a natural experiment, we show that this pattern emerged only after the Japanese government codified vast amounts of technical knowledge. Our findings shed new light on the frictions associated with technological diffusion and offer a novel explanation for why Meiji Japan was unique among non-Western countries in successfully industrializing during the first wave of globalization.</jats:p>",
+      "doi": "10.1093/qje/qjag021",
+      "url": "https://doi.org/10.1093/qje/qjag021"
     },
     {
       "title": "Funding Black High‐Growth Startups",
@@ -798,7 +828,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-03-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock prices aggregate investor information about investment opportunities and reflect managerial performance. These dual roles may be in tension: when prices are more informative about investment opportunities, they may be less effective at incentivizing managerial effort. This tradeoff has novel consequences. Lower information costs can lead to both more efficient investment but lower firm value. The principal may strictly prefer to delegate investment to a manager who has no informational advantage and makes ex-post inefficient choices. Investment in diversifying and (ex-ante) negative NPV projects mitigate agency problems. Finally, standard measures of price efficiency provide an incomplete picture of firm value. (JEL D8, G1)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock prices aggregate investor information about investment opportunities and reflect managerial performance. These dual roles may be in tension: when prices are more informative about investment opportunities, they may be less effective at incentivizing managerial effort. This tradeoff has novel consequences. Lower information costs can lead to both more efficient investment but lower firm value. The principal may strictly prefer to delegate investment to a manager who has no informational advantage and makes ex-post inefficient choices. Investment in diversifying and (ex-ante) negative NPV projects mitigate agency problems. Finally, standard measures of price efficiency provide an incomplete picture of firm value.</jats:p>",
       "doi": "10.1093/rfs/hhag008",
       "url": "https://doi.org/10.1093/rfs/hhag008"
     },
@@ -978,7 +1008,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-03-05",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This paper studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top-10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next, we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This article studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top 10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work-schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
       "doi": "10.1093/qje/qjag015",
       "url": "https://doi.org/10.1093/qje/qjag015"
     },
