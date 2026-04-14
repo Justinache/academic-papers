@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T05:00:25.137Z",
+  "lastUpdated": "2026-04-14T04:47:03.404Z",
   "count": 480,
   "papers": [
     {
@@ -151,6 +151,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104264",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
+    },
+    {
+      "title": "Algorithm Design: A Fairness-Accuracy Frontier",
+      "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-13",
+      "abstract": "",
+      "doi": "10.1086/739826",
+      "url": "https://doi.org/10.1086/739826"
     },
     {
       "title": "Collusion with Optimal Information Disclosure",
@@ -731,6 +741,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines whether and how mandating environmental, social, and governance (ESG) disclosure affects firms’ competitiveness for foreign government procurement contracts. Exploiting staggered enactment of ESG disclosure mandates across countries, we find that firms attain more and larger contracts from foreign governments after their home countries mandate ESG disclosure. We show that the ESG disclosure mandate affects the global allocation of government procurements through two channels: increased transparency of ESG information and enhanced ESG performance. The mandate’s effect is more pronounced when government customers are more conscious of ESG, when the procurement process has ESG-related requirements, when government customers have a larger pool of potential suppliers, when the mandate is more strictly enforced, and when bidders significantly improve their ESG transparency following the mandate. Overall, our findings provide novel insight into the cross-border impact of mandatory ESG disclosure.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G14; G15; K22; M14; M41; M48.</jats:p>",
       "doi": "10.2308/tar-2024-0178",
       "url": "https://doi.org/10.2308/tar-2024-0178"
+    },
+    {
+      "title": "Mandatory Information Exchange, Cross-Border Income Shifting, and the Physical Flow of Tangible Goods",
+      "authors": "Travis Chow, Edward L. Maydew, Guoman She",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether mandatory tax information exchange agreements between governments have real effects on firms’ physical trade in tangible goods. We posit that some of the physical trade in tangible goods flowing through low-tax jurisdictions is intended to facilitate income shifting. As such, shocks to enforcement via mandatory information exchange agreements could cause firms to change the physical flow of goods. Using firm-level shipping container data, we find that adoption of bilateral tax information exchange agreements (TIEAs) between the U.S. and foreign jurisdictions is associated with significant decreases in the volume of imports by U.S. firms from those jurisdictions. We also find reallocation effects: U.S. firms increase imports from jurisdictions in the same subregion as the treated jurisdiction, resulting in minimal overall change in total imports. To our knowledge, ours is the first study to document a connection among enforcement-related tax disclosure, income shifting, and physical trade flows.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are available from the sources cited in the paper.</jats:p>\n                  <jats:p>JEL Classifications: F14; F18; F23; H25; H26.</jats:p>",
+      "doi": "10.2308/tar-2024-0525",
+      "url": "https://doi.org/10.2308/tar-2024-0525"
     },
     {
       "title": "A Model of Social Duties",
@@ -3103,16 +3123,6 @@
       "url": "https://doi.org/10.1111/jofi.70003"
     },
     {
-      "title": "Algorithm Design: A Fairness-Accuracy Frontier",
-      "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-16",
-      "abstract": "",
-      "doi": "10.1086/739826",
-      "url": "https://doi.org/10.1086/739826"
-    },
-    {
       "title": "Cross-Border M&A Flows, Economic Growth, and Foreign Exchange Rates",
       "authors": "Steven J Riddiough, Huizhong Zhang",
       "journal": "Review of Financial Studies",
@@ -4791,16 +4801,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that socially responsible investors can have a negative impact by slowing the pace of firm reform. Investors with broad prosocial preferences value acquiring dirty firms with high negative production externalities because they can reform these firms. The anticipation of trading gains for dirty firms decreases the incentive of current firm owners to reduce externalities proactively, potentially causing delay in reform. The presence of financial investors—alongside socially responsible investors—can exacerbate delay. Investment mandates through which socially responsible investors commit to paying a premium for green firms can incentivize reform in a timely manner.</jats:p>",
       "doi": "10.1093/rfs/hhaf083",
       "url": "https://doi.org/10.1093/rfs/hhaf083"
-    },
-    {
-      "title": "Data-Driven Investors",
-      "authors": "Maxime Bonelli",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does the increased use of data technologies, like machine learning, by financial intermediaries affect the allocation of capital towards innovation? I study this question in the context of startup financing by venture capitalists (VCs). While VCs adopting data technologies become better at screening startups similar to those in historical data, they tilt their investments towards this pool and become concurrently less likely to finance innovative startups that achieve rare major success. Plausibly exogenous variations in VCs’ screening automation suggest that these effects are causal. These findings highlight how investors’ adoption of data technologies can have real effects through innovation financing.</jats:p>",
-      "doi": "10.1093/rfs/hhaf078",
-      "url": "https://doi.org/10.1093/rfs/hhaf078"
     }
   ]
 }
