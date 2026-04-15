@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-14T04:47:03.404Z",
-  "count": 480,
+  "lastUpdated": "2026-04-15T04:47:43.874Z",
+  "count": 478,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -4781,26 +4781,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study intermediation in the housing market. Using data from an online platform utilized by real estate agents to generate leads, we identify exogenous intermediary attention arising from the quasi-randomized ordering of potential listings. Greater intermediary attention leads to an increased probability of listing with an agent and selling quickly, and a higher transaction price. The listing and transaction probabilities of neighboring properties decrease in intermediary attention. These results contrast sharply with endogenous correlations and provide causal evidence that intermediaries resolve property-level frictions deriving from search, information, or behavioral considerations but do not mitigate neighborhood-level information asymmetries.</jats:p>",
       "doi": "10.1093/rfs/hhaf061",
       "url": "https://doi.org/10.1093/rfs/hhaf061"
-    },
-    {
-      "title": "The Imperfect Intermediation of Money‐Like Assets",
-      "authors": "Jeremy C. Stein, Jonathan Wallen",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-14",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study supply‐and‐demand effects in the U.S. Treasury bill market by comparing the returns on T‐bills to the policy rate on the Federal Reserve's reverse repurchase (RRP) facility. We develop and test a simple model where the RRP‐bill spread is policed both by heterogeneously elastic money funds and by corporate treasurers who derive collateral benefits from holding T‐bills. In response to shifts in T‐bill supply, money funds act as front‐line arbitrageurs. However, when T‐bills become extremely scarce, less elastic corporate treasurers become the marginal investors and supply shifts have a larger effect on T‐bill rates.</jats:p>",
-      "doi": "10.1111/jofi.13500",
-      "url": "https://doi.org/10.1111/jofi.13500"
-    },
-    {
-      "title": "The Pace of Change: Socially Responsible Investing in Private Markets",
-      "authors": "Deeksha Gupta, Alexandr Kopytov, Jan Starmans",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that socially responsible investors can have a negative impact by slowing the pace of firm reform. Investors with broad prosocial preferences value acquiring dirty firms with high negative production externalities because they can reform these firms. The anticipation of trading gains for dirty firms decreases the incentive of current firm owners to reduce externalities proactively, potentially causing delay in reform. The presence of financial investors—alongside socially responsible investors—can exacerbate delay. Investment mandates through which socially responsible investors commit to paying a premium for green firms can incentivize reform in a timely manner.</jats:p>",
-      "doi": "10.1093/rfs/hhaf083",
-      "url": "https://doi.org/10.1093/rfs/hhaf083"
     }
   ]
 }
