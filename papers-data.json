@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T04:47:43.874Z",
+  "lastUpdated": "2026-04-16T04:53:19.119Z",
   "count": 478,
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104283",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104283"
+    },
+    {
+      "title": "Sustainable investing and market governance",
+      "authors": "Alvin Chen, Deeksha Gupta, Jan Starmans",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104273",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104273"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -153,6 +163,96 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
     },
     {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101886",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101886"
+    },
+    {
+      "title": "Social media livestreaming: Investor information or persuasion?",
+      "authors": "Ed deHaan, Allen H. Huang, Srijith Kannan, Lu Qiu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101861",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101861"
+    },
+    {
+      "title": "Political costs and strategic corporate communication",
+      "authors": "Christine Cuny, Jungbae Kim, Mihir N. Mehta",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101860",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101860"
+    },
+    {
+      "title": "Seasonal variation in cash flows and the timing role of accruals",
+      "authors": "Martin Kapons, David Veenman",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101854",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101854"
+    },
+    {
+      "title": "SEC scrutiny and corporate risk-taking",
+      "authors": "David P. Weber, Nina Xu, Kangkang Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101855",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101855"
+    },
+    {
+      "title": "Weak capital, weak provisions—Credit risk provisioning under IFRS 9",
+      "authors": "Markus Behn, Cyril Couaillier",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101856",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
+    },
+    {
+      "title": "The spillover effect of public firm audit regulation on private firm auditing: Evidence from common partners",
+      "authors": "Lisa Yao Liu, Lijing Tong",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101857",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101857"
+    },
+    {
+      "title": "Earnings targets, strategic patent sales, and patent trolls",
+      "authors": "Jinhwan Kim, Kristen Valentine",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101853",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "Ever since Allais",
+      "authors": "Aluma Dembo, Shachar Kariv, Matthew Polisson, John K.-H. Quah",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-15",
+      "abstract": "",
+      "doi": "10.1086/739829",
+      "url": "https://doi.org/10.1086/739829"
+    },
+    {
       "title": "Algorithm Design: A Fairness-Accuracy Frontier",
       "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
       "journal": "Journal of Political Economy",
@@ -161,6 +261,16 @@
       "abstract": "",
       "doi": "10.1086/739826",
       "url": "https://doi.org/10.1086/739826"
+    },
+    {
+      "title": "Voting and Trading on Public Information",
+      "authors": "Markus Parlasca, Paul Voss",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how public information, such as proxy advice, affects shareholder voting and, thus, corporate decision-making. We find that while public information improves the voting decisions of uninformed shareholders, it also induces privately informed shareholders to exit rather than to exercise their voice (vote). As a result, public information impairs information aggregation by voting but improves information aggregation by trading. Overall, public information can undermine corporate decision-making. Furthermore, slightly more precise public information can lead to a discontinuous reduction in firm value. Our results give rise to new empirical predictions and have implications for regulation.</jats:p>",
+      "doi": "10.1093/rfs/hhag035",
+      "url": "https://doi.org/10.1093/rfs/hhag035"
     },
     {
       "title": "Collusion with Optimal Information Disclosure",
@@ -711,16 +821,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Macroeconomic forces are challenging the ability of audit firms to sustain engagement profitability. Although one available strategy for multinational clients is to employ non-U.S. firms as component auditors (CAs), the impacts of this choice are unclear. We investigate the influence of CAs on engagement economics in Big 6 audits from 2012 to 2022, a period of increasing non-U.S. labor use. Results show that global hours increase with CA participation, suggesting that additional CA labor is needed to substitute for each U.S. hour. Global billing rates decline, implying that principal auditors share savings from lower cost labor with clients. However, U.S. lead team realizations rise with increasing substitution of non-U.S. labor, incentivizing more extensive CA use. Further analysis shows that these impacts are concentrated in engagements with high CA participation in countries with low wages and low English proficiency. Audit quality is not reduced by greater substitution of non-U.S. labor.</jats:p>\n                  <jats:p>JEL Classifications: M40; M42; M48; F66.</jats:p>",
       "doi": "10.2308/tar-2023-0360",
       "url": "https://doi.org/10.2308/tar-2023-0360"
-    },
-    {
-      "title": "Editorial data",
-      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101886",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101886"
     },
     {
       "title": "When Large Employers Come to Town: Labor Market Entry and Corporate Disclosure",
@@ -2963,16 +3063,6 @@
       "url": "https://doi.org/10.1086/738479"
     },
     {
-      "title": "Social media livestreaming: Investor information or persuasion?",
-      "authors": "Ed deHaan, Allen H. Huang, Srijith Kannan, Lu Qiu",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101861",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101861"
-    },
-    {
       "title": "Using GPT to Measure Business Complexity",
       "authors": "Darren Bernard, Elizabeth Blankespoor, Ties de Kok, Sara Toynbee",
       "journal": "The Accounting Review",
@@ -2991,16 +3081,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public financial information plays a critical role in the takeover market by helping acquirers search for and value potential targets. Using a difference-in-differences research design around a regulatory disclosure mandate that changed the granularity of financial disclosure for certain privately held banks, we find that banks with reduced disclosure are less likely to be targeted in M&amp;A transactions. Acquirers adapt to information frictions arising from reduced disclosures by bidding for geographically proximate target banks and increasing the proportion of stock in their bids. We also find that serial acquirers are less affected by the reduced financial disclosures of targets. Furthermore, banks that reduced disclosure while earning nonbanking income or engaging in intracompany transactions were affected more severely. Overall, we highlight the critical role of mandatory financial reporting in the takeover market and its nuanced implications for bank owners, regulators, and policymakers.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources noted in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: D83; G21; G28; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0611",
       "url": "https://doi.org/10.2308/tar-2023-0611"
-    },
-    {
-      "title": "Political costs and strategic corporate communication",
-      "authors": "Christine Cuny, Jungbae Kim, Mihir N. Mehta",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101860",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101860"
     },
     {
       "title": "The 2003 U.S. Dividend Tax Cut, Small Business Loan Supply, and the Real Economy",
@@ -3661,56 +3741,6 @@
       "abstract": "",
       "doi": "10.1086/739830",
       "url": "https://doi.org/10.1086/739830"
-    },
-    {
-      "title": "Ever Since Allais",
-      "authors": "Aluma Dembo, Shachar Kariv, Matthew Polisson, John K.-H. Quah",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739829",
-      "url": "https://doi.org/10.1086/739829"
-    },
-    {
-      "title": "Seasonal variation in cash flows and the timing role of accruals",
-      "authors": "Martin Kapons, David Veenman",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101854",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101854"
-    },
-    {
-      "title": "SEC scrutiny and corporate risk-taking",
-      "authors": "David P. Weber, Nina Xu, Kangkang Zhang",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101855",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101855"
-    },
-    {
-      "title": "Weak capital, weak provisions—Credit risk provisioning under IFRS 9",
-      "authors": "Markus Behn, Cyril Couaillier",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101856",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
-    },
-    {
-      "title": "The spillover effect of public firm audit regulation on private firm auditing: Evidence from common partners",
-      "authors": "Lisa Yao Liu, Lijing Tong",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101857",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101857"
     },
     {
       "title": "Migration, Specialization, and Trade: Evidence from Brazil’s March to the West",
@@ -4413,16 +4443,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101810"
     },
     {
-      "title": "Earnings targets, strategic patent sales, and patent trolls",
-      "authors": "Jinhwan Kim, Kristen Valentine",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101853",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
-    },
-    {
       "title": "Does antitrust enforcement against interlocking directorates impair corporate governance?",
       "authors": "Dain C. Donelson, Christian M. Hutzler, Adrienne Rhodes",
       "journal": "Journal of Accounting and Economics",
@@ -4761,26 +4781,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Traditional and shadow banks interacted in similar ways in the 2007 and COVID-19 crises, when both assets and liabilities flew out of shadow banks and into traditional banks. We explain these facts in a model of the coexistence of traditional and shadow banks in which liabilities and assets flow from the former to the latter in good times, avoiding regulation, and move the other way in a crisis, alleviating fire sales. The model sheds light on how regulations for traditional banks have (unintended) consequences on the shadow banking sector.</jats:p>",
       "doi": "10.1093/rfs/hhaf086",
       "url": "https://doi.org/10.1093/rfs/hhaf086"
-    },
-    {
-      "title": "Privacy and Team Incentives",
-      "authors": "Andrea M. Buffa, Qing Liu, Lucy White",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-15",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Real‐world contracts are typically private, observed only by their direct signatories, so agents working together are vulnerable to the principal opportunistically reducing other agents' incentives. The principal can mitigate this commitment problem by giving the most skilled agent a budget and delegating authority to write other agents' contracts. This endogenous hierarchy, never optimal with public contracts, raises effort, output, and compensation but allows rent extraction. The principal prefers it when contracts are opaque enough, skill is sufficiently heterogeneous across agents, and joint output is sensitive enough to effort. Our model provides novel predictions for the structure of banking syndicates.</jats:p>",
-      "doi": "10.1111/jofi.13496",
-      "url": "https://doi.org/10.1111/jofi.13496"
-    },
-    {
-      "title": "What Problem Do Intermediaries Solve? Evidence From Real Estate Markets",
-      "authors": "Darren Aiello, Mark Garmaise, Taylor Nadauld",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study intermediation in the housing market. Using data from an online platform utilized by real estate agents to generate leads, we identify exogenous intermediary attention arising from the quasi-randomized ordering of potential listings. Greater intermediary attention leads to an increased probability of listing with an agent and selling quickly, and a higher transaction price. The listing and transaction probabilities of neighboring properties decrease in intermediary attention. These results contrast sharply with endogenous correlations and provide causal evidence that intermediaries resolve property-level frictions deriving from search, information, or behavioral considerations but do not mitigate neighborhood-level information asymmetries.</jats:p>",
-      "doi": "10.1093/rfs/hhaf061",
-      "url": "https://doi.org/10.1093/rfs/hhaf061"
     }
   ]
 }
