@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-16T04:53:19.119Z",
-  "count": 478,
+  "lastUpdated": "2026-04-17T04:50:55.952Z",
+  "count": 479,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -241,6 +241,36 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101853",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?",
+      "authors": "Yue Qi, Timothy A. Seidel, Joseph H. Zhang, Junsheng Zhang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The engagement quality review is a key component of an audit firm's quality control system. This study leverages unique data on individual engagement quality reviewers (EQRs) to examine how previous shared working experience between EQRs and engagement partners affects audit quality. While prior research suggests that within‐firm network ties between predecessor and successor partners facilitate knowledge transfer, we find that prior shared working experience between EQRs and engagement partners is associated with\n                    <jats:italic>lower</jats:italic>\n                    audit quality. Mechanism tests indicate that such experience is associated with a higher likelihood of regulatory enforcement actions related to deficiencies in audit procedures, insufficient evidence, and a lack of professional skepticism. We also find that such experience corresponds with higher materiality thresholds, suggesting reduced scrutiny during audit planning and execution. Additional analyses reveal that these adverse effects primarily arise when previous shared working relationships did not produce adverse outcomes, when EQRs are not audit industry leaders, and when they face lower reputational risk. These findings are especially salient given that EQRs’ previous shared working experience with engagement partners appears to weigh heavily in EQR assignments. Overall, our study provides important insights into the implications of EQR independence and the determinants of engagement quality review effectiveness.\n                  </jats:p>",
+      "doi": "10.1111/1475-679x.70060",
+      "url": "https://doi.org/10.1111/1475-679x.70060"
+    },
+    {
+      "title": "Human + AI in Accounting: Early Evidence from the Field",
+      "authors": "Jung Ho Choi, Chloe L. Xie",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper provides early evidence on the integration and impact of generative artificial intelligence (GenAI) in accounting at the accountant and task levels. Using survey data from 277 professional accountants, we document substantial heterogeneity in adoption patterns, perceived benefits, and concerns about GenAI. Using proprietary field data from an AI‐enabled accounting platform serving 79 small‐ and medium‐sized enterprises, we analyze over 200,000 transaction‐level records. We document that GenAI adoption is associated with significant productivity gains and systematic reallocation of effort away from routine data entry toward business communication and quality assurance tasks. GenAI use is also associated with improvements to financial reporting quality, evidenced by more granular ledgers and faster month‐end closing. Examining human–AI interaction, we find that accountants selectively intervene when AI confidence scores are low, consistent with complementarity between professional expertise and AI. A framed field experiment further shows that while AI assistance improves classification accuracy on average, reliance on non‐consensus AI recommendations can increase the risk of error. Overall, our findings highlight both the promise and the risks of GenAI in accounting and suggest that, in practice, AI is most effective as a tool that augments—rather than replaces—professional judgment.</jats:p>",
+      "doi": "10.1111/1475-679x.70052",
+      "url": "https://doi.org/10.1111/1475-679x.70052"
+    },
+    {
+      "title": "Quid Pro Quo? Private Information Flows in Shareholder Activism: Evidence from Mutual Fund Families",
+      "authors": "Eunjee Kim, Hai Pham",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper hypothesizes that information flows from target firms to large shareholders during activist campaigns and that these flows have governance consequences. Focusing on actively managed mutual fund families, we find that informed trading by large‐holding fund families increases during activist campaigns relative to smaller‐holding fund families invested in the same firms. The effect is stronger for firms that attend more invitation‐only investor events, face greater threats from activist campaigns, and are harder to value. Consistent with information flowing from management to large‐holding fund families, the effect strengthens when Regulation Fair Disclosure enforcement is lax and when the information is favorable to the firm. Furthermore, the increased information advantage is associated with more management‐friendly voting behavior by these investors and a higher likelihood of target firms winning activist campaigns and retaining board seats. Overall, our findings are consistent with a potential quid pro quo in which investors’ access to information from management is associated with more pro‐management behavior.</jats:p>",
+      "doi": "10.1111/1475-679x.70059",
+      "url": "https://doi.org/10.1111/1475-679x.70059"
     },
     {
       "title": "Ever since Allais",
@@ -851,6 +881,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether mandatory tax information exchange agreements between governments have real effects on firms’ physical trade in tangible goods. We posit that some of the physical trade in tangible goods flowing through low-tax jurisdictions is intended to facilitate income shifting. As such, shocks to enforcement via mandatory information exchange agreements could cause firms to change the physical flow of goods. Using firm-level shipping container data, we find that adoption of bilateral tax information exchange agreements (TIEAs) between the U.S. and foreign jurisdictions is associated with significant decreases in the volume of imports by U.S. firms from those jurisdictions. We also find reallocation effects: U.S. firms increase imports from jurisdictions in the same subregion as the treated jurisdiction, resulting in minimal overall change in total imports. To our knowledge, ours is the first study to document a connection among enforcement-related tax disclosure, income shifting, and physical trade flows.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are available from the sources cited in the paper.</jats:p>\n                  <jats:p>JEL Classifications: F14; F18; F23; H25; H26.</jats:p>",
       "doi": "10.2308/tar-2024-0525",
       "url": "https://doi.org/10.2308/tar-2024-0525"
+    },
+    {
+      "title": "Competing for Talent: Addressing the “Biggest is Best” Assumptions Through Small Accounting Firms’ Recruiting Practices",
+      "authors": "Kenneth L. Bills, Christie Hayne, Sarah E. Stein",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Recruiting talent is a major issue for the accounting profession and is especially salient for small firms with limited resources and brand recognition. In this study, we examine the challenges small accounting firms face when recruiting from universities and the strategies they use to overcome them. Drawing on interviews with 34 stakeholders (primarily recruiting specialists and human resource managers), we develop a process model of small-firm recruiting and present evidence related to each phase: (1) targeting certain universities and students, (2) engaging in university recruiting activities, (3) extending offers, and (4) aiming to evaluate recruiting outcomes. Guided by theory, our findings reveal that small accounting firms develop organizational familiarity and image with students while navigating fatalism and balancing imitation and differentiation in their recruiting strategies. We conclude with a call to reconsider the “biggest is best” assumptions that dominate mainstream accounting research and provide suggestions for future research.</jats:p>\n                  <jats:p>Data Availability: Data were obtained from interviews.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42; M51.</jats:p>",
+      "doi": "10.2308/tar-2024-0800",
+      "url": "https://doi.org/10.2308/tar-2024-0800"
     },
     {
       "title": "A Model of Social Duties",
@@ -4643,16 +4683,6 @@
       "url": "https://doi.org/10.2308/tar-2025-0477"
     },
     {
-      "title": "International Rotations in Globally Networked Public Accounting Firms: Brokering Quality Control",
-      "authors": "Kimberly D. Westermann, Denise Hanes Downey",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study aims to understand international rotations (“secondments”) as a brokerage mechanism within globally networked public accounting firms (GNFs). Through interviews with 29 secondees on tour to or from the U.S. (individuals on rotation from one member firm to another member firm in a specified role for a fixed period) and 11 firm leaders, we find that secondments are viewed as a critical brokerage function in performing global client service and global risk management. Specifically, secondees bridge gaps in the GNF structure by brokering network ties, technical knowledge, sociocultural knowledge, and language. Secondees embody different brokerage roles and can fulfill more than one brokerage role at a time, depending on the purpose of the secondment and the stage of deployment. Collectively, secondments are important mechanisms by which structural holes are reduced between participating member firms and proximal member firms, ultimately benefiting the global firm and the global clients they serve.</jats:p>",
-      "doi": "10.2308/tar-2022-0424",
-      "url": "https://doi.org/10.2308/tar-2022-0424"
-    },
-    {
       "title": "Innovative Capital Markets Research and Accounting Practitioners",
       "authors": "Carolyn M. Callahan",
       "journal": "The Accounting Review",
@@ -4661,6 +4691,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The world of capital markets is constantly evolving, driven by technological advancements and changing global economies, presenting challenges for accounting practitioners. Amid current dynamic capital markets, this paper proposes a pathway for generating innovative accounting research that addresses practitioners’ needs by focusing on three critical financial reporting areas: contingent claim securities, sustainability/ESG metrics, and cryptocurrencies/digital assets. Secondly, to address the complex research challenges before us, I propose that we, as accounting scholars, embrace educational changes that may enhance the early research career success of our doctoral students and junior scholars, given that the accounting industry is on the brink of a profound technological transformation. Finally, I urge us to foster academic change by leveraging our strengths within and across disciplines to meet the accounting challenges and opportunities ahead.</jats:p>\n                  <jats:p>JEL Classifications: M410; G1.</jats:p>",
       "doi": "10.2308/tar-2025-0273",
       "url": "https://doi.org/10.2308/tar-2025-0273"
+    },
+    {
+      "title": "International Rotations in Globally Networked Public Accounting Firms: Brokering Quality Control",
+      "authors": "Kimberly D. Westermann, Denise Hanes Downey",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-10-17",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study aims to understand international rotations (“secondments”) as a brokerage mechanism within globally networked public accounting firms (GNFs). Through interviews with 29 secondees on tour to or from the U.S. (individuals on rotation from one member firm to another member firm in a specified role for a fixed period) and 11 firm leaders, we find that secondments are viewed as a critical brokerage function in performing global client service and global risk management. Specifically, secondees bridge gaps in the GNF structure by brokering network ties, technical knowledge, sociocultural knowledge, and language. Secondees embody different brokerage roles and can fulfill more than one brokerage role at a time, depending on the purpose of the secondment and the stage of deployment. Collectively, secondments are important mechanisms by which structural holes are reduced between participating member firms and proximal member firms, ultimately benefiting the global firm and the global clients they serve.</jats:p>",
+      "doi": "10.2308/tar-2022-0424",
+      "url": "https://doi.org/10.2308/tar-2022-0424"
     },
     {
       "title": "The Impact of Regulatory Leniency on Compliance: Evidence from the Municipalities Continuing Disclosure Cooperation Initiative",
@@ -4751,36 +4791,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study uses machine learning models to forecast future material misstatements. Using raw financial data, audit variables, qualitative features, and an efficient algorithm, we design a dynamic model that continuously updates with new information. Our model outperforms the benchmarks for both one-year-ahead and two-year-ahead predictions in terms of out-of-sample predictive power and economic impact on net income. Using Explainable Artificial Intelligence, we identify key predictive features, including comprehensive income, foreign firm status, and accrued interest and penalties from unrecognized tax benefits. Results show that investors achieve better outcomes using a proactive investment strategy based on our prediction models than reactive detection models. Furthermore, our prediction model can help managers prevent internal control weaknesses, assist auditors in assessing misstatement risks in advance, and enable regulators to allocate inspection resources proactively. Our study advances the literature by moving beyond the detection of past material misstatements to the forecasting of future misstatements.</jats:p>\n                  <jats:p>Data Availability: Publicly available.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42.</jats:p>",
       "doi": "10.2308/tar-2024-0035",
       "url": "https://doi.org/10.2308/tar-2024-0035"
-    },
-    {
-      "title": "Uncertainty, Risk, and Capital Growth",
-      "authors": "Gill Segal, Ivan Shaliastovich",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find that high productivity-based macroeconomic uncertainty is associated with greater accumulation of physical capital despite a reduction in investment and valuations. To reconcile this puzzling evidence, we show that uncertainty predicts lower aggregate depreciation of existing capital, which dominates the investment slowdown. We explain these findings by developing a quantitative production-based model in which firms implement precautionary savings through reducing utilization rather than raising investment. Through this novel intensive-margin mechanism, uncertainty shocks command a quarter of the equity premium in general equilibrium. Flexibility in utilization adjustments also helps explain uncertainty risk exposures in the cross-section of industry returns.</jats:p>",
-      "doi": "10.1093/rfs/hhaf088",
-      "url": "https://doi.org/10.1093/rfs/hhaf088"
-    },
-    {
-      "title": "Confident Risk Premiums and Investments Using Machine Learning Uncertainties",
-      "authors": "Rohit Allena",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper derives ex-ante confidence intervals for stock risk premium forecasts that are based on a wide range of linear and machine learning models. Exploiting the cross-sectional variation in the precision of risk premium forecasts, I provide improved investment strategies. The confident-high-low strategies that take long-short positions exclusively on stocks with precise risk premium forecasts outperform traditional high-low strategies in delivering superior out-of-sample returns and Sharpe ratios across all models. The outperformance increases (decreases) with the model complexity (bias). The confident-high-low strategies are economically interpretable as trading strategies of ambiguity-averse investors who account for confidence intervals around risk premium forecasts.</jats:p>",
-      "doi": "10.1093/rfs/hhaf087",
-      "url": "https://doi.org/10.1093/rfs/hhaf087"
-    },
-    {
-      "title": "Why Do Traditional and Shadow Banks Coexist?",
-      "authors": "Victor Lyonnet, Edouard Chrétien",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Traditional and shadow banks interacted in similar ways in the 2007 and COVID-19 crises, when both assets and liabilities flew out of shadow banks and into traditional banks. We explain these facts in a model of the coexistence of traditional and shadow banks in which liabilities and assets flow from the former to the latter in good times, avoiding regulation, and move the other way in a crisis, alleviating fire sales. The model sheds light on how regulations for traditional banks have (unintended) consequences on the shadow banking sector.</jats:p>",
-      "doi": "10.1093/rfs/hhaf086",
-      "url": "https://doi.org/10.1093/rfs/hhaf086"
     }
   ]
 }
