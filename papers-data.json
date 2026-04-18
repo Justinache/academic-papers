@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-17T04:50:55.952Z",
-  "count": 479,
+  "lastUpdated": "2026-04-18T04:34:18.410Z",
+  "count": 465,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -21,6 +21,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104273",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104273"
+    },
+    {
+      "title": "Government litigation risk and the decline in low-income mortgage lending",
+      "authors": "W. Scott Frame, Kristopher Gerardi, Erik J. Mayer, Billy Y. Xu, Lawrence Chengzhi Zhao",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104279",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104279"
+    },
+    {
+      "title": "Extrapolators and contrarians: Forecast bias and individual investor stock trading",
+      "authors": "Steffen Andersen, Stephen G. Dimmock, Kasper Meisner Nielsen, Kim Peijnenburg",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104291",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104291"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -271,6 +291,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper hypothesizes that information flows from target firms to large shareholders during activist campaigns and that these flows have governance consequences. Focusing on actively managed mutual fund families, we find that informed trading by large‐holding fund families increases during activist campaigns relative to smaller‐holding fund families invested in the same firms. The effect is stronger for firms that attend more invitation‐only investor events, face greater threats from activist campaigns, and are harder to value. Consistent with information flowing from management to large‐holding fund families, the effect strengthens when Regulation Fair Disclosure enforcement is lax and when the information is favorable to the firm. Furthermore, the increased information advantage is associated with more management‐friendly voting behavior by these investors and a higher likelihood of target firms winning activist campaigns and retaining board seats. Overall, our findings are consistent with a potential quid pro quo in which investors’ access to information from management is associated with more pro‐management behavior.</jats:p>",
       "doi": "10.1111/1475-679x.70059",
       "url": "https://doi.org/10.1111/1475-679x.70059"
+    },
+    {
+      "title": "New Frontiers in Household Finance",
+      "authors": "Francisco Gomes, Michael Haliassos, Tarun Ramadorai",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present and discuss the papers in this special issue. We use the themes that these papers study to illustrate interesting new directions that are being pursued in the household finance literature and highlight open questions on which more work is needed.</jats:p>",
+      "doi": "10.1093/rfs/hhag029",
+      "url": "https://doi.org/10.1093/rfs/hhag029"
+    },
+    {
+      "title": "Mutual Fund Clienteles",
+      "authors": "Daniel Fricke, Stephan Jank, Hannes Wilke",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a unique data set on the ownership composition of euro area equity funds, we find substantial differences in the flow-performance sensitivity across mutual fund clienteles. Households, followed by insurers, display the weakest sensitivity, whereas investment funds—as investors in mutual funds—exhibit the strongest sensitivity. Crucially, these behavioral differences hold within the same fund-quarter, ruling out heterogeneity across funds as a potential driver. We relate these clientele effects to monitoring incentives and balance sheet constraints. Lastly, we find that households respond more strongly to poor performance when surrounded by more performance-sensitive investors, indicating strategic interactions in investor flows.</jats:p>",
+      "doi": "10.1093/rfs/hhag019",
+      "url": "https://doi.org/10.1093/rfs/hhag019"
     },
     {
       "title": "Ever since Allais",
@@ -893,6 +933,26 @@
       "url": "https://doi.org/10.2308/tar-2024-0800"
     },
     {
+      "title": "Metering Problems and Resource Allocation",
+      "authors": "Ionela Andreicovici, Valeri Nikolaev, Laurence van Lent, Ruishen Zhang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Why do seemingly similar firms show such different productivity? We argue that unresolved measurement problems, i.e., the persistent incongruity between economic transactions and their accounting representation, affect resource allocation. Our metric quantifies technical accounting terminology in firm disclosures to capture these unresolved measurement problems, UMPs, using over 90,000 10-Ks. A one standard deviation increase in UMP is associated with lower capital investment (6 percent), R&amp;D (5 percent), and hiring growth (30 percent). We also find a reduction in total factor productivity (5 percent) and Tobin’s q (4 percent). Further, CEO compensation sensitivity to accounting performance decreases with UMP, whereas stock-based sensitivity remains unaffected. Our inferences continue to hold when we use a Bartik instrument, which exploits differential exposure to GAAP changes to isolate accounting-driven variation from the firm’s underlying economics. The results suggest unresolved measurement problems are a significant friction in resource allocation.</jats:p>\n                  <jats:p>Data Availability: The UMP dataset is available upon request. Please contact the first author.</jats:p>\n                  <jats:p>JEL Classifications: D22; D23; D24; G12; J23; M40.</jats:p>",
+      "doi": "10.2308/tar-2024-0698",
+      "url": "https://doi.org/10.2308/tar-2024-0698"
+    },
+    {
+      "title": "Profit-Fueled Corporate Cynicism",
+      "authors": "Leonardo P. Barcellos, Scott A. Emett",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101896",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101896"
+    },
+    {
       "title": "A Model of Social Duties",
       "authors": "Tore Ellingsen, Erik Mohlin",
       "journal": "Journal of Political Economy",
@@ -1501,16 +1561,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop an empirical proxy for companies’ differential communication to local and foreign investors using translation differences in public disclosure. We validate our proxy using a field experiment and then use this proxy to document that differential communication is associated with increases in information asymmetry between local and foreign investors. It is also linked to decreases in the relative information quality of foreign analysts, even when foreign demand for information is high and communication costs are low. These and a variety of supporting tests, including those using an alternative artificial intelligence (AI)-based measure of translation differences, suggest that firms engage in differential communication because of a preference for local investors and when responding to incentives to maximize stock price. This study highlights the role of differential communication as one driver of local information advantage in our setting.</jats:p>\n                  <jats:p>Data Availability: Most data are available from publicly available sources, as described in the paper. The field experiment data are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: G15; G14; M40; M41; G30.</jats:p>",
       "doi": "10.2308/tar-2023-0274",
       "url": "https://doi.org/10.2308/tar-2023-0274"
-    },
-    {
-      "title": "Metering Problems and Resource Allocation",
-      "authors": "Ionela Andreicovici, Valeri Nikolaev, Laurence van Lent, Ruishen Zhang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-03-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Why do seemingly similar firms show such different productivity? We argue that unresolved measurement problems, i.e., the persistent incongruity between economic transactions and their accounting representation, affect resource allocation. Our metric quantifies technical accounting terminology in firm disclosures to capture these unresolved measurement problems, UMPs, using over 90,000 10-Ks. A one standard deviation increase in UMP is associated with lower capital investment (6 percent), R&amp;D (5 percent), and hiring growth (30 percent). We also find a reduction in total factor productivity (5 percent) and Tobin’s q (4 percent). Further, CEO compensation sensitivity to accounting performance decreases with UMP, whereas stock-based sensitivity remains unaffected. Our inferences continue to hold when we use a Bartik instrument, which exploits differential exposure to GAAP changes to isolate accounting-driven variation from the firm’s underlying economics. The results suggest unresolved measurement problems are a significant friction in resource allocation.</jats:p>\n                  <jats:p>Data Availability: The UMP dataset is available upon request. Please contact the first author.</jats:p>\n                  <jats:p>JEL Classifications: D22; D23; D24; G12; J23; M40.</jats:p>",
-      "doi": "10.2308/tar-2024-0698",
-      "url": "https://doi.org/10.2308/tar-2024-0698"
     },
     {
       "title": "Trust and Innovation Within the Firm: Evidence from Matched CEO-Firm Data",
@@ -4601,196 +4651,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>During the COVID-19 pandemic (2020-2022), Chinese cities witnessed a paradox: residential land and new house prices surged while transaction volumes plummeted. We attribute this to local governments’ active price management through supply controls, land acquisitions by local government financing vehicles (LGFVs), and limits on new home sales permits. Cities more dependent on land sales and land-backed debt before the pandemic experienced greater price increases and price–volume divergence, with LGFVs buying more land at higher prices than other buyers. These interventions helped sustain fiscal financing but deepened developers’ financial distress, revealing unintended consequences of local governments’ fiscal strategies during downturns.</jats:p>",
       "doi": "10.1093/rfs/hhaf089",
       "url": "https://doi.org/10.1093/rfs/hhaf089"
-    },
-    {
-      "title": "Digital Distractions with Peer Influence: The Impact of Mobile App Usage on Academic and Labor Market Outcomes",
-      "authors": "Panle Jia Barwick, Siyu Chen, Chao Fu, Teng Li",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Concerns about excessive mobile phone use among youth are mounting. We present estimates of behavioral and contextual peer effects, along with comprehensive evidence on how students’ own and their peers’ app usage affect academic performance, physical health, and labor market outcomes. Our analysis draws on administrative data from a Chinese university covering three student cohorts over four years. We exploit random roommate assignments, differential exposure to a policy shock (gaming restrictions for minors), and differential exposure to a discrete event (the introduction of a blockbuster video game) for identification. App usage is contagious: a one s.d. increase in roommates’ in-college app usage raises own usage by 5.8%. High app usage is harmful across all measured outcomes. A one s.d. increase in app usage reduces GPAs by 36.2% of a within-cohort-major s.d. and lowers wages by 2.3%. Roommates’ app usage reduces a student’s GPA and wages through both disruptions and behavioral spillovers, generating a total negative effect that exceeds half the magnitude of the impact from the student’s own app usage. Extending China’s three-hour-per-week gaming restriction for minors to college students would boost their initial wages by 0.9%. High-frequency GPS and app usage data show that heavy app users spend less time in study halls, are more frequently late or absent from class, and get less sleep.</jats:p>",
-      "doi": "10.1093/qje/qjaf048",
-      "url": "https://doi.org/10.1093/qje/qjaf048"
-    },
-    {
-      "title": "Presidential Address: Housing Betas",
-      "authors": "Monika Piazzesi",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper documents new stylized facts about returns and cashflow growth rates on stocks and housing over decade‐long holding periods. While cashflow growth rates on the two assets comove positively, their returns comove negatively until the Global Financial Crisis and positively thereafter. These facts present a puzzle for representative‐agent models that imply positive return comovement for assets with similar cashflows. I consider a heterogeneous‐agent model with segmented stock and housing markets connected through credit. News about the aggregate economy generates negative return comovement. Recent shifts such as wealthier homebuyers and institutional housing purchases reduce the importance of credit and segmentation.</jats:p>",
-      "doi": "10.1111/jofi.70000",
-      "url": "https://doi.org/10.1111/jofi.70000"
-    },
-    {
-      "title": "Forced Remediation: The Use of Corporate Monitors in Sanctions for Misconduct",
-      "authors": "Rebecca L. Files, Gerald S. Martin, Yan Sun",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Following securities law violations, regulators can require firms to hire a corporate monitor to implement reforms that limit future misconduct and protect investors. We examine the determinants of including a corporate monitor as equitable relief in an enforcement action, as well as their effectiveness in promoting positive change at a firm. Using a structural equation model that jointly determines monetary and nonmonetary sanctions, we find that monitor assignments are related to the nature of the offense, violation severity, and investor harm. We also find that monitors with targeted accounting oversight responsibilities are associated with improved corporate culture, a higher likelihood of financial restatements during their tenure, and enhanced financial reporting credibility at the firms they oversee relative to enforcement firms without such monitors. Although corporate monitors can foster positive change, their impact depends on the scope of their responsibilities.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: K22; M14; M41; M42; M48.</jats:p>",
-      "doi": "10.2308/tar-2022-0220",
-      "url": "https://doi.org/10.2308/tar-2022-0220"
-    },
-    {
-      "title": "Reliance on Algorithmic Estimates: The Joint Influence of Algorithm Adaptability and Estimation Uncertainty",
-      "authors": "Jenny W. Ulla, Benjamin P. Commerford",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Companies, including public accounting firms, are integrating systems with advanced algorithms into decision-making processes to assist with developing and evaluating complex estimates. However, individuals may hesitate to rely on algorithmic output, particularly under conditions of uncertainty. We conduct two experiments examining whether and how a system’s ability to adapt—an emerging feature of machine learning—interacts with uncertainty to influence accounting professionals’ reliance on algorithmic advice. In Experiment 1, we find that auditors are more willing to rely on advice from learning algorithms than static algorithms when estimation uncertainty is relatively high. Experiment 2 replicates this result in a general accounting context where preparers develop their own estimates. Our findings demonstrate that accounting professionals’ reliance on algorithms is contextually dependent, and highlights algorithm adaptability as an important technological feature that can promote advice utilization, particularly when adaptability is likely important to the judgment context (e.g., when estimation uncertainty is high).</jats:p>\n                  <jats:p>JEL Classifications: M40; M41; M42; O30; O32; O33.</jats:p>",
-      "doi": "10.2308/tar-2024-0109",
-      "url": "https://doi.org/10.2308/tar-2024-0109"
-    },
-    {
-      "title": "Tax Research in Accounting: A Look Forward",
-      "authors": "Michelle Hanlon",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>To commemorate the 100th anniversary of The Accounting Review, I was asked to provide my forecast of the future of tax research in accounting. In sum, my opinion is that the future is bright and full of opportunities for tax scholars. Governments are altering corporate income tax laws in fundamental ways and questions about how these changes affect investment, investment location, income shifting, corporate capital structure, and financial reporting will be very important aspects to study. New and newly used taxes, such as tariffs and endowment taxes, will allow for novel paths of inquiry and accountants should contribute. The use of AI by tax authorities and taxpayers could alter both tax enforcement and tax planning. The increasing access to administrative data, the use of field experiments and field studies, and employing survey methods to obtain data should expand the settings available to study and improve identification.</jats:p>",
-      "doi": "10.2308/tar-2025-0479",
-      "url": "https://doi.org/10.2308/tar-2025-0479"
-    },
-    {
-      "title": "Local-Thinking Bias",
-      "authors": "Ed deHaan, Charles M. C. Lee, Wei Ting Loh",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Local-thinking bias, wherein agents overweight information that comes readily to mind, is a prominent finding in cognitive psychology. In this study, we investigate local-thinking bias in the context of sell-side analysts and measure each analyst’s “local” information as news stemming from their individual coverage portfolio. Tests examining multiple analysts forecasting on the same focal firm at the same time find that individual analysts overweight idiosyncratic local news and underweight news from economically linked firms that are not in their coverage portfolios. Market prices track the analyst bias from local news, leading to predictable and economically significant return reversal patterns in the future. A trading strategy that adjusts for analysts’ biases earns meaningful abnormal returns. We discuss the implications of these findings for three literatures: (1) cognitive psychology, (2) analyst behavior, and (3) behavioral asset pricing.</jats:p>\n                  <jats:p>JEL Classifications: D91; G14; G17; G41; M41; M49.</jats:p>",
-      "doi": "10.2308/tar-2024-0453",
-      "url": "https://doi.org/10.2308/tar-2024-0453"
-    },
-    {
-      "title": "Measuring Cash Flows: A Guide for Researchers",
-      "authors": "Ciao-Wei Chen, Samuel J. Melessa, Richard D. Mergenthaler, Heejin Ohn",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Cash flows play an important role in the accounting and finance literature. They are a major component of earnings, serve as a benchmark for earnings and accruals, and are an input to firm valuation. Although accrual measurement has been extensively studied, research on cash flow measurement remains limited. We review cash flow proxies researchers use in prior literature and highlight the importance of (1) identifying and defining the cash flow construct of interest based on the underlying research question and other constructs of interest and (2) selecting a cash flow proxy that minimizes measurement error and maps well into its construct. We also examine the challenges researchers face in measuring cash flows and demonstrate how measurement choices can affect the magnitude of coefficient estimates and statistical inferences. Finally, our study provides a framework researchers can follow to strengthen the construct validity of cash flow proxies.</jats:p>\n                  <jats:p>JEL Classifications: M41; G30; C01.</jats:p>",
-      "doi": "10.2308/tar-2022-0143",
-      "url": "https://doi.org/10.2308/tar-2022-0143"
-    },
-    {
-      "title": "Experimental and Archival Research in Auditing: Complementarities, Convergence, and Future Directions",
-      "authors": "Mark W. Nelson",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This commentary considers experimental and archival auditing research published over the past 50 years and suggests directions for future research. Starting with Ashton (1974a) and Simunic (1980), I discuss major research themes occurring in these literatures. I use Brunswik’s lens model as a metaphor that highlights methodological complementarities and opportunities for convergence to address important issues. Possible topics to consider further in future research include the determinants of audit quality, the structure of audit firms and audit regulation, the effect of emerging technologies like AI, teaching and supporting future auditors, potential enhancements of the audit report, and expansion of the services that auditors provide to society.</jats:p>",
-      "doi": "10.2308/tar-2025-0477",
-      "url": "https://doi.org/10.2308/tar-2025-0477"
-    },
-    {
-      "title": "Innovative Capital Markets Research and Accounting Practitioners",
-      "authors": "Carolyn M. Callahan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The world of capital markets is constantly evolving, driven by technological advancements and changing global economies, presenting challenges for accounting practitioners. Amid current dynamic capital markets, this paper proposes a pathway for generating innovative accounting research that addresses practitioners’ needs by focusing on three critical financial reporting areas: contingent claim securities, sustainability/ESG metrics, and cryptocurrencies/digital assets. Secondly, to address the complex research challenges before us, I propose that we, as accounting scholars, embrace educational changes that may enhance the early research career success of our doctoral students and junior scholars, given that the accounting industry is on the brink of a profound technological transformation. Finally, I urge us to foster academic change by leveraging our strengths within and across disciplines to meet the accounting challenges and opportunities ahead.</jats:p>\n                  <jats:p>JEL Classifications: M410; G1.</jats:p>",
-      "doi": "10.2308/tar-2025-0273",
-      "url": "https://doi.org/10.2308/tar-2025-0273"
-    },
-    {
-      "title": "International Rotations in Globally Networked Public Accounting Firms: Brokering Quality Control",
-      "authors": "Kimberly D. Westermann, Denise Hanes Downey",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study aims to understand international rotations (“secondments”) as a brokerage mechanism within globally networked public accounting firms (GNFs). Through interviews with 29 secondees on tour to or from the U.S. (individuals on rotation from one member firm to another member firm in a specified role for a fixed period) and 11 firm leaders, we find that secondments are viewed as a critical brokerage function in performing global client service and global risk management. Specifically, secondees bridge gaps in the GNF structure by brokering network ties, technical knowledge, sociocultural knowledge, and language. Secondees embody different brokerage roles and can fulfill more than one brokerage role at a time, depending on the purpose of the secondment and the stage of deployment. Collectively, secondments are important mechanisms by which structural holes are reduced between participating member firms and proximal member firms, ultimately benefiting the global firm and the global clients they serve.</jats:p>",
-      "doi": "10.2308/tar-2022-0424",
-      "url": "https://doi.org/10.2308/tar-2022-0424"
-    },
-    {
-      "title": "The Impact of Regulatory Leniency on Compliance: Evidence from the Municipalities Continuing Disclosure Cooperation Initiative",
-      "authors": "Mark G. Maffett, Delphine Samuels, Frank S. Zhou",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the SEC’s 2014 Municipalities Continuing Disclosure Cooperation initiative (MCDC) affects disclosure compliance in the municipal bond market. The MCDC granted favorable settlement terms to municipal debt issuers and underwriters who voluntarily self-reported having violated SEC disclosure requirements. Although underwriters participated widely, most municipal issuers did not participate in the MCDC initiative despite having publicly observable disclosure violations. We find that, after the MCDC, official statements were less likely to contain false claims about past compliance—particularly when underwriters had participated—suggesting improved underwriter oversight of the initial bond offering. However, contrary to the SEC’s intention, we observe a 9 percent post-MCDC decrease in issuers’ compliance with continuing disclosure requirements compared with a control group of voluntarily disclosing issuers. Our findings provide no evidence that the MCDC improved continuing disclosure compliance; rather, the MCDC may have instead exacerbated noncompliance by exposing the weaknesses of the existing regulatory regime.</jats:p>\n                  <jats:p>JEL Classifications: G24; G28; H74; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0067",
-      "url": "https://doi.org/10.2308/tar-2023-0067"
-    },
-    {
-      "title": "To Talk or Not to Talk: When Analysts with Social Ties to Firm Managers Acquire Bad News",
-      "authors": "Kaigang He, Zengquan Li, Yong George Yang, Ivy Xiying Zhang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study whether sell-side financial analysts’ social ties to firm management help them discern firms’ financial reporting frauds and, upon such detection, how the connected analysts disseminate the information. Using unique data from China, we find that, although unconnected analysts do not manifest a significant change in their likelihood of covering the fraud firms nor in issuing more downgrade stock ratings, connected analysts are significantly more likely to drop coverage right after these firms’ first annual reports containing fraudulent information. Meanwhile, mutual funds with a trading commission relationship to these connected analysts (i.e., client funds) are significantly more likely to unload their holdings of fraud firms than nonclient funds after these firms’ first fraudulent annual reports. Overall, the evidence suggests that analysts with social ties to firm management have early access to bad news and choose to privately communicate the negative information to their clients.</jats:p>\n                  <jats:p>Data Availability: All data used in this article are publicly available.</jats:p>",
-      "doi": "10.2308/tar-2022-0492",
-      "url": "https://doi.org/10.2308/tar-2022-0492"
-    },
-    {
-      "title": "Digital Traffic, Financial Performance, and Stock Valuation",
-      "authors": "Christopher S. Armstrong, Yaniv Konchitchki, Biwen Zhang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the economic implications of digital traffic on firms’ financial performance, stock valuation, and financial surprises. Our analysis shows that timely flows of digital traffic are contemporaneous and leading indicators of firms’ revenue and profitability—both gross and operating. Moreover, we show that digital traffic contains novel information about firms’ future performance that is not entirely reflected in stock prices, analyst forecasts, or historical (i.e., time series) financial metrics. Notably, digital-traffic-based investment strategies are lucrative and generate substantial abnormal returns. Importantly, we also adduce evidence that corroborates our conjecture about the underlying economic mechanism that explains the valuation implications of digital traffic: These are driven by firms with consumer-oriented websites that facilitate sale transactions.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: E32; G32; O33.</jats:p>",
-      "doi": "10.2308/tar-2023-0133",
-      "url": "https://doi.org/10.2308/tar-2023-0133"
-    },
-    {
-      "title": "Insights from 100 Years of\n                    The Accounting Review\n                    : An External Reporting Perspective",
-      "authors": "Richard G. Sloan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Publications on external reporting have played an important role in the first 100 years of The Accounting Review. The first 40 years featured publications prescribing desirable financial accounting principles. The next 45 years featured archival empirical research focusing on managers’ financial accounting choices and the use of financial accounting information by capital market participants. The most recent 15 years have been characterized by growth in research on sustainability reporting. I briefly summarize this research and propose opportunities for future research.</jats:p>\n                  <jats:p>Data Availability: Data are publicly available from sources indicated in the text.</jats:p>",
-      "doi": "10.2308/tar-2025-0485",
-      "url": "https://doi.org/10.2308/tar-2025-0485"
-    },
-    {
-      "title": "Accounting Measurement Rules in the Presence of Higher-Order Uncertainty",
-      "authors": "Phillip C. Stocken, Gaoqing Zhang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the investment efficiency of the historical cost and fair value measurement rules when a reporting firm and its investors confront higher-order uncertainty inferring the behavior of others. Although all investors are attentive to the firm’s report, the firm and investors incorrectly believe only some investors are attentive. We find that a report prepared under the historical cost rule yields greater investment efficiency than under the fair value rule if and only if (1) the investors are badly calibrated, (2) the firm’s production technology exhibits sufficiently strong returns to scale, (3) the firm’s productivity realization is sufficiently negatively correlated with market returns, and (4) the firm is sufficiently well calibrated about its investors’ attentiveness.</jats:p>\n                  <jats:p>JEL Classifications: C72; D80; D83; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0259",
-      "url": "https://doi.org/10.2308/tar-2023-0259"
-    },
-    {
-      "title": "Renegotiation Costs and Debt Contract Design",
-      "authors": "Scott D. Dyreng, Elia Ferracuti, Arthur K. Morris",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the relation between debt contract renegotiation costs and contract design. We use a plausibly exogenous shock to expected renegotiation costs arising from a change in the taxation of debt renegotiations to show that, as renegotiation costs decline, the maturity of debt contracts lengthens, the initial likelihood of covenant violation increases, and the use of performance pricing provisions becomes less frequent. The evidence indicates that ex ante allocation of cash flow rights and ex post reallocation of decision rights through renegotiation are local substitutes, where the preference for one mechanism versus the other depends, at least in part, on renegotiation costs.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G32; G33; G38.</jats:p>",
-      "doi": "10.2308/tar-2023-0418",
-      "url": "https://doi.org/10.2308/tar-2023-0418"
-    },
-    {
-      "title": "Thoughts on Management Accounting Research at\n                    The Accounting Review\n                    ’s Centennial",
-      "authors": "Eva Labro",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>On the occasion of The Accounting Review’s centennial, I bring renewed urgency to the need for management accounting research to have practical relevance given the budgetary pressures on higher education. Practically relevant research is also relevant in the classroom. I present three ideas to increase the practical and teaching relevance of management accounting research. First, study the heterogeneity in management accounting practices across industries and embrace single-industry research deep dives. Second, focus on the role of management accounting in decision-making, planning, and forecasting. Third, explore the connections of management accounting with other subfields in accounting as well as other business disciplines.</jats:p>",
-      "doi": "10.2308/tar-2025-0481",
-      "url": "https://doi.org/10.2308/tar-2025-0481"
-    },
-    {
-      "title": "Do Firms Respond to Auditors’ Red Flags? Evidence from Goodwill Impairment Key Audit Matter Disclosures",
-      "authors": "Ionela Andreicovici, Anne Jeny, Daphne Lui",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate the link between the expanded audit report and firms’ financial disclosure decisions, focusing on auditors’ mentions of goodwill impairment as a key audit matter (KAM). Drawing from a sample of the United Kingdom Premium Listed companies with goodwill on their balance sheets during 2014–2019, we identify instances where goodwill impairment is flagged as a KAM and contrast firms’ disclosure levels on goodwill impairment using textual measures constructed from information in their annual reports. We find that firm disclosure on goodwill impairment increases (decreases) when auditors start (stop) mentioning goodwill impairment as a KAM. The increase in disclosure is more pronounced in the presence of stronger external information demand and better internal governance. Finally, firms are more likely to impair goodwill in the period following auditors’ mention of goodwill impairment as a KAM. Overall, this paper establishes the role of the expanded audit report for firm disclosure.</jats:p>",
-      "doi": "10.2308/tar-2020-0437",
-      "url": "https://doi.org/10.2308/tar-2020-0437"
-    },
-    {
-      "title": "Predicting Material Misstatements Using Machine Learning",
-      "authors": "Chanyuan Zhang Parker, Lanxin Jiang, Soohyun Cho, Miklos A. Vasarhelyi",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-10-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study uses machine learning models to forecast future material misstatements. Using raw financial data, audit variables, qualitative features, and an efficient algorithm, we design a dynamic model that continuously updates with new information. Our model outperforms the benchmarks for both one-year-ahead and two-year-ahead predictions in terms of out-of-sample predictive power and economic impact on net income. Using Explainable Artificial Intelligence, we identify key predictive features, including comprehensive income, foreign firm status, and accrued interest and penalties from unrecognized tax benefits. Results show that investors achieve better outcomes using a proactive investment strategy based on our prediction models than reactive detection models. Furthermore, our prediction model can help managers prevent internal control weaknesses, assist auditors in assessing misstatement risks in advance, and enable regulators to allocate inspection resources proactively. Our study advances the literature by moving beyond the detection of past material misstatements to the forecasting of future misstatements.</jats:p>\n                  <jats:p>Data Availability: Publicly available.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42.</jats:p>",
-      "doi": "10.2308/tar-2024-0035",
-      "url": "https://doi.org/10.2308/tar-2024-0035"
     }
   ]
 }
