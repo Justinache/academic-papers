@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T04:34:18.410Z",
-  "count": 465,
+  "lastUpdated": "2026-04-19T04:52:45.581Z",
+  "count": 468,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -41,6 +41,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104291",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104291"
+    },
+    {
+      "title": "Risk-averse dealers in a risk-free market—The role of trading desk risk limits",
+      "authors": "Dan Li, Lubomir Petrasek, Mary Tian",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104290",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104290"
+    },
+    {
+      "title": "Flying below the radar: Insider trading by executives below the top",
+      "authors": "Hans K. Hvide, Kasper Meisner Nielsen",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104282",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104282"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -951,6 +971,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101896",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101896"
+    },
+    {
+      "title": "Internal Information Quality and, Performance Metric Selection",
+      "authors": "Wayne Guay, Chongho Kim, Oscar Timmermans",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101894",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101894"
     },
     {
       "title": "A Model of Social Duties",
