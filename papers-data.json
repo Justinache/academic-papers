@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-20T04:59:22.446Z",
-  "count": 468,
+  "lastUpdated": "2026-04-21T04:50:26.469Z",
+  "count": 470,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -281,6 +281,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101853",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "The Impact of Financial Reporting Mandates on Labor Unions",
+      "authors": "Qingkai Dong, Anthony Le",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-20",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Labor unions in the United States are subject to financial reporting mandates. This study examines how these mandates affect unions and their members. Using several regulation‐based empirical designs, we document that more granular reporting requirements adversely affect unions' election outcomes. Supplemental analyses suggest that these findings are consistent with the strategic use of unions' disclosed information by parties such as employers and their consultants. We find mixed evidence on whether the mandates materially improve oversight of unions. Lastly, we find that the mandate reduces employees' average pay without clear benefits for employers, aside from reallocating investment from labor to capital. Collectively, our results suggest that more fine‐grained financial reporting requirements impose costs on unions and weaken their ability to represent employees, resulting in worse employment outcomes.</jats:p>",
+      "doi": "10.1111/1475-679x.70056",
+      "url": "https://doi.org/10.1111/1475-679x.70056"
     },
     {
       "title": "Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?",
@@ -981,6 +991,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101894",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101894"
+    },
+    {
+      "title": "Estimation precision and robust inference in archival research",
+      "authors": "Joachim Gassen, David Veenman",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101895",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101895"
     },
     {
       "title": "A Model of Social Duties",
