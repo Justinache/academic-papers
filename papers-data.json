@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-22T04:49:30.554Z",
-  "count": 471,
+  "lastUpdated": "2026-04-23T04:52:09.340Z",
+  "count": 478,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -283,6 +283,36 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
     },
     {
+      "title": "The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market",
+      "authors": "Falk Bräuning, Hillary Stein",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using confidential microdata, we show that shocks to primary dealers’ constraints have significant effects on the U.S. Treasury securities market. We consider two types of constraints: the supplementary leverage ratio and trading desk value-at-risk constraints. In response to tighter constraints, dealers reduce their Treasury positions, triggering a reduction in aggregate turnover and an increase in dealer intermediation margin. Impaired intermediation also amplifies the yield response to net demand shifts and weakens Treasury auction outcomes. Our estimates suggest that the (shadow) cost of dealer constraints is as high as 9% of dealers’ profit margins. (JEL G10, G12, G18, G21)</jats:p>",
+      "doi": "10.1093/rfs/hhag043",
+      "url": "https://doi.org/10.1093/rfs/hhag043"
+    },
+    {
+      "title": "AI Democratization and Trading Inequality",
+      "authors": "Anne Yanru Chang, Xi Dong, Xiumin Martin, Changyun Zhou",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We are among the first to investigate how Generative AI (GenAI) shapes investors' trading activities. Using an AI‐sentiment measure extracted from earnings‐call transcripts to proxy for textual signals, we find notable shifts in trading behaviors around earnings calls. Before the wide deployment of ChatGPT, short selling was aligned with AI‐sentiment, whereas retail trading was not. However, following ChatGPT's deployment, the alignment of retail traders with AI‐sentiment significantly increases, while the alignment of short sellers weakens, albeit insignificantly. Stocks with higher information processing costs exhibit a more pronounced increase in retail trading alignment, scenarios where retail investors are likely to benefit more from AI. Using retail‐AI alignment as a proxy for the extent to which retail investors trade based on AI signals, we show that information asymmetry declines and retail investors' trading profitability improves, whereas short sale profitability declines in high retail‐AI alignment stocks. Exogenous outages reduce the alignment between retail trading and AI‐sentiment, allowing us to draw causal inferences. Collectively, this study suggests that AI is a promising technology for narrowing the information gap in the trading of complex textual financial disclosures between investor classes with clear disparities in the ability to process public disclosures.</jats:p>",
+      "doi": "10.1111/1475-679x.70063",
+      "url": "https://doi.org/10.1111/1475-679x.70063"
+    },
+    {
+      "title": "Generative AI in Capital Markets: Information Production, Dissemination, and Processing",
+      "authors": "Sean Shun Cao, Wilbur Xinyuan Chen, Guang Ma, Suraj Srinivasan",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We synthesize evidence from six papers presented at the 2025\n                    <jats:italic>Journal of Accounting Research</jats:italic>\n                    Conference on how generative artificial intelligence (GenAI) is reshaping capital‐market information flows. Our discussion is organized around an economic framework with three layers: information production by firms and accounting professionals, information dissemination through intermediaries, and information processing by investors. Across these layers, the conference papers show that GenAI can lower preparation costs, improve intermediary productivity, and reduce investors’ processing costs. At the same time, they point to a common constraint: whether GenAI improves the information environment depends critically on information verification costs. We also highlight gaps in current evidence and outline future research opportunities within and across the three layers.\n                  </jats:p>",
+      "doi": "10.1111/1475-679x.70061",
+      "url": "https://doi.org/10.1111/1475-679x.70061"
+    },
+    {
       "title": "On the Nature of Entrepreneurship",
       "authors": "Anmol Bhandari, Tobey Kass, Thomas J. May, Ellen R. McGrattan, Evan Schulz",
       "journal": "Journal of Political Economy",
@@ -291,6 +321,36 @@
       "abstract": "",
       "doi": "10.1086/739823",
       "url": "https://doi.org/10.1086/739823"
+    },
+    {
+      "title": "Dynamics of Asset Demands with Confidence Heterogeneity†",
+      "authors": "Adrian Buss, Raman Uppal, Grigory Vilkov",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>To understand the dynamics of investors’ asset demands, we develop a general-equilibrium model driven by a single latent variable: heterogeneity in investors’ confidence about mean endowment growth. The model predicts persistent heterogeneity in asset demands and concentrated portfolios. Consistent with the data, limited confidence reduces investors’ demand elasticities and makes stock prices excessively volatile—driven by latent demand rather than observable characteristics. The underlying economic mechanisms are driven primarily by investors’ desire to hedge changes in future beliefs instead of current disagreement. Finally, consistent with survey data, investors’ expectations correlate positively with past returns and negatively with future returns.</jats:p>",
+      "doi": "10.1093/rfs/hhag041",
+      "url": "https://doi.org/10.1093/rfs/hhag041"
+    },
+    {
+      "title": "Machine Forecast Disagreement",
+      "authors": "Turan G Bali, Bryan T Kelly, Mathis Mörke, Jamil Rahman",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a statistical model of heterogeneous beliefs wherein investors are represented as different machine learning model specifications. Investors form return forecasts from their individual models using common data inputs. We measure disagreement as forecast dispersion across investor-models (MFD). Our measure aligns with analyst forecast disagreement but more powerfully predicts returns. We document a large and robust association between belief disagreement and future returns. A decile spread portfolio that sells stocks with high disagreement and buys stocks with low disagreement earns a value-weighted return of 13% per year. Further analyses suggest MFD-alpha is mispricing induced by short-sale costs and limits-to-arbitrage.</jats:p>",
+      "doi": "10.1093/rfs/hhag042",
+      "url": "https://doi.org/10.1093/rfs/hhag042"
+    },
+    {
+      "title": "The True Colors of Money: Racial Representation and Asset Management",
+      "authors": "Lina Han, Xing Huang, Ohad Kadan, Jimmy Wu",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the role of race and ethnicity in the mutual fund context at two distinct levels. At the fund manager level, we document a co-racial tilt—funds managed by minority-dominant (White-dominant) teams allocate larger portfolio weights to minority-led (White-led) firms. This tilt is not associated with superior performance. It diminishes as fund managers gain experience, suggesting the presence of inaccurate statistical discrimination. At the investor level, we find that minority-led funds are penalized similarly to White-dominant funds for poor performance but are not rewarded as much for superior performance. Overall, our results uncover race-related investment choices at both levels.</jats:p>",
+      "doi": "10.1093/rfs/hhag038",
+      "url": "https://doi.org/10.1093/rfs/hhag038"
     },
     {
       "title": "The Impact of Financial Reporting Mandates on Labor Unions",
@@ -491,6 +551,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set linking private equity (PE) deals to individual managers, we document evidence of manager skill in terms of generating net present value (NPV), a performance measure that captures both scale and returns. PE firms have strong economic incentives to raise larger funds and execute larger deals. While relative returns decline with scale, NPV persists and even increases. Skilled managers are entrusted with more capital and achieve better career outcomes, and approximately 40% of NPV is attributable to internal capital allocation decisions. These findings highlight the role of PE firms in creating value through performance‐based capital deployment.</jats:p>",
       "doi": "10.1111/jofi.70036",
       "url": "https://doi.org/10.1111/jofi.70036"
+    },
+    {
+      "title": "Who Clears the Market When Passive Investors Trade?",
+      "authors": "Marco Sammon, John J Shim",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-03",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find that firms are the primary sellers who clear the market for index fund buying, providing shares at a nearly one-for-one rate. Most demand-side institutions trade in the same direction as index funds rather than accommodating passive demand. We use two instruments for index fund demand and show that firms causally respond to exogenous passive demand, with prices serving as the coordinating mechanism. Firms satisfy passive demand mostly through nonprimary market issuance, for example, through employee stock-based compensation. Our results suggest that passive investing has systematically supplied capital to firms by enabling equity issuance over the last two decades.</jats:p>",
+      "doi": "10.1093/rfs/hhag032",
+      "url": "https://doi.org/10.1093/rfs/hhag032"
     },
     {
       "title": "Optimal Queue Design",
@@ -853,16 +923,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag033"
     },
     {
-      "title": "Who Clears the Market When Passive Investors Trade?",
-      "authors": "Marco Sammon, John J Shim",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find that firms are the primary sellers who clear the market for index fund buying, providing shares at a nearly one-for-one rate. Most demand-side institutions trade in the same direction as index funds rather than accommodating passive demand. We use two instruments for index fund demand and show that firms causally respond to exogenous passive demand, with prices serving as the coordinating mechanism. Firms satisfy passive demand mostly through nonprimary market issuance, for example, through employee stock-based compensation. Our results suggest that passive investing has systematically supplied capital to firms by enabling equity issuance over the last two decades.(JELG11, G12, G23)</jats:p>",
-      "doi": "10.1093/rfs/hhag032",
-      "url": "https://doi.org/10.1093/rfs/hhag032"
-    },
-    {
       "title": "R&D Disclosure and Short-Term Investors: Evidence from Mandated Patent Disclosure",
       "authors": "Iván Blanco, Sergio J. García, David Wehrheim",
       "journal": "The Accounting Review",
@@ -993,7 +1053,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0698"
     },
     {
-      "title": "Profit-Fueled Corporate Cynicism",
+      "title": "Profit-fueled corporate cynicism",
       "authors": "Leonardo P. Barcellos, Scott A. Emett",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1033,6 +1093,26 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101899"
     },
     {
+      "title": "Consumption Tax and Corporate Product Mix Decisions",
+      "authors": "Pulak Ghosh, Martin Jacob, Ya Kang, Jian Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101898",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101898"
+    },
+    {
+      "title": "How Do Amounts, Composition, and Quality of Accruals Differ for Physical versus Knowledge Firms?",
+      "authors": "Aneel Iqbal, Anup Srivastava",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether accrual accounting loses relevance with the rise of knowledge firms. Investigating a large sample of U.S. firms from 1990 to 2022, we compare magnitudes, components, quality, and pricing of accruals across knowledge- and physical-asset firms. Knowledge firms report lower accruals and poorer accrual quality, but the gap is concentrated in small knowledge firms. Their low-quality accruals reflect largely innate, volatile, uncertain, early-stage operations, not discretionary reporting. As these firms scale, their accrual magnitudes and quality converge to those of similarly sized physical firms. These life-cycle dynamics reconcile the 1990s decline and post-2000 improvement in aggregate accrual quality through offsetting “new-list” and “maturation” effects. Accrual accounting remains decision-useful in a knowledge economy, as the market prices, and thus seems to recognize, the information risk emanating from poor accrual quality, especially for knowledge firms.</jats:p>\n                  <jats:p>JEL Classifications: M13; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0165",
+      "url": "https://doi.org/10.2308/tar-2024-0165"
+    },
+    {
       "title": "A Model of Social Duties",
       "authors": "Tore Ellingsen, Erik Mohlin",
       "journal": "Journal of Political Economy",
@@ -1053,7 +1133,7 @@
       "url": "https://doi.org/10.1111/jofi.70037"
     },
     {
-      "title": "Beliefs and Portfolios: Causal Evidence*",
+      "title": "Beliefs and Portfolios: Causal Evidence",
       "authors": "Johannes Beutel, Michael Weber",
       "journal": "Review of Financial Studies",
       "field": "Finance",
@@ -1198,7 +1278,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-03-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how a borrower issues long- and short-term debt in response to shocks to the fundamental value. Short-term debt protects creditors from future dilution and incentivizes the borrower to reduce leverage after small negative shocks. Long-term debt postpones default and allows the borrower time to recover after large negative shocks. When borrowers are in distress, they rely on short-term debt; however, they issue both types of debt during more normal periods. Our model generates novel implications for the dynamic adjustment of debt maturities. (JEL G32, G33)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how a borrower issues long- and short-term debt in response to shocks to the fundamental value. Short-term debt protects creditors from future dilution and incentivizes the borrower to reduce leverage after small negative shocks. Long-term debt postpones default and allows the borrower time to recover after large negative shocks. When borrowers are in distress, they rely on short-term debt; however, they issue both types of debt during more normal periods. Our model generates novel implications for the dynamic adjustment of debt maturities.</jats:p>",
       "doi": "10.1093/rfs/hhag007",
       "url": "https://doi.org/10.1093/rfs/hhag007"
     },
@@ -4701,16 +4781,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present a new database of banking-crisis interventions, covering 1,946 interventions in 20 categories across 143 countries. We demonstrate that crisis-intervention patterns are significantly related to income and fiscal variables and to measures of the political system and currency regime. GDP losses following crises are economically significant and are larger for wealthier countries, with some evidence that these losses are mitigated by democratic political systems and liberal currency regimes. Finally, intervention frequencies reached an apex during the post–Bretton Woods era, continuing a secular increase since at least the late seventeenth century.</jats:p>",
       "doi": "10.1093/rfs/hhaf071",
       "url": "https://doi.org/10.1093/rfs/hhaf071"
-    },
-    {
-      "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
-      "authors": "Zhuo Chen, Bibo Liu, Huijun Wang, Zhengwei Wang, Jianfeng Yu",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Previous research has revealed that return spreads between stocks with high and low characteristics-based factor beta remain insignificant. This study investigates the time variation in the pricing of various characteristics-based factors, uncovering a notable two-regime pattern: high-beta portfolios yield higher returns than low-beta portfolios after high-sentiment periods, while the opposite occurs after low-sentiment periods. Remarkably, this two-regime pattern is completely reversed for macro factors. Mutual fund and hedge fund returns corroborate these findings. Our results suggest that exposure to characteristics-based factors likely represents mispricing levels, particularly during high-sentiment periods, whereas exposure to macro factors likely represents risk, particularly during low-sentiment periods.</jats:p>",
-      "doi": "10.1093/rfs/hhaf053",
-      "url": "https://doi.org/10.1093/rfs/hhaf053"
     }
   ]
 }
