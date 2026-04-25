@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T04:56:22.498Z",
+  "lastUpdated": "2026-04-25T04:37:54.106Z",
   "count": 478,
   "papers": [
     {
@@ -281,6 +281,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101853",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+      "authors": "Elio Nimier-David, David Sraer, David Thesmar",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-04-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pre-tax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that, at the firm level, mandated profit-sharing (a) increases the labor share by 1.8 percentage points, (b) reduces the profit share by 1.4 percentage points, and (c) has small to non-existent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.</jats:p>",
+      "doi": "10.1093/qje/qjag022",
+      "url": "https://doi.org/10.1093/qje/qjag022"
     },
     {
       "title": "The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market",
@@ -4771,16 +4781,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study an intervention by a brokerage firm providing advisory services to high-net-worth investors. In 2018, the firm changed the information displayed on its internal platform, so that financial advisors could no longer observe which clients’ holdings were in paper gain or loss. Using data on portfolio stock transactions between 2016 and 2021, we show that, while all investors exhibit a significant disposition effect before 2018, that is, a greater propensity to realize gains than losses, highly advised investors see their bias significantly reduced afterward. Our paper shows financial firms can successfully reduce clients’ biases by appropriately manipulating advisors’ information.</jats:p>",
       "doi": "10.1093/rfs/hhaf090",
       "url": "https://doi.org/10.1093/rfs/hhaf090"
-    },
-    {
-      "title": "Banking-Crisis Interventions across Time and Space",
-      "authors": "Andrew Metrick, Paul Schmelzing",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present a new database of banking-crisis interventions, covering 1,946 interventions in 20 categories across 143 countries. We demonstrate that crisis-intervention patterns are significantly related to income and fiscal variables and to measures of the political system and currency regime. GDP losses following crises are economically significant and are larger for wealthier countries, with some evidence that these losses are mitigated by democratic political systems and liberal currency regimes. Finally, intervention frequencies reached an apex during the post–Bretton Woods era, continuing a secular increase since at least the late seventeenth century.</jats:p>",
-      "doi": "10.1093/rfs/hhaf071",
-      "url": "https://doi.org/10.1093/rfs/hhaf071"
     }
   ]
 }
