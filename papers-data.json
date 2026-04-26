@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-25T04:37:54.106Z",
-  "count": 478,
+  "lastUpdated": "2026-04-26T05:00:30.676Z",
+  "count": 480,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -61,6 +61,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104282",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104282"
+    },
+    {
+      "title": "Glass box machine learning and corporate bond returns",
+      "authors": "Sebastian Bell, Ali Kakhbod, Martin Lettau, Abdolreza Nazemi",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104294",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104294"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -291,6 +301,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pre-tax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that, at the firm level, mandated profit-sharing (a) increases the labor share by 1.8 percentage points, (b) reduces the profit share by 1.4 percentage points, and (c) has small to non-existent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.</jats:p>",
       "doi": "10.1093/qje/qjag022",
       "url": "https://doi.org/10.1093/qje/qjag022"
+    },
+    {
+      "title": "Broken Relationships: Derisking by Correspondent Banks and International Trade",
+      "authors": "Lea Borchert, Ralph De Haas, Karolin Kirschenmann, Alison Schultz",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how terminated correspondent banking relationships affect international trade. Drawing on firm-level export data from emerging Europe, we show that when local banks lose access to correspondent services, their corporate clients, especially small- and medium-sized enterprises, experience significant export declines. Firms only partially offset lost exports with higher domestic sales, resulting in lower total revenues and employment. Other firms cease operations entirely. These firm-level impacts aggregate to lower product-level exports from countries more exposed to correspondent bank retrenchment. (JEL F14, F15, F36, G21, G28, L14)</jats:p>",
+      "doi": "10.1093/rfs/hhag045",
+      "url": "https://doi.org/10.1093/rfs/hhag045"
     },
     {
       "title": "The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market",
@@ -1073,7 +1093,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101896"
     },
     {
-      "title": "Internal Information Quality and, Performance Metric Selection",
+      "title": "Internal information quality and performance metric selection",
       "authors": "Wayne Guay, Chongho Kim, Oscar Timmermans",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
