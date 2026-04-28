@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-27T05:24:56.759Z",
-  "count": 480,
+  "lastUpdated": "2026-04-28T05:33:14.690Z",
+  "count": 482,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -291,6 +291,46 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101853",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "The Effect of Advisors' Incentives on Clients' Investments",
+      "authors": "Diego Battiston, Jordi Blanes I Vidal, Rafael Hortala‐vallve, Dong Lou",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-04-27",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We use granular data from an investment firm and a credible identification strategy to estimate the effect of financial advisors' incentives on client investments. Exploiting a natural experiment triggered by the 2018 implementation of Markets in Financial Instruments Directive II (MiFID II), we find that clients' investments respond strongly to changes in advisor incentives. Advisors react through multiple mechanisms: (i) inducing existing clients to bring in new money, (ii) channeling it to high‐incentive funds, and (iii) attracting more new clients. We also find that the MiFID II reform generated more balanced incentives, which translated into higher portfolio efficiency through lower average fees and stronger portfolio diversification.</jats:p>",
+      "doi": "10.1111/jofi.70041",
+      "url": "https://doi.org/10.1111/jofi.70041"
+    },
+    {
+      "title": "Smokestacks and the Swamp",
+      "authors": "Emilio Bisetti, Stefan Lewellen, Arkodipta Sarkar, Xiao Zhao",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine whether politicians affect local firms’ industrial pollution, and whether such effects are transmitted through plant-level networks to affect pollution in other regions. We first document that close Democrat wins in U.S. congressional races are associated with lower emissions and higher abatement at the plant level, especially when politicians have strong pro-environmental preferences. We also find evidence of reallocation: firms shift emissions away from areas represented by Democrats. However, reallocation is imperfect: firm-level costs are higher and market-to-book ratios lower if firms’ representation is more Democratic. Lower pollution-related illnesses around plants in Democratic districts suggest pass-through effects on local communities.</jats:p>",
+      "doi": "10.1093/rfs/hhag039",
+      "url": "https://doi.org/10.1093/rfs/hhag039"
+    },
+    {
+      "title": "Do Investors Value Auditor Involvement in Non‐GAAP Reporting?",
+      "authors": "Phillip T. Lamoreaux, Lauren Matkaluk, Amy G. Sheneman",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-27",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines investors’ perceptions of auditor involvement in non‐GAAP reporting as captured by non‐GAAP disclosures in 10‐K filings. We find that firm‐years with auditor involvement in non‐GAAP reporting have higher CARs, lower bid–ask spreads, lower stock volatility, and lower abnormal trading volume on 10‐K filing dates. To sharpen identification of auditor involvement, we hand‐collect non‐GAAP measures and reconciliations for S&amp;P 500 firms and identify which exclusions reconcile directly to the audited financial statements. As the percentage of exclusions that reconcile directly to the audited financial statements increases, bid–ask spreads and stock volatility on 10‐K filing dates decrease. We find that the results are not driven by strategic reporting or managers’ responses to perceived litigation risk. This study provides new insights into non‐GAAP disclosures outside of earnings announcements, which have been largely ignored in prior literature. Collectively, our results suggest investors value auditor involvement in non‐GAAP reporting and inform policymakers and standard setters considering the usefulness of assurance over non‐GAAP measures.</jats:p>",
+      "doi": "10.1111/1475-679x.70064",
+      "url": "https://doi.org/10.1111/1475-679x.70064"
+    },
+    {
+      "title": "Using Unconscious Thought to Improve Evaluations of Complex Accounting Estimates",
+      "authors": "Blake Holman, Benjamin P. Commerford, Finn Kinserdal",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-27",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on unconscious thought theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners’ evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less‐experienced auditors’ ability to recognize income‐decreasing patterns of bias. In contrast, more‐experienced auditors respond similarly to both incoming‐increasing and income‐decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals’ ability to recognize subtle patterns of bias that they might otherwise overlook.</jats:p>",
+      "doi": "10.1111/1475-679x.70062",
+      "url": "https://doi.org/10.1111/1475-679x.70062"
     },
     {
       "title": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
@@ -4781,26 +4821,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present new facts on how convenience yields fluctuate with macroeconomic variables and fiscal policy: the convenience yield of long-term Treasuries is negatively correlated with inflation expectations, and inflation expectations predict future debt-to-GDP growth. To rationalize these findings, we incorporate the convenience yield into a macro-finance model with endogenous fiscal policy. The government finances deficit shocks partially through higher inflation and partially through more future borrowing, which reduces the convenience yield today. The feedback loop between the convenience yield and future debt supply amplifies the effect of fiscal shocks. We further verify this channel using empirically constructed exogenous deficit shocks.</jats:p>",
       "doi": "10.1093/rfs/hhaf093",
       "url": "https://doi.org/10.1093/rfs/hhaf093"
-    },
-    {
-      "title": "Technological Obsolescence",
-      "authors": "Song Ma",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper proposes a new measure of technological obsolescence using detailed patent data. The measure contains incremental information about firm innovation relative to measures focusing on new innovation. Using this measure, we present two sets of results. First, firms’ technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding mainly applies to obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms underperform low-obsolescence firms by 7% annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms.</jats:p>",
-      "doi": "10.1093/rfs/hhaf059",
-      "url": "https://doi.org/10.1093/rfs/hhaf059"
-    },
-    {
-      "title": "Financial Advisors and Investors’ Bias",
-      "authors": "Marianne Andries, Maxime Bonelli, David Sraer",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study an intervention by a brokerage firm providing advisory services to high-net-worth investors. In 2018, the firm changed the information displayed on its internal platform, so that financial advisors could no longer observe which clients’ holdings were in paper gain or loss. Using data on portfolio stock transactions between 2016 and 2021, we show that, while all investors exhibit a significant disposition effect before 2018, that is, a greater propensity to realize gains than losses, highly advised investors see their bias significantly reduced afterward. Our paper shows financial firms can successfully reduce clients’ biases by appropriately manipulating advisors’ information.</jats:p>",
-      "doi": "10.1093/rfs/hhaf090",
-      "url": "https://doi.org/10.1093/rfs/hhaf090"
     }
   ]
 }
