@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-28T05:33:14.690Z",
-  "count": 482,
+  "lastUpdated": "2026-04-29T05:28:03.375Z",
+  "count": 481,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -71,6 +71,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104294",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104294"
+    },
+    {
+      "title": "Financial literacy and financial crime: A regression discontinuity approach",
+      "authors": "Paul G. Freed, John Hackney",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104292",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -4801,26 +4811,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In this paper, we develop novel measures of managerial labor market classification and competition by constructing networks of compensation benchmarking peers disclosed in proxy statements. These networks represent firms’ relative positions within the managerial labor market. Our classifications strongly predict executive moves across firms, outperforming a comprehensive set of predictors in the literature. Subsequent tests further demonstrate the strength of our methodology in capturing the multidimensional and dynamic features of the managerial labor market. We also validate our competition measures by showing that they are associated with retention tools, such as higher equity pay and longer pay duration. Finally, we apply our measures to test two theoretical predictions. First, we find that labor market competition could explain controversial pay practices. Second, we demonstrate that the labor market provides managers with tournament incentives to deliver superior future performance.</jats:p>",
       "doi": "10.1111/1475-679x.70026",
       "url": "https://doi.org/10.1111/1475-679x.70026"
-    },
-    {
-      "title": "How Likely Is an Inflation Disaster?",
-      "authors": "Jens Hilscher, Alon Raviv, Ricardo Reis",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Long-dated inflation swap contracts provide widely used estimates of expected inflation. We develop methods to estimate complementary tail probabilities for persistently very high or low inflation using inflation options prices. We show that three new adjustments to conventional methods are crucial: inflation, horizon, and risk. We find that: (a) U.S. deflation risk in 2011–2014 has been overstated, (b) ECB unconventional policies lowered deflation disaster probabilities, (c) inflation expectations deanchored in 2021–2022, (d) reanchored as policy tightened, (e) but the 2021–2024 disaster left scars, and (f) U.S. expectations are less sensitive to inflation realizations than in the eurozone.</jats:p>",
-      "doi": "10.1093/rfs/hhaf058",
-      "url": "https://doi.org/10.1093/rfs/hhaf058"
-    },
-    {
-      "title": "Convenience Yield, Inflation Expectations, and Public Debt Growth",
-      "authors": "Julie Zhiyu Fu, Jian Li, Yinxi Xie",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present new facts on how convenience yields fluctuate with macroeconomic variables and fiscal policy: the convenience yield of long-term Treasuries is negatively correlated with inflation expectations, and inflation expectations predict future debt-to-GDP growth. To rationalize these findings, we incorporate the convenience yield into a macro-finance model with endogenous fiscal policy. The government finances deficit shocks partially through higher inflation and partially through more future borrowing, which reduces the convenience yield today. The feedback loop between the convenience yield and future debt supply amplifies the effect of fiscal shocks. We further verify this channel using empirically constructed exogenous deficit shocks.</jats:p>",
-      "doi": "10.1093/rfs/hhaf093",
-      "url": "https://doi.org/10.1093/rfs/hhaf093"
     }
   ]
 }
