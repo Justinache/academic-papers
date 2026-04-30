@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-29T05:28:03.375Z",
-  "count": 481,
+  "lastUpdated": "2026-04-30T05:32:03.402Z",
+  "count": 480,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -4801,16 +4801,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>During the U.S. housing credit boom, publicly traded banks increased mortgage lending activity and relaxed standards much more than privately held banks. The increase in risk had real effects for a variety of county-level aggregates including employment and consumption. Cross-sectional evidence and a quasi-experiment indicate that the increase in risk stemmed from the institutional ownership and the equity compensation of publicly traded banks, in turn leading banks to place greater weight on short-term equity performance. These results are consistent with the view that a focus on short-term earnings and stock prices amplifies boom–bust credit cycles, in turn leading to real cycles for the aggregate economy.</jats:p>",
       "doi": "10.1093/rfs/hhaf091",
       "url": "https://doi.org/10.1093/rfs/hhaf091"
-    },
-    {
-      "title": "Aggregated Compensation Peer Group Disclosure and Managerial Labor Market Competition: A Network Analysis",
-      "authors": "Ray Rui Gao, Yifei Lu",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-10-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In this paper, we develop novel measures of managerial labor market classification and competition by constructing networks of compensation benchmarking peers disclosed in proxy statements. These networks represent firms’ relative positions within the managerial labor market. Our classifications strongly predict executive moves across firms, outperforming a comprehensive set of predictors in the literature. Subsequent tests further demonstrate the strength of our methodology in capturing the multidimensional and dynamic features of the managerial labor market. We also validate our competition measures by showing that they are associated with retention tools, such as higher equity pay and longer pay duration. Finally, we apply our measures to test two theoretical predictions. First, we find that labor market competition could explain controversial pay practices. Second, we demonstrate that the labor market provides managers with tournament incentives to deliver superior future performance.</jats:p>",
-      "doi": "10.1111/1475-679x.70026",
-      "url": "https://doi.org/10.1111/1475-679x.70026"
     }
   ]
 }
