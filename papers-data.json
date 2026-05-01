@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T05:32:03.402Z",
-  "count": 480,
+  "lastUpdated": "2026-05-01T05:43:05.217Z",
+  "count": 477,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -4313,16 +4313,6 @@
       "url": "https://doi.org/10.1257/aer.20240615"
     },
     {
-      "title": "Anatomy of the Phillips Curve: Micro Evidence and Macro Implications",
-      "authors": "Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2025-11-01",
-      "abstract": "<jats:p>We develop a bottom-up approach to estimate the slope of the primitive form of the New Keynesian Phillips curve, which features marginal cost as the real activity variable. Using quarterly micro data on prices, costs, and output, we estimate dynamic pass-through regressions that identify the slope as a function of primitive parameters. We find a high slope for the cost-based Phillips curve, which contrasts with the low estimates of the conventional output gap–based formulation found in the literature. We reconcile by showing that the output elasticity of marginal cost is low, at least during moderate inflation periods (e.g., pre-pandemic). (JEL C51, E12, E23, E31, E32, L60)</jats:p>",
-      "doi": "10.1257/aer.20231569",
-      "url": "https://doi.org/10.1257/aer.20231569"
-    },
-    {
       "title": "A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers",
       "authors": "Pierre-Olivier Gourinchas, Walker Ray, Dimitri Vayanos",
       "journal": "American Economic Review",
@@ -4331,6 +4321,16 @@
       "abstract": "<jats:p>We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by arbitrageurs with limited capital. Risk premia in our model are time-varying, connected across markets, and consistent with the empirical violations of uncovered interest parity and expectations hypothesis. Through risk premia, large-scale bond purchases lower domestic and foreign bond yields and depreciate the currency, and short-rate cuts lower foreign yields, with smaller effects than bond purchases. Currency returns are disconnected from long-maturity bond returns, and yet the currency market is instrumental in transmitting bond demand shocks across countries. (JEL E43, E44, E52, F31, G12, G15)</jats:p>",
       "doi": "10.1257/aer.20220379",
       "url": "https://doi.org/10.1257/aer.20220379"
+    },
+    {
+      "title": "Anatomy of the Phillips Curve: Micro Evidence and Macro Implications",
+      "authors": "Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2025-11-01",
+      "abstract": "<jats:p>We develop a bottom-up approach to estimate the slope of the primitive form of the New Keynesian Phillips curve, which features marginal cost as the real activity variable. Using quarterly micro data on prices, costs, and output, we estimate dynamic pass-through regressions that identify the slope as a function of primitive parameters. We find a high slope for the cost-based Phillips curve, which contrasts with the low estimates of the conventional output gap–based formulation found in the literature. We reconcile by showing that the output elasticity of marginal cost is low, at least during moderate inflation periods (e.g., pre-pandemic). (JEL C51, E12, E23, E31, E32, L60)</jats:p>",
+      "doi": "10.1257/aer.20231569",
+      "url": "https://doi.org/10.1257/aer.20231569"
     },
     {
       "title": "Distinguishing Causes of Neighborhood Racial Change: A Nearest-Neighbor Design",
@@ -4543,16 +4543,6 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104166"
     },
     {
-      "title": "Taking sides on return predictability",
-      "authors": "R. David McLean, Jeffrey Pontiff, Christopher Reilly",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2025-11-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104158",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104158"
-    },
-    {
       "title": "Financial constraints and the racial housing gap",
       "authors": "Arpit Gupta, Christopher Hansman, Pierre Mabille",
       "journal": "Journal of Financial Economics",
@@ -4561,6 +4551,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104142",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104142"
+    },
+    {
+      "title": "Taking sides on return predictability",
+      "authors": "R. David McLean, Jeffrey Pontiff, Christopher Reilly",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2025-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104158",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104158"
     },
     {
       "title": "Investor learning about monetary-policy transmission and the stock market",
@@ -4603,16 +4603,6 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104156"
     },
     {
-      "title": "Estimating profitability decomposition frameworks via machine learning: Implications for earnings forecasting and financial statement analysis",
-      "authors": "Oliver Binz, Katherine Schipper, Kevin R. Standridge",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101805",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101805"
-    },
-    {
       "title": "Real effects of lagged guidance from prudential regulators on CECL",
       "authors": "Riddha Basu, Sugata Roychowdhury, Kirti Sinha",
       "journal": "Journal of Accounting and Economics",
@@ -4621,6 +4611,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101808",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101808"
+    },
+    {
+      "title": "Estimating profitability decomposition frameworks via machine learning: Implications for earnings forecasting and financial statement analysis",
+      "authors": "Oliver Binz, Katherine Schipper, Kevin R. Standridge",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101805",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101805"
     },
     {
       "title": "The innovation consequences of judicial efficiency",
@@ -4683,16 +4683,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101821"
     },
     {
-      "title": "Discussion of “Accounting standards and antidumping investigations” by Stephen Teng Sun, Shang-Jin Wei and Jin Xie",
-      "authors": "Katherine Schipper",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2025-11-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101819",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101819"
-    },
-    {
       "title": "Cross-border investment, deterrence, and compliance effects of ownership transparency",
       "authors": "Harald J. Amberger, Jaron H. Wilde, Yuchen Wu",
       "journal": "Journal of Accounting and Economics",
@@ -4701,6 +4691,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101809",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101809"
+    },
+    {
+      "title": "Discussion of “Accounting standards and antidumping investigations” by Stephen Teng Sun, Shang-Jin Wei and Jin Xie",
+      "authors": "Katherine Schipper",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2025-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101819",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101819"
     },
     {
       "title": "Trading of emission allowances and reporting incentives",
@@ -4771,36 +4771,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101815",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101815"
-    },
-    {
-      "title": "Diversifying Society’s Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
-      "authors": "Raj Chetty, David J Deming, John N Friedman",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-10-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use anonymized admissions data from several colleges linked to income tax records and SAT and ACT test scores to study the determinants and causal effects of attending Ivy-Plus colleges (Ivy League, Stanford, MIT, Duke, and Chicago). Children from families in the top 1% are more than twice as likely to attend an Ivy-Plus college as those from middle-class families with comparable SAT/ACT scores. Two-thirds of this gap is due to higher admission rates for students with comparable test scores from high-income families; the remaining third is due to differences in rates of application and matriculation. In contrast, children from high-income families have no admissions advantage at flagship public colleges. The high-income admissions advantage at Ivy-Plus colleges is driven by three factors: (i) preferences for children of alumni, (ii) weight placed on nonacademic credentials, and (iii) athletic recruitment. Using a new research design that isolates idiosyncratic variation in admissions decisions for waitlisted applicants, we show that attending an Ivy-Plus college instead of the average flagship public college increases students’ chances of reaching the top 1% of the earnings distribution by 50%, nearly doubles their chances of attending an elite graduate school, and almost triples their chances of working at a prestigious firm. The three factors that give children from high-income families an admissions advantage are uncorrelated or negatively correlated with postcollege outcomes, whereas academic credentials such as SAT/ACT scores are highly predictive of postcollege success.</jats:p>",
-      "doi": "10.1093/qje/qjaf050",
-      "url": "https://doi.org/10.1093/qje/qjaf050"
-    },
-    {
-      "title": "Bargaining and Inequality in the Labor Market",
-      "authors": "Sydnee Caldwell, Ingrid Haegele, Jörg Heining",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-10-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use novel surveys of firms and workers, linked to administrative employer-employee data, to study the prevalence and importance of individual bargaining in wage determination. We show that simple survey questions accurately elicit firms’ bargaining strategies. Using the elicited strategies for 772 German firms, we document that the majority of firms are willing to engage in individual wage bargaining. Labor market factors predict firms’ strategies better than firm characteristics. Survey responses from nearly 10,000 full-time workers indicate that most workers provide their salary expectations before they receive a job offer. Most outside offers are rejected, with the worker remaining at the incumbent firm. There is substantial heterogeneity in workers’ bargaining behavior, which translates into within-firm wage inequality. Firms that set pay via individual bargaining have a 3 percentage point higher gender wage gap.</jats:p>",
-      "doi": "10.1093/qje/qjaf049",
-      "url": "https://doi.org/10.1093/qje/qjaf049"
-    },
-    {
-      "title": "Bank Risk-Taking and the Real Economy: Evidence from the Housing Boom and Its Aftermath",
-      "authors": "Antonio Falato, Giovanni Favara, David Scharfstein",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-10-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>During the U.S. housing credit boom, publicly traded banks increased mortgage lending activity and relaxed standards much more than privately held banks. The increase in risk had real effects for a variety of county-level aggregates including employment and consumption. Cross-sectional evidence and a quasi-experiment indicate that the increase in risk stemmed from the institutional ownership and the equity compensation of publicly traded banks, in turn leading banks to place greater weight on short-term equity performance. These results are consistent with the view that a focus on short-term earnings and stock prices amplifies boom–bust credit cycles, in turn leading to real cycles for the aggregate economy.</jats:p>",
-      "doi": "10.1093/rfs/hhaf091",
-      "url": "https://doi.org/10.1093/rfs/hhaf091"
     }
   ]
 }
