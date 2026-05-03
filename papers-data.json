@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-02T05:00:21.706Z",
-  "count": 430,
+  "lastUpdated": "2026-05-03T05:31:50.469Z",
+  "count": 429,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -301,6 +301,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101853",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
+      "authors": "Victor Gay, Paula E. Gobbi, Marc Goñi",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-29",
+      "abstract": "",
+      "doi": "10.1086/739821",
+      "url": "https://doi.org/10.1086/739821"
     },
     {
       "title": "The Effect of Advisors' Incentives on Clients' Investments",
@@ -1163,7 +1173,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101895"
     },
     {
-      "title": "The Role of Executives in Foreign Tax Planning",
+      "title": "The role of executives in foreign tax planning",
       "authors": "Benjamin Osswald, Jochen Pierk",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4033,16 +4043,6 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
     },
     {
-      "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
-      "authors": "Victor Gay, Paula Gobbi, Marc Goñi",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739821",
-      "url": "https://doi.org/10.1086/739821"
-    },
-    {
       "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
       "authors": "Elena Capatina, Michael P. Keane",
       "journal": "Journal of Political Economy",
@@ -4291,16 +4291,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The difference between corporate bond yields at issuance and in secondary markets, the “issuance premium,” spikes in bad times, raising firms’ capital costs. Using new bond-level data and high-frequency variation in bond supply and demand, I estimate a model of primary markets with imperfectly elastic investors, endogenous bond supply, and underwriter frictions that quantifies drivers of issuance premiums. I find underwriters’ favoritism toward investors increases issuance premiums’ levels and cyclical variation. On the other hand, relatively elastic investors allow primary markets to absorb large bond issuances. My findings inform policies targeted at bond issuance markets.</jats:p>",
       "doi": "10.1093/rfs/hhaf092",
       "url": "https://doi.org/10.1093/rfs/hhaf092"
-    },
-    {
-      "title": "Reporting Regulation and Private Firms' Bank Credit",
-      "authors": "Antonio Moreta",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-11-02",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies the effect of reporting regulation on private firms' bank credit and its economic consequences. I exploit the Spanish institutional setting, which provides a unique combination of confidential loan data and regulatory features that generate quasi‐exogenous variation in reporting regulation. Using a regression discontinuity design, I find that firms subject to incremental reporting regulation obtain more bank credit primarily through cash flow–based lending, term loans, and long‐term debt, without higher interest rates. These findings are explained by stronger banking competition and greater reliance on financial statement data. However, firms do not expand their net financial position, as bank credit substitutes for other liabilities, and exhibit weaker performance consistent with the costs of reporting regulation. This evidence from a different setting offers new insights into how reporting regulation influences credit contracting for private firms and strengthens the empirical basis for policy‐making.</jats:p>",
-      "doi": "10.1111/1475-679x.70025",
-      "url": "https://doi.org/10.1111/1475-679x.70025"
     }
   ]
 }
