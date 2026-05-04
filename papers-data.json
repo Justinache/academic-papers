@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-03T05:31:50.469Z",
-  "count": 429,
+  "lastUpdated": "2026-05-04T05:36:18.776Z",
+  "count": 440,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -303,6 +303,106 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
     },
     {
+      "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+      "authors": "Daniel Aronoff, Will Rafey",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>We introduce an empirical framework for valuing markets in environmental offsets. Using newly collected data on wetland conservation and offsets, we apply this framework to evaluate a set of decentralized markets in Florida, where land developers purchase offsets from long-lived producers who restore wetlands over time. We find offsets led to substantial private gains from trade, creating $2.4 billion of net surplus from 1995 to 2020 relative to direct conservation. Offset trading also generated new hydrological externalities. A locally differentiated Pigouvian tax would have prevented $1.6 billion of new flood damage while preserving more than two-thirds of the private gains from trade. (JEL D47, D62, H23, Q24, Q54, Q57, R14)</jats:p>",
+      "doi": "10.1257/aer.20231016",
+      "url": "https://doi.org/10.1257/aer.20231016"
+    },
+    {
+      "title": "The Effect of Field Training Officers on Police Use of Force",
+      "authors": "Chandon Adger, Matthew B. Ross, CarlyWill Sloan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>The influence of on-the-job training and supervisors, especially in high-stakes settings like policing, is poorly understood. Examining a central behavior in the debate surrounding police reform, we investigate the impact of a field training officer (FTO) on a recruit’s use of force. Leveraging a setting with conditional as-good-as-random assignment, we demonstrate a causal link between FTO and recruit use of force. A 1 standard deviation increase in FTO force propensity leads to a 14 to 18 percent rise in recruit force, persisting for at least two years. This underscores field training’s impact and reveals a promising avenue for reform. (JEL D91, J24, J45, K42, M53)</jats:p>",
+      "doi": "10.1257/aer.20240785",
+      "url": "https://doi.org/10.1257/aer.20240785"
+    },
+    {
+      "title": "Production and Financial Networks in Interplay",
+      "authors": "Kenan Huremović, Gabriel Jiménez, Enrique Moral-Benito, José-Luis Peydró, Fernando Vega-Redondo",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)</jats:p>",
+      "doi": "10.1257/aer.20201088",
+      "url": "https://doi.org/10.1257/aer.20201088"
+    },
+    {
+      "title": "Labor Market Competition and the Assimilation of Immigrants",
+      "authors": "Christoph Albert, Albrecht Glitz, Joan Llull",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>This paper shows that the wage assimilation of immigrants is the result of the intricate interplay between individual skill accumulation and dynamic labor market equilibrium effects. When immigrants and natives are imperfect substitutes, rising immigrant inflows widen the wage gap between them. Using a production function framework in which workers supply both general and host-country-specific skills, we show that this labor market competition channel explains about one-fifth of the large increase in the average immigrant–native wage gap across arrival cohorts in the United States since the 1960s. The results further reveal substantial heterogeneity across different groups of immigrants. (JEL J22, J23, J24, J31, J61, K37, O33)</jats:p>",
+      "doi": "10.1257/aer.20220865",
+      "url": "https://doi.org/10.1257/aer.20220865"
+    },
+    {
+      "title": "Internal versus Institutional Barriers to Gender Equality: Evidence from British Politics",
+      "authors": "Noor Kumar, Uyseok Lee, Matt Lowe, Olaitan Ogunnote",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>Weekly lotteries determine which politicians ask the UK prime minister a question in front of a male-dominated, noisy chamber. Lottery winners receive 4 percent higher vote margin in the next election, but women are 12 percent less likely to submit questions than same-cohort men. The gender gap does not close with lottery-induced experience asking a question, but it closes after a format change, with questions asked to a smaller, quieter audience. The switch differentially draws in women with quieter voices. Our findings support institutional change, rather than experience, as a response to gender gaps in adversarial settings like the UK Parliament. (JEL D44, D72, J16)</jats:p>",
+      "doi": "10.1257/aer.20241127",
+      "url": "https://doi.org/10.1257/aer.20241127"
+    },
+    {
+      "title": "Efficiency Criteria, Income Taxation, and Heterogeneous Elasticities",
+      "authors": "John Sturm Becko, André Sztutman",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>A common interpretation of Pareto-efficient policies is that, for some cardinal utility representations of preferences, they maximize utilitarian welfare. We show in the context of income taxation that such cardinalizations are often extreme, requiring unbounded curvature of utility with respect to consumption. Taxes can be justified as utilitarian without these extreme cardinalizations if and only if revenues are decreasing and concave in a class of narrowly targeted tax cuts. We reformulate this condition as a sufficient-statistics test. The test fails whenever elasticities of taxable income are too heterogeneous within some income level, as we argue is empirically likely. (JEL D81, H21, H23, H24, J22, J31)</jats:p>",
+      "doi": "10.1257/aer.20240919",
+      "url": "https://doi.org/10.1257/aer.20240919"
+    },
+    {
+      "title": "The Gender Pay Gap: Micro Sources and Macro Consequences",
+      "authors": "Iacopo Morchio, Christian Moser",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>Using linked employer-employee data from Brazil, we document a significant gender pay gap, which is largely attributed to women working at lower-paying employers. To interpret this fact, we develop an equilibrium search model with endogenous firm pay, amenities, and hiring. We provide a constructive proof of identification of all model parameters. The estimated model suggests that amenities are important for both men and women, and that compensating differentials account for half of the gender pay gap. Equal treatment policies partly close gender gaps but are not output- or welfare-improving. (JEL E24, J16, J23, J31, J32, M51, O15)</jats:p>",
+      "doi": "10.1257/aer.20231107",
+      "url": "https://doi.org/10.1257/aer.20231107"
+    },
+    {
+      "title": "Effects of Parental Death on Labor Market Outcomes",
+      "authors": "Mathias Fjællegaard Jensen, Ning Zhang",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>We use Danish administrative data to examine the effects of parental death on labor market outcomes. Leveraging the timing of sudden, first parental deaths and a matched-control difference-in-differences strategy, we find that men’s earnings decline by 2 percent, while women’s earnings decline by 3 percent following a parental death. Both women and men experience mental health deterioration, leading to increased use of psychological assistance and prescriptions for mental health conditions and opioids. Women with young children experience a comparatively larger earnings decline (around 4 percent) likely due to the loss of informal childcare. (JEL D91, I12, J13, J16, J31)</jats:p>",
+      "doi": "10.1257/aer.20240432",
+      "url": "https://doi.org/10.1257/aer.20240432"
+    },
+    {
+      "title": "The Attention-Information Trade-Off",
+      "authors": "Marta Serra-Garcia",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals’ incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information. (JEL C91, D83, D91)</jats:p>",
+      "doi": "10.1257/aer.20240850",
+      "url": "https://doi.org/10.1257/aer.20240850"
+    },
+    {
+      "title": "The Zero-Beta Interest Rate",
+      "authors": "Sebastian Di Tella, Benjamin Hébert, Pablo Kurlat, Qitong Wang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-30",
+      "abstract": "",
+      "doi": "10.1086/740220",
+      "url": "https://doi.org/10.1086/740220"
+    },
+    {
       "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
       "authors": "Victor Gay, Paula E. Gobbi, Marc Goñi",
       "journal": "Journal of Political Economy",
@@ -311,6 +411,16 @@
       "abstract": "",
       "doi": "10.1086/739821",
       "url": "https://doi.org/10.1086/739821"
+    },
+    {
+      "title": "The Cost of Regulatory Compliance in the United States*",
+      "authors": "Francesco Trebbi, Miao Ben Zhang, Michael Simkovic",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-29",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A key question for studying business dynamism is whether the costs of regulatory compliance fall homogeneously on small and large businesses. Using comprehensive establishment-level occupational microdata and occupation task information, we quantify a firm’s compliance costs as the share of wage bill for performing regulatory compliance tasks (RegIndex). We reveal an inverted-U relationship between firms’ RegIndex and their size: On average, RegIndex for mid-sized firms with around 500 employees is about 47% greater than that of the smallest firms and 18% greater than that of the largest firms. We further develop a shift-share methodology to disentangle the influence of regulatory requirements and enforcement on driving firms’ compliance costs. (JEL G38, J01, K2, L43, L51)</jats:p>",
+      "doi": "10.1093/rfs/hhag046",
+      "url": "https://doi.org/10.1093/rfs/hhag046"
     },
     {
       "title": "The Effect of Advisors' Incentives on Clients' Investments",
@@ -1201,6 +1311,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether accrual accounting loses relevance with the rise of knowledge firms. Investigating a large sample of U.S. firms from 1990 to 2022, we compare magnitudes, components, quality, and pricing of accruals across knowledge- and physical-asset firms. Knowledge firms report lower accruals and poorer accrual quality, but the gap is concentrated in small knowledge firms. Their low-quality accruals reflect largely innate, volatile, uncertain, early-stage operations, not discretionary reporting. As these firms scale, their accrual magnitudes and quality converge to those of similarly sized physical firms. These life-cycle dynamics reconcile the 1990s decline and post-2000 improvement in aggregate accrual quality through offsetting “new-list” and “maturation” effects. Accrual accounting remains decision-useful in a knowledge economy, as the market prices, and thus seems to recognize, the information risk emanating from poor accrual quality, especially for knowledge firms.</jats:p>\n                  <jats:p>JEL Classifications: M13; M41.</jats:p>",
       "doi": "10.2308/tar-2024-0165",
       "url": "https://doi.org/10.2308/tar-2024-0165"
+    },
+    {
+      "title": "Do Financial Disclosures Affect Corporate Sustainability Practices?*",
+      "authors": "Chenxing Jing, Bin Xu, Luo Zuo",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101901",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101901"
+    },
+    {
+      "title": "An Examination of Direct and Spillover Effects of Accounting Standards on Firms’ Information Environments",
+      "authors": "Derek Christensen, Brian Mittendorf, Clay Partridge",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101900",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101900"
     },
     {
       "title": "A Model of Social Duties",
@@ -3063,16 +3193,6 @@
       "url": "https://doi.org/10.1086/740172"
     },
     {
-      "title": "The Zero-Beta Interest Rate",
-      "authors": "Sebastian Di Tella, Benjamin Hébert, Pablo Kurlat, Qitong Wang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740220",
-      "url": "https://doi.org/10.1086/740220"
-    },
-    {
       "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
       "authors": "Nikolai Cook, Thibaut Duprey, Anthony Heyes, Martino Pelli",
       "journal": "Journal of Political Economy",
@@ -4281,16 +4401,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the mechanisms driving bank losses across historical banking crises in 46 economies and the effectiveness of policy interventions in restoring bank capitalization. We find that bank stocks experience large, permanent declines at the onset of crises. These losses predict commensurate long-term declines in banks’ earnings and dividends, rather than elevated future equity returns. Bank losses are primarily driven by write-downs of nonperforming assets, not asset sales during panics. Forceful liquidity-based interventions during crises predict only small, temporary increases in bank market value. Overall, these results suggest that bank losses during crises are not primarily due to temporary price dislocations. Early liquidity interventions can avert banking crises, but only under specific conditions. Once large bank equity declines have occurred, policy responses have historically failed to prevent persistent undercapitalization in the banking sector.</jats:p>",
       "doi": "10.1093/qje/qjaf052",
       "url": "https://doi.org/10.1093/qje/qjaf052"
-    },
-    {
-      "title": "Raising Bond Capital in Segmented Markets",
-      "authors": "Kerry Y Siani",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The difference between corporate bond yields at issuance and in secondary markets, the “issuance premium,” spikes in bad times, raising firms’ capital costs. Using new bond-level data and high-frequency variation in bond supply and demand, I estimate a model of primary markets with imperfectly elastic investors, endogenous bond supply, and underwriter frictions that quantifies drivers of issuance premiums. I find underwriters’ favoritism toward investors increases issuance premiums’ levels and cyclical variation. On the other hand, relatively elastic investors allow primary markets to absorb large bond issuances. My findings inform policies targeted at bond issuance markets.</jats:p>",
-      "doi": "10.1093/rfs/hhaf092",
-      "url": "https://doi.org/10.1093/rfs/hhaf092"
     }
   ]
 }
