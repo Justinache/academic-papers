@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T05:36:18.776Z",
-  "count": 440,
+  "lastUpdated": "2026-05-05T05:01:54.544Z",
+  "count": 441,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "A Tale of Two Market Disciplines: How Does Bank Financial Misconduct Affect Peer Banks in the Local Deposit Market",
+      "authors": "Ya Kang, Yupeng Lin, Yang Qiu",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-05-03",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    This study examines the spillover effect of bank financial misconduct on the uninsured deposits of peer banks within local markets. We first validate that misconduct banks experience an increase in deposit spreads and a corresponding outflow of deposits following the misconduct. We then show local peer banks exhibit divergent deposit responses, contingent on how misconduct is perceived by information recipients in different economic contexts. During normal periods, depositors receiving a negative signal about bank misconduct reallocate their funds from misconduct banks to local peers, a\n                    <jats:italic>local reallocation effect</jats:italic>\n                    that decreases deposit spreads and increases deposit inflows for peer banks. Cross‐sectional analysis further reveals that this local reallocation effect is more pronounced for financially sophisticated depositors, amplified when peer banks have strong fundamentals, but attenuated when misconduct banks are financially sound. During financial crisis periods, however, bank misconduct leads to withdrawals from both misconduct banks and their peer banks, a\n                    <jats:italic>local contagion effect</jats:italic>\n                    whereby local peer banks face increased deposit spreads and deposit outflows following the misconduct.\n                  </jats:p>",
+      "doi": "10.1111/1475-679x.70069",
+      "url": "https://doi.org/10.1111/1475-679x.70069"
+    },
+    {
+      "title": "Generative AI Use by Capital Market Information Intermediaries: Evidence from Seeking Alpha",
+      "authors": "Mark T. Bradshaw, Chenyang Ma, Benjamin P. Yost, Yuan Zou",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-05-03",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the use of generative AI for firm‐specific financial analysis on the Seeking Alpha platform. After the initial launch of ChatGPT in November 2022, the share of AI‐generated articles rose sharply to 13.5% of all articles, then declined in late 2023 after Seeking Alpha equated the use of AI to plagiarism and announced a prohibition on its use. We organize our study around two questions: (1) Does AI use increase author productivity? and (2) does AI use have capital market consequences and ultimately affect the informational landscape? We find that authors who adopt AI become more productive, publishing more articles and covering more new firms than non‐adopters. Findings on AI article informativeness are more nuanced. On average, AI articles are less informative than human‐written articles, eliciting smaller trading volume and abnormal return responses. However, AI use leads to increased firm coverage and in turn to improved liquidity and faster price discovery. Our findings suggest that, while AI‐generated articles are currently perceived as less informative than human‐written articles, their comparatively low cost enables increased firm coverage and thereby improves the overall informational landscape.</jats:p>",
+      "doi": "10.1111/1475-679x.70053",
+      "url": "https://doi.org/10.1111/1475-679x.70053"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -391,6 +411,86 @@
       "abstract": "<jats:p>How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals’ incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information. (JEL C91, D83, D91)</jats:p>",
       "doi": "10.1257/aer.20240850",
       "url": "https://doi.org/10.1257/aer.20240850"
+    },
+    {
+      "title": "Algorithm Design: A           Fairness-Accuracy Frontier",
+      "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739826",
+      "url": "https://doi.org/10.1086/739826"
+    },
+    {
+      "title": "A Model of Social Duties",
+      "authors": "Tore Ellingsen, Erik Mohlin",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739834",
+      "url": "https://doi.org/10.1086/739834"
+    },
+    {
+      "title": "Private Private Information",
+      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739833",
+      "url": "https://doi.org/10.1086/739833"
+    },
+    {
+      "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
+      "authors": "Nicholas Vreugdenhil",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739827",
+      "url": "https://doi.org/10.1086/739827"
+    },
+    {
+      "title": "US Public Debt and Safe Asset Market Power",
+      "authors": "Jason Choi, Rishabh Kirpalani, Diego J. Perez",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739824",
+      "url": "https://doi.org/10.1086/739824"
+    },
+    {
+      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
+      "authors": "Rong Hai, James Heckman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739828",
+      "url": "https://doi.org/10.1086/739828"
+    },
+    {
+      "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
+      "authors": "Elena Capatina, Michael Keane",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739831",
+      "url": "https://doi.org/10.1086/739831"
+    },
+    {
+      "title": "Financial Reporting and Detection of Labor Union Misconduct",
+      "authors": "Danye Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Labor unions are central to promoting worker protection and fairness, yet misconduct can undermine their ability to advocate. Despite over 60 years of regulations requiring unions to file financial reports, debate persists about those rules’ effectiveness. Proponents argue that transparency exposes wrongdoing, whereas critics question whether reporting constrains misconduct. Accounting research shows that financial information can uncover fraud in public firms, but its generalizability to unions is unclear. Using a hand-collected dataset, I examine the role of financial reporting in detecting and disciplining union misconduct. Results show that reporting information can reveal misconduct and that detection and discipline increase for unions subject to enhanced reporting requirements following a 2004 regulatory change. Further analysis indicates that union stakeholders, including members, employers, media, and antiunion organizations, use this information to help reveal misconduct. Overall, the findings suggest that financial reporting plays a significant role in promoting accountability within labor unions.</jats:p>\n                  <jats:p>Data Availability: Data are publicly available from the sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; J51; K14.</jats:p>",
+      "doi": "10.2308/tar-2024-0710",
+      "url": "https://doi.org/10.2308/tar-2024-0710"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -623,6 +723,176 @@
       "url": "https://doi.org/10.1093/rfs/hhag019"
     },
     {
+      "title": "Do Consulting Services Affect Audit Quality? Evidence from the Workforce",
+      "authors": "Anastassia Fedyk, Tatiana Fedyk, James Hodson, Natalya Khimich",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper investigates how consulting services affect audit quality, from the perspective of knowledge- and expertise-sharing between employees. Semistructured interviews with 16 audit partners reveal that consulting expertise is used in 60–80 percent of audit engagements, with the main rationale for such collaboration being knowledge-sharing and improved audit quality. We leverage a comprehensive office-level dataset of employment profiles covering 86 percent of all employees at large U.S. public accounting firms to systematically investigate the effect of consulting employees on audit quality. We document that a one standard deviation increase in the share of consulting employees in an office results in a 2.6 percentage point reduction in restatements (a decrease of 19 percent relative to the baseline). This effect is strongest when consulting employees have skills complimentary to auditors, e.g., technical and human resources skills, and when consultants have specific industry expertise in the same industry as the audit client.</jats:p>\n                  <jats:p>Data Availability: Data from common sources, such as Audit Analytics, can be purchased from the providers. Data on firm-level measures of workforce characteristics and skills are available from the authors upon request, conditional on approval from the data provider (Cognism).</jats:p>\n                  <jats:p>JEL Classifications: D22; E24; J24; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0572",
+      "url": "https://doi.org/10.2308/tar-2022-0572"
+    },
+    {
+      "title": "Constructing Carbon Abatement Cost Curves",
+      "authors": "Gunther Glenk, Rebecca Meier, Stefan Reichelstein",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Companies across industries face increasing pressure to assess the costs of decarbonizing their operations. This paper develops a generic model for constructing abatement cost curves in connection with carbon dioxide emissions. The resulting abatement cost curves provide a planning tool for companies seeking to project their decarbonization pathways and to determine optimal abatement levels in response to environmental regulations such as carbon pricing. We calibrate our model in the context of European cement producers that are required to obtain emission permits under the European Emissions Trading System. We find that a price of €85 per ton of carbon dioxide, as observed on average in 2023, incentivizes firms to reduce their annual direct emissions by about one-third relative to the status quo. Yet, this incentive increases sharply when prices rise above the benchmark of €100 per ton of carbon dioxide.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are referenced in the paper and the Appendix. Data underlying the plots are provided in a supplemental material file Constructing Abatement Cost Curves - Supplementary Data.xlsx. Additional information is available upon request to the first and third authors.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; Q54; Q56.</jats:p>",
+      "doi": "10.2308/tar-2025-0315",
+      "url": "https://doi.org/10.2308/tar-2025-0315"
+    },
+    {
+      "title": "The Evolution of Performance Measurement, Career Development, and Compensation for Audit Partners in the Context of Public Scrutiny",
+      "authors": "Olof Bik, Jan Bouwens, W. Robert Knechel, Yuxia Zou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how audit firms changed their policies regarding audit partner performance measurement, career development, and compensation during a period of heightened public scrutiny of audit quality (2007 to 2017). We theorize how implementing policy changes requires a delicate transition in the organizational design and internal processes of the firms and may not effectively translate into their day-to-day practices. Our access to proprietary performance management policies and individual partner performance and compensation data from the eight largest Dutch audit firms allows us to gain an in-depth understanding of the evolution of performance management for audit partners. We find that most of the policy changes have real consequences. For example, audit quality becomes more consequential to career development, whereas profit sharing becomes better linked to quality and long-term performance. We conclude that audit firms appear effectively responsive to public scrutiny, increasingly aligning partner incentives with societal expectations of audit quality.</jats:p>",
+      "doi": "10.2308/tar-2021-0569",
+      "url": "https://doi.org/10.2308/tar-2021-0569"
+    },
+    {
+      "title": "How Good Is Goodwill Accounting? Comparative Evidence on Post-FAS 141(R) Acquired Intangibles Accounting",
+      "authors": "Anne Beatty, Scott Liao, Joseph P. Weber",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Concerns that goodwill impairments unresponsiveness to declining performance produces inflated goodwill led standard-setters to reconsider post-acquisition impairment-only accounting. We use granular large-scale data to provide institutionally relevant novel descriptive evidence motivated by this hotly debated accounting standard. Comparing goodwill versus other acquired intangibles growth rates for firms reporting goodwill throughout the 2010–2020 post-FAS 141(R) period provides no evidence of runaway goodwill inflation concerns. For firms with goodwill anytime during 2010–2020 we use Shapley values to explore the explanatory power of performance factors affecting goodwill impairments. Consistent with standard-setters’ intent, single-segment market performance explains 81 percent of goodwill impairment incidence variation (controlling for Fama-French-38 industry and time fixed-effects). Limited evidence of reduced impairment incidence after incorporating FASB sanctioned control premia or alternative market values provides little support for discretionary impairment avoidance. Conversely, higher impairment incidence when book values incorporate IFRS (2020) proposed off-balance-sheet headroom or market-to-book decreases supports discretionary impairment recognition.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are obtained from commercial sources, including Compustat, Calcbench, I/B/E/S, FactSet Mergerstat/BVR, and Peters and Taylor's intangible capital dataset.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; G34.</jats:p>",
+      "doi": "10.2308/tar-2024-0009",
+      "url": "https://doi.org/10.2308/tar-2024-0009"
+    },
+    {
+      "title": "“Trying to Get Out from under Water”: Paradox and Power in the Audit Senior Associate Role",
+      "authors": "Emily S. Blum, Kris Hoang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Audit senior associates are essential to audit production, yet we know little about how they experience their organizational role. We interview 45 U.S.-based audit seniors and find they experience persistent paradoxical tensions between contradictory yet interrelated objectives, stemming from their middle hierarchical position as both experienced associates and novice executives. Applying Paradox Theory, we find seniors sometimes work around paradox by attending to one paradoxical objective to temporarily alleviate tension but leave the other paradoxical objective neglected. Other times, seniors work through paradox by dynamically engaging with both paradoxical objectives, particularly when empowered by perceiving adequate resources—time, information, and social capital. Our study reconceptualizes seniors as self-directed fledgling leaders whose capabilities are forged through navigating paradoxical tensions, expanding the conventional academic view of seniors as experienced associates. We discuss how audit firm-level tensions revealed through seniors’ experiences offer insights for human capital development and audit quality.</jats:p>",
+      "doi": "10.2308/tar-2022-0532",
+      "url": "https://doi.org/10.2308/tar-2022-0532"
+    },
+    {
+      "title": "Income Statement Expense Disaggregation",
+      "authors": "James J. Blann, James R. Moon",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The FASB recently issued ASU 2024-03, which requires disaggregation of significant expenses, like cost of goods sold (COGS) and selling, general, and administrative (SG&amp;A) expenses. Proponents argue disaggregation will improve decision usefulness, whereas opponents suggest the information will be costly and provide little value. We provide large-sample evidence on the pre-ASU state of expense disaggregation, analyze whether it appears to provide decision-useful information, and explore differences across disaggregation components. Our findings suggest that disaggregation is relatively common, increasing over time, and correlated with demand for disclosure, disclosure incentives, and firm economics. Further, our evidence is consistent with COGS, but not SG&amp;A, disaggregation providing decision-useful information for investors and analysts, and these benefits accrue via improved processing of expense-related news. Overall, our evidence suggests that not all disaggregation is equal. We also identify novel, large-sample expense disaggregation measures for U.S. firms, which are likely useful for evaluating other implications of disaggregation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0545",
+      "url": "https://doi.org/10.2308/tar-2023-0545"
+    },
+    {
+      "title": "Political Corruption and CEO Compensation Design",
+      "authors": "Jingyu Yang, Yangxin Yu, Liu Zheng",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the impact of political corruption on the provision of CEO risk-taking incentives. We hypothesize that firms adjust their CEO’s risk-taking incentives to reflect the influence of local political corruption on the firms’ desired level of risk-taking. Using U.S. Department of Justice data on local political corruption, we find that the sensitivity of CEO wealth to stock volatility (vega) is lower in firms located in high-corruption districts. The negative impact of corruption on vega is more pronounced among (1) firms operating in industries that are more dependent on government procurement, (2) firms operating in more innovative industries, and (3) firms without political connections. Our study offers new insights into how the institutional environment shapes executive compensation design.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G32; G38; J33; J41; M52.</jats:p>",
+      "doi": "10.2308/tar-2023-0359",
+      "url": "https://doi.org/10.2308/tar-2023-0359"
+    },
+    {
+      "title": "Conflicted Regulators: Indirect Revolving-Door Connections in SEC Filing Reviews",
+      "authors": "Matthew Kubic, Rui Silva, Sara Toynbee",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether prior employment connections influence the strictness of the Securities and Exchange Commission (SEC) filing review process. Using novel data on over 250 accountants at the SEC, we define connected examiners as accountants reviewing financial statements audited by their former employer. We find that SEC review teams with a higher percentage of connected examiners are less likely to detect financial statement errors, raise fewer substantive issues, and are less likely to push back on registrants’ responses to comment letters. Our estimates also indicate that the effect of examiners’ prior employment connections is strongest earlier in their SEC tenure and attenuates with time. Our findings provide important practical insights on the boundaries of the revolving door between regulators and the regulated, suggesting that even indirect connections can impact oversight.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0242",
+      "url": "https://doi.org/10.2308/tar-2023-0242"
+    },
+    {
+      "title": "Analyst Rational Inattention: Evidence from CEO Turnover Events",
+      "authors": "R. Thomas Godwin, Theodore H. Goodman, R. Christopher Small",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We consider the dynamics of analyst inattention by investigating how analysts allocate their attention when a firm in their portfolio experiences CEO turnover. Our analysis shows that analysts tend to divert their attention toward firms that experience such events, resulting in less attention and a corresponding reduction in forecasting accuracy for nonevent firms. Furthermore, this reduction in accuracy varies with factors related to the costs and benefits of rationally allocating attention to firms that have experienced CEO turnover. Collectively, our analysis responds to the call for research on rational inattention among analysts and illustrates the specific intraportfolio events that alter attention allocation and information.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G17; G14; M12; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2022-0684",
+      "url": "https://doi.org/10.2308/tar-2022-0684"
+    },
+    {
+      "title": "Principal-versus-Agent Considerations in Revenue Recognition Under ASC 606 and Compliance Risk",
+      "authors": "Kai Du, Henock Louis, Brent A. Schmidt, Shuyang Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a dataset constructed through textual analysis and manual data collection, we show that, prior to ASC 606, firms with principal-versus-agent (PA) exposure face heightened GAAP compliance risk, reflected in a greater likelihood of receiving revenue-related SEC comment letters and higher audit fees. Following the adoption of ASC 606, these differences decline, consistent with the standard’s stated goal of simplifying PA assessments and reducing implementation challenges. Overall, our findings provide the first large-sample evidence on PA considerations and show that ASC 606 mitigates compliance risk, although further analyses suggest additional disclosure may be needed to mitigate information challenges associated with PA assessments.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L86; M41; M42; M48.</jats:p>",
+      "doi": "10.2308/tar-2022-0298",
+      "url": "https://doi.org/10.2308/tar-2022-0298"
+    },
+    {
+      "title": "The Importance of Conscientiousness to Audit Quality: Engagement Partner Graduate Thesis Typos and Audit Adjustments",
+      "authors": "Xianjie He, Jeffrey Pittman, Shuwei Sun, Zili Zhuang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Relying on the frequency of typos in engagement partners’ graduate theses to measure their conscientiousness, we find that more conscientious partners conduct higher-quality audits, evident in that they are more likely to require an audit adjustment. Our core results hold for both upward and downward adjustments, implying that being conscientious is not equivalent to being overly conservative. Consistent with DeAngelo’s (1981) theory, cross-sectional evidence suggests that the role that partner conscientiousness plays in audit quality comes through both the auditor competence and independence channels. Additionally, we find that the frequency of partner thesis typos is negatively associated with auditor effort. Collectively, our evidence implies that engagement partner conscientiousness plays a major role in shaping audit outcomes.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42.</jats:p>",
+      "doi": "10.2308/tar-2024-0397",
+      "url": "https://doi.org/10.2308/tar-2024-0397"
+    },
+    {
+      "title": "Using GPT to Measure Business Complexity",
+      "authors": "Darren Bernard, Elizabeth Blankespoor, Ties de Kok, Sara Toynbee",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Business complexity involves important tradeoffs for managers and investors, but empirical evidence is limited by measurement issues. We construct and validate a measure of business complexity using a GPT model fine-tuned on narrative disclosures and inline XBRL tags. We first show that our measure is associated with slower price formation in capital markets, consistent with complexity increasing processing costs. Next, we apply our measure to study the complexity of debt, an economically important topic that encompasses a wide range of features. The results show that nonstandard debt features such as call and convertibility provisions underlie debt complexity. We also find that debt complexity correlates with more persistent interest expense and better performance when lending conditions worsen, suggesting it is in part an adaptive response to manage financial risk. Overall, our study underscores the tradeoffs of business complexity and provides a flexible measure of complexity for future research.</jats:p>\n                  <jats:p>Data Availability: Contact authors for data, model weights, and measure.</jats:p>\n                  <jats:p>JEL Classifications: D82; D83; G14; G30; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0716",
+      "url": "https://doi.org/10.2308/tar-2023-0716"
+    },
+    {
+      "title": "Mandatory Disclosure and Takeovers: Evidence from Private Banks",
+      "authors": "Urooj Khan, Doron Nissim, Jing Wen",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public financial information plays a critical role in the takeover market by helping acquirers search for and value potential targets. Using a difference-in-differences research design around a regulatory disclosure mandate that changed the granularity of financial disclosure for certain privately held banks, we find that banks with reduced disclosure are less likely to be targeted in M&amp;A transactions. Acquirers adapt to information frictions arising from reduced disclosures by bidding for geographically proximate target banks and increasing the proportion of stock in their bids. We also find that serial acquirers are less affected by the reduced financial disclosures of targets. Furthermore, banks that reduced disclosure while earning nonbanking income or engaging in intracompany transactions were affected more severely. Overall, we highlight the critical role of mandatory financial reporting in the takeover market and its nuanced implications for bank owners, regulators, and policymakers.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources noted in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: D83; G21; G28; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0611",
+      "url": "https://doi.org/10.2308/tar-2023-0611"
+    },
+    {
+      "title": "The 2003 U.S. Dividend Tax Cut, Small Business Loan Supply, and the Real Economy",
+      "authors": "Oliver Zhen Li, Yupeng Lin, Keyuan Zhang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the credit supply-side effect of the U.S. 2003 dividend tax cut on the real economy through the banking sector. We show that C-corporation banks (treatment group), particularly those capital-constrained, increase the supply of small business loans more than S-subchapter banks (control group) following the tax cut, aligning with the old view of dividend taxation and the supply-side effect rooted in credit rationing. Such an enhanced small business loan supply stemming from the tax cut translates into real effects on the economy. We find that areas with a greater presence of C-corporation banks exhibit more small business formations, employment, and innovations. The positive real effects are concentrated in subsamples when business growth opportunities are more abundant or international trade exposures are higher. Overall, our findings add to the literature on the real effects of the tax cut by showing an important yet unexplored bank credit supply channel.</jats:p>",
+      "doi": "10.2308/tar-2023-0444",
+      "url": "https://doi.org/10.2308/tar-2023-0444"
+    },
+    {
+      "title": "Economic Consequences of Political Polarization: Evidence from an SEC Shutdown and Its Effect on Insider Trading",
+      "authors": "Daniel A. Bens, Gavin Cassar, Ying Huang, Thomas Keusch",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We exploit a one-month period when SEC activity largely stopped during a U.S. government shutdown to examine whether variation in SEC scrutiny affects its ability to enforce insider trading. Difference-in-differences analyses suggest insiders earn abnormal profits during the shutdown, and the findings are robust to using different control periods and groups. We estimate that it takes roughly one week before the abnormally profitable trading begins, consistent with insiders updating their beliefs regarding the duration and disruption of the shutdown. Supporting the claim that SEC regulatory activity drops with the shutdown and does not fully recover afterward, we find a decline in the frequency of insider trading enforcement releases, investigations, and comment letter issuances after the SEC resumes operations. Our study speaks to the SEC insider trading enforcement literature and economic consequences of a regulatory discontinuity in a divisive political climate.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources.</jats:p>\n                  <jats:p>JEL Classifications: G14; G30; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2025-0007",
+      "url": "https://doi.org/10.2308/tar-2025-0007"
+    },
+    {
+      "title": "Current Expected Credit Losses (CECL) Standard and Banks’ Information Production",
+      "authors": "Sehwa Kim, Seil Kim, Anya Kleymenova, Rongchen Li",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the adoption of the current expected credit losses (CECL) model, which incorporates forward-looking information in loan loss provisions (LLPs), enhances banks’ information production. Consistent with better information production, we document significant changes in both financial reporting and operational outcomes following CECL adoption. First, CECL banks’ LLPs become timelier and better reflect future local economic conditions. Second, CECL banks experience lower rates of loan defaults. These improvements are more pronounced among banks that invest more in CECL-related information systems and human capital, and are especially salient for larger banks. Our findings suggest that forward-looking accounting standards can enhance banks’ information environments.</jats:p>\n                  <jats:p>JEL Classifications: E32; G2; G28; M4; M48.</jats:p>",
+      "doi": "10.2308/tar-2022-0314",
+      "url": "https://doi.org/10.2308/tar-2022-0314"
+    },
+    {
+      "title": "Tough Ratings, Tougher Sell: How Different Types of Adjustment Affect Managers’ Asymmetric Algorithm Use in Performance Evaluation Judgments",
+      "authors": "Fangbin Lin, Mandy M. Cheng, Kerry A. Humphreys",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-04-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the potential of algorithms to improve judgment quality, recent research suggests that individuals may be averse to algorithmic use. We experimentally examine whether and how managers’ use of an algorithm-advised performance rating is influenced by rating valence and the decision rights managers have to adjust the algorithm. We find that managers are less willing to use an algorithm to evaluate subordinate performance when it advises a low, rather than high, rating. We further show that when the algorithm-advised rating is low, allowing managers to adjust how the algorithm computes the rating, compared with adjusting the rating itself or not allowing any adjustment, increases algorithmic use. Further analyses show this effect to be consistent with managers’ increased understanding of an algorithm when involved in its computation. Our findings inform organizations’ implementation of performance evaluation algorithms by showing how rating valence and decision rights jointly influence managers’ use of the algorithms.</jats:p>",
+      "doi": "10.2308/tar-2023-0610",
+      "url": "https://doi.org/10.2308/tar-2023-0610"
+    },
+    {
       "title": "Ever since Allais",
       "authors": "Aluma Dembo, Shachar Kariv, Matthew Polisson, John K.-H. Quah",
       "journal": "Journal of Political Economy",
@@ -631,16 +901,6 @@
       "abstract": "",
       "doi": "10.1086/739829",
       "url": "https://doi.org/10.1086/739829"
-    },
-    {
-      "title": "Algorithm Design: A Fairness-Accuracy Frontier",
-      "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-13",
-      "abstract": "",
-      "doi": "10.1086/739826",
-      "url": "https://doi.org/10.1086/739826"
     },
     {
       "title": "Voting and Trading on Public Information",
@@ -1333,16 +1593,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101900"
     },
     {
-      "title": "A Model of Social Duties",
-      "authors": "Tore Ellingsen, Erik Mohlin",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-31",
-      "abstract": "",
-      "doi": "10.1086/739834",
-      "url": "https://doi.org/10.1086/739834"
-    },
-    {
       "title": "The Voting Premium",
       "authors": "Doron Levit, Nadya Malenko, Ernst Maug",
       "journal": "Journal of Finance",
@@ -1403,16 +1653,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag030"
     },
     {
-      "title": "Private Private Information",
-      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-27",
-      "abstract": "",
-      "doi": "10.1086/739833",
-      "url": "https://doi.org/10.1086/739833"
-    },
-    {
       "title": "The Effects of Gender Integration on Men: Evidence from the U.S. Military",
       "authors": "Kyle Greenberg, Melanie Wasserman, E Anna Weber",
       "journal": "Quarterly Journal of Economics",
@@ -1461,16 +1701,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>By aggregating information into stock prices, financial markets help guide the allocation of resources. We show that speculators without information about firms’ fundamentals can exploit this role of prices and profit from inflating firm valuations. Uninformed speculation is profitable because high valuations attract employees, business partners, and investors, creating value at targeted firms at the cost of diverting resources from better firms. Both large and small speculators, without pre-existing stock positions, can profit from uninformed speculation, particularly when targeting firms with moderate Q, operating in “normal” (neither hot nor cold) markets, and using performance pay or equity to attract stakeholders.</jats:p>",
       "doi": "10.1093/rfs/hhag015",
       "url": "https://doi.org/10.1093/rfs/hhag015"
-    },
-    {
-      "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
-      "authors": "Nicholas Vreugdenhil",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-25",
-      "abstract": "",
-      "doi": "10.1086/739827",
-      "url": "https://doi.org/10.1086/739827"
     },
     {
       "title": "Excess Commitment in R&D",
@@ -1531,26 +1761,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We estimate the indirect costs of corporate bankruptcy associated with lost customers. In incentivized experiments, randomly informing consumers about a firm's Chapter 11 reorganization lowers their willingness to pay for the firm's products by 17% to 28%. Consumers worry that bankruptcy could reduce product quality or prevent future interactions with the bankrupt firm. On average, 38% of consumers are aware of major bankruptcies. Using our experiments to estimate a structural model, we show that these indirect costs of bankruptcy amount to 12% to 15% of a firm's value. We show that these costs are unlikely to arise before bankruptcy.</jats:p>",
       "doi": "10.1111/jofi.70030",
       "url": "https://doi.org/10.1111/jofi.70030"
-    },
-    {
-      "title": "US Public Debt and Safe Asset Market Power",
-      "authors": "Jason Choi, Rishabh Kirpalani, Diego J. Perez",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-19",
-      "abstract": "",
-      "doi": "10.1086/739824",
-      "url": "https://doi.org/10.1086/739824"
-    },
-    {
-      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
-      "authors": "Rong Hai, James Heckman",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-19",
-      "abstract": "",
-      "doi": "10.1086/739828",
-      "url": "https://doi.org/10.1086/739828"
     },
     {
       "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
@@ -2543,16 +2753,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101865"
     },
     {
-      "title": "Do Consulting Services Affect Audit Quality? Evidence from the Workforce",
-      "authors": "Anastassia Fedyk, Tatiana Fedyk, James Hodson, Natalya Khimich",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper investigates how consulting services affect audit quality, from the perspective of knowledge- and expertise-sharing between employees. Semistructured interviews with 16 audit partners reveal that consulting expertise is used in 60–80 percent of audit engagements, with the main rationale for such collaboration being knowledge-sharing and improved audit quality. We leverage a comprehensive office-level dataset of employment profiles covering 86 percent of all employees at large U.S. public accounting firms to systematically investigate the effect of consulting employees on audit quality. We document that a one standard deviation increase in the share of consulting employees in an office results in a 2.6 percentage point reduction in restatements (a decrease of 19 percent relative to the baseline). This effect is strongest when consulting employees have skills complimentary to auditors, e.g., technical and human resources skills, and when consultants have specific industry expertise in the same industry as the audit client.</jats:p>\n                  <jats:p>Data Availability: Data from common sources, such as Audit Analytics, can be purchased from the providers. Data on firm-level measures of workforce characteristics and skills are available from the authors upon request, conditional on approval from the data provider (Cognism).</jats:p>\n                  <jats:p>JEL Classifications: D22; E24; J24; M42.</jats:p>",
-      "doi": "10.2308/tar-2022-0572",
-      "url": "https://doi.org/10.2308/tar-2022-0572"
-    },
-    {
       "title": "Information sharing within institutional investor networks",
       "authors": "Wei Ting Loh",
       "journal": "Journal of Accounting and Economics",
@@ -2633,56 +2833,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2025.101806"
     },
     {
-      "title": "Constructing Carbon Abatement Cost Curves",
-      "authors": "Gunther Glenk, Rebecca Meier, Stefan Reichelstein",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Companies across industries face increasing pressure to assess the costs of decarbonizing their operations. This paper develops a generic model for constructing abatement cost curves in connection with carbon dioxide emissions. The resulting abatement cost curves provide a planning tool for companies seeking to project their decarbonization pathways and to determine optimal abatement levels in response to environmental regulations such as carbon pricing. We calibrate our model in the context of European cement producers that are required to obtain emission permits under the European Emissions Trading System. We find that a price of €85 per ton of carbon dioxide, as observed on average in 2023, incentivizes firms to reduce their annual direct emissions by about one-third relative to the status quo. Yet, this incentive increases sharply when prices rise above the benchmark of €100 per ton of carbon dioxide.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are referenced in the paper and the Appendix. Data underlying the plots are provided in a supplemental material file Constructing Abatement Cost Curves - Supplementary Data.xlsx. Additional information is available upon request to the first and third authors.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; Q54; Q56.</jats:p>",
-      "doi": "10.2308/tar-2025-0315",
-      "url": "https://doi.org/10.2308/tar-2025-0315"
-    },
-    {
-      "title": "The Evolution of Performance Measurement, Career Development, and Compensation for Audit Partners in the Context of Public Scrutiny",
-      "authors": "Olof Bik, Jan Bouwens, W. Robert Knechel, Yuxia Zou",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how audit firms changed their policies regarding audit partner performance measurement, career development, and compensation during a period of heightened public scrutiny of audit quality (2007 to 2017). We theorize how implementing policy changes requires a delicate transition in the organizational design and internal processes of the firms and may not effectively translate into their day-to-day practices. Our access to proprietary performance management policies and individual partner performance and compensation data from the eight largest Dutch audit firms allows us to gain an in-depth understanding of the evolution of performance management for audit partners. We find that most of the policy changes have real consequences. For example, audit quality becomes more consequential to career development, whereas profit sharing becomes better linked to quality and long-term performance. We conclude that audit firms appear effectively responsive to public scrutiny, increasingly aligning partner incentives with societal expectations of audit quality.</jats:p>",
-      "doi": "10.2308/tar-2021-0569",
-      "url": "https://doi.org/10.2308/tar-2021-0569"
-    },
-    {
-      "title": "How Good Is Goodwill Accounting? Comparative Evidence on Post-FAS 141(R) Acquired Intangibles Accounting",
-      "authors": "Anne Beatty, Scott Liao, Joseph P. Weber",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Concerns that goodwill impairments unresponsiveness to declining performance produces inflated goodwill led standard-setters to reconsider post-acquisition impairment-only accounting. We use granular large-scale data to provide institutionally relevant novel descriptive evidence motivated by this hotly debated accounting standard. Comparing goodwill versus other acquired intangibles growth rates for firms reporting goodwill throughout the 2010–2020 post-FAS 141(R) period provides no evidence of runaway goodwill inflation concerns. For firms with goodwill anytime during 2010–2020 we use Shapley values to explore the explanatory power of performance factors affecting goodwill impairments. Consistent with standard-setters’ intent, single-segment market performance explains 81 percent of goodwill impairment incidence variation (controlling for Fama-French-38 industry and time fixed-effects). Limited evidence of reduced impairment incidence after incorporating FASB sanctioned control premia or alternative market values provides little support for discretionary impairment avoidance. Conversely, higher impairment incidence when book values incorporate IFRS (2020) proposed off-balance-sheet headroom or market-to-book decreases supports discretionary impairment recognition.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are obtained from commercial sources, including Compustat, Calcbench, I/B/E/S, FactSet Mergerstat/BVR, and Peters and Taylor's intangible capital dataset.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; G34.</jats:p>",
-      "doi": "10.2308/tar-2024-0009",
-      "url": "https://doi.org/10.2308/tar-2024-0009"
-    },
-    {
-      "title": "“Trying to Get Out from under Water”: Paradox and Power in the Audit Senior Associate Role",
-      "authors": "Emily S. Blum, Kris Hoang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Audit senior associates are essential to audit production, yet we know little about how they experience their organizational role. We interview 45 U.S.-based audit seniors and find they experience persistent paradoxical tensions between contradictory yet interrelated objectives, stemming from their middle hierarchical position as both experienced associates and novice executives. Applying Paradox Theory, we find seniors sometimes work around paradox by attending to one paradoxical objective to temporarily alleviate tension but leave the other paradoxical objective neglected. Other times, seniors work through paradox by dynamically engaging with both paradoxical objectives, particularly when empowered by perceiving adequate resources—time, information, and social capital. Our study reconceptualizes seniors as self-directed fledgling leaders whose capabilities are forged through navigating paradoxical tensions, expanding the conventional academic view of seniors as experienced associates. We discuss how audit firm-level tensions revealed through seniors’ experiences offer insights for human capital development and audit quality.</jats:p>",
-      "doi": "10.2308/tar-2022-0532",
-      "url": "https://doi.org/10.2308/tar-2022-0532"
-    },
-    {
-      "title": "Income Statement Expense Disaggregation",
-      "authors": "James J. Blann, James R. Moon",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The FASB recently issued ASU 2024-03, which requires disaggregation of significant expenses, like cost of goods sold (COGS) and selling, general, and administrative (SG&amp;A) expenses. Proponents argue disaggregation will improve decision usefulness, whereas opponents suggest the information will be costly and provide little value. We provide large-sample evidence on the pre-ASU state of expense disaggregation, analyze whether it appears to provide decision-useful information, and explore differences across disaggregation components. Our findings suggest that disaggregation is relatively common, increasing over time, and correlated with demand for disclosure, disclosure incentives, and firm economics. Further, our evidence is consistent with COGS, but not SG&amp;A, disaggregation providing decision-useful information for investors and analysts, and these benefits accrue via improved processing of expense-related news. Overall, our evidence suggests that not all disaggregation is equal. We also identify novel, large-sample expense disaggregation measures for U.S. firms, which are likely useful for evaluating other implications of disaggregation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
-      "doi": "10.2308/tar-2023-0545",
-      "url": "https://doi.org/10.2308/tar-2023-0545"
-    },
-    {
       "title": "Audit partners’ cultural trust and audit outcomes",
       "authors": "Inder K. Khurana, Bing Li, Kelvin Yeung, Elisha J. Yu",
       "journal": "Journal of Accounting and Economics",
@@ -2711,46 +2861,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101873",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101873"
-    },
-    {
-      "title": "Political Corruption and CEO Compensation Design",
-      "authors": "Jingyu Yang, Yangxin Yu, Liu Zheng",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the impact of political corruption on the provision of CEO risk-taking incentives. We hypothesize that firms adjust their CEO’s risk-taking incentives to reflect the influence of local political corruption on the firms’ desired level of risk-taking. Using U.S. Department of Justice data on local political corruption, we find that the sensitivity of CEO wealth to stock volatility (vega) is lower in firms located in high-corruption districts. The negative impact of corruption on vega is more pronounced among (1) firms operating in industries that are more dependent on government procurement, (2) firms operating in more innovative industries, and (3) firms without political connections. Our study offers new insights into how the institutional environment shapes executive compensation design.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G32; G38; J33; J41; M52.</jats:p>",
-      "doi": "10.2308/tar-2023-0359",
-      "url": "https://doi.org/10.2308/tar-2023-0359"
-    },
-    {
-      "title": "Conflicted Regulators: Indirect Revolving-Door Connections in SEC Filing Reviews",
-      "authors": "Matthew Kubic, Rui Silva, Sara Toynbee",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate whether prior employment connections influence the strictness of the Securities and Exchange Commission (SEC) filing review process. Using novel data on over 250 accountants at the SEC, we define connected examiners as accountants reviewing financial statements audited by their former employer. We find that SEC review teams with a higher percentage of connected examiners are less likely to detect financial statement errors, raise fewer substantive issues, and are less likely to push back on registrants’ responses to comment letters. Our estimates also indicate that the effect of examiners’ prior employment connections is strongest earlier in their SEC tenure and attenuates with time. Our findings provide important practical insights on the boundaries of the revolving door between regulators and the regulated, suggesting that even indirect connections can impact oversight.</jats:p>\n                  <jats:p>JEL Classifications: G18; M41; M48.</jats:p>",
-      "doi": "10.2308/tar-2023-0242",
-      "url": "https://doi.org/10.2308/tar-2023-0242"
-    },
-    {
-      "title": "Analyst Rational Inattention: Evidence from CEO Turnover Events",
-      "authors": "R. Thomas Godwin, Theodore H. Goodman, R. Christopher Small",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We consider the dynamics of analyst inattention by investigating how analysts allocate their attention when a firm in their portfolio experiences CEO turnover. Our analysis shows that analysts tend to divert their attention toward firms that experience such events, resulting in less attention and a corresponding reduction in forecasting accuracy for nonevent firms. Furthermore, this reduction in accuracy varies with factors related to the costs and benefits of rationally allocating attention to firms that have experienced CEO turnover. Collectively, our analysis responds to the call for research on rational inattention among analysts and illustrates the specific intraportfolio events that alter attention allocation and information.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G17; G14; M12; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2022-0684",
-      "url": "https://doi.org/10.2308/tar-2022-0684"
-    },
-    {
-      "title": "Principal-versus-Agent Considerations in Revenue Recognition Under ASC 606 and Compliance Risk",
-      "authors": "Kai Du, Henock Louis, Brent A. Schmidt, Shuyang Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a dataset constructed through textual analysis and manual data collection, we show that, prior to ASC 606, firms with principal-versus-agent (PA) exposure face heightened GAAP compliance risk, reflected in a greater likelihood of receiving revenue-related SEC comment letters and higher audit fees. Following the adoption of ASC 606, these differences decline, consistent with the standard’s stated goal of simplifying PA assessments and reducing implementation challenges. Overall, our findings provide the first large-sample evidence on PA considerations and show that ASC 606 mitigates compliance risk, although further analyses suggest additional disclosure may be needed to mitigate information challenges associated with PA assessments.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L86; M41; M42; M48.</jats:p>",
-      "doi": "10.2308/tar-2022-0298",
-      "url": "https://doi.org/10.2308/tar-2022-0298"
     },
     {
       "title": "Dynamic Trading with Realization Utility",
@@ -2831,16 +2941,6 @@
       "abstract": "",
       "doi": "10.1086/738344",
       "url": "https://doi.org/10.1086/738344"
-    },
-    {
-      "title": "The Importance of Conscientiousness to Audit Quality: Engagement Partner Graduate Thesis Typos and Audit Adjustments",
-      "authors": "Xianjie He, Jeffrey Pittman, Shuwei Sun, Zili Zhuang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Relying on the frequency of typos in engagement partners’ graduate theses to measure their conscientiousness, we find that more conscientious partners conduct higher-quality audits, evident in that they are more likely to require an audit adjustment. Our core results hold for both upward and downward adjustments, implying that being conscientious is not equivalent to being overly conservative. Consistent with DeAngelo’s (1981) theory, cross-sectional evidence suggests that the role that partner conscientiousness plays in audit quality comes through both the auditor competence and independence channels. Additionally, we find that the frequency of partner thesis typos is negatively associated with auditor effort. Collectively, our evidence implies that engagement partner conscientiousness plays a major role in shaping audit outcomes.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42.</jats:p>",
-      "doi": "10.2308/tar-2024-0397",
-      "url": "https://doi.org/10.2308/tar-2024-0397"
     },
     {
       "title": "Supply chain washing: Strategic disclosure of corporate suppliers",
@@ -3523,36 +3623,6 @@
       "url": "https://doi.org/10.1086/738479"
     },
     {
-      "title": "Using GPT to Measure Business Complexity",
-      "authors": "Darren Bernard, Elizabeth Blankespoor, Ties de Kok, Sara Toynbee",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Business complexity involves important tradeoffs for managers and investors, but empirical evidence is limited by measurement issues. We construct and validate a measure of business complexity using a GPT model fine-tuned on narrative disclosures and inline XBRL tags. We first show that our measure is associated with slower price formation in capital markets, consistent with complexity increasing processing costs. Next, we apply our measure to study the complexity of debt, an economically important topic that encompasses a wide range of features. The results show that nonstandard debt features such as call and convertibility provisions underlie debt complexity. We also find that debt complexity correlates with more persistent interest expense and better performance when lending conditions worsen, suggesting it is in part an adaptive response to manage financial risk. Overall, our study underscores the tradeoffs of business complexity and provides a flexible measure of complexity for future research.</jats:p>\n                  <jats:p>Data Availability: Contact authors for data, model weights, and measure.</jats:p>\n                  <jats:p>JEL Classifications: D82; D83; G14; G30; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0716",
-      "url": "https://doi.org/10.2308/tar-2023-0716"
-    },
-    {
-      "title": "Mandatory Disclosure and Takeovers: Evidence from Private Banks",
-      "authors": "Urooj Khan, Doron Nissim, Jing Wen",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public financial information plays a critical role in the takeover market by helping acquirers search for and value potential targets. Using a difference-in-differences research design around a regulatory disclosure mandate that changed the granularity of financial disclosure for certain privately held banks, we find that banks with reduced disclosure are less likely to be targeted in M&amp;A transactions. Acquirers adapt to information frictions arising from reduced disclosures by bidding for geographically proximate target banks and increasing the proportion of stock in their bids. We also find that serial acquirers are less affected by the reduced financial disclosures of targets. Furthermore, banks that reduced disclosure while earning nonbanking income or engaging in intracompany transactions were affected more severely. Overall, we highlight the critical role of mandatory financial reporting in the takeover market and its nuanced implications for bank owners, regulators, and policymakers.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources noted in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: D83; G21; G28; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0611",
-      "url": "https://doi.org/10.2308/tar-2023-0611"
-    },
-    {
-      "title": "The 2003 U.S. Dividend Tax Cut, Small Business Loan Supply, and the Real Economy",
-      "authors": "Oliver Zhen Li, Yupeng Lin, Keyuan Zhang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the credit supply-side effect of the U.S. 2003 dividend tax cut on the real economy through the banking sector. We show that C-corporation banks (treatment group), particularly those capital-constrained, increase the supply of small business loans more than S-subchapter banks (control group) following the tax cut, aligning with the old view of dividend taxation and the supply-side effect rooted in credit rationing. Such an enhanced small business loan supply stemming from the tax cut translates into real effects on the economy. We find that areas with a greater presence of C-corporation banks exhibit more small business formations, employment, and innovations. The positive real effects are concentrated in subsamples when business growth opportunities are more abundant or international trade exposures are higher. Overall, our findings add to the literature on the real effects of the tax cut by showing an important yet unexplored bank credit supply channel.</jats:p>",
-      "doi": "10.2308/tar-2023-0444",
-      "url": "https://doi.org/10.2308/tar-2023-0444"
-    },
-    {
       "title": "Mandatory carbon disclosure and new business creation",
       "authors": "Raphael Duguay, Chenchen Li, Frank Zhang",
       "journal": "Journal of Accounting and Economics",
@@ -3561,36 +3631,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
-    },
-    {
-      "title": "Economic Consequences of Political Polarization: Evidence from an SEC Shutdown and Its Effect on Insider Trading",
-      "authors": "Daniel A. Bens, Gavin Cassar, Ying Huang, Thomas Keusch",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We exploit a one-month period when SEC activity largely stopped during a U.S. government shutdown to examine whether variation in SEC scrutiny affects its ability to enforce insider trading. Difference-in-differences analyses suggest insiders earn abnormal profits during the shutdown, and the findings are robust to using different control periods and groups. We estimate that it takes roughly one week before the abnormally profitable trading begins, consistent with insiders updating their beliefs regarding the duration and disruption of the shutdown. Supporting the claim that SEC regulatory activity drops with the shutdown and does not fully recover afterward, we find a decline in the frequency of insider trading enforcement releases, investigations, and comment letter issuances after the SEC resumes operations. Our study speaks to the SEC insider trading enforcement literature and economic consequences of a regulatory discontinuity in a divisive political climate.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources.</jats:p>\n                  <jats:p>JEL Classifications: G14; G30; M41; M48.</jats:p>",
-      "doi": "10.2308/tar-2025-0007",
-      "url": "https://doi.org/10.2308/tar-2025-0007"
-    },
-    {
-      "title": "Current Expected Credit Losses (CECL) Standard and Banks’ Information Production",
-      "authors": "Sehwa Kim, Seil Kim, Anya Kleymenova, Rongchen Li",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the adoption of the current expected credit losses (CECL) model, which incorporates forward-looking information in loan loss provisions (LLPs), enhances banks’ information production. Consistent with better information production, we document significant changes in both financial reporting and operational outcomes following CECL adoption. First, CECL banks’ LLPs become timelier and better reflect future local economic conditions. Second, CECL banks experience lower rates of loan defaults. These improvements are more pronounced among banks that invest more in CECL-related information systems and human capital, and are especially salient for larger banks. Our findings suggest that forward-looking accounting standards can enhance banks’ information environments.</jats:p>\n                  <jats:p>JEL Classifications: E32; G2; G28; M4; M48.</jats:p>",
-      "doi": "10.2308/tar-2022-0314",
-      "url": "https://doi.org/10.2308/tar-2022-0314"
-    },
-    {
-      "title": "Tough Ratings, Tougher Sell: How Different Types of Adjustment Affect Managers’ Asymmetric Algorithm Use in Performance Evaluation Judgments",
-      "authors": "Fangbin Lin, Mandy M. Cheng, Kerry A. Humphreys",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the potential of algorithms to improve judgment quality, recent research suggests that individuals may be averse to algorithmic use. We experimentally examine whether and how managers’ use of an algorithm-advised performance rating is influenced by rating valence and the decision rights managers have to adjust the algorithm. We find that managers are less willing to use an algorithm to evaluate subordinate performance when it advises a low, rather than high, rating. We further show that when the algorithm-advised rating is low, allowing managers to adjust how the algorithm computes the rating, compared with adjusting the rating itself or not allowing any adjustment, increases algorithmic use. Further analyses show this effect to be consistent with managers’ increased understanding of an algorithm when involved in its computation. Our findings inform organizations’ implementation of performance evaluation algorithms by showing how rating valence and decision rights jointly influence managers’ use of the algorithms.</jats:p>",
-      "doi": "10.2308/tar-2023-0610",
-      "url": "https://doi.org/10.2308/tar-2023-0610"
     },
     {
       "title": "When Two Become One: Foreign Capital and Household Credit Expansion",
@@ -4163,16 +4203,6 @@
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
     },
     {
-      "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
-      "authors": "Elena Capatina, Michael P. Keane",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739831",
-      "url": "https://doi.org/10.1086/739831"
-    },
-    {
       "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities",
       "authors": "Ali Cheema, Asim Khwaja, M Farooq Naseer, Jacob N Shapiro",
       "journal": "Journal of Political Economy",
@@ -4381,26 +4411,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We theoretically and empirically show how the reuse of Treasury securities as collateral alleviates safe asset scarcity. Our model characterizes how reuse allows intermediaries to efficiently reallocate the safety benefits of long-term Treasury securities to a broader investor base. By reusing Treasury securities, intermediaries can access more collateral to create safe assets without interest rate risk. When the demand for safe assets is high, intermediaries increase reuse, distributing safe asset benefits to investors that value safety the most. Using supervisory data to calculate a dealer-level measure of reuse called the “collateral multiplier,” we empirically confirm the model’s main predictions.</jats:p>",
       "doi": "10.1093/rfs/hhaf094",
       "url": "https://doi.org/10.1093/rfs/hhaf094"
-    },
-    {
-      "title": "Republican Support and Economic Hardship: The Enduring Effects of the Opioid Epidemic",
-      "authors": "Carolina Arteaga, Victoria Barone",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-11-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In this article, we establish a causal connection between two of the most salient social developments in the United States over the past decades: the opioid epidemic and the political realignment between the Republican and Democratic parties. Drawing on unsealed records from litigation against Purdue Pharma, we uncover rich geographic variation in the marketing of prescription opioids that serves as a quasi-exogenous source of exposure to the epidemic. We use this variation to document significant increases in drug-related mortality and greater reliance on public transfer programs. This induced economic hardship led to substantial changes in the political landscape of the communities most affected by the opioid epidemic. We estimate that from the mid-2000s to 2022, exposure to the opioid epidemic continuously increased the Republican vote share in House, presidential, and gubernatorial elections. By the 2022 House elections, a one-standard-deviation increase in our measure of exposure led to a 4.5 percentage point increase in the Republican vote share. From 2012 until 2022, this increase in the House vote share translated into Republicans winning additional seats.</jats:p>",
-      "doi": "10.1093/qje/qjaf051",
-      "url": "https://doi.org/10.1093/qje/qjaf051"
-    },
-    {
-      "title": "Permanent Capital Losses after Banking Crises",
-      "authors": "Matthew Baron, Luc Laeven, Julien Pénasse, Yevhenii Usenko",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-11-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the mechanisms driving bank losses across historical banking crises in 46 economies and the effectiveness of policy interventions in restoring bank capitalization. We find that bank stocks experience large, permanent declines at the onset of crises. These losses predict commensurate long-term declines in banks’ earnings and dividends, rather than elevated future equity returns. Bank losses are primarily driven by write-downs of nonperforming assets, not asset sales during panics. Forceful liquidity-based interventions during crises predict only small, temporary increases in bank market value. Overall, these results suggest that bank losses during crises are not primarily due to temporary price dislocations. Early liquidity interventions can avert banking crises, but only under specific conditions. Once large bank equity declines have occurred, policy responses have historically failed to prevent persistent undercapitalization in the banking sector.</jats:p>",
-      "doi": "10.1093/qje/qjaf052",
-      "url": "https://doi.org/10.1093/qje/qjaf052"
     }
   ]
 }
