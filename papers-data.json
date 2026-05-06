@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T05:01:54.544Z",
-  "count": 441,
+  "lastUpdated": "2026-05-06T05:31:05.403Z",
+  "count": 443,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "The Gas Trap: Outcompeting Coal versus Renewables",
+      "authors": "Bård Harstad, Katinka Holtsmark",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-05",
+      "abstract": "",
+      "doi": "10.1086/740172",
+      "url": "https://doi.org/10.1086/740172"
+    },
+    {
+      "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+      "authors": "Marcella Alsan, Yousra Neberai",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-05-05",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study examines how the American Medical Association (AMA) helped shape the development of the U.S. health insurance system in the critical period after World War II. Working with the political public relations firm Campaigns, Inc., the AMA launched a nationwide campaign to weaken support for National Health Insurance by framing it as “socialized medicine,” while simultaneously enrolling people in private health insurance plans to shift demand away from a public alternative. Drawing on newly assembled archival data, we find that greater exposure to the campaign explains about 20% of the rise in private health insurance enrollment and a comparable decline in public support for a national program. The campaign also appears to have influenced policymaking through coordinated messaging, resolutions passed by civic organizations, congressional rhetoric, and political donations. These findings suggest that the rise of private health insurance in the United States was not solely due to macroeconomic forces or collective bargaining; rather it was also enabled by a strategic, interest group-financed effort to shape citizen views and influence policy.</jats:p>",
+      "doi": "10.1093/qje/qjag024",
+      "url": "https://doi.org/10.1093/qje/qjag024"
+    },
+    {
+      "title": "The Value of a Loss: The Impact of Restricting Tax Loss Transfers",
+      "authors": "Theresa Bührle, Elisa Casi, Barbara Stage, Johannes Voget",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-05-05",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the economic consequences of anti‐loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&amp;A) declining by 18%, driven by loss‐making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti‐loss trafficking rules is related to decreased (increased) industry productivity, especially in R&amp;D‐intensive industries that are more prone to loss‐making. Finally, tighter anti‐loss trafficking rules are associated with lower deal synergies and risk‐taking. All effects concentrate in strict regimes.</jats:p>",
+      "doi": "10.1111/1475-679x.70070",
+      "url": "https://doi.org/10.1111/1475-679x.70070"
     },
     {
       "title": "A Tale of Two Market Disciplines: How Does Bank Financial Misconduct Affect Peer Banks in the Local Deposit Market",
@@ -3281,16 +3311,6 @@
       "abstract": "",
       "doi": "10.1086/740219",
       "url": "https://doi.org/10.1086/740219"
-    },
-    {
-      "title": "The Gas Trap: Outcompeting Coal vs. Renewables",
-      "authors": "Bard Harstad, Katinka Holtsmark",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740172",
-      "url": "https://doi.org/10.1086/740172"
     },
     {
       "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
