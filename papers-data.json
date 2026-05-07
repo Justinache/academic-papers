@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T05:31:05.403Z",
-  "count": 443,
+  "lastUpdated": "2026-05-07T05:32:59.169Z",
+  "count": 445,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "A Dynamic Model of the Racial Wealth Gap",
+      "authors": "Sylvain Catherine, Ellen Jiayang Lu, James D Paron",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-06",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>What explains wealth and portfolio differences between black and white Americans? We find that disparities in economic factors explain portfolios well, but only partly explain the wealth gap. In a dynamic setting, economic factors often change optimal saving rates in ways that offset their effects on income and returns. Consequently, their net wealth effect is often limited, making the wealth gap harder to explain. We estimate that differences in income levels, income risk, family structures, mortality, health expenditures, property taxes, mortgage rates, and asset returns explain half of the differential between the racial wealth gap and the racial income gap.</jats:p>",
+      "doi": "10.1093/rfs/hhag047",
+      "url": "https://doi.org/10.1093/rfs/hhag047"
+    },
+    {
+      "title": "Caution Ahead: Numerical Reasoning and Look‐Ahead Bias in AI Models",
+      "authors": "Bradford Levy",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-05-06",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Recent work within accounting and finance has highlighted that modern AI systems exhibit superhuman performance on a variety of foundational activities within these fields. However, the literature often does not provide economic rationale for\n                    <jats:italic>why</jats:italic>\n                    AI models seem to outperform, largely because these models are a black box. Through a series of experiments, I set out to open the black box and provide direct evidence on\n                    <jats:italic>how</jats:italic>\n                    and\n                    <jats:italic>why</jats:italic>\n                    AI models appear to perform so well on accounting and finance‐related tasks. I show that much of the superior performance of AI models can be attributed to artifacts of the modeling itself, rather than to mechanisms grounded in economics. Focusing on two key components of AI models, which may bias inferences in papers that rely on them, I first show that Large Language Model (LLMs) exhibit extremely poor numerical reasoning and thus application in these settings should proceed with caution. Second, I highlight that commercial LLMs suffer from significant look‐ahead bias, which may explain a large portion of their predictive ability in various settings.\n                  </jats:p>",
+      "doi": "10.1111/1475-679x.70058",
+      "url": "https://doi.org/10.1111/1475-679x.70058"
     },
     {
       "title": "The Gas Trap: Outcompeting Coal versus Renewables",
@@ -1014,11 +1034,11 @@
     },
     {
       "title": "What Drives Momentum and Reversal? Evidence from Day and Night Signals",
-      "authors": "Yashar H Barardehi, Vincent Bogousslavsky, Dmitriy Muravyev",
+      "authors": "Yashar H. Barardehi, Vincent Bogousslavsky, Dmitriy Muravyev",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-04-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how intraday and overnight components of past returns predict future stock returns from 1926 to 2019. Portfolios formed on past intraday returns display momentum without long-term reversal, whereas portfolios formed on past overnight returns display no momentum. We link this asymmetric day-night pattern to the fact that most trading occurs intraday, which has remained stable over time. Evidence from international stock markets, intraday intervals, and analyst expectations suggests that investors underreact to private information revealed through trading. This underreaction mechanism is most consistent with Hong and Stein’s (1999) theory of momentum. (JEL G12, G14)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how intraday and overnight components of past returns predict future stock returns from 1926 to 2019. Portfolios formed on past intraday returns display momentum without long-term reversal, whereas portfolios formed on past overnight returns display no momentum. We link this asymmetric day-night pattern to the fact that most trading occurs intraday, which has remained stable over time. Evidence from international stock markets, intraday intervals, and analyst expectations suggests that investors underreact to private information revealed through trading. This underreaction mechanism is most consistent with Hong and Stein’s (1999) theory of momentum.</jats:p>",
       "doi": "10.1093/rfs/hhag036",
       "url": "https://doi.org/10.1093/rfs/hhag036"
     },
@@ -1623,6 +1643,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101900"
     },
     {
+      "title": "Bond Convenience Yields in the Eurozone Currency Union",
+      "authors": "Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z Xiaolan",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-31",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a monetary union, the risk-free rate cannot adjust to country-level fiscal positions, leaving only default spreads and convenience yields to respond. Empirically, we find that convenience yields explain a large share of the variation in eurozone (EZ) sovereign bond yields. EZ sovereign bonds earn larger convenience yields when their governments run larger surpluses. Since convenience yields generate substantial seigniorage revenue from debt issuance, our estimates imply economically large fiscal costs from low convenience yields for peripheral countries in the EZ.</jats:p>",
+      "doi": "10.1093/rfs/hhag018",
+      "url": "https://doi.org/10.1093/rfs/hhag018"
+    },
+    {
       "title": "The Voting Premium",
       "authors": "Doron Levit, Nadya Malenko, Ernst Maug",
       "journal": "Journal of Finance",
@@ -1641,16 +1671,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We causally test alternative theories of expectation formation. Using a randomized information experiment we show overreaction is a key feature of individuals’ return expectations, and individuals’ response to the price-earnings ratio is opposite of academic consensus. Our evidence is inconsistent with standard models of expectation formation, but subjective mental models that deviate from objective benchmarks can jointly explain the updating behavior in the experiment, the link between individuals’ prior perceptions and expectations, and the heterogeneity of updating. Conditional on their beliefs, individuals’ sensitivity of equity shares in a hypothetical portfolio choice experiment is consistent with the standard Merton model.</jats:p>",
       "doi": "10.1093/rfs/hhag011",
       "url": "https://doi.org/10.1093/rfs/hhag011"
-    },
-    {
-      "title": "Bond Convenience Yields in the Eurozone Currency Union",
-      "authors": "Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z Xiaolanx",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a monetary union, the risk-free rate cannot adjust to country-level fiscal positions, leaving only default spreads and convenience yields to respond. Empirically, we find that convenience yields explain a large share of the variation in eurozone (EZ) sovereign bond yields. EZ sovereign bonds earn larger convenience yields when their governments run larger surpluses. Since convenience yields generate substantial seigniorage revenue from debt issuance, our estimates imply economically large fiscal costs from low convenience yields for peripheral countries in the EZ. (JEL E42, F33, G15)</jats:p>",
-      "doi": "10.1093/rfs/hhag018",
-      "url": "https://doi.org/10.1093/rfs/hhag018"
     },
     {
       "title": "Specialization in Banking",
@@ -1718,7 +1738,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-03-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Corporate bonds include restrictive covenants that may prevent firms from pursuing valuable growth opportunities ex post and are virtually impossible to renegotiate. We study a common but little-known contractual provision—the defeasance option—which allows issuers to immediately remove all covenants without retiring the bond. Our theoretical model predicts, and our empirical analysis confirms, that defeasance inclusion is more likely when covenants are numerous and issuers face financial constraints, uncertainty, and growth opportunities. We also show that investors require lower yields when defeasance is included in noncallable bonds, and higher yields in fixed-price callable bonds, where it raises call risk. (JEL G32, D86, G12)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Corporate bonds include restrictive covenants that may prevent firms from pursuing valuable growth opportunities ex post and are virtually impossible to renegotiate. We study a common but little-known contractual provision—the defeasance option—which allows issuers to immediately remove all covenants without retiring the bond. Our theoretical model predicts, and our empirical analysis confirms, that defeasance inclusion is more likely when covenants are numerous and issuers face financial constraints, uncertainty, and growth opportunities. We also show that investors require lower yields when defeasance is included in noncallable bonds, and higher yields in fixed-price callable bonds, where it raises call risk.</jats:p>",
       "doi": "10.1093/rfs/hhag027",
       "url": "https://doi.org/10.1093/rfs/hhag027"
     },
