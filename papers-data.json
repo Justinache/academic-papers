@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-07T05:32:59.169Z",
-  "count": 445,
+  "lastUpdated": "2026-05-08T04:55:10.802Z",
+  "count": 447,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing           Valuable Skilling Opportunities",
+      "authors": "Ali Cheema, Asim I. Khwaja, M. Farooq Naseer, Jacob N. Shapiro",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-07",
+      "abstract": "",
+      "doi": "10.1086/739830",
+      "url": "https://doi.org/10.1086/739830"
+    },
+    {
+      "title": "Learning in the Limit: Income Inference from Credit Extensions",
+      "authors": "Xiao Yin",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Combining a randomized controlled trial with administrative and survey data, this paper shows that credit limit extensions significantly increase total spending and income expectations. By controlling for changes in personal income expectations, the spending response to credit limit extensions weakens by approximately 30%. For financially unconstrained consumers, expectation changes account for around two‐thirds of the spending responses to limit extensions. These findings are consistent with consumers inferring future income from credit supply.</jats:p>",
+      "doi": "10.1111/jofi.70040",
+      "url": "https://doi.org/10.1111/jofi.70040"
     },
     {
       "title": "A Dynamic Model of the Racial Wealth Gap",
@@ -541,6 +561,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Labor unions are central to promoting worker protection and fairness, yet misconduct can undermine their ability to advocate. Despite over 60 years of regulations requiring unions to file financial reports, debate persists about those rules’ effectiveness. Proponents argue that transparency exposes wrongdoing, whereas critics question whether reporting constrains misconduct. Accounting research shows that financial information can uncover fraud in public firms, but its generalizability to unions is unclear. Using a hand-collected dataset, I examine the role of financial reporting in detecting and disciplining union misconduct. Results show that reporting information can reveal misconduct and that detection and discipline increase for unions subject to enhanced reporting requirements following a 2004 regulatory change. Further analysis indicates that union stakeholders, including members, employers, media, and antiunion organizations, use this information to help reveal misconduct. Overall, the findings suggest that financial reporting plays a significant role in promoting accountability within labor unions.</jats:p>\n                  <jats:p>Data Availability: Data are publicly available from the sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48; J51; K14.</jats:p>",
       "doi": "10.2308/tar-2024-0710",
       "url": "https://doi.org/10.2308/tar-2024-0710"
+    },
+    {
+      "title": "The Impact of the SEC’s Office of Minority and Women Inclusion: Evidence from the Filing Review Process",
+      "authors": "Bret A. Johnson, Matthew Kubic, Ling Lei Lisic, Mengmeng Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the impact of the SEC’s Office of Minority and Women Inclusion (OMWI) on the role of employee gender in the Division of Corporation Finance’s filing review process. Gender bias theory suggests that women may work harder to compensate for perceived bias and discrimination. Consistent with this theory, we find that women reviewers issue longer comment letters, raise more issues, ask more accounting-specific questions, reference more authoritative guidance, request more filing amendments, follow up on more issues from prior rounds, and take longer to close the comment letter process. We also find that women are less prevalent in higher paygrades and leadership positions. These gender differences attenuate after the establishment of OMWI in 2011, but significant differences remain. Analyses of SEC employee survey data corroborate our comment letter results.</jats:p>\n                  <jats:p>Data Availability: All data are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G18; J16; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0649",
+      "url": "https://doi.org/10.2308/tar-2023-0649"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -1603,7 +1633,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101899"
     },
     {
-      "title": "Consumption Tax and Corporate Product Mix Decisions",
+      "title": "Consumption tax and corporate product mix decisions",
       "authors": "Pulak Ghosh, Martin Jacob, Ya Kang, Jian Zhang",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4241,16 +4271,6 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104173",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
-    },
-    {
-      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities",
-      "authors": "Ali Cheema, Asim Khwaja, M Farooq Naseer, Jacob N Shapiro",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/739830",
-      "url": "https://doi.org/10.1086/739830"
     },
     {
       "title": "Migration, Specialization, and Trade: Evidence from Brazil’s March to the West",
