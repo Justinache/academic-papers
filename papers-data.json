@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-08T04:55:10.802Z",
-  "count": 447,
+  "lastUpdated": "2026-05-09T05:23:31.404Z",
+  "count": 449,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
+      "authors": "Nikolai Cook, Thibaut Duprey, Anthony Heyes, Martino Pelli",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-08",
+      "abstract": "",
+      "doi": "10.1086/740225",
+      "url": "https://doi.org/10.1086/740225"
+    },
+    {
+      "title": "Partisan Entrepreneurship",
+      "authors": "Joseph Engelberg, Jorge Guzman, Runjing Lu, William Mullins",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Republicans start more firms than Democrats. In a sample of 40 million party‐identified Americans between 2005 and 2017, we find that 5.5% of Republicans and 3.7% of Democrats become entrepreneurs. This partisan entrepreneurship gap is time‐varying—Republicans increase their relative entrepreneurship during Republican administrations and decrease it during Democratic administrations, amounting to a partisan reallocation of 170,000 new firms over our 13‐year sample. We find sharp changes in partisan entrepreneurship around the elections of President Obama and President Trump, with the strongest effects among the most politically active partisans: those that donate and vote.</jats:p>",
+      "doi": "10.1111/jofi.70042",
+      "url": "https://doi.org/10.1111/jofi.70042"
     },
     {
       "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing           Valuable Skilling Opportunities",
@@ -571,6 +591,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the impact of the SEC’s Office of Minority and Women Inclusion (OMWI) on the role of employee gender in the Division of Corporation Finance’s filing review process. Gender bias theory suggests that women may work harder to compensate for perceived bias and discrimination. Consistent with this theory, we find that women reviewers issue longer comment letters, raise more issues, ask more accounting-specific questions, reference more authoritative guidance, request more filing amendments, follow up on more issues from prior rounds, and take longer to close the comment letter process. We also find that women are less prevalent in higher paygrades and leadership positions. These gender differences attenuate after the establishment of OMWI in 2011, but significant differences remain. Analyses of SEC employee survey data corroborate our comment letter results.</jats:p>\n                  <jats:p>Data Availability: All data are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G18; J16; M48.</jats:p>",
       "doi": "10.2308/tar-2023-0649",
       "url": "https://doi.org/10.2308/tar-2023-0649"
+    },
+    {
+      "title": "Modern Privacy Regulation, Internal Information Quality, and Operational Efficiency: Evidence from the General Data Protection Regulation",
+      "authors": "Steven A. Maex",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In April 2016, the European Union adopted the General Data Protection Regulation (GDPR), significantly expanding privacy protections for personal data handled by firms. I examine the regulation’s impact on U.S. firms’ internal information quality (IIQ) and operational efficiency. Although privacy regulations target one subset of firms’ information assets (i.e., personal data), they may spur broad improvements in firms’ information governance practices and systems, resulting in higher quality information available for decision-making and, by extension, more efficient operations. Using a difference-in-differences design, I find that U.S. firms with European operations (i.e., treated firms) exhibit improvements in IIQ around the adoption of the GDPR. Furthermore, although the GDPR’s regulatory burden is overall costly to firms, GDPR-induced improvements in IIQ contribute positively to operational efficiency. These findings highlight that privacy regulation can act as a catalyst for firms to improve IIQ, yielding operational benefits that may partially offset the regulation’s costs.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources discussed in the text.</jats:p>\n                  <jats:p>JEL Classifications: L51; M40; M41; K24.</jats:p>",
+      "doi": "10.2308/tar-2022-0542",
+      "url": "https://doi.org/10.2308/tar-2022-0542"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -3363,16 +3393,6 @@
       "url": "https://doi.org/10.1086/740219"
     },
     {
-      "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
-      "authors": "Nikolai Cook, Thibaut Duprey, Anthony Heyes, Martino Pelli",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740225",
-      "url": "https://doi.org/10.1086/740225"
-    },
-    {
       "title": "Financial Aid and Upward Mobility: Evidence from Colombia's Ser Pilo Paga",
       "authors": "Juliana Londono-Velez, Catherine Rodriguez, Fabio Sanchez, Luis Esteban Alvarez-Arango",
       "journal": "Journal of Political Economy",
@@ -4453,16 +4473,6 @@
       "url": "https://doi.org/10.1093/rfs/hhaf096"
     },
     {
-      "title": "Portfolio Regulation of Financial Institutions with Market Power",
-      "authors": "Daniel Neuhann, SeyedMahyar (Mayar) Sefidgaran, Michael Sockin",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how portfolio regulations affect risk sharing between financial institutions with market power. Unconstrained access to complete markets permits flexible exploitation of market power and induces inefficient risk sharing. Appropriate portfolio restrictions counteract this, improving liquidity and risk sharing by bundling securities with offsetting strategic incentives. However, excessive regulation can be counterproductive, destroying gains from trade. An application of our theory shows that cross-asset spillovers are critical for policy evaluation: in general equilibrium, risk sharing can improve even if certain asset-specific liquidity measures deteriorate. We also discuss the effects of asymmetric regulation for different institutions.</jats:p>",
-      "doi": "10.1093/rfs/hhaf095",
-      "url": "https://doi.org/10.1093/rfs/hhaf095"
-    },
-    {
       "title": "Treasury Reuse and the Demand for Safe Assets",
       "authors": "Sebastian Infante, Zack Saravay",
       "journal": "Review of Financial Studies",
@@ -4471,6 +4481,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We theoretically and empirically show how the reuse of Treasury securities as collateral alleviates safe asset scarcity. Our model characterizes how reuse allows intermediaries to efficiently reallocate the safety benefits of long-term Treasury securities to a broader investor base. By reusing Treasury securities, intermediaries can access more collateral to create safe assets without interest rate risk. When the demand for safe assets is high, intermediaries increase reuse, distributing safe asset benefits to investors that value safety the most. Using supervisory data to calculate a dealer-level measure of reuse called the “collateral multiplier,” we empirically confirm the model’s main predictions.</jats:p>",
       "doi": "10.1093/rfs/hhaf094",
       "url": "https://doi.org/10.1093/rfs/hhaf094"
+    },
+    {
+      "title": "Portfolio Regulation of Financial Institutions with Market Power",
+      "authors": "Daniel Neuhann, SeyedMahyar (Mayar) Sefidgaran, Michael Sockin",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2025-11-09",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how portfolio regulations affect risk sharing between financial institutions with market power. Unconstrained access to complete markets permits flexible exploitation of market power and induces inefficient risk sharing. Appropriate portfolio restrictions counteract this, improving liquidity and risk sharing by bundling securities with offsetting strategic incentives. However, excessive regulation can be counterproductive, destroying gains from trade. An application of our theory shows that cross-asset spillovers are critical for policy evaluation: in general equilibrium, risk sharing can improve even if certain asset-specific liquidity measures deteriorate. We also discuss the effects of asymmetric regulation for different institutions.</jats:p>",
+      "doi": "10.1093/rfs/hhaf095",
+      "url": "https://doi.org/10.1093/rfs/hhaf095"
     }
   ]
 }
