@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-09T05:23:31.404Z",
-  "count": 449,
+  "lastUpdated": "2026-05-10T05:38:28.872Z",
+  "count": 447,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -4471,26 +4471,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze the role of nonbank lenders in the transmission of monetary policy using data on the universe of unsecured credit to firms and households in Denmark. Nonbanks increase their credit supply after a monetary contraction, both relative to banks and in absolute terms. The increase in nonbank lending is financed through increased long-term debt. A model with segmented debt markets featuring differential investor rate sensitivities rationalizes these findings. Nonbank credit insulates corporate investment and household consumption from monetary contractions, with positive spillovers extending beyond nonbank clients through industry and geographic channels.</jats:p>",
       "doi": "10.1093/rfs/hhaf096",
       "url": "https://doi.org/10.1093/rfs/hhaf096"
-    },
-    {
-      "title": "Treasury Reuse and the Demand for Safe Assets",
-      "authors": "Sebastian Infante, Zack Saravay",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We theoretically and empirically show how the reuse of Treasury securities as collateral alleviates safe asset scarcity. Our model characterizes how reuse allows intermediaries to efficiently reallocate the safety benefits of long-term Treasury securities to a broader investor base. By reusing Treasury securities, intermediaries can access more collateral to create safe assets without interest rate risk. When the demand for safe assets is high, intermediaries increase reuse, distributing safe asset benefits to investors that value safety the most. Using supervisory data to calculate a dealer-level measure of reuse called the “collateral multiplier,” we empirically confirm the model’s main predictions.</jats:p>",
-      "doi": "10.1093/rfs/hhaf094",
-      "url": "https://doi.org/10.1093/rfs/hhaf094"
-    },
-    {
-      "title": "Portfolio Regulation of Financial Institutions with Market Power",
-      "authors": "Daniel Neuhann, SeyedMahyar (Mayar) Sefidgaran, Michael Sockin",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how portfolio regulations affect risk sharing between financial institutions with market power. Unconstrained access to complete markets permits flexible exploitation of market power and induces inefficient risk sharing. Appropriate portfolio restrictions counteract this, improving liquidity and risk sharing by bundling securities with offsetting strategic incentives. However, excessive regulation can be counterproductive, destroying gains from trade. An application of our theory shows that cross-asset spillovers are critical for policy evaluation: in general equilibrium, risk sharing can improve even if certain asset-specific liquidity measures deteriorate. We also discuss the effects of asymmetric regulation for different institutions.</jats:p>",
-      "doi": "10.1093/rfs/hhaf095",
-      "url": "https://doi.org/10.1093/rfs/hhaf095"
     }
   ]
 }
