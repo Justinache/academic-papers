@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T05:38:28.872Z",
-  "count": 447,
+  "lastUpdated": "2026-05-11T06:00:24.613Z",
+  "count": 446,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Mutual Fund Flows and the Supply of Capital in Municipal Financing",
+      "authors": "Manuel Adelino, Sophia Chiyoung Cheong, Jaewon Choi, Ji Yeol Jimmy Oh",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-09",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how capital supply from mutual funds affects municipal bond financing, making three key contributions. First, we introduce an identification strategy using the rule-based update of Morningstar ratings for 5-year-old funds, isolating supply-side effects from fund and issuer fundamentals. The results indicate that exogenous fund flows increase bond issuance probability and decrease yields. Second, these fund flows lead to more issuances when funds and issuers are connected through underwriters, highlighting relationship lending in municipal bond financing. Third, municipal issuers leverage favorable financing conditions for new issuance of revenue bonds, which translates into higher local house prices. (JEL G23, G32, H74)</jats:p>",
+      "doi": "10.1093/rfs/hhag048",
+      "url": "https://doi.org/10.1093/rfs/hhag048"
     },
     {
       "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
@@ -4451,26 +4461,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Debt matters for oil supply elasticities. We document the resiliency of oil production to the COVID-19-related collapse in demand due to indebtedness. We use exogenous variation in the timing of debt-related payments to identify financially constrained operators. We show that more financially constrained firms cut production by less than less-constrained firms and were less likely to complete new wells. To explore the mechanisms, we use borrowing-limit cuts and credit-line drawdowns to measure access to credit, and we exploit failed hedging practices. The propagation of oil demand shocks crucially depends on the indebtedness of the oil sector.</jats:p>",
       "doi": "10.1093/rfs/hhaf099",
       "url": "https://doi.org/10.1093/rfs/hhaf099"
-    },
-    {
-      "title": "Bond Market Resiliency: The Role of Insurers",
-      "authors": "Maureen O’Hara, Andreas C Rapp, Xing (Alex) Zhou",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the role of insurance companies in supporting resiliency in the corporate bond market. We show that during the COVID-19 liquidity crisis, insurers increased their corporate bond positions, particularly in bonds facing fire sales by mutual funds. Insurers with more stable funding were more likely to buy, and they bought more from dealers with whom they had prior trading relationships. Dealers improved their bond liquidity provision when they had trading relationships with insurers with more stable funding. Our work demonstrates that insurers can play an important role in supporting bond market resiliency during times of stress.</jats:p>",
-      "doi": "10.1093/rfs/hhaf097",
-      "url": "https://doi.org/10.1093/rfs/hhaf097"
-    },
-    {
-      "title": "Nonbank Lending and the Transmission of Monetary Policy",
-      "authors": "Dominic Cucic, Denis Gorea",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze the role of nonbank lenders in the transmission of monetary policy using data on the universe of unsecured credit to firms and households in Denmark. Nonbanks increase their credit supply after a monetary contraction, both relative to banks and in absolute terms. The increase in nonbank lending is financed through increased long-term debt. A model with segmented debt markets featuring differential investor rate sensitivities rationalizes these findings. Nonbank credit insulates corporate investment and household consumption from monetary contractions, with positive spillovers extending beyond nonbank clients through industry and geographic channels.</jats:p>",
-      "doi": "10.1093/rfs/hhaf096",
-      "url": "https://doi.org/10.1093/rfs/hhaf096"
     }
   ]
 }
