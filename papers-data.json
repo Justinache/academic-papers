@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T06:00:24.613Z",
-  "count": 446,
+  "lastUpdated": "2026-05-12T05:40:21.236Z",
+  "count": 451,
   "papers": [
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -171,6 +171,46 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Praying for Rain",
+      "authors": "José-Antonio Espín-Sánchez, Salvador Gil-Guirado, Nicholas Ryan",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-05-11",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study rainmaking as an instrumental religious belief. We present a model in which a religious leader tries to persuade people to believe. Praying for rain can persuade only where the hazard of rainfall during a dry spell is increasing over time, so that prayer is most likely to succeed when people most want rain. We present evidence from prayers for rain in Murcia, Spain, where the hazard rate is increasing, that the church’s prayers for rain predict rainfall over two centuries. To generalize this finding, we gather an original data set of whether ethnic groups around the world traditionally prayed for rain. We find that ethnic groups facing an increasing rainfall hazard are 47% more likely to pray for rain, consistent with our model’s prediction that societies are more likely to pray for rain where prayer is persuasive.</jats:p>",
+      "doi": "10.1093/qje/qjag026",
+      "url": "https://doi.org/10.1093/qje/qjag026"
+    },
+    {
+      "title": "Risk‐Free Rates and Convenience Yields around the World",
+      "authors": "William Diamond, Peter Van Tassel",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-11",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We infer risk‐free rates from index option prices to estimate safe asset convenience yields in 10 G11 currencies. Countries' convenience yields increase with the level of their interest rates, with U.S. convenience yields fifth largest. During financial crises, convenience yields grow, but the difference between United States and foreign convenience yields generally does not. Covered interest parity (CIP) deviations using our option‐implied rates are a similar size between the United States and each other country. A model in which convenience yields depend on domestic financial intermediaries, but CIP deviations reflect the funding costs of international arbitrageurs financed with dollar‐denominated debt, explains these results.</jats:p>",
+      "doi": "10.1111/jofi.70045",
+      "url": "https://doi.org/10.1111/jofi.70045"
+    },
+    {
+      "title": "The Equilibrium Effects of Eviction Policies",
+      "authors": "Boaz Abramson",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-11",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I propose a dynamic equilibrium model of rental markets that endogenously gives rise to defaults on rents and evictions. In the model, eviction protections make it harder to evict delinquent renters, but higher default costs to landlords increase equilibrium rents. I quantify the model using micro data on evictions, rents, and homelessness. I find that stronger eviction protections exacerbate housing insecurity and lower welfare. The key empirical driver of this result is the persistent nature of risk underlying rent delinquencies. Rental assistance reduces housing insecurity and improves welfare because it lowers the likelihood that renters default ex ante.</jats:p>",
+      "doi": "10.1111/jofi.70046",
+      "url": "https://doi.org/10.1111/jofi.70046"
+    },
+    {
+      "title": "Incidence, Risk, and Disclosure of Corporate Litigation: Insights from Federal Court Filings",
+      "authors": "Mary Brooke Billings, Robert W. Holthausen, Christine Petrovits, Danye Wang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-05-11",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We assemble and describe a sample of 174,782 lawsuits filed against 218,437 public‐company lawsuit‐defendants in federal district court from 2006 to 2021. These lawsuits involve an array of allegations, including product liability, civil rights discrimination, contract breaches, improper compensation and labor practices, antitrust violations, corruption, securities violations, pollution, and intellectual property infringement. The sample exhibits rich variation across firms, industries, time, suit type, plaintiffs, and outcomes—reflecting not only firm activities but also social, political, and regulatory trends. Although many claims matter very little, some are important individually or in aggregate. We observe 23% of defendants experience a market value decline exceeding 10% of current assets around the lawsuit filing. Consistent with the notion that even low‐stakes claims, when numerous or persistent, can introduce frictions or reflect underlying issues, we find that aggregate legal exposure is associated with increased return volatility and decreased profitability. Subsequent tests indicate that materiality, public and private enforcement, and firms’ information environments (as well as other firm traits) are associated with managers’ decisions to disclose these claims. Collectively, our descriptive evidence establishes a foundation for further research into underexplored types of corporate litigation that represent a broad range of alleged wrongdoing and socially irresponsible behavior.</jats:p>",
+      "doi": "10.1111/1475-679x.70071",
+      "url": "https://doi.org/10.1111/1475-679x.70071"
     },
     {
       "title": "Mutual Fund Flows and the Supply of Capital in Municipal Financing",
@@ -611,6 +651,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In April 2016, the European Union adopted the General Data Protection Regulation (GDPR), significantly expanding privacy protections for personal data handled by firms. I examine the regulation’s impact on U.S. firms’ internal information quality (IIQ) and operational efficiency. Although privacy regulations target one subset of firms’ information assets (i.e., personal data), they may spur broad improvements in firms’ information governance practices and systems, resulting in higher quality information available for decision-making and, by extension, more efficient operations. Using a difference-in-differences design, I find that U.S. firms with European operations (i.e., treated firms) exhibit improvements in IIQ around the adoption of the GDPR. Furthermore, although the GDPR’s regulatory burden is overall costly to firms, GDPR-induced improvements in IIQ contribute positively to operational efficiency. These findings highlight that privacy regulation can act as a catalyst for firms to improve IIQ, yielding operational benefits that may partially offset the regulation’s costs.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources discussed in the text.</jats:p>\n                  <jats:p>JEL Classifications: L51; M40; M41; K24.</jats:p>",
       "doi": "10.2308/tar-2022-0542",
       "url": "https://doi.org/10.2308/tar-2022-0542"
+    },
+    {
+      "title": "Contractual Private Disclosures in Supply Chains and Managerial Learning from Financial Markets",
+      "authors": "Vivek Pandey",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine whether contracts that require customers to privately share with suppliers forecasts of their future demand for the supplier’s products (“demand forecast contracts,” or “DF contracts”) affect the supplier’s reliance on an alternative information source—stock prices—when making investment decisions. If suppliers find these forecasts a more direct signal of future demand than stock prices, they may reduce their reliance on stock prices to guide investments. Using hand-collected data, I find that suppliers’ investments become significantly less sensitive to stock prices after entering a DF contract for the first time. This effect is stronger when forecasts are more credible, demand more uncertain, and investments more irreversible. Supplier performance, measured by return on assets and cash flow from operations, improves post-DF. Overall, these findings suggest that when a relatively direct information source about future demand becomes available, managers reduce their reliance on stock prices in making real decisions.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G10; G30; G31; L14; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0472",
+      "url": "https://doi.org/10.2308/tar-2024-0472"
+    },
+    {
+      "title": "AI-Augmented Design and the Expertise Bias in Subjective Evaluations of Creative Output",
+      "authors": "Jordan A. Samet, Michael G. Williamson, Michael A. Yip",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Results from multiple experiments demonstrate that evaluators more favorably evaluate creative output produced by designers with higher expertise, even when the underlying creativity of the output is held constant (hereafter, expertise bias). We find, however, that this bias is mitigated when evaluators know that Artificial Intelligence (AI) can augment creative design processes, because AI’s capabilities reduce the perceived exclusivity of designers’ domain expertise. We also show that designers can restore the perceived exclusivity of their expertise, reestablishing the expertise bias, by choosing not to use available AI tools. Although prior research focuses on AI’s ability to enhance or inhibit the creativity of output, we highlight that it can enhance the creative process by mitigating a prevalent human bias in the subjective evaluation of this output. We also contribute to a better understanding of why some experienced designers refuse to utilize AI.</jats:p>\n                  <jats:p>Data Availability: Data are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: L29; M41; M55.</jats:p>",
+      "doi": "10.2308/tar-2024-0592",
+      "url": "https://doi.org/10.2308/tar-2024-0592"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -1693,7 +1753,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0165"
     },
     {
-      "title": "Do Financial Disclosures Affect Corporate Sustainability Practices?*",
+      "title": "Do financial disclosures affect corporate sustainability practices?",
       "authors": "Chenxing Jing, Bin Xu, Luo Zuo",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1863,12 +1923,12 @@
       "url": "https://doi.org/10.1093/qje/qjag018"
     },
     {
-      "title": "MAking The Invisible Hand Visible: Managers and The Allocation of Workers to Jobs",
+      "title": "Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs",
       "authors": "Virginia Minni",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-03-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do managers matter for firm performance? This paper provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data covers 200,000 white-collar workers and 30,000 managers over 11 years in 100 countries. I identify good managers by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers and generate large and persistent gains in workers’ career progression and productivity. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do managers matter for firm performance? This article provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data cover 200,000 white-collar workers and 30,000 managers over 11 years in 100 countries. I identify good managers by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers and generate large and persistent gains in workers’ career progression and productivity. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.</jats:p>",
       "doi": "10.1093/qje/qjag017",
       "url": "https://doi.org/10.1093/qje/qjag017"
     },
@@ -4451,16 +4511,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates the relation between audit competition, audit quality, and auditor labor hours. Using proprietary data on auditor realization rates, we construct new measures of competition based on theory predicting that abnormal profits will quickly disappear when competition is high but persist over multiple periods when competition is low. We find consistent evidence of persistent abnormal profits among U.S. Big 4 engagements and that individual offices earn persistent abnormal returns, suggesting that the market is not perfectly competitive. Examining the consequences of lower competition, we find that profit persistence is negatively related to audit hours and positively related to audit quality. Although we are cautious about inferring causality, our findings suggest that lower competition is associated with more efficient and effective audits.</jats:p>",
       "doi": "10.1111/1475-679x.70029",
       "url": "https://doi.org/10.1111/1475-679x.70029"
-    },
-    {
-      "title": "Heterogeneous Oil Supply Elasticities: Indebtedness and Production Responses to the COVID-19 Shock",
-      "authors": "Sergei Seleznev, Veronika Selezneva",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Debt matters for oil supply elasticities. We document the resiliency of oil production to the COVID-19-related collapse in demand due to indebtedness. We use exogenous variation in the timing of debt-related payments to identify financially constrained operators. We show that more financially constrained firms cut production by less than less-constrained firms and were less likely to complete new wells. To explore the mechanisms, we use borrowing-limit cuts and credit-line drawdowns to measure access to credit, and we exploit failed hedging practices. The propagation of oil demand shocks crucially depends on the indebtedness of the oil sector.</jats:p>",
-      "doi": "10.1093/rfs/hhaf099",
-      "url": "https://doi.org/10.1093/rfs/hhaf099"
     }
   ]
 }
