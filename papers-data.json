@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-05-12T05:40:21.236Z",
-  "count": 451,
+  "lastUpdated": "2026-05-13T05:49:56.120Z",
+  "count": 459,
   "papers": [
+    {
+      "title": "The co-pricing factor zoo",
+      "authors": "Alexander Dickerson, Christian Julliard, Philippe Mueller",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104295",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104295"
+    },
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
       "authors": "Teng Huang, Stefano Sacchetto",
@@ -173,6 +183,46 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
     },
     {
+      "title": "Public Services Under Private Management",
+      "authors": "MaÍra Coube, Luiz Felipe Fontes, Rudi Rocha",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-05-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency, but can also induce cost-cutting and compromise quality. We assess the Brazilian “Organizações Sociais de Saude” model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.</jats:p>",
+      "doi": "10.1093/qje/qjag028",
+      "url": "https://doi.org/10.1093/qje/qjag028"
+    },
+    {
+      "title": "The Power of Proximity to Coworkers",
+      "authors": "Natalia Emanuel, Emma Harrington, Amanda Pallais",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-05-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: (i) the office closures in 2020 and (ii) the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a tradeoff: experienced engineers write less code when sitting near teammates. In national US data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022−2024) compared to pre-pandemic (2017−2019), a pattern we do not observe in non-remotable jobs.</jats:p>",
+      "doi": "10.1093/qje/qjag027",
+      "url": "https://doi.org/10.1093/qje/qjag027"
+    },
+    {
+      "title": "International Reserve Management Under Rollover Crises",
+      "authors": "Mauricio Barbosa-Alves, Javier Bianchi, César Sosa-Padilla",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-05-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask, should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.</jats:p>",
+      "doi": "10.1093/qje/qjag025",
+      "url": "https://doi.org/10.1093/qje/qjag025"
+    },
+    {
+      "title": "Revenue Recognition Comparability and Analysts’ Disclosure Processing Costs",
+      "authors": "Andrea Tillet",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-05-12",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine whether the FASB's revenue recognition guidance under ASC 606 influences revenue comparability across firms and industries and whether revenue comparability reduces analysts’ disclosure processing costs. I extract firms’ revenue policy disclosures from 10‐K filings to measure their textual similarity and compare revenue policies across firms and industries. I find an increase in revenue comparability for firms in different industries with similar revenue‐generating transactions upon adoption of ASC 606. In contrast, I find a decrease in revenue comparability for firms in the same industry with similar revenue‐generating transactions. Further, though I find that analysts are more likely to forecast revenues when firms have higher revenue comparability, this benefit of revenue comparability is less pronounced under ASC 606. This finding suggests the ASC 606‐related changes to revenue comparability impose disclosure processing costs on analysts.</jats:p>",
+      "doi": "10.1111/1475-679x.70068",
+      "url": "https://doi.org/10.1111/1475-679x.70068"
+    },
+    {
       "title": "Praying for Rain",
       "authors": "José-Antonio Espín-Sánchez, Salvador Gil-Guirado, Nicholas Ryan",
       "journal": "Quarterly Journal of Economics",
@@ -243,7 +293,7 @@
       "url": "https://doi.org/10.1111/jofi.70042"
     },
     {
-      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing           Valuable Skilling Opportunities",
+      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing          Valuable Skilling Opportunities",
       "authors": "Ali Cheema, Asim I. Khwaja, M. Farooq Naseer, Jacob N. Shapiro",
       "journal": "Journal of Political Economy",
       "field": "Economics",
@@ -261,6 +311,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Combining a randomized controlled trial with administrative and survey data, this paper shows that credit limit extensions significantly increase total spending and income expectations. By controlling for changes in personal income expectations, the spending response to credit limit extensions weakens by approximately 30%. For financially unconstrained consumers, expectation changes account for around two‐thirds of the spending responses to limit extensions. These findings are consistent with consumers inferring future income from credit supply.</jats:p>",
       "doi": "10.1111/jofi.70040",
       "url": "https://doi.org/10.1111/jofi.70040"
+    },
+    {
+      "title": "Macroeconomic Expectations and Credit Card Spending",
+      "authors": "Mikhail Galashin, Martin Kanz, Ricardo Perez-Truglia",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-07",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how macroeconomic expectations affect consumer decisions, using an experiment with 2,872 credit card customers at a large commercial bank. In the experiment, participants are randomized into receiving expert forecasts of inflation and the nominal exchange rate. We find that forecasts shift inflation and exchange rate expectations, but do not change spending or self-reported consumption plans as predicted by standard models of intertemporal choice. Results from a supplementary survey experiment suggest that consumers are sophisticated enough to anticipate nominal rigidities and reduce spending on durables for precautionary reasons, counteracting the effects predicted by standard models of intertemporal optimization.</jats:p>",
+      "doi": "10.1093/rfs/hhaf079",
+      "url": "https://doi.org/10.1093/rfs/hhaf079"
     },
     {
       "title": "A Dynamic Model of the Racial Wealth Gap",
@@ -671,6 +731,36 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Results from multiple experiments demonstrate that evaluators more favorably evaluate creative output produced by designers with higher expertise, even when the underlying creativity of the output is held constant (hereafter, expertise bias). We find, however, that this bias is mitigated when evaluators know that Artificial Intelligence (AI) can augment creative design processes, because AI’s capabilities reduce the perceived exclusivity of designers’ domain expertise. We also show that designers can restore the perceived exclusivity of their expertise, reestablishing the expertise bias, by choosing not to use available AI tools. Although prior research focuses on AI’s ability to enhance or inhibit the creativity of output, we highlight that it can enhance the creative process by mitigating a prevalent human bias in the subjective evaluation of this output. We also contribute to a better understanding of why some experienced designers refuse to utilize AI.</jats:p>\n                  <jats:p>Data Availability: Data are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: L29; M41; M55.</jats:p>",
       "doi": "10.2308/tar-2024-0592",
       "url": "https://doi.org/10.2308/tar-2024-0592"
+    },
+    {
+      "title": "Market Leaders’ Tax-Motivated Income Shifting and U.S. Domestic Firms’ Investment Efficiency",
+      "authors": "Michelle L. Nessa, Xinjie Tang, Ryan J. Wilson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines whether U.S. domestic firms’ investment decisions are affected by their expectations of market leaders’ tax-motivated income shifting. Market leaders’ financial reports can help peers evaluate industry conditions and potential investment payoffs, but income shifting obscures the geographic source of profits and reduces the informativeness of these disclosures. Thus, when peers expect that leaders shift income, they face greater uncertainty about the outcomes of their own investments. Consistent with the theory of investment under uncertainty, we find that U.S. domestic firms are less responsive to investment opportunities as expectations of leaders’ shifting increase. This reduced responsiveness is concentrated among firms facing higher investment irreversibility and those whose market leaders provide less transparent geographic disclosures. Our findings identify a novel spillover cost of income shifting and suggest that policies enhancing the transparency of multinational firms’ geographic reporting or constraining income shifting could help improve domestic firms’ investment decisions.</jats:p>",
+      "doi": "10.2308/tar-2024-0328",
+      "url": "https://doi.org/10.2308/tar-2024-0328"
+    },
+    {
+      "title": "The Rich Get Richer: An Examination of Tax Haven Concentration and the New “Top 7”",
+      "authors": "Frank Murphy, Mary E. Vernon",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines how separately analyzing tax haven countries according to country-level heterogeneity can produce different tax policy inferences. We focus on understanding tax havens with the largest impact on the U.S. corporate tax landscape by modernizing Hines and Rice’s (1994) “Big 7” classification, focusing on economic nexus. We identify seven tax havens (“Top 7”) holding a combined 81 percent of all U.S. public corporate tax haven subsidiaries in 2021. Top 7 havens offer a desirable combination of various nontax attributes, for example, strong governance, which signal economic stability and tax planning opportunities. We find the tax savings from tax haven operations are attributable to Top 7 haven use. Separating tax havens unmasks significant post-TCJA tax haven effects in foreign direct investment. Although these havens pose the largest public finance threat, we hope to further inform research to select tax havens according to a priori relevant characteristics.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from publicly available sources or upon request.</jats:p>\n                  <jats:p>JEL Classifications: F3; G38; H20.</jats:p>",
+      "doi": "10.2308/tar-2025-0139",
+      "url": "https://doi.org/10.2308/tar-2025-0139"
+    },
+    {
+      "title": "Transparency and Bank Liability Structure",
+      "authors": "Xu Jiang, Lucas Mahieux",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the desirability of transparent accounting information for banks depending on their liability structure. In our model, a bank finances a long-term project with both uninsured and insured deposits. Although uninsured deposits increase rollover risk, they may also generate efficient liquidations. Importantly, a transparent regime provides timelier information about the project’s payoff than an opaque regime. We show that the transparent regime is surplus-enhancing when the amount of insured deposits is small, as the bank issues the optimal amount of uninsured deposits and transparency leads to efficient liquidations. Otherwise, when the amount of insured deposits is large, the cost of inefficient liquidations dominates, making the opaque regime optimal. In addition, the bank may favor transparency to reduce its funding cost even when it is surplus-decreasing. Overall, our results show that transparent accounting is not a panacea and provide some support for the “mark-to-funding” accounting rule.</jats:p>\n                  <jats:p>JEL Classifications: G20; G28; M41; M48</jats:p>",
+      "doi": "10.2308/tar-2024-0705",
+      "url": "https://doi.org/10.2308/tar-2024-0705"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -1203,6 +1293,16 @@
       "url": "https://doi.org/10.1093/rfs/hhag032"
     },
     {
+      "title": "Borrowing from a Bigtech Platform",
+      "authors": "Jian Li, Stefano Pegoraro",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-04-03",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We model credit competition between a bigtech platform and a bank lending to a merchant under limited commitment and asymmetric information about the merchant’s incentives to default. The platform leverages its control over a marketplace to enforce partial loan repayments, enabling it to serve certain unbanked borrowers. When directly competing with the bank, the platform gains an endogenous screening advantage as borrowers with stronger incentives to default self-select into bank loans to avoid the platform’s enforcement. Whereas the platform improves financial inclusion for unbanked borrowers, social welfare may decline because the bank tightens credit in response to adverse screening.</jats:p>",
+      "doi": "10.1093/rfs/hhag033",
+      "url": "https://doi.org/10.1093/rfs/hhag033"
+    },
+    {
       "title": "Optimal Queue Design",
       "authors": "Yeon-Koo Che, Olivier Tercieux",
       "journal": "Journal of Political Economy",
@@ -1551,16 +1651,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mergers of firms that share labor markets increase labor market concentration which can lead to labor efficiency gains and/or create labor market power for the merged firms. Using a novel measure based on establishment‐level employment data, we find that merger‐induced increases in labor market concentration explain value creation in a sample of completed U.S. public firm mergers from 1991 to 2016. Analysis of the stock market reactions of rival, supplier, and customer firms, as well as firm‐ and establishment‐level real effects in the merging firms, supports a labor efficiency explanation of these merger gains.</jats:p>",
       "doi": "10.1111/jofi.70035",
       "url": "https://doi.org/10.1111/jofi.70035"
-    },
-    {
-      "title": "Borrowing from a Bigtech Platform",
-      "authors": "Jian Li, Stefano Pegoraro",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We model credit competition between a bigtech platform and a bank lending to a merchant under limited commitment and asymmetric information about the merchant’s incentives to default. The platform leverages its control over a marketplace to enforce partial loan repayments, enabling it to serve certain unbanked borrowers. When directly competing with the bank, the platform gains an endogenous screening advantage as borrowers with stronger incentives to default self-select into bank loans to avoid the platform’s enforcement. Whereas the platform improves financial inclusion for unbanked borrowers, social welfare may decline because the bank tightens credit in response to adverse screening.(JELG21, G23, C72, D82)</jats:p>",
-      "doi": "10.1093/rfs/hhag033",
-      "url": "https://doi.org/10.1093/rfs/hhag033"
     },
     {
       "title": "R&D Disclosure and Short-Term Investors: Evidence from Mandated Patent Disclosure",
@@ -2391,16 +2481,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article estimates that the macroeconomic damages from climate change are an order of magnitude larger than previously thought. Exploiting natural global temperature variability, we find that 1ºC warming reduces world GDP by over 20% in the long run. Global temperature correlates strongly with extreme climatic events, unlike country-level temperature used in previous work, explaining our larger estimate. We use this evidence to estimate damage functions in a neoclassical growth model. Business-as-usual warming implies a present welfare loss of more than 30%, and a social cost of carbon in excess of $1,200 per ton. These impacts suggest that unilateral decarbonization policy is cost-effective for large countries such as the United States.</jats:p>",
       "doi": "10.1093/qje/qjag011",
       "url": "https://doi.org/10.1093/qje/qjag011"
-    },
-    {
-      "title": "Macroeconomic Expectations and Credit Card SpendingMikhail Galashin",
-      "authors": "Mikhail Galashin, Martin Kanz, Ricardo Perez-Truglia",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how macroeconomic expectations affect consumer decisions, using an experiment with 2,872 credit card customers at a large commercial bank. In the experiment, participants are randomized into receiving expert forecasts of inflation and the nominal exchange rate. We find that forecasts significantly affect inflation and exchange rate expectations, but do not change spending or self-reported consumption plans as predicted by standard models of intertemporal choice. Results from a supplementary survey experiment suggest that consumers are sophisticated enough to anticipate nominal rigidities and reduce spending on durables for precautionary reasons, counteracting the effects predicted by standard models of intertemporal optimization. (JEL G50, C93, D83, D84, E31, R31)</jats:p>",
-      "doi": "10.1093/rfs/hhaf079",
-      "url": "https://doi.org/10.1093/rfs/hhaf079"
     },
     {
       "title": "When Do Judges Throw the Book at Companies? The Influence of Partisanship in Corporate Prosecutions",
