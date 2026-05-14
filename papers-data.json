@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T05:49:56.120Z",
-  "count": 459,
+  "lastUpdated": "2026-05-14T05:49:24.535Z",
+  "count": 462,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -183,6 +183,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
     },
     {
+      "title": "Collective Moral Hazard, Risk Sharing, and Banking Unions*",
+      "authors": "Anatoli Segura, Sergio Vicente",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze optimal cross-country risk sharing and bank capital requirements amid collective moral hazard by governments and banks. Transfers provide insurance but weaken fiscal discipline. Since lenient fiscal policies amplify banks’ risk-shifting, optimal support must be contingent on banking system health. For fiscally weak countries, support is larger in sovereign crises with solvent banks. For fiscally strong countries, support is larger in joint sovereign and bank crises, requiring deposit insurance mutualization. Optimal contracts feature lower capital requirements than without cross-country transfers, raising the cost of joint sovereign and bank crises to strengthen fiscal discipline and enable greater risk sharing.</jats:p>",
+      "doi": "10.1093/rfs/hhag024",
+      "url": "https://doi.org/10.1093/rfs/hhag024"
+    },
+    {
+      "title": "Proud to Not Own Stocks: How Identity Shapes Financial Decisions",
+      "authors": "Luca Henkel, Christian Pugnaghi-Zimpelmann",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper introduces a key factor influencing households’ decision to invest in the stock market: how people view stockholders. Using surveys we conducted with nearly 8,500 individuals from 11 countries, we document that a large majority hold negative views of stockholders based on identity-relevant characteristics. Linking survey and administrative data, we find that negative perceptions strongly predict households’ stock market participation. We show that negative perceptions causally influence household decision-making and provide evidence supporting identity concerns as the underlying mechanism. Our findings provide new perspectives on the malleability of financial decision-making and a novel explanation for low stock market participation. (JEL G41, G51, D14, D83)</jats:p>",
+      "doi": "10.1093/rfs/hhag034",
+      "url": "https://doi.org/10.1093/rfs/hhag034"
+    },
+    {
       "title": "Public Services Under Private Management",
       "authors": "MaÍra Coube, Luiz Felipe Fontes, Rudi Rocha",
       "journal": "Quarterly Journal of Economics",
@@ -221,6 +241,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine whether the FASB's revenue recognition guidance under ASC 606 influences revenue comparability across firms and industries and whether revenue comparability reduces analysts’ disclosure processing costs. I extract firms’ revenue policy disclosures from 10‐K filings to measure their textual similarity and compare revenue policies across firms and industries. I find an increase in revenue comparability for firms in different industries with similar revenue‐generating transactions upon adoption of ASC 606. In contrast, I find a decrease in revenue comparability for firms in the same industry with similar revenue‐generating transactions. Further, though I find that analysts are more likely to forecast revenues when firms have higher revenue comparability, this benefit of revenue comparability is less pronounced under ASC 606. This finding suggests the ASC 606‐related changes to revenue comparability impose disclosure processing costs on analysts.</jats:p>",
       "doi": "10.1111/1475-679x.70068",
       "url": "https://doi.org/10.1111/1475-679x.70068"
+    },
+    {
+      "title": "Generative AI and Asset Management",
+      "authors": "Jinfei Sheng, Zheng Sun, Baozhong Yang, Alan L Zhang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a novel measure of investment companies’ reliance on generative artificial intelligence (GenAI), we document a sharp increase in GenAI usage by hedge funds after ChatGPT’s 2022 launch. A difference-in-differences test shows that hedge funds adopting GenAI earn 2-4% higher annualized abnormal returns than nonadopters, while non-hedge funds do not benefit. The outperformance originates from funds’ AI talent and ChatGPT’s strength in analyzing firm-specific information. We conduct a new survey of fund managers’ GenAI usage to provide direct validation of our measure and offer additional new insights on how managers adopt GenAI tools in their practice. (JEL C81, G11, G14, G23)</jats:p>",
+      "doi": "10.1093/rfs/hhag050",
+      "url": "https://doi.org/10.1093/rfs/hhag050"
     },
     {
       "title": "Praying for Rain",
