@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-14T05:49:24.535Z",
-  "count": 462,
+  "lastUpdated": "2026-05-15T05:56:12.926Z",
+  "count": 464,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -181,6 +181,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Firm-Level Labor Shortage Exposure",
+      "authors": "Jarrad Harford, Qiyang He, Buhui Qiu",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-14",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information from earnings call transcripts to develop a comprehensive and reliable measure of labor shortage exposure. After validating the measure at the state, industry, and firm levels, we show that firms with labor shortage exposures experience lower earnings call CARs, future stock returns and operating performance. Firms respond to labor shortages by substituting labor with capital and R&amp;D investments, and by producing more production-process patents. Such responses help mitigate the negative effects on future performance. Our measure has broad applicability, and our findings provide new insight into labor-capital substitution in imperfectly competitive labor markets. JEL G12, G30, J2</jats:p>",
+      "doi": "10.1093/rfs/hhag049",
+      "url": "https://doi.org/10.1093/rfs/hhag049"
     },
     {
       "title": "Collective Moral Hazard, Risk Sharing, and Banking Unions*",
@@ -791,6 +801,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the desirability of transparent accounting information for banks depending on their liability structure. In our model, a bank finances a long-term project with both uninsured and insured deposits. Although uninsured deposits increase rollover risk, they may also generate efficient liquidations. Importantly, a transparent regime provides timelier information about the project’s payoff than an opaque regime. We show that the transparent regime is surplus-enhancing when the amount of insured deposits is small, as the bank issues the optimal amount of uninsured deposits and transparency leads to efficient liquidations. Otherwise, when the amount of insured deposits is large, the cost of inefficient liquidations dominates, making the opaque regime optimal. In addition, the bank may favor transparency to reduce its funding cost even when it is surplus-decreasing. Overall, our results show that transparent accounting is not a panacea and provide some support for the “mark-to-funding” accounting rule.</jats:p>\n                  <jats:p>JEL Classifications: G20; G28; M41; M48</jats:p>",
       "doi": "10.2308/tar-2024-0705",
       "url": "https://doi.org/10.2308/tar-2024-0705"
+    },
+    {
+      "title": "The Role of Federal Agency Accounting Quality in Federal Budget Allocation: Evidence from Audit Opinions",
+      "authors": "Jiapeng He, Ningzhong Li",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101902",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101902"
     },
     {
       "title": "The Zero-Beta Interest Rate",
