@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-15T05:56:12.926Z",
-  "count": 464,
+  "lastUpdated": "2026-05-16T05:28:28.011Z",
+  "count": 466,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -181,6 +181,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Consumption in Asset Returns",
+      "authors": "Svetlana Bryzgalova, Jiantao Huang, Christian Julliard",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-15",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using information in returns, we identify the stochastic process of consumption. We find that aggregate consumption reacts over multiple quarters to innovations spanned by financial markets. This persistent component accounts for over a quarter of consumption variation. These shocks command a large and significant risk premium, driving a large share of stocks' and a small yet significant fraction of bonds' time‐series variation. Nevertheless, we find no support for stochastic volatility of consumption driving time‐varying risk premia. Finally, an otherwise standard recursive utility model based on our estimated process explains equity premium and risk‐free rate puzzles with low‐risk aversion.</jats:p>",
+      "doi": "10.1111/jofi.70044",
+      "url": "https://doi.org/10.1111/jofi.70044"
+    },
+    {
+      "title": "The Drivers and Implications of Retail Margin Trading",
+      "authors": "Jiangze Bian, Zhi Da, Zhiguo He, Dong Lou, Kelly Shue, Hao Zhou",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-15",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using granular data covering both regulated (brokerage‐financed) and unregulated (shadow‐financed) margin accounts in China, we provide novel evidence on retail investors' margin trading behavior and its price implications. We first show that retail investors' decisions to lever up in stock trading despite the hefty borrowing cost is related to their lottery preferences. We then show that margin borrowing affects investors' trading behavior—investors are more likely to liquidate their holdings as they approach margin calls. Finally, we show that margin‐induced trading aggregates to affect asset prices and contributes to shock spillovers across stocks (e.g., from lottery stocks to nonlottery stocks).</jats:p>",
+      "doi": "10.1111/jofi.70049",
+      "url": "https://doi.org/10.1111/jofi.70049"
     },
     {
       "title": "Firm-Level Labor Shortage Exposure",
