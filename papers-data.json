@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-16T05:28:28.011Z",
-  "count": 466,
+  "lastUpdated": "2026-05-17T05:49:46.248Z",
+  "count": 467,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104295",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104295"
+    },
+    {
+      "title": "Monetary policy transmission through the exchange rate factor structure",
+      "authors": "Erik Loualiche, Alexandre R. Pecora, Fabricius Somogyi, Colin Ward",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104305",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104305"
     },
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
