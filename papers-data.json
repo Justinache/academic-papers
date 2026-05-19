@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-18T06:15:00.692Z",
-  "count": 467,
+  "lastUpdated": "2026-05-19T06:08:37.946Z",
+  "count": 468,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -191,6 +191,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Bank Competition Amid Digital Disruption: Implications for Financial Inclusion",
+      "authors": "Erica Xuewei Jiang, Gloria Yang Yu, Jinyuan Zhang",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-17",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how digital disruption affects bank competition using the staggered rollout of 3G mobile networks. 3G expansion increased mobile banking adoption among tech‐savvy households, reducing branch networks—especially in younger counties. Banks' strategies diverged: Less branch‐reliant banks closed branches and competed on price, while more branch‐reliant banks maintained branches but raised spreads. A structural model shows that perceived digital service improvements among younger consumers drove these shifts, reducing welfare for older savers. Counterfactuals demonstrate that subsidizing adoption for older savers can cost‐effectively reduce these disparities, facilitating a smoother digital transition.</jats:p>",
+      "doi": "10.1111/jofi.70051",
+      "url": "https://doi.org/10.1111/jofi.70051"
     },
     {
       "title": "Consumption in Asset Returns",
@@ -841,6 +851,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101902",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101902"
+    },
+    {
+      "title": "Year-to-Year Adjustments of Performance Measure Weights: The Relevance of Prior Target Achievement",
+      "authors": "Maximilian Margolin, Matthias D. Mahlendorf, Utz Schäffer",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine year-to-year adjustments of performance measure weights in managers’ incentive contracts. Using survey panel data on financial middle managers over four years, we document that higher target achievement on a given measure is associated with an increase in the measure’s relative weight for the subsequent year. We explore three potential explanations for this pattern: retention considerations, managerial influence, and gradual strategic shifts. Consistent with retention considerations, we find that shifts toward better performing measures are stronger for managers who outperform their peers and in firms facing greater labor market competition. Consistent with managerial influence, we find that shifts are also stronger for managers with greater influence on their incentives and in firms with lower incentive design transparency. We find, however, no support for the gradual strategy change explanation, as results do not show that shifts vary with managers’ involvement in strategic decision-making or subsequently observed strategy changes.</jats:p>\n                  <jats:p>Data Availability: The survey data used in this project are protected by a nondisclosure agreement.</jats:p>\n                  <jats:p>JEL Classifications: J33; M12; M40; M46.</jats:p>",
+      "doi": "10.2308/tar-2021-0511",
+      "url": "https://doi.org/10.2308/tar-2021-0511"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -2088,7 +2108,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-03-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study technology sophistication using a novel approach that measures the sophistication of the most advanced (MAX) and the most widely used (MOST) technologies in each of the key business functions within establishments. Using data from over 21,000 establishments across 15 countries, we find that establishments generally underutilize the most sophisticated technologies available within a business function. These MAX-MOST gaps are persistent and strongly associated with productivity both across establishments and countries. At the establishment level, there is substantial variation in both MAX and MOST, with MOST showing a more skewed distribution. MAX and MOST follow different lifecycle patterns in low-income countries and among small establishments, and they exhibit different associations with several establishment characteristics and performance indicators. This evidence underscores the different nature of the technology upgrading processes that drive MAX and MOST.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study technology sophistication using a novel approach that measures the sophistication of the most advanced (MAX) and the most widely used (MOST) technologies in key business functions within establishments. Using data from over 21,000 establishments across 15 countries, we find that establishments generally underutilize the most sophisticated technologies available in a business function. These MAX-MOST gaps are persistent and strongly associated with productivity both across establishments and countries. At the establishment level, there is substantial variation in both MAX and MOST, with MOST showing a more skewed distribution. MAX and MOST follow different life cycle patterns in low-income countries and among small establishments, and they exhibit different associations with several establishment characteristics and performance indicators. This evidence underscores the different nature of the technology upgrading processes that drive MAX and MOST.</jats:p>",
       "doi": "10.1093/qje/qjag018",
       "url": "https://doi.org/10.1093/qje/qjag018"
     },
@@ -4661,16 +4681,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set of misconduct records for Finnish CEOs and directors and their parents, we explore whether corporate executives’ financial misconduct is associated with similar behavior by their parents. Controlling for various other factors of executive financial misconduct, we find that executives are significantly more likely to engage in financial misconduct, including accounting, tax, and other financial offenses, if their parents have a history of financial misconduct. This intergenerational association is stronger when the parental misconduct is more severe. Additional findings reveal that growing up in high‐misconduct municipalities and cohabiting with spouses who engage in financial misconduct are also associated with a higher likelihood of executive misconduct, indicating that such behaviors may be shaped by broader socialization processes that extend beyond the immediate family. Although our analyses do not establish causal relationships, the collective evidence presented in this study offers insights into why some corporate executives engage in misconduct while others do not.</jats:p>",
       "doi": "10.1111/1475-679x.70028",
       "url": "https://doi.org/10.1111/1475-679x.70028"
-    },
-    {
-      "title": "Profit Persistence in the U.S. Audit Market",
-      "authors": "William A. Ciconte, Andrew R. Kitto",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-11-18",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates the relation between audit competition, audit quality, and auditor labor hours. Using proprietary data on auditor realization rates, we construct new measures of competition based on theory predicting that abnormal profits will quickly disappear when competition is high but persist over multiple periods when competition is low. We find consistent evidence of persistent abnormal profits among U.S. Big 4 engagements and that individual offices earn persistent abnormal returns, suggesting that the market is not perfectly competitive. Examining the consequences of lower competition, we find that profit persistence is negatively related to audit hours and positively related to audit quality. Although we are cautious about inferring causality, our findings suggest that lower competition is associated with more efficient and effective audits.</jats:p>",
-      "doi": "10.1111/1475-679x.70029",
-      "url": "https://doi.org/10.1111/1475-679x.70029"
     }
   ]
 }
