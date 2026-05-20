@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-19T06:08:37.946Z",
-  "count": 468,
+  "lastUpdated": "2026-05-20T06:08:30.939Z",
+  "count": 467,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -191,6 +191,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Why Have CEO Pay Levels Become Less Diverse?",
+      "authors": "Torsten Jochem, Gaizka Ormazabal, Anjana Rajamani",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-19",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper documents a new stylized fact: the cross‐sectional variation in CEO pay levels has declined precipitously in recent years. We offer one explanation for this decline, namely, firms are increasingly benchmarking CEO compensation to industry peers closest in size, thereby creating pay clusters. Our empirical tests provide support for this explanation and suggest that the rise of industry‐size benchmarking is driven by three institutional factors: the mandatory disclosure of compensation peer groups, proxy advisory influence, and say‐on‐pay regulation. Our findings highlight a consequence of adopting a one‐size‐fits‐all standard in the pay‐setting process.</jats:p>",
+      "doi": "10.1111/jofi.70050",
+      "url": "https://doi.org/10.1111/jofi.70050"
     },
     {
       "title": "Bank Competition Amid Digital Disruption: Implications for Financial Inclusion",
@@ -993,7 +1003,7 @@
       "url": "https://doi.org/10.1086/739823"
     },
     {
-      "title": "Dynamics of Asset Demands with Confidence Heterogeneity†",
+      "title": "Dynamics of Asset Demands with Confidence Heterogeneity",
       "authors": "Adrian Buss, Raman Uppal, Grigory Vilkov",
       "journal": "Review of Financial Studies",
       "field": "Finance",
@@ -2103,6 +2113,16 @@
       "url": "https://doi.org/10.1093/rfs/hhag007"
     },
     {
+      "title": "Too Many Managers: The Strategic Use of Titles to Avoid Overtime Payments",
+      "authors": "Lauren H Cohen, Umit G Gurun, N Bugra Ozel",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find widespread evidence that firms avoid overtime payments by strategically assigning “managerial” titles. Exploiting the exemption threshold under the Fair Labor Standards Act (FLSA), we find managerial titles increase almost fivefold just above the overtime pay cutoff, including suspect listings, such as “Director of First Impressions” for a role equivalent to “Front-Desk Clerk.” Avoidance is higher when firms have more bargaining power and are financially constrained. It is also more common in occupations with volatile demand and unpredictable worker scheduling. Patterns align with litigation and Department of Labor enforcement. Firms avoid roughly 13.5% in compensation costs, hiring strategic “managers.”</jats:p>",
+      "doi": "10.1093/rfs/hhag016",
+      "url": "https://doi.org/10.1093/rfs/hhag016"
+    },
+    {
       "title": "Technology Sophistication Across Establishments",
       "authors": "Xavier Cirera, Diego Comin, Marcio Cruz",
       "journal": "Quarterly Journal of Economics",
@@ -2191,16 +2211,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This article studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top 10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work-schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
       "doi": "10.1093/qje/qjag015",
       "url": "https://doi.org/10.1093/qje/qjag015"
-    },
-    {
-      "title": "Too Many Managers: The Strategic Use of Titles to Avoid Overtime Payments",
-      "authors": "Lauren H Cohen, Umit G Gurun, N Bugra Ozel",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find widespread evidence that firms avoid overtime payments by strategically assigning “managerial” titles. Exploiting the exemption threshold under the Fair Labor Standards Act (FLSA), we find managerial titles increase almost fivefold just above the overtime pay cutoff, including suspect listings, such as “Director of First Impressions” for a role equivalent to “Front-Desk Clerk.” Avoidance is higher when firms have more bargaining power and are financially constrained. It is also more common in occupations with volatile demand and unpredictable worker scheduling. Patterns align with litigation and Department of Labor enforcement. Firms avoid roughly 13.5% in compensation costs, hiring strategic “managers.” (JEL M51, M54, G30, G38)</jats:p>",
-      "doi": "10.1093/rfs/hhag016",
-      "url": "https://doi.org/10.1093/rfs/hhag016"
     },
     {
       "title": "Beyond Old Boys' Clubs: Financial Analysts' Utilization of Professional Connections",
@@ -4638,7 +4648,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2025-11-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Liquidity provision is often attributed to debt-issuing intermediaries like banks. We develop a unified theoretical framework and empirically show that mutual funds issuing demandable equity also provide an economically significant amount of liquidity by insuring against idiosyncratic liq uidity shocks. Quantitatively, bond funds provide 12.5% of the liquidity that banks provide per dollar. Our model further shows that when equity values incorporate the liquidation cost from re demptions, as in swing pricing, liquidity provision is not necessarily reduced. This is because swing pricing may increase funds’ capacity for holding illiquid assets without inducing panic runs. (JEL G01, G21, G23, G28)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Liquidity provision is often attributed to debt-issuing intermediaries like banks. We develop a unified theoretical framework and empirically show that mutual funds issuing demandable equity also provide an economically significant amount of liquidity by insuring against idiosyncratic liquidity shocks. Quantitatively, bond funds provide 12.5% of the liquidity that banks provide per dollar. Our model further shows that when equity values incorporate the liquidation cost from redemptions, as in swing pricing, liquidity provision is not necessarily reduced. This is because swing pricing may increase funds’ capacity for holding illiquid assets without inducing panic runs.</jats:p>",
       "doi": "10.1093/rfs/hhaf105",
       "url": "https://doi.org/10.1093/rfs/hhaf105"
     },
@@ -4661,26 +4671,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies whether social media sentiment predicts merger withdrawals. We find that a one‐standard‐deviation increase in social media sentiment after a merger announcement is associated with a 0.64 percentage point lower probability of withdrawal (16.6% of the average). This effect is unexplained by abnormal price reactions, traditional news, and analyst recommendations. Consistent with manager learning, the informativeness of social media strengthens after firms start corporate Twitter accounts. The informativeness is driven by longer acquisition‐related tweets by fundamental investors, rather than memes and price trend tweets. These findings suggest that social media signals can be important for corporate decisions.</jats:p>",
       "doi": "10.1111/jofi.13508",
       "url": "https://doi.org/10.1111/jofi.13508"
-    },
-    {
-      "title": "Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?",
-      "authors": "Matthias Fleckenstein, Francis A Longstaff",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.</jats:p>",
-      "doi": "10.1093/rfs/hhaf100",
-      "url": "https://doi.org/10.1093/rfs/hhaf100"
-    },
-    {
-      "title": "Family Matters: Exploring the Link Between Parental and Executive Financial Misconduct",
-      "authors": "Jenni Kallunki, Juha‐pekka Kallunki, Wayne Landsman, Emma‐riikka Myllymäki, Lasse Niemi",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-11-19",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set of misconduct records for Finnish CEOs and directors and their parents, we explore whether corporate executives’ financial misconduct is associated with similar behavior by their parents. Controlling for various other factors of executive financial misconduct, we find that executives are significantly more likely to engage in financial misconduct, including accounting, tax, and other financial offenses, if their parents have a history of financial misconduct. This intergenerational association is stronger when the parental misconduct is more severe. Additional findings reveal that growing up in high‐misconduct municipalities and cohabiting with spouses who engage in financial misconduct are also associated with a higher likelihood of executive misconduct, indicating that such behaviors may be shaped by broader socialization processes that extend beyond the immediate family. Although our analyses do not establish causal relationships, the collective evidence presented in this study offers insights into why some corporate executives engage in misconduct while others do not.</jats:p>",
-      "doi": "10.1111/1475-679x.70028",
-      "url": "https://doi.org/10.1111/1475-679x.70028"
     }
   ]
 }
