@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-20T06:08:30.939Z",
-  "count": 467,
+  "lastUpdated": "2026-05-21T06:11:33.981Z",
+  "count": 468,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -191,6 +191,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Do Mutual Funds Walk the Talk? Evidence from Fund Risk Disclosure",
+      "authors": "Jinfei Sheng, Nan Xu, Lu Zheng",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-20",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the informativeness of fund risk disclosure by combining fund returns and textual data. We develop a novel measure, INF, to capture the explanatory power of disclosed risks for fund returns. Average INF is 55% after controlling for market risk and remains 26–29% after excluding risks related to fund name or strategy. We explain variations in INF through disclosure costs and benefits: (1) Funds with less informative disclosures face SEC comment letters and reduced flow, (2) informative disclosures attract institutional flows, and (3) performance concerns may disincentivize disclosure. Overall, funds face trade-offs between transparency and maintaining their competitive advantage. (JEL G12)</jats:p>",
+      "doi": "10.1093/rfs/hhag020",
+      "url": "https://doi.org/10.1093/rfs/hhag020"
     },
     {
       "title": "Why Have CEO Pay Levels Become Less Diverse?",
