@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-21T06:11:33.981Z",
-  "count": 468,
+  "lastUpdated": "2026-05-22T06:06:38.126Z",
+  "count": 470,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -21,6 +21,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104305",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104305"
+    },
+    {
+      "title": "Out of sight, out of mind: Divestments and the global reallocation of pollutive assets",
+      "authors": "Tobias Berg, Lin Ma, Daniel Streitz",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104308",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104308"
     },
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -201,6 +211,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the informativeness of fund risk disclosure by combining fund returns and textual data. We develop a novel measure, INF, to capture the explanatory power of disclosed risks for fund returns. Average INF is 55% after controlling for market risk and remains 26–29% after excluding risks related to fund name or strategy. We explain variations in INF through disclosure costs and benefits: (1) Funds with less informative disclosures face SEC comment letters and reduced flow, (2) informative disclosures attract institutional flows, and (3) performance concerns may disincentivize disclosure. Overall, funds face trade-offs between transparency and maintaining their competitive advantage. (JEL G12)</jats:p>",
       "doi": "10.1093/rfs/hhag020",
       "url": "https://doi.org/10.1093/rfs/hhag020"
+    },
+    {
+      "title": "Investing with Purpose: Evidence from Private Foundations",
+      "authors": "Matteo Binfarè, Kyle E. Zimmerschied",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-20",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the asset allocation and investment performance of U.S. private foundations that support the charitable sector. Large foundations generated positive risk‐adjusted returns before 2008, driven by early access to private equity and venture capital funds, but have underperformed since. The median foundation underperforms by more than 100 bps. Foundations with concentrated stock holdings achieve higher returns but assume more risk. Due to the constraints imposed by the 5% minimum spending rule and accommodating monetary policy, foundations increase risk‐taking and reach for yield. Over time, a conservative asset allocation decreases real wealth, reducing charitable giving.</jats:p>",
+      "doi": "10.1111/jofi.70055",
+      "url": "https://doi.org/10.1111/jofi.70055"
     },
     {
       "title": "Why Have CEO Pay Levels Become Less Diverse?",
