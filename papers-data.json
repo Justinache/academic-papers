@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-22T06:06:38.126Z",
-  "count": 470,
+  "lastUpdated": "2026-05-23T05:40:53.848Z",
+  "count": 473,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -31,6 +31,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104308",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104308"
+    },
+    {
+      "title": "Dirty air and green investments: The impact of pollution information on portfolio allocations",
+      "authors": "Raymond Fisman, Pulak Ghosh, Arkodipta Sarkar, Jian Zhang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104309",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104309"
     },
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -201,6 +211,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities*",
+      "authors": "Caitlin S Gorback, Benjamin J Keys",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We estimate price elasticities of housing supply for U.S. cities by examining the impact of foreign purchases on housing prices and quantities. After other countries introduced foreign-buyer taxes beginning in 2011, both house prices and quantities increased more in locations with high foreign-born populations. A 1% increase in global capital inflows, instrumented with tax policy changes scaled by immigrant exposure, increased prices and quantities by 3% and 0.5%, respectively, over 2011–2018. We combine these estimates to construct new local supply elasticities. Compared to prior estimates, our elasticities are more inelastic and change cities’ relative rankings.</jats:p>",
+      "doi": "10.1093/rfs/hhag040",
+      "url": "https://doi.org/10.1093/rfs/hhag040"
     },
     {
       "title": "Do Mutual Funds Walk the Talk? Evidence from Fund Risk Disclosure",
@@ -901,6 +921,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine year-to-year adjustments of performance measure weights in managers’ incentive contracts. Using survey panel data on financial middle managers over four years, we document that higher target achievement on a given measure is associated with an increase in the measure’s relative weight for the subsequent year. We explore three potential explanations for this pattern: retention considerations, managerial influence, and gradual strategic shifts. Consistent with retention considerations, we find that shifts toward better performing measures are stronger for managers who outperform their peers and in firms facing greater labor market competition. Consistent with managerial influence, we find that shifts are also stronger for managers with greater influence on their incentives and in firms with lower incentive design transparency. We find, however, no support for the gradual strategy change explanation, as results do not show that shifts vary with managers’ involvement in strategic decision-making or subsequently observed strategy changes.</jats:p>\n                  <jats:p>Data Availability: The survey data used in this project are protected by a nondisclosure agreement.</jats:p>\n                  <jats:p>JEL Classifications: J33; M12; M40; M46.</jats:p>",
       "doi": "10.2308/tar-2021-0511",
       "url": "https://doi.org/10.2308/tar-2021-0511"
+    },
+    {
+      "title": "Burn It or Return It? The Effects of the Possibility to Return Budget Surplus and the Moderating Role of Uncertainty on Capital Budgeting",
+      "authors": "Markus C. Arnold, Kai A. Bauch, Florian Elsinger",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We conduct two experiments to investigate the effects of giving subordinates the possibility to return budget surplus on capital budgeting processes. We predict and find that when subordinates face low uncertainty when submitting their budget request, the possibility to return budget surplus increases budget requests compared to not having this possibility but that this effect is mitigated under high uncertainty. We also predict and find that subordinates return more budget surplus under high than low uncertainty. Together, these results imply that the possibility to return budget surplus can be particularly beneficial for firms operating under high uncertainty. We contribute to the literature by integrating an important feature of budgeting practice into research, i.e., subordinates’ possibility to return budget surplus and by showing that the effects of implementing such an option may strongly depend on the level of uncertainty a subordinate faces.</jats:p>\n                  <jats:p>Data Availability: The data and research instrument are available from the authors upon request.</jats:p>\n                  <jats:p>JEL Classifications: D91; M10; M40.</jats:p>",
+      "doi": "10.2308/tar-2023-0727",
+      "url": "https://doi.org/10.2308/tar-2023-0727"
     },
     {
       "title": "The Zero-Beta Interest Rate",
