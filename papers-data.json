@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T05:40:53.848Z",
-  "count": 473,
+  "lastUpdated": "2026-05-24T06:02:36.738Z",
+  "count": 475,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -221,6 +221,26 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We estimate price elasticities of housing supply for U.S. cities by examining the impact of foreign purchases on housing prices and quantities. After other countries introduced foreign-buyer taxes beginning in 2011, both house prices and quantities increased more in locations with high foreign-born populations. A 1% increase in global capital inflows, instrumented with tax policy changes scaled by immigrant exposure, increased prices and quantities by 3% and 0.5%, respectively, over 2011–2018. We combine these estimates to construct new local supply elasticities. Compared to prior estimates, our elasticities are more inelastic and change cities’ relative rankings.</jats:p>",
       "doi": "10.1093/rfs/hhag040",
       "url": "https://doi.org/10.1093/rfs/hhag040"
+    },
+    {
+      "title": "Quote Competition in Corporate Bonds",
+      "authors": "Terrence Hendershott, Dan Li, Dmitry Livdan, Norman Schürhoff, Kumar Venkataraman",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Dealer quotes in corporate bonds, though indicative, lower trading costs and increase trading volume. Dealers offering higher quality quotes attract more order flow and execute trades at favorable prices. Dealers advertise quotes to manage their inventories and attract orders from nonrelationship clients. However, quote competition is imperfect. The best quotes often fail to attract orders, and trade‐throughs are common. Nevertheless, quote competition is important as clients exploit quotes from other dealers in negotiations, forcing dealers with lower quality quotes to offer price improvements. Quoting is not a zero‐sum game, as more active bond‐level quoting leads to more bond‐level trading.</jats:p>",
+      "doi": "10.1111/jofi.70048",
+      "url": "https://doi.org/10.1111/jofi.70048"
+    },
+    {
+      "title": "Hedger of Last Resort: Evidence from Brazilian FX Interventions, Local Credit, and Global Financial Cycles",
+      "authors": "Rodrigo Barbone Gonzalez, Dmitry Khametshin, José‐luis Peydró, Andrea Polo",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-05-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We show that FX interventions can be effective, particularly in attenuating global financial spillovers. We exploit global financial shocks and Brazilian central bank interventions in FX derivatives using three matched administrative registers: bank credit (to firms), foreign credit to banks, and employer‐employees. After the U.S. Taper Tantrum (followed by emerging markets' FX turbulence), Brazilian banks with more foreign debt cut credit supply, reducing firm‐level employment. A subsequent large policy intervention supplying derivatives against FX risks —\n                    <jats:italic>hedger of last resort</jats:italic>\n                    — halved the negative effects. A 2008 to 2015 panel exploiting global FX shocks and local FX interventions confirms the results and the hedging channel. However, the FX policy entails fiscal and moral hazard costs.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70054",
+      "url": "https://doi.org/10.1111/jofi.70054"
     },
     {
       "title": "Do Mutual Funds Walk the Talk? Evidence from Fund Risk Disclosure",
