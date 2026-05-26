@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T06:28:34.151Z",
+  "lastUpdated": "2026-05-26T06:07:29.243Z",
   "count": 475,
   "papers": [
     {
@@ -923,7 +923,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0705"
     },
     {
-      "title": "The Role of Federal Agency Accounting Quality in Federal Budget Allocation: Evidence from Audit Opinions",
+      "title": "The role of federal agency accounting quality in federal budget allocation: Evidence from audit opinions",
       "authors": "Jiapeng He, Ningzhong Li",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -951,6 +951,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We conduct two experiments to investigate the effects of giving subordinates the possibility to return budget surplus on capital budgeting processes. We predict and find that when subordinates face low uncertainty when submitting their budget request, the possibility to return budget surplus increases budget requests compared to not having this possibility but that this effect is mitigated under high uncertainty. We also predict and find that subordinates return more budget surplus under high than low uncertainty. Together, these results imply that the possibility to return budget surplus can be particularly beneficial for firms operating under high uncertainty. We contribute to the literature by integrating an important feature of budgeting practice into research, i.e., subordinates’ possibility to return budget surplus and by showing that the effects of implementing such an option may strongly depend on the level of uncertainty a subordinate faces.</jats:p>\n                  <jats:p>Data Availability: The data and research instrument are available from the authors upon request.</jats:p>\n                  <jats:p>JEL Classifications: D91; M10; M40.</jats:p>",
       "doi": "10.2308/tar-2023-0727",
       "url": "https://doi.org/10.2308/tar-2023-0727"
+    },
+    {
+      "title": "Pay for(eign) performance: CEO pay incentives for foreign tax savings",
+      "authors": "Kathleen Boylen, Fabio B. Gaertner, Melissa Martin",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101903",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101903"
     },
     {
       "title": "The Zero-Beta Interest Rate",
@@ -4741,16 +4751,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Mortgage cramdown enabled bankruptcy judges to discharge the underwater portion of a mortgage in a chapter 13 bankruptcy until the Supreme Court disallowed this practice in 1993. We investigate the impact of mortgage cramdown on household distress exploiting the random assignment of cases to judges. The impact of bankruptcy protection on foreclosures is reduced by more than half after the Supreme Court disallowed cramdown. Our results suggest that large principal reductions considerably decrease homeowners’ distress by reducing debt overhang.</jats:p>",
       "doi": "10.1093/rfs/hhaf104",
       "url": "https://doi.org/10.1093/rfs/hhaf104"
-    },
-    {
-      "title": "Can Social Media Inform Corporate Decisions? Evidence from Merger Withdrawals",
-      "authors": "J. Anthony Cookson, Marina Niessner, Christoph Schiller",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-11-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies whether social media sentiment predicts merger withdrawals. We find that a one‐standard‐deviation increase in social media sentiment after a merger announcement is associated with a 0.64 percentage point lower probability of withdrawal (16.6% of the average). This effect is unexplained by abnormal price reactions, traditional news, and analyst recommendations. Consistent with manager learning, the informativeness of social media strengthens after firms start corporate Twitter accounts. The informativeness is driven by longer acquisition‐related tweets by fundamental investors, rather than memes and price trend tweets. These findings suggest that social media signals can be important for corporate decisions.</jats:p>",
-      "doi": "10.1111/jofi.13508",
-      "url": "https://doi.org/10.1111/jofi.13508"
     }
   ]
 }
