@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-26T06:07:29.243Z",
-  "count": 475,
+  "lastUpdated": "2026-05-27T06:21:27.091Z",
+  "count": 474,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -313,7 +313,17 @@
       "url": "https://doi.org/10.1093/rfs/hhag049"
     },
     {
-      "title": "Collective Moral Hazard, Risk Sharing, and Banking Unions*",
+      "title": "Proud to Not Own Stocks: How Identity Shapes Financial Decisions",
+      "authors": "Luca Henkel, Christian Pugnaghi-Zimpelmann",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-05-14",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper introduces a key factor influencing households’ decision to invest in the stock market: how people view stockholders. Using surveys we conducted with nearly 8,500 individuals from 11 countries, we document that a large majority hold negative views of stockholders based on identity-relevant characteristics. Linking survey and administrative data, we find that negative perceptions strongly predict households’ stock market participation. We show that negative perceptions causally influence household decision-making and provide evidence supporting identity concerns as the underlying mechanism. Our findings provide new perspectives on the malleability of financial decision-making and a novel explanation for low stock market participation.</jats:p>",
+      "doi": "10.1093/rfs/hhag034",
+      "url": "https://doi.org/10.1093/rfs/hhag034"
+    },
+    {
+      "title": "Collective Moral Hazard, Risk Sharing, and Banking Unions",
       "authors": "Anatoli Segura, Sergio Vicente",
       "journal": "Review of Financial Studies",
       "field": "Finance",
@@ -321,16 +331,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze optimal cross-country risk sharing and bank capital requirements amid collective moral hazard by governments and banks. Transfers provide insurance but weaken fiscal discipline. Since lenient fiscal policies amplify banks’ risk-shifting, optimal support must be contingent on banking system health. For fiscally weak countries, support is larger in sovereign crises with solvent banks. For fiscally strong countries, support is larger in joint sovereign and bank crises, requiring deposit insurance mutualization. Optimal contracts feature lower capital requirements than without cross-country transfers, raising the cost of joint sovereign and bank crises to strengthen fiscal discipline and enable greater risk sharing.</jats:p>",
       "doi": "10.1093/rfs/hhag024",
       "url": "https://doi.org/10.1093/rfs/hhag024"
-    },
-    {
-      "title": "Proud to Not Own Stocks: How Identity Shapes Financial Decisions",
-      "authors": "Luca Henkel, Christian Pugnaghi-Zimpelmann",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper introduces a key factor influencing households’ decision to invest in the stock market: how people view stockholders. Using surveys we conducted with nearly 8,500 individuals from 11 countries, we document that a large majority hold negative views of stockholders based on identity-relevant characteristics. Linking survey and administrative data, we find that negative perceptions strongly predict households’ stock market participation. We show that negative perceptions causally influence household decision-making and provide evidence supporting identity concerns as the underlying mechanism. Our findings provide new perspectives on the malleability of financial decision-making and a novel explanation for low stock market participation. (JEL G41, G51, D14, D83)</jats:p>",
-      "doi": "10.1093/rfs/hhag034",
-      "url": "https://doi.org/10.1093/rfs/hhag034"
     },
     {
       "title": "Public Services Under Private Management",
@@ -963,6 +963,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101903"
     },
     {
+      "title": "Whispering Progress: Fear of Automation and Voluntary Disclosure",
+      "authors": "Jun Oh, Guoman She",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101904",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101904"
+    },
+    {
       "title": "The Zero-Beta Interest Rate",
       "authors": "Sebastian Di Tella, Benjamin Hébert, Pablo Kurlat, Qitong Wang",
       "journal": "Journal of Political Economy",
@@ -983,12 +993,12 @@
       "url": "https://doi.org/10.1086/739821"
     },
     {
-      "title": "The Cost of Regulatory Compliance in the United States*",
+      "title": "The Cost of Regulatory Compliance in the United States",
       "authors": "Francesco Trebbi, Miao Ben Zhang, Michael Simkovic",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-04-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A key question for studying business dynamism is whether the costs of regulatory compliance fall homogeneously on small and large businesses. Using comprehensive establishment-level occupational microdata and occupation task information, we quantify a firm’s compliance costs as the share of wage bill for performing regulatory compliance tasks (RegIndex). We reveal an inverted-U relationship between firms’ RegIndex and their size: On average, RegIndex for mid-sized firms with around 500 employees is about 47% greater than that of the smallest firms and 18% greater than that of the largest firms. We further develop a shift-share methodology to disentangle the influence of regulatory requirements and enforcement on driving firms’ compliance costs. (JEL G38, J01, K2, L43, L51)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A key question for studying business dynamism is whether the costs of regulatory compliance fall homogeneously on small and large businesses. Using comprehensive establishment-level occupational microdata and occupation task information, we quantify a firm’s compliance costs as the share of wage bill for performing regulatory compliance tasks (RegIndex). We reveal an inverted-U relationship between firms’ RegIndex and their size: On average, RegIndex for mid-sized firms with around 500 employees is about 47% greater than that of the smallest firms and 18% greater than that of the largest firms. We further develop a shift-share methodology to disentangle the influence of regulatory requirements and enforcement on driving firms’ compliance costs.</jats:p>",
       "doi": "10.1093/rfs/hhag046",
       "url": "https://doi.org/10.1093/rfs/hhag046"
     },
@@ -1138,7 +1148,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-04-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that scale in active equity portfolios is understated by at least 65% because the majority of mutual funds have “twin” institutional vehicles (IVs) managed under the same strategies. Omitting these IVs can severely skew crucial estimates in asset management research: by including IV assets, diminishing returns to scale of active investments is significantly reduced, and dollar value added of active strategies is more substantial and persistent than previously suggested. We further show that IV assets meaningfully influence managers’ portfolio decisions. In addition, these measurement issues apply to common flow measures and extend to passive funds and bond funds. (JEL G20, G23)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that scale in active equity portfolios is understated by at least 65&amp;#x00025; because the majority of mutual funds have &amp;#x0201C;twin&amp;#x0201D; institutional vehicles (IVs) managed under the same strategies. Omitting these IVs can severely skew crucial estimates in asset management research: by including IV assets, diminishing returns to scale of active investments is significantly reduced, and dollar value added of active strategies is more substantial and persistent than previously suggested. We further show that IV assets meaningfully influence managers&amp;#x02019; portfolio decisions. In addition, these measurement issues apply to common flow measures and extend to passive funds and bond funds.</jats:p>",
       "doi": "10.1093/rfs/hhag037",
       "url": "https://doi.org/10.1093/rfs/hhag037"
     },
@@ -4731,26 +4741,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-eighteenth century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language—especially those at the science-political economy nexus—were more progress-oriented beginning in the eighteenth century.</jats:p>",
       "doi": "10.1093/qje/qjaf054",
       "url": "https://doi.org/10.1093/qje/qjaf054"
-    },
-    {
-      "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
-      "authors": "Yiming Ma, Kairong Xiao, Yao Zeng",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Liquidity provision is often attributed to debt-issuing intermediaries like banks. We develop a unified theoretical framework and empirically show that mutual funds issuing demandable equity also provide an economically significant amount of liquidity by insuring against idiosyncratic liquidity shocks. Quantitatively, bond funds provide 12.5% of the liquidity that banks provide per dollar. Our model further shows that when equity values incorporate the liquidation cost from redemptions, as in swing pricing, liquidity provision is not necessarily reduced. This is because swing pricing may increase funds’ capacity for holding illiquid assets without inducing panic runs.</jats:p>",
-      "doi": "10.1093/rfs/hhaf105",
-      "url": "https://doi.org/10.1093/rfs/hhaf105"
-    },
-    {
-      "title": "The Effect of Principal Reduction on Household Distress: Evidence from Mortgage Cramdown",
-      "authors": "Jacelly Cespedes, Carlos Parra, Clemens Sialm",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-11-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Mortgage cramdown enabled bankruptcy judges to discharge the underwater portion of a mortgage in a chapter 13 bankruptcy until the Supreme Court disallowed this practice in 1993. We investigate the impact of mortgage cramdown on household distress exploiting the random assignment of cases to judges. The impact of bankruptcy protection on foreclosures is reduced by more than half after the Supreme Court disallowed cramdown. Our results suggest that large principal reductions considerably decrease homeowners’ distress by reducing debt overhang.</jats:p>",
-      "doi": "10.1093/rfs/hhaf104",
-      "url": "https://doi.org/10.1093/rfs/hhaf104"
     }
   ]
 }
