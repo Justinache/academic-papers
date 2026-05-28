@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-27T06:21:27.091Z",
-  "count": 474,
+  "lastUpdated": "2026-05-28T06:12:08.781Z",
+  "count": 476,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -41,6 +41,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104309",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104309"
+    },
+    {
+      "title": "Intellectual property protection lost and competition: An examination using large language models",
+      "authors": "Utku U. Acikalin, Tolga Caskurlu, Gerard Hoberg, Gordon M. Phillips",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104306",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104306"
+    },
+    {
+      "title": "Government debt management and inflation with real and nominal bonds",
+      "authors": "Lukas Schmid, Vytautas Valaitis, Alessandro T. Villa",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104293",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104293"
     },
     {
       "title": "Bonding with risk: Corporate investment and savings in risky financial assets",
@@ -211,6 +231,56 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104281",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104281"
+    },
+    {
+      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities",
+      "authors": "Ali Cheema, Asim I. Khwaja, M. Farooq Naseer, Jacob N. Shapiro",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1086/739830",
+      "url": "https://doi.org/10.1086/739830"
+    },
+    {
+      "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
+      "authors": "Elena Capatina, Michael Keane",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1086/739831",
+      "url": "https://doi.org/10.1086/739831"
+    },
+    {
+      "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
+      "authors": "Victor Gay, Paula E. Gobbi, Marc Goñi",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1086/739821",
+      "url": "https://doi.org/10.1086/739821"
+    },
+    {
+      "title": "On the Nature of Entrepreneurship",
+      "authors": "Anmol Bhandari, Tobey Kass, Thomas J. May, Ellen R. McGrattan, Evan Schulz",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1086/739823",
+      "url": "https://doi.org/10.1086/739823"
+    },
+    {
+      "title": "Ever since Allais",
+      "authors": "Aluma Dembo, Shachar Kariv, Matthew Polisson, John K.-H. Quah",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1086/739829",
+      "url": "https://doi.org/10.1086/739829"
     },
     {
       "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities*",
@@ -451,16 +521,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Republicans start more firms than Democrats. In a sample of 40 million party‐identified Americans between 2005 and 2017, we find that 5.5% of Republicans and 3.7% of Democrats become entrepreneurs. This partisan entrepreneurship gap is time‐varying—Republicans increase their relative entrepreneurship during Republican administrations and decrease it during Democratic administrations, amounting to a partisan reallocation of 170,000 new firms over our 13‐year sample. We find sharp changes in partisan entrepreneurship around the elections of President Obama and President Trump, with the strongest effects among the most politically active partisans: those that donate and vote.</jats:p>",
       "doi": "10.1111/jofi.70042",
       "url": "https://doi.org/10.1111/jofi.70042"
-    },
-    {
-      "title": "Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing          Valuable Skilling Opportunities",
-      "authors": "Ali Cheema, Asim I. Khwaja, M. Farooq Naseer, Jacob N. Shapiro",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-05-07",
-      "abstract": "",
-      "doi": "10.1086/739830",
-      "url": "https://doi.org/10.1086/739830"
     },
     {
       "title": "Learning in the Limit: Income Inference from Credit Extensions",
@@ -833,16 +893,6 @@
       "url": "https://doi.org/10.1086/739828"
     },
     {
-      "title": "Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health",
-      "authors": "Elena Capatina, Michael Keane",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739831",
-      "url": "https://doi.org/10.1086/739831"
-    },
-    {
       "title": "Financial Reporting and Detection of Labor Union Misconduct",
       "authors": "Danye Wang",
       "journal": "The Accounting Review",
@@ -983,16 +1033,6 @@
       "url": "https://doi.org/10.1086/740220"
     },
     {
-      "title": "Revolutionary Transition: Inheritance Change and Fertility Decline",
-      "authors": "Victor Gay, Paula E. Gobbi, Marc Goñi",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-29",
-      "abstract": "",
-      "doi": "10.1086/739821",
-      "url": "https://doi.org/10.1086/739821"
-    },
-    {
       "title": "The Cost of Regulatory Compliance in the United States",
       "authors": "Francesco Trebbi, Miao Ben Zhang, Michael Simkovic",
       "journal": "Review of Financial Studies",
@@ -1091,16 +1131,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We synthesize evidence from six papers presented at the 2025\n                    <jats:italic>Journal of Accounting Research</jats:italic>\n                    Conference on how generative artificial intelligence (GenAI) is reshaping capital‐market information flows. Our discussion is organized around an economic framework with three layers: information production by firms and accounting professionals, information dissemination through intermediaries, and information processing by investors. Across these layers, the conference papers show that GenAI can lower preparation costs, improve intermediary productivity, and reduce investors’ processing costs. At the same time, they point to a common constraint: whether GenAI improves the information environment depends critically on information verification costs. We also highlight gaps in current evidence and outline future research opportunities within and across the three layers.\n                  </jats:p>",
       "doi": "10.1111/1475-679x.70061",
       "url": "https://doi.org/10.1111/1475-679x.70061"
-    },
-    {
-      "title": "On the Nature of Entrepreneurship",
-      "authors": "Anmol Bhandari, Tobey Kass, Thomas J. May, Ellen R. McGrattan, Evan Schulz",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-21",
-      "abstract": "",
-      "doi": "10.1086/739823",
-      "url": "https://doi.org/10.1086/739823"
     },
     {
       "title": "Dynamics of Asset Demands with Confidence Heterogeneity",
@@ -1371,16 +1401,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the potential of algorithms to improve judgment quality, recent research suggests that individuals may be averse to algorithmic use. We experimentally examine whether and how managers’ use of an algorithm-advised performance rating is influenced by rating valence and the decision rights managers have to adjust the algorithm. We find that managers are less willing to use an algorithm to evaluate subordinate performance when it advises a low, rather than high, rating. We further show that when the algorithm-advised rating is low, allowing managers to adjust how the algorithm computes the rating, compared with adjusting the rating itself or not allowing any adjustment, increases algorithmic use. Further analyses show this effect to be consistent with managers’ increased understanding of an algorithm when involved in its computation. Our findings inform organizations’ implementation of performance evaluation algorithms by showing how rating valence and decision rights jointly influence managers’ use of the algorithms.</jats:p>",
       "doi": "10.2308/tar-2023-0610",
       "url": "https://doi.org/10.2308/tar-2023-0610"
-    },
-    {
-      "title": "Ever since Allais",
-      "authors": "Aluma Dembo, Shachar Kariv, Matthew Polisson, John K.-H. Quah",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-15",
-      "abstract": "",
-      "doi": "10.1086/739829",
-      "url": "https://doi.org/10.1086/739829"
     },
     {
       "title": "Voting and Trading on Public Information",
@@ -3743,7 +3763,7 @@
       "url": "https://doi.org/10.1086/740222"
     },
     {
-      "title": "Training, Communications Patterns, and Spillovers Inside Organizations",
+      "title": "Training, Communications Patterns, and Spillovers inside Organizations",
       "authors": "Miguel Espinosa, Christopher Stanton",
       "journal": "Journal of Political Economy",
       "field": "Economics",
