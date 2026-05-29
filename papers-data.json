@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-28T06:12:08.781Z",
-  "count": 476,
+  "lastUpdated": "2026-05-29T06:14:22.792Z",
+  "count": 484,
   "papers": [
     {
       "title": "The co-pricing factor zoo",
@@ -281,6 +281,86 @@
       "abstract": "",
       "doi": "10.1086/739829",
       "url": "https://doi.org/10.1086/739829"
+    },
+    {
+      "title": "Quota versus Quality? Long-Term Gains from an Unusual Gender Quota",
+      "authors": "Ursina Schaede, Ville Mankki",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. We estimate the impact of abolishing a 40 percent quota for male primary school teachers on their pupils’ long-run outcomes. We combine this reform with the timing of union-bargained teacher retirements to isolate quasi-random variation in male quota teachers. Pupils exposed to male quota teachers transition more smoothly to postcompulsory education and have higher educational attainment and labor force attachment at age 25. Evidence suggests the quota improved the allocation of talent by mending imperfections in the unconstrained selection process. (JEL I21, I23, I28, J16, J24, J45)</jats:p>",
+      "doi": "10.1257/aer.20230376",
+      "url": "https://doi.org/10.1257/aer.20230376"
+    },
+    {
+      "title": "Elite Universities and the Intergenerational Transmission of Human and Social Capital",
+      "authors": "Andrés Barrios-Fernández, Christopher Neilson, Seth Zimmerman",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>Do elite colleges help talented students join the social elite or help incumbent elites retain their positions? We combine intergenerationally linked data from Chile with a regression discontinuity design to show that, looking across generations, elite colleges do both. Lower-status individuals who gain admission to elite college programs transform their children’s social environment. Children become more likely to attend high-status private schools and colleges and to live near and befriend high-status peers. In contrast, academic achievement is unaffected. Simulations combining descriptive and quasi-experimental findings show that elite colleges tighten the link between social and human capital while decreasing intergenerational social mobility. (JEL I23, I26, J24, J62, O15, Z13)</jats:p>",
+      "doi": "10.1257/aer.20230802",
+      "url": "https://doi.org/10.1257/aer.20230802"
+    },
+    {
+      "title": "Mergers, Foreign Competition, and Jobs: Evidence from the US Appliance Industry",
+      "authors": "Felix Montag",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>Policy choices often create trade-offs between workers and consumers. I examine how foreign competition alters the consumer welfare and domestic employment effects of mergers. I construct a model incorporating consumer demand, endogenous product portfolios, and employment decisions. Applying the model to Whirlpool’s acquisition of Maytag in the appliance industry, I compare the observed merger to a counterfactual acquisition by a foreign buyer. Although Whirlpool’s acquisition decreased consumer welfare by $271 million annually, it preserved 797 domestic jobs. These jobs must therefore be valued at more than $344, 000 per year for the domestic employment benefits to offset the consumer harm. (JEL E24, F23, G34, J30, L13, L68, R23)</jats:p>",
+      "doi": "10.1257/aer.20230017",
+      "url": "https://doi.org/10.1257/aer.20230017"
+    },
+    {
+      "title": "The Private Provision of Public Services: Evidence from Random Assignment in Medicaid",
+      "authors": "Danil Agafiev Macambira, Michael Geruso, Anthony Lollo, Chima D. Ndumele, Jacob Wallace",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>This paper examines the effects of privatizing social health insurance. We exploit a natural experiment in Medicaid, wherein nearly 100,000 enrollees were randomly assigned between a publicly operated fee-for-service system and private managed care. Managed care reduced costs by 5.6 percent via cost-effective substitutions among prescription drugs and via lower prices for outpatient services. We present evidence that pharmacy utilization management was the key mechanism reducing overuse and encouraging substitution to lower-cost drugs without decreasing observed quality. In contrast, privatizing medical benefits led to only modest savings and was associated with decreased health care quality and consumer satisfaction. (JEL G22, H41, I13, I18, I38)</jats:p>",
+      "doi": "10.1257/aer.20230541",
+      "url": "https://doi.org/10.1257/aer.20230541"
+    },
+    {
+      "title": "Friendship Networks and Political Opinions",
+      "authors": "Yann Algan, Nicolò Dalvit, Quoc-Anh Do, Alexis Le Chapelain, Yves Zenou",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>We examine how social interactions and friendships shape students’ political opinions in a natural experiment at Sciences Po, a leading French university specializing in social and political sciences. The quasi-random assignment of students into short-term integration groups before their academic curriculum reduces political opinion gaps and fosters friendship formation. Using same-group membership as an instrumental variable for friendship, we find that friendship reduces opinion differences by 44 percent of the mean opinion gap. Our evidence supports a homophily-enforced mechanism: Friendships form among initially politically similar students, leading them to join political associations together, reinforcing their similarity. (JEL C93, D72, Z13)</jats:p>",
+      "doi": "10.1257/aer.20231344",
+      "url": "https://doi.org/10.1257/aer.20231344"
+    },
+    {
+      "title": "Quality Adjustment at Scale: Hedonic versus Exact Demand-Based Price Indices",
+      "authors": "Gabriel Ehrlich, John Haltiwanger, Ron Jarmin, David Johnson, Ed Olivares, Luke Pardue, Matthew D. Shapiro, Laura Yi Zhao",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>Item-level transactions data yield cost-of-living indices that can account for quality change and consumer substitution. Transactions data require confronting the rapid turnover of items because prices of new and existing products are interrelated in equilibrium. This paper evaluates multiple approaches to measuring quality change at scale. It shows that a hedonic superlative approach—using econometrics or machine learning for hedonic estimation combined with index formulas that require simultaneous observation of item-level price and expenditure—yields improved measures of the cost of living. Accounting for ubiquitous quality change and for consumer substitution yields lower measures of inflation than traditional, official methods. (JEL C43, C45, E31, L15, L81)</jats:p>",
+      "doi": "10.1257/aer.20230766",
+      "url": "https://doi.org/10.1257/aer.20230766"
+    },
+    {
+      "title": "Spatial Spillovers of Conflict in Somalia",
+      "authors": "Marco Alfano, Thomas Cornelissen",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>Conflict along transportation routes during Somalia’s al-Shabaab insurgency significantly increases maize prices at distant locations, decreasing food security, health, and education. Estimated conflict risk has strong price effects independently of realized conflict, highlighting the importance of safety concerns. A model of least-cost route choice in the presence of conflict reveals that more and shorter alternative routes to circumvent conflict can lower prices but their effectiveness diminishes as violence becomes more correlated across routes. Alternatively, securing key transportation routes would alleviate price increases. A market access approach suggests spatial spillovers of conflict also matter for prices of more general baskets of food and nonfood items. (JEL D74, I15, I25, O15, O17, Q11, R41)</jats:p>",
+      "doi": "10.1257/aer.20231699",
+      "url": "https://doi.org/10.1257/aer.20231699"
+    },
+    {
+      "title": "Identifying Preference for Early Resolution from Asset Prices",
+      "authors": "Hengjie Ai, Ravi Bansal, Hongye Guo, Amir Yaron",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-06-01",
+      "abstract": "<jats:p>This paper develops an asset market-based test for preference for the timing of resolution of uncertainty. Our main theorem provides a characterization of preference for early resolution of uncertainty in terms of the risk premium realized during the period when the informativeness of macroeconomic announcements is resolved. Empirically, we find support for preference for early resolution of uncertainty based on evidence on the dynamics of the implied volatility of S&amp;P 500 index options before Federal Open Market Committee announcements. (JEL D81, D83, G13, G14, G41)</jats:p>",
+      "doi": "10.1257/aer.20221351",
+      "url": "https://doi.org/10.1257/aer.20221351"
     },
     {
       "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities*",
