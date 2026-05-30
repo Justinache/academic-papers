@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T06:14:22.792Z",
+  "lastUpdated": "2026-05-30T05:48:59.161Z",
   "count": 484,
   "papers": [
     {
@@ -361,6 +361,16 @@
       "abstract": "<jats:p>This paper develops an asset market-based test for preference for the timing of resolution of uncertainty. Our main theorem provides a characterization of preference for early resolution of uncertainty in terms of the risk premium realized during the period when the informativeness of macroeconomic announcements is resolved. Empirically, we find support for preference for early resolution of uncertainty based on evidence on the dynamics of the implied volatility of S&amp;P 500 index options before Federal Open Market Committee announcements. (JEL D81, D83, G13, G14, G41)</jats:p>",
       "doi": "10.1257/aer.20221351",
       "url": "https://doi.org/10.1257/aer.20221351"
+    },
+    {
+      "title": "Business, Liquidity, and Information Cycles",
+      "authors": "Gorkem Bostanci, Guillermo Ordoñez",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-05-29",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock markets play a dual role: they provide information about firms’ fundamentals, which improves resource allocations, and they provide liquidity. We propose a setting in which these two roles interact: if stocks are used more intensively for liquidity, then prices reveal less information about fundamentals. We structurally estimate stock price informativeness for several countries and show that it declines when alternative liquidity sources, such as banks, are in distress. To study the real effects of this mechanism, we devise a strategy to integrate our stock-trading module into a dynamic general equilibrium model with heterogeneous firms. We calibrate the model to the US and simulate recessions with and without banking distress. In a stand-alone recession, prices become more informative, and allocation improves, mitigating output losses by 4.4%. If the recession coincides with banking distress, agents rely more on stock markets to obtain liquidity, prices become less informative, and allocation deteriorates, magnifying output losses by 22%.</jats:p>",
+      "doi": "10.1093/qje/qjag029",
+      "url": "https://doi.org/10.1093/qje/qjag029"
     },
     {
       "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities*",
@@ -1093,7 +1103,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101903"
     },
     {
-      "title": "Whispering Progress: Fear of Automation and Voluntary Disclosure",
+      "title": "Whispering progress: Fear of automation and voluntary disclosure",
       "authors": "Jun Oh, Guoman She",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4831,16 +4841,6 @@
       "abstract": "",
       "doi": "10.1086/738148",
       "url": "https://doi.org/10.1086/738148"
-    },
-    {
-      "title": "Enlightenment Ideals and Belief in Progress in the Run-up to the Industrial Revolution: A Textual Analysis",
-      "authors": "Ali Almelhem, Murat Iyigun, Austin Kennedy, Jared Rubin",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-11-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-eighteenth century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language—especially those at the science-political economy nexus—were more progress-oriented beginning in the eighteenth century.</jats:p>",
-      "doi": "10.1093/qje/qjaf054",
-      "url": "https://doi.org/10.1093/qje/qjaf054"
     }
   ]
 }
