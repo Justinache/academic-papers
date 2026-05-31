@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-05-30T05:48:59.161Z",
-  "count": 484,
+  "lastUpdated": "2026-05-31T06:19:25.108Z",
+  "count": 485,
   "papers": [
+    {
+      "title": "Are patents with female inventors under-cited? Evidence from text estimation",
+      "authors": "Yael V. Hochberg, Ali Kakhbod, Peiyao Li, Kunal Sachdeva",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104307",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104307"
+    },
     {
       "title": "The co-pricing factor zoo",
       "authors": "Alexander Dickerson, Christian Julliard, Philippe Mueller",
@@ -2173,7 +2183,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101901"
     },
     {
-      "title": "An Examination of Direct and Spillover Effects of Accounting Standards on Firms’ Information Environments",
+      "title": "An examination of direct and spillover effects of accounting standards on firms’ information environments",
       "authors": "Derek Christensen, Brian Mittendorf, Clay Partridge",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4683,6 +4693,86 @@
       "url": "https://doi.org/10.1257/aer.20230751"
     },
     {
+      "title": "Distribution Regression with Sample Selection and UK Wage Decomposition",
+      "authors": "Victor Chernozhukov, Iván Fernández-Val, Siyi Luo",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738148",
+      "url": "https://doi.org/10.1086/738148"
+    },
+    {
+      "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable           Energy Subsidies",
+      "authors": "Michael David Ricks, Owen Kay",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738139",
+      "url": "https://doi.org/10.1086/738139"
+    },
+    {
+      "title": "Self-Fulfilling Debt Crises with Long Stagnations",
+      "authors": "Joao Ayres, Gaston Navarro, Juan Pablo Nicolini, Pedro Teles",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738143",
+      "url": "https://doi.org/10.1086/738143"
+    },
+    {
+      "title": "Exorbitant Privilege Gained and Lost: Fiscal Implications",
+      "authors": "Zefeng Chen, Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738149",
+      "url": "https://doi.org/10.1086/738149"
+    },
+    {
+      "title": "Managing Public Portfolios",
+      "authors": "Léo Aparisi de Lannoy, Anmol Bhandari, David Evans, Mikhail Golosov, Thomas Sargent",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738150",
+      "url": "https://doi.org/10.1086/738150"
+    },
+    {
+      "title": "Artificial Intelligence in the Knowledge Economy",
+      "authors": "Enrique Ide, Eduard Talamàs",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/737233",
+      "url": "https://doi.org/10.1086/737233"
+    },
+    {
+      "title": "Migration, Specialization, and Trade: Evidence from Brazil’s March to the West",
+      "authors": "Heitor S. Pellegrina, Sebastian Sotelo",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738147",
+      "url": "https://doi.org/10.1086/738147"
+    },
+    {
+      "title": "The Nature of Long-Term Unemployment: Predictability, Heterogeneity, and Selection",
+      "authors": "Andreas I. Mueller, Johannes Spinnewijn",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2025-12-01",
+      "abstract": "",
+      "doi": "10.1086/738045",
+      "url": "https://doi.org/10.1086/738045"
+    },
+    {
       "title": "Regulatory leakage among financial advisors: Evidence from FINRA regulation of “bad” brokers",
       "authors": "Colleen Honigsberg, Edwin Hu, Robert J. Jackson",
       "journal": "Journal of Financial Economics",
@@ -4761,86 +4851,6 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2025.104173",
       "url": "https://doi.org/10.1016/j.jfineco.2025.104173"
-    },
-    {
-      "title": "Migration, Specialization, and Trade: Evidence from Brazil’s March to the West",
-      "authors": "Heitor S. Pellegrina, Sebastian Sotelo",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738147",
-      "url": "https://doi.org/10.1086/738147"
-    },
-    {
-      "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable           Energy Subsidies",
-      "authors": "Michael David Ricks, Owen Kay",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738139",
-      "url": "https://doi.org/10.1086/738139"
-    },
-    {
-      "title": "Artificial Intelligence in the Knowledge Economy",
-      "authors": "Enrique Ide, Eduard Talamàs",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/737233",
-      "url": "https://doi.org/10.1086/737233"
-    },
-    {
-      "title": "Managing Public Portfolios",
-      "authors": "Léo Aparisi de Lannoy, Anmol Bhandari, David Evans, Mikhail Golosov, Thomas Sargent",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738150",
-      "url": "https://doi.org/10.1086/738150"
-    },
-    {
-      "title": "The Nature of Long-Term Unemployment: Predictability, Heterogeneity, and Selection",
-      "authors": "Andreas I. Mueller, Johannes Spinnewijn",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738045",
-      "url": "https://doi.org/10.1086/738045"
-    },
-    {
-      "title": "Exorbitant Privilege Gained and Lost: Fiscal Implications",
-      "authors": "Zefeng Chen, Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738149",
-      "url": "https://doi.org/10.1086/738149"
-    },
-    {
-      "title": "Self-Fulfilling Debt Crises with Long Stagnations",
-      "authors": "Joao Ayres, Gaston Navarro, Juan Pablo Nicolini, Pedro Teles",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738143",
-      "url": "https://doi.org/10.1086/738143"
-    },
-    {
-      "title": "Distribution Regression with Sample Selection and UK Wage Decomposition",
-      "authors": "Victor Chernozhukov, Iván Fernández-Val, Siyi Luo",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2025-12-01",
-      "abstract": "",
-      "doi": "10.1086/738148",
-      "url": "https://doi.org/10.1086/738148"
     }
   ]
 }
