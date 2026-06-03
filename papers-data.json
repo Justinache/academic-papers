@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-02T06:42:51.068Z",
-  "count": 460,
+  "lastUpdated": "2026-06-03T06:53:44.917Z",
+  "count": 468,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -151,6 +151,86 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "Mis(sed) Diagnosis: Physician Decision Making and ADHD",
+      "authors": "Kelli Marquardt",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742421",
+      "url": "https://doi.org/10.1086/742421"
+    },
+    {
+      "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
+      "authors": "Tan Gan, Nicholas Wu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742434",
+      "url": "https://doi.org/10.1086/742434"
+    },
+    {
+      "title": "Markups: A Search-Theoretic Perspective",
+      "authors": "Guido Menzio",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742420",
+      "url": "https://doi.org/10.1086/742420"
+    },
+    {
+      "title": "The Effect of Education Policy on Crime: An Intergenerational Perspective",
+      "authors": "Ulrika Ahrsjö, Costas Meghir, Marten Palme, Marieke Schnabel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742423",
+      "url": "https://doi.org/10.1086/742423"
+    },
+    {
+      "title": "Optimal Tests Following Sequential Experiments",
+      "authors": "Karun Adusumilli",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742418",
+      "url": "https://doi.org/10.1086/742418"
+    },
+    {
+      "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
+      "authors": "Victor Chernozhukov, Kaspar Wuthrich, Yinchu Zhu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742424",
+      "url": "https://doi.org/10.1086/742424"
+    },
+    {
+      "title": "Rent Guarantee Insurance",
+      "authors": "Boaz Abramson, Stijn Van Nieuwerburgh",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742422",
+      "url": "https://doi.org/10.1086/742422"
+    },
+    {
+      "title": "Illiquid Lemon Markets and the Macroeconomy",
+      "authors": "Aime Bierdel, Andres Drenik, Juan Herreno, Pablo Ottonello",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-02",
+      "abstract": "",
+      "doi": "10.1086/742435",
+      "url": "https://doi.org/10.1086/742435"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -391,6 +471,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We introduce a simple measure of informed trading risk, , the residual to liquidity quote‐improvement‐to‐deterioration ratio times . When facing with increased informed trading risk, liquidity providers compete less to provide liquidity, reducing their undercutting activity. Reductions in undercutting leave footprints in trade and quote data that are captured by . Unlike prior measures,  is easy to construct, can be computed intraday, and is orthogonal to liquidity. The  measure outperforms prominent existing alternatives in reflecting the extent of information asymmetry before earnings announcements, predicting unscheduled press releases, and identifying informed trading spillovers around them.</jats:p>",
       "doi": "10.1111/jofi.70047",
       "url": "https://doi.org/10.1111/jofi.70047"
+    },
+    {
+      "title": "Earnings Pressure and Corporate Product Refocus",
+      "authors": "Xingyu Shen, Jiawen Yan, P. Eric Yeung",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Facing pressure to meet short-term earnings expectations, corporate managers often take actions that are perceived as value-destroying. Our study provides empirical evidence supporting an alternative view: earnings pressure can discipline managers to undertake value-enhancing actions by refocusing on the firm’s core products. Consistent with this product refocus hypothesis, we find that firms under earnings pressure reduce investment in non-core products, leading to the subsequent underperformance of these non-core products, whereas the performance of core products remains unaffected. As predicted, product refocus is stronger when managers exhibit ex ante high-level agency problems. To strengthen identification, we exploit shocks arising from analyst brokerage mergers and closures. Our study suggests a bright side of earnings pressure—it helps reduce agency-motivated product diversification.</jats:p>\n                  <jats:p>JEL Classifications: G10; M11; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0569",
+      "url": "https://doi.org/10.2308/tar-2023-0569"
     },
     {
       "title": "Business, Liquidity, and Information Cycles",
@@ -1124,7 +1214,7 @@
     },
     {
       "title": "Pay for(eign) performance: CEO pay incentives for foreign tax savings",
-      "authors": "Kathleen Boylen, Fabio B. Gaertner, Melissa Martin",
+      "authors": "Kathleen Boylen, Fabio B. Gaertner, Melissa A. Martin",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
       "date": "2026-05-01",
@@ -3893,8 +3983,8 @@
       "url": "https://doi.org/10.1086/740219"
     },
     {
-      "title": "Financial Aid and Upward Mobility: Evidence from Colombia's Ser Pilo Paga",
-      "authors": "Juliana Londono-Velez, Catherine Rodriguez, Fabio Sanchez, Luis Esteban Alvarez-Arango",
+      "title": "Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo Paga",
+      "authors": "Juliana Londoño-Vélez, Catherine Rodríguez, Fabio Sánchez, Luis Esteban Álvarez-Arango",
       "journal": "Journal of Political Economy",
       "field": "Economics",
       "date": "2026-01-07",
@@ -4591,16 +4681,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We combine administrative data with a life cycle structural model that exploits the unique features of the U.K. mortgage market to analyze the sources of inaction and to estimate borrowers’ nonpecuniary remortgaging costs. The utility costs needed to generate a given level of inaction depend on monetary gains from remortgaging and on the importance of those monetary gains for agents, which in turn depend on the (endogenously determined) marginal utility of consumption. The model results reveal significant nonpecuniary costs of action that, when measured as a proportion of borrower income, are larger for the young and for lower-income households.</jats:p>",
       "doi": "10.1093/rfs/hhaf098",
       "url": "https://doi.org/10.1093/rfs/hhaf098"
-    },
-    {
-      "title": "Monetary Policy through Production Networks: Evidence from the Stock Market",
-      "authors": "Ali Ozdagli, Michael Weber",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the importance of production networks for the transmission of monetary policy using the stock market reaction as laboratory. We attribute 55% to 85% of the overall response to network effects. Large network effects are a robust feature of the data; we document similar patterns in realized fundamentals. Matching sparsity and the first two outdegrees industry-by-industry can explain large network effects. A simple model with intermediate inputs predicts the reaction of stock returns follows a spatial autoregression, which we exploit for our empirical strategy. Our results suggest production networks are an important mechanism for transmitting monetary policy shocks.</jats:p>",
-      "doi": "10.1093/rfs/hhaf106",
-      "url": "https://doi.org/10.1093/rfs/hhaf106"
     }
   ]
 }
