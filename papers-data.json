@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-03T06:53:44.917Z",
-  "count": 468,
+  "lastUpdated": "2026-06-04T06:44:01.812Z",
+  "count": 471,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -153,6 +153,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
     },
     {
+      "title": "Thematic Concentration and Mutual Fund Performance",
+      "authors": "John (Jianqiu) Bai, Yuehua Tang, Chi Wan, Zafer Yuksel",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-03",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study examines whether mutual fund managers generate alpha through thematic investment strategies that select stocks poised to benefit from specific themes. Using textual analysis of 10-K filings, we identify stocks’ thematic exposures and construct each fund’s thematic concentration index (TCI) from its holdings. High-TCI funds significantly outperform, with a top-minus-bottom decile spread of 4.26% in annualized four-factor alpha. Managers’ thematic expertise is related to their undergraduate field of study. Outperformance arises from superior stock selection rather than theme-related timing, with an informational advantage on firm earnings, particularly in stocks exposed to themes related to managers’ undergraduate training.</jats:p>",
+      "doi": "10.1093/rfs/hhag021",
+      "url": "https://doi.org/10.1093/rfs/hhag021"
+    },
+    {
+      "title": "Partial Equilibrium Thinking, Extrapolation, and Bubbles",
+      "authors": "Francesca Bastianello, Paul Fontanier",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-03",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a dynamic theory of “Partial Equilibrium Thinking” (PET), which micro-founds time-varying return extrapolation: extrapolative beliefs are present at all times, but only sometimes manifest themselves in explosive ways. We formalize the distinction between normal times shocks and “displacement shocks,” and study their interaction with extrapolative beliefs. In normal times, PET generates constant extrapolation and momentum. After a displacement shock that increases uncertainty, PET leads to stronger and time-varying extrapolation, triggering bubbles and endogenous crashes. Our theory sheds light on both market dynamics in normal times and Kindleberger’s narrative of bubbles within a unified framework. (JEL D84, G12, G41)</jats:p>",
+      "doi": "10.1093/rfs/hhag053",
+      "url": "https://doi.org/10.1093/rfs/hhag053"
+    },
+    {
       "title": "Mis(sed) Diagnosis: Physician Decision Making and ADHD",
       "authors": "Kelli Marquardt",
       "journal": "Journal of Political Economy",
@@ -231,6 +251,16 @@
       "abstract": "",
       "doi": "10.1086/742435",
       "url": "https://doi.org/10.1086/742435"
+    },
+    {
+      "title": "The Real Effect of Sociopolitical Racial/Ethnic Animus: Mutual Fund Manager Performance during AAPI Hate",
+      "authors": "Vikas Agarwal, Wei Jiang, Yuchen Luo, Hong Zou",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-02",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>During the 2020–2021 “AAPI Hate,” mutual funds led by female managers perceived as East Asian underperformed relative to other female managers. This effect is stronger in states with higher anti-Asian animus, among more actively managed funds, and when these managers hold sole or senior roles. Factors concurrent with COVID-19, including childcare challenges, concerns for overseas families, marketplace and workplace discrimination, and exposure to the Chinese economy, cannot explain the effect. Underperformance is traceable to poor stock picking due to impairments in generating private information. Racial-ethnic animosity, even outside workplace or marketplace, hinders productivity and decision-making in high-skill professions.</jats:p>",
+      "doi": "10.1093/rfs/hhag052",
+      "url": "https://doi.org/10.1093/rfs/hhag052"
     },
     {
       "title": "Market feedback: Evidence from the horse’s mouth",
@@ -1308,7 +1338,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-04-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how terminated correspondent banking relationships affect international trade. Drawing on firm-level export data from emerging Europe, we show that when local banks lose access to correspondent services, their corporate clients, especially small- and medium-sized enterprises, experience significant export declines. Firms only partially offset lost exports with higher domestic sales, resulting in lower total revenues and employment. Other firms cease operations entirely. These firm-level impacts aggregate to lower product-level exports from countries more exposed to correspondent bank retrenchment. (JEL F14, F15, F36, G21, G28, L14)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how terminated correspondent banking relationships affect international trade. Drawing on firm-level export data from emerging Europe, we show that when local banks lose access to correspondent services, their corporate clients, especially small- and medium-sized enterprises, experience significant export declines. Firms only partially offset lost exports with higher domestic sales, resulting in lower total revenues and employment. Other firms cease operations entirely. These firm-level impacts aggregate to lower product-level exports from countries more exposed to correspondent bank retrenchment.</jats:p>",
       "doi": "10.1093/rfs/hhag045",
       "url": "https://doi.org/10.1093/rfs/hhag045"
     },
