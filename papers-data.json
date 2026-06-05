@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T06:44:01.812Z",
+  "lastUpdated": "2026-06-05T06:22:09.997Z",
   "count": 471,
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104307",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104307"
+    },
+    {
+      "title": "The impact of introducing a (nearly) redundant security: Evidence from Malaysian corporate bonds",
+      "authors": "Antje Berndt, Jean Helwege, Amanda Liu, Frank Packer",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104310",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104310"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -4701,16 +4711,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In examining the loan contracting implications of SEC investigations, we document that banks charge higher loan spreads when borrowers are under investigation, with the rise in interest rates varying predictably with lender characteristics. Further, our evidence implies that the debt pricing impact of SEC investigations is amplified for borrowers suffering worse credit quality and information asymmetry as well as those relying more on bank loans. These findings suggest that banks perceive increased risk for borrowers under SEC scrutiny while also leveraging their knowledge of the investigations to extract rents. Supplemental analyses reveal tighter nonspread loan terms and a higher likelihood of amending existing loan contracts during SEC investigations. Additionally, the tightening of loan terms reverses for investigations that conclude without enforcement actions. Overall, our research identifies an economic cost of SEC investigations and alerts regulators to these costs when deciding whether to launch an investigation.</jats:p>\n                  <jats:p>Data Availability: All data used are available from the sources indicated in the paper.</jats:p>\n                  <jats:p>JEL Classifications: M41; D82; G21; K22.</jats:p>",
       "doi": "10.2308/tar-2024-0405",
       "url": "https://doi.org/10.2308/tar-2024-0405"
-    },
-    {
-      "title": "When Discounted Rates End: The Costs of Taking Action in the Mortgage Market",
-      "authors": "Adiya Belgibayeva, Teresa Bono, Philippe Bracke, Nuno Clara, João F Cocco, Tommaso Majer",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We combine administrative data with a life cycle structural model that exploits the unique features of the U.K. mortgage market to analyze the sources of inaction and to estimate borrowers’ nonpecuniary remortgaging costs. The utility costs needed to generate a given level of inaction depend on monetary gains from remortgaging and on the importance of those monetary gains for agents, which in turn depend on the (endogenously determined) marginal utility of consumption. The model results reveal significant nonpecuniary costs of action that, when measured as a proportion of borrower income, are larger for the young and for lower-income households.</jats:p>",
-      "doi": "10.1093/rfs/hhaf098",
-      "url": "https://doi.org/10.1093/rfs/hhaf098"
     }
   ]
 }
