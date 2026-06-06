@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-05T06:22:09.997Z",
-  "count": 471,
+  "lastUpdated": "2026-06-06T05:55:23.495Z",
+  "count": 473,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -161,6 +161,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "A Cognitive Theory of Reasoning and Choice",
+      "authors": "Pedro Bordalo, Nicola Gennaioli, Giacomo Lanzani, Andrei Shleifer",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-06-05",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present a theory of choice in which attention to the features of options is determined by the decision maker’s categorization of the current problem in a set of problems she solved in the past. Categorization depends on goal-relevant and contextual problem-level features. The model yields heterogeneity in attention and choice in a given problem based on different past experiences and instability when changes in irrelevant context cause re-categorization. We show that heterogeneous and unstable representations of a choice problem unify major biases in judgment and decision making.</jats:p>",
+      "doi": "10.1093/qje/qjag023",
+      "url": "https://doi.org/10.1093/qje/qjag023"
+    },
+    {
+      "title": "Voting on Public Goods: Citizens vs Shareholders",
+      "authors": "Robin Döttling, Doron Levit, Nadya Malenko, Magdalena Rola-Janicka",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-05",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the interplay between a “one person-one vote” political system and a “one share-one vote” corporate governance regime. If shareholders push firms for more prosocial policies, political backlash may arise, undoing these initiatives. If public policy is frictionless, shareholder democracy becomes irrelevant: the political system fully offsets shareholder influence. With public policy frictions, prosocial corporations can mitigate regulatory shortcomings and enhance corporate public goods provision. Nevertheless, shareholder democracy can hurt citizens due to the representation problem: it favors the preferences of the wealthy. Investor diversification, pass-through voting, and corporate greenwashing have important implications for these trade-offs of shareholder democracy. (JEL D62, D72, G28, G34, G38, H23)</jats:p>",
+      "doi": "10.1093/rfs/hhag051",
+      "url": "https://doi.org/10.1093/rfs/hhag051"
     },
     {
       "title": "Thematic Concentration and Mutual Fund Performance",
