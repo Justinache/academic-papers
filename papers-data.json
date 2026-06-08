@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T06:25:11.332Z",
+  "lastUpdated": "2026-06-08T06:44:24.951Z",
   "count": 473,
   "papers": [
     {
@@ -4553,26 +4553,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70031"
     },
     {
-      "title": "The Road Less Traveled: A Nontraditional Path to Teaching and Scholarship",
-      "authors": "Jennifer M. Cainas",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-12-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper discusses my experiences as a nontenure track faculty member who now serves as an Associate Dean. It is based on my Presidential Scholar Lecture at the 2024 American Accounting Association Annual Meeting. In 2012, the Pathways Commission outlined the need and a path for more practitioners to join academia (Behn et al. 2012), and my academic career advanced partly due to that initiative. Earning a Doctor of Business Administration (D.B.A.) degree from University of Florida allowed me to support my school as a scholarly academic and pursue research that enhances my teaching and provided me with a path to administration as a nontenure track faculty member.</jats:p>",
-      "doi": "10.2308/tar-2025-0553",
-      "url": "https://doi.org/10.2308/tar-2025-0553"
-    },
-    {
-      "title": "Do Larger Reporting Networks Yield Benefits from Information Network Effects?",
-      "authors": "Anna Bergman Brown, Donal Byard, Masako Darrough, Jangwon Suh, Yakun Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-12-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study explores whether an increase in the size of firms’ reporting networks (the number of industry peer firms reporting in comparable standards) improves the quality of analysts’ information environments. We exploit the effect of the 2005 mandatory adoption of IFRS around the world on U.S. firms, as IFRS adoption did not directly affect U.S. firms but increased the size of their reporting networks. We document that mandatory IFRS adoption is associated with a significantly larger improvement in the quality of analysts’ information environment for U.S. firms with relatively few domestic industry peers than for other U.S. firms. Further, we show that there is a larger increase in the frequency with which analysts’ research reports for U.S. firms with few domestic peers mention IFRS-adopting EU industry peer firms. Our results provide evidence that mandatory reporting regulations that increase reporting comparability can result in positive information externalities from information network effects.</jats:p>\n                  <jats:p>JEL Classifications: K22; M41; M48.</jats:p>",
-      "doi": "10.2308/tar-2021-0778",
-      "url": "https://doi.org/10.2308/tar-2021-0778"
-    },
-    {
       "title": "GAAP Earnings Forecast Quality: Implications for Research",
       "authors": "Xi Chen, Allison Koester",
       "journal": "The Accounting Review",
@@ -4583,14 +4563,14 @@
       "url": "https://doi.org/10.2308/tar-2021-0646"
     },
     {
-      "title": "Managing Quality Control System Changes: How Audit Firm Leaders Experience and Navigate Conflicting Institutional Demands",
-      "authors": "Christie Hayne, Mark E. Peecher, Jeffrey Pickerd, Yuepin Zhou",
+      "title": "“What Is This Thing Called Controllability?” A Field Study of the Integration of the Controllability Principle in the Redesign of a Performance Measurement System",
+      "authors": "Wai Fong Chua, Johan Graaf, Kalle Kraus",
       "journal": "The Accounting Review",
       "field": "Accounting",
       "date": "2025-12-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Although rapidly evolving, quality control (QC) systems are a poorly understood determinant of audit quality. We interview 27 QC system leaders to understand how they navigate the challenges they face in changing QC systems. We find that many challenges—including obtaining buy-in, evaluating costs and benefits, and advancing proactive over reactive changes—are caused by conflicting demands arising internally. Consistent with institutional theory, our data reveal that leaders respond to conflicting demands by seeking partial conformity (e.g., negotiating among stakeholders) or by altering the framing of the demands (e.g., using scientific logic to legitimize a QC change). Interviews of eight QC system users complement and corroborate our main results and suggest opportunities for future research. Our study sheds light on how firms update QC systems and informs practitioners, regulators, and academics of the forces that shape the evolution of QC systems.</jats:p>\n                  <jats:p>Data Availability: Our data are not publicly available to preserve participant anonymity.</jats:p>",
-      "doi": "10.2308/tar-2023-0152",
-      "url": "https://doi.org/10.2308/tar-2023-0152"
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This longitudinal study investigates the integration of the controllability principle in the redesign of a performance measurement system (PMS). The PMS and the controllability principle are conceptualized as “epistemic objects” (open, question-generating, and complex objects) which are associated with varying stakeholder desires. The paper makes two contributions. First, it demonstrates how a PMS can oscillate between different interpretations of the controllability principle (narrow versus broad), resulting in different controllability boundaries (tight versus loose). Second, the paper theorizes how multiple epistemic objects are formed into combination structures (a combination of epistemic objects that are subsequently codeveloped). Three sequentially developed combination structures of the controllability principle and the PMS, along with their associated effects, are reported. The paper demonstrates how combination structures can, ironically, become antithetical to the desires that set change in motion, and in this case, render the PMS incapable of measuring performance on complex environmental and societal challenges.</jats:p>",
+      "doi": "10.2308/tar-2024-0295",
+      "url": "https://doi.org/10.2308/tar-2024-0295"
     },
     {
       "title": "The Effect of Financial Regulation on Nonfinancial Violations",
@@ -4601,6 +4581,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines the effect of financial regulation on nonfinancial violations. Using differences in compliance requirements with Sarbanes-Oxley Act of 2002 (SOX) Section 404, we find that adoption of Section 404 increased firms’ propensity for nonfinancial violations. This effect is stronger for firms with greater external scrutiny toward their financial reporting, greater challenges in monitoring their operations, and limited resources. These results, together with an examination of changes in audit fees, conference call transcripts, and 10-K disclosures, suggest that the effects primarily stem from a shift in attention and resources toward SOX 404. Further, the effects are concentrated in employee-related violations and persist for approximately two years. Overall, our results suggest that financial reporting regulation can result in unintended consequences harming stakeholders, such as employees.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0676",
       "url": "https://doi.org/10.2308/tar-2023-0676"
+    },
+    {
+      "title": "Managing Quality Control System Changes: How Audit Firm Leaders Experience and Navigate Conflicting Institutional Demands",
+      "authors": "Christie Hayne, Mark E. Peecher, Jeffrey Pickerd, Yuepin Zhou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Although rapidly evolving, quality control (QC) systems are a poorly understood determinant of audit quality. We interview 27 QC system leaders to understand how they navigate the challenges they face in changing QC systems. We find that many challenges—including obtaining buy-in, evaluating costs and benefits, and advancing proactive over reactive changes—are caused by conflicting demands arising internally. Consistent with institutional theory, our data reveal that leaders respond to conflicting demands by seeking partial conformity (e.g., negotiating among stakeholders) or by altering the framing of the demands (e.g., using scientific logic to legitimize a QC change). Interviews of eight QC system users complement and corroborate our main results and suggest opportunities for future research. Our study sheds light on how firms update QC systems and informs practitioners, regulators, and academics of the forces that shape the evolution of QC systems.</jats:p>\n                  <jats:p>Data Availability: Our data are not publicly available to preserve participant anonymity.</jats:p>",
+      "doi": "10.2308/tar-2023-0152",
+      "url": "https://doi.org/10.2308/tar-2023-0152"
     },
     {
       "title": "The Effect of Relative Performance Evaluations on Employee Judgments of and Behavioral Responses to Managerial Monitoring",
@@ -4633,6 +4623,16 @@
       "url": "https://doi.org/10.2308/tar-2022-0302"
     },
     {
+      "title": "The Road Less Traveled: A Nontraditional Path to Teaching and Scholarship",
+      "authors": "Jennifer M. Cainas",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper discusses my experiences as a nontenure track faculty member who now serves as an Associate Dean. It is based on my Presidential Scholar Lecture at the 2024 American Accounting Association Annual Meeting. In 2012, the Pathways Commission outlined the need and a path for more practitioners to join academia (Behn et al. 2012), and my academic career advanced partly due to that initiative. Earning a Doctor of Business Administration (D.B.A.) degree from University of Florida allowed me to support my school as a scholarly academic and pursue research that enhances my teaching and provided me with a path to administration as a nontenure track faculty member.</jats:p>",
+      "doi": "10.2308/tar-2025-0553",
+      "url": "https://doi.org/10.2308/tar-2025-0553"
+    },
+    {
       "title": "Common Auditors in Supply Chain Relationships and the Provision of Trade Credit",
       "authors": "Ling Lei Lisic, Qiliang Liu, Timothy A. Seidel, Hanzhong Shi, Angie Wang, Aleksandra Zimmerman",
       "journal": "The Accounting Review",
@@ -4653,6 +4653,16 @@
       "url": "https://doi.org/10.2308/tar-2022-0371"
     },
     {
+      "title": "Do Investors Fully Understand the Seasonality in Accruals?",
+      "authors": "Siu Kai Choy, Gerald J. Lobo, Yongxian Tan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Seasonal fluctuations in a firm’s business activities can affect its balance sheet and give rise to seasonally predictable accruals. We find that seasonal patterns in accruals are associated with future stock returns. Specifically, we find that firms with historically lower (higher) accruals in a given fiscal quarter have higher (lower) stock returns in the months when those accruals are expected to be announced. Our results suggest that investors do not fully understand and price historical information on accruals seasonality. Additional analyses suggest that the emergence of this accruals seasonality anomaly is concentrated in the post-2001 period and driven by the effects of unsophisticated arbitrage against the accruals anomaly.</jats:p>\n                  <jats:p>JEL Classifications: G10; G12; G14.</jats:p>",
+      "doi": "10.2308/tar-2021-0891",
+      "url": "https://doi.org/10.2308/tar-2021-0891"
+    },
+    {
       "title": "Redesigning Executive Incentives: The Rising Role of Subjective Performance Measures",
       "authors": "Zackery D. Fox",
       "journal": "The Accounting Review",
@@ -4661,6 +4671,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the growing use of subjective performance incentives used in executive bonuses, empirical evidence on their effectiveness remains inconclusive. This study explores three aspects of subjective metrics in bonus plan design: their prevalence, the goals they target, and their impact on managerial behavior and firm outcomes. First, I document 53.8 percent of CEO bonus plans include at least one subjective performance measure, and among these plans, an average of 38.9 percent of total bonus weight is allocated to these measures. Using machine learning, I show subjective metrics target incentives related to employees, firm culture, and executive performance. Second, using the Tax Cuts and Jobs Act as a quasi-exogenous shock to contract design, I find firms increase the number and weight of subjective metrics by 22.9 percent and 10.4 percent, respectively. Finally, I find the increasing prevalence of subjective performance measures positively influences CEO effort, corporate culture, and innovation.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are from public sources and available upon request.</jats:p>\n                  <jats:p>JEL Classifications: M12; J33; G38; M41; H2.</jats:p>",
       "doi": "10.2308/tar-2022-0219",
       "url": "https://doi.org/10.2308/tar-2022-0219"
+    },
+    {
+      "title": "The Cost of Investor Protection: Bank Loan Contracting During SEC Investigations",
+      "authors": "Yangyang Chen, Emmanuel Ofosu, Jeffrey Pittman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2025-12-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In examining the loan contracting implications of SEC investigations, we document that banks charge higher loan spreads when borrowers are under investigation, with the rise in interest rates varying predictably with lender characteristics. Further, our evidence implies that the debt pricing impact of SEC investigations is amplified for borrowers suffering worse credit quality and information asymmetry as well as those relying more on bank loans. These findings suggest that banks perceive increased risk for borrowers under SEC scrutiny while also leveraging their knowledge of the investigations to extract rents. Supplemental analyses reveal tighter nonspread loan terms and a higher likelihood of amending existing loan contracts during SEC investigations. Additionally, the tightening of loan terms reverses for investigations that conclude without enforcement actions. Overall, our research identifies an economic cost of SEC investigations and alerts regulators to these costs when deciding whether to launch an investigation.</jats:p>\n                  <jats:p>Data Availability: All data used are available from the sources indicated in the paper.</jats:p>\n                  <jats:p>JEL Classifications: M41; D82; G21; K22.</jats:p>",
+      "doi": "10.2308/tar-2024-0405",
+      "url": "https://doi.org/10.2308/tar-2024-0405"
     },
     {
       "title": "Promoting Organizational Citizenship Behavior (OCB): Unintended Gender Disparities in the Participation and Evaluation of Different Types of OCB",
@@ -4703,34 +4723,14 @@
       "url": "https://doi.org/10.2308/tar-2023-0276"
     },
     {
-      "title": "“What Is This Thing Called Controllability?” A Field Study of the Integration of the Controllability Principle in the Redesign of a Performance Measurement System",
-      "authors": "Wai Fong Chua, Johan Graaf, Kalle Kraus",
+      "title": "Do Larger Reporting Networks Yield Benefits from Information Network Effects?",
+      "authors": "Anna Bergman Brown, Donal Byard, Masako Darrough, Jangwon Suh, Yakun Wang",
       "journal": "The Accounting Review",
       "field": "Accounting",
       "date": "2025-12-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This longitudinal study investigates the integration of the controllability principle in the redesign of a performance measurement system (PMS). The PMS and the controllability principle are conceptualized as “epistemic objects” (open, question-generating, and complex objects) which are associated with varying stakeholder desires. The paper makes two contributions. First, it demonstrates how a PMS can oscillate between different interpretations of the controllability principle (narrow versus broad), resulting in different controllability boundaries (tight versus loose). Second, the paper theorizes how multiple epistemic objects are formed into combination structures (a combination of epistemic objects that are subsequently codeveloped). Three sequentially developed combination structures of the controllability principle and the PMS, along with their associated effects, are reported. The paper demonstrates how combination structures can, ironically, become antithetical to the desires that set change in motion, and in this case, render the PMS incapable of measuring performance on complex environmental and societal challenges.</jats:p>",
-      "doi": "10.2308/tar-2024-0295",
-      "url": "https://doi.org/10.2308/tar-2024-0295"
-    },
-    {
-      "title": "Do Investors Fully Understand the Seasonality in Accruals?",
-      "authors": "Siu Kai Choy, Gerald J. Lobo, Yongxian Tan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-12-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Seasonal fluctuations in a firm’s business activities can affect its balance sheet and give rise to seasonally predictable accruals. We find that seasonal patterns in accruals are associated with future stock returns. Specifically, we find that firms with historically lower (higher) accruals in a given fiscal quarter have higher (lower) stock returns in the months when those accruals are expected to be announced. Our results suggest that investors do not fully understand and price historical information on accruals seasonality. Additional analyses suggest that the emergence of this accruals seasonality anomaly is concentrated in the post-2001 period and driven by the effects of unsophisticated arbitrage against the accruals anomaly.</jats:p>\n                  <jats:p>JEL Classifications: G10; G12; G14.</jats:p>",
-      "doi": "10.2308/tar-2021-0891",
-      "url": "https://doi.org/10.2308/tar-2021-0891"
-    },
-    {
-      "title": "The Cost of Investor Protection: Bank Loan Contracting During SEC Investigations",
-      "authors": "Yangyang Chen, Emmanuel Ofosu, Jeffrey Pittman",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2025-12-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In examining the loan contracting implications of SEC investigations, we document that banks charge higher loan spreads when borrowers are under investigation, with the rise in interest rates varying predictably with lender characteristics. Further, our evidence implies that the debt pricing impact of SEC investigations is amplified for borrowers suffering worse credit quality and information asymmetry as well as those relying more on bank loans. These findings suggest that banks perceive increased risk for borrowers under SEC scrutiny while also leveraging their knowledge of the investigations to extract rents. Supplemental analyses reveal tighter nonspread loan terms and a higher likelihood of amending existing loan contracts during SEC investigations. Additionally, the tightening of loan terms reverses for investigations that conclude without enforcement actions. Overall, our research identifies an economic cost of SEC investigations and alerts regulators to these costs when deciding whether to launch an investigation.</jats:p>\n                  <jats:p>Data Availability: All data used are available from the sources indicated in the paper.</jats:p>\n                  <jats:p>JEL Classifications: M41; D82; G21; K22.</jats:p>",
-      "doi": "10.2308/tar-2024-0405",
-      "url": "https://doi.org/10.2308/tar-2024-0405"
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study explores whether an increase in the size of firms’ reporting networks (the number of industry peer firms reporting in comparable standards) improves the quality of analysts’ information environments. We exploit the effect of the 2005 mandatory adoption of IFRS around the world on U.S. firms, as IFRS adoption did not directly affect U.S. firms but increased the size of their reporting networks. We document that mandatory IFRS adoption is associated with a significantly larger improvement in the quality of analysts’ information environment for U.S. firms with relatively few domestic industry peers than for other U.S. firms. Further, we show that there is a larger increase in the frequency with which analysts’ research reports for U.S. firms with few domestic peers mention IFRS-adopting EU industry peer firms. Our results provide evidence that mandatory reporting regulations that increase reporting comparability can result in positive information externalities from information network effects.</jats:p>\n                  <jats:p>JEL Classifications: K22; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2021-0778",
+      "url": "https://doi.org/10.2308/tar-2021-0778"
     }
   ]
 }
