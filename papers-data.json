@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-09T06:09:54.239Z",
-  "count": 456,
+  "lastUpdated": "2026-06-10T06:24:54.479Z",
+  "count": 457,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -21,6 +21,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104310",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104310"
+    },
+    {
+      "title": "Firm-to-firm financial linkages and dollar risk transmission",
+      "authors": "Bryan Hardy, Felipe Saffie, Ina Simonovska",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104311",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104311"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -163,6 +173,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
     },
     {
+      "title": "The Debt‐Equity Spread",
+      "authors": "Hui Chen, Zhiyao Chen, Jun Li",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-06-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We propose a measure of the valuation gap between debt and equity—debt‐equity spread (DES)—based on the difference between actual and equity‐implied credit spreads. DES predicts cross‐sectional stock and bond returns in opposite directions. This predictability is unique compared to existing mispricing measures and cannot be explained by exposures to various risk factors. High‐DES firms are more likely to issue equity and retire debt, and have more insider equity selling. These findings are consistent with DES capturing relative mispricing between debt and equity, and provide empirical support for the model of partially segmented markets in Greenwood, Hanson, and Liao (2018,\n                    <jats:italic>Review of Financial Studies</jats:italic>\n                    31, 3307–3343).\n                  </jats:p>",
+      "doi": "10.1111/jofi.70060",
+      "url": "https://doi.org/10.1111/jofi.70060"
+    },
+    {
+      "title": "Textual Analysis by Hedge Funds",
+      "authors": "Sipeng Zeng, Kuo Zhou",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-06-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Combining hedge funds’ quarterly position information with their access records on the SEC's EDGAR server, we explore whether hedge funds proactively gather and analyze textual information in 10‐K filings related to their stock holdings, and how these behaviors affect their positions. We find that hedge funds adjust their positions according to the textual information in the annual reports they download. Meanwhile, analyzing these reports helps them to generate excess returns. Overall, our evidence suggests that the textual content of annual reports contains crucial company insights, prompting a subset of hedge funds that engage in bulk downloads from the SEC's website to trade based on diligent analysis of 10‐K filings.</jats:p>",
+      "doi": "10.1111/1475-679x.70074",
+      "url": "https://doi.org/10.1111/1475-679x.70074"
+    },
+    {
       "title": "Private Equity and Pay Gaps Inside the Firm",
       "authors": "Lily Fang, Jim Goldman, Alexandra Roulet",
       "journal": "Journal of Finance",
@@ -181,6 +211,16 @@
       "abstract": "",
       "doi": "10.1111/jofi.70061",
       "url": "https://doi.org/10.1111/jofi.70061"
+    },
+    {
+      "title": "Measuring Organizational Capital",
+      "authors": "Wei Cai, Andrea Prat, Jiehang Yu",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-06-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Prior research has pointed to differences in organizational capital as a reason for the persistent performance discrepancies among otherwise similar firms. In this paper, we develop and validate a new measure of organizational capital. Based on over a million crowd‐sourced employee reviews scraped from Glassdoor, we construct the measure of organizational capital at the firm‐year level using the word embedding model and ChatGPT‐generated synthetic reviews. Our measure varies over time in accordance with macro trends, and differs both across and within firms, reflecting firm heterogeneity and major internal changes. We validate our measure by testing empirical predictions of the properties of organizational capital discussed in prior literature. Our findings suggest that this measure captures a slowly evolving intangible asset that is significantly associated with firm performance and top management's influence, aligning with the conceptualization of organizational capital by Dessein and Prat. We further showcase applications of our measure in accounting, economics, finance, and management literature. Taken together, the paper provides implications for various stakeholders who are interested in assessing and managing firms' organizational capital.</jats:p>",
+      "doi": "10.1111/1475-679x.70073",
+      "url": "https://doi.org/10.1111/1475-679x.70073"
     },
     {
       "title": "A Cognitive Theory of Reasoning and Choice",
@@ -868,7 +908,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-05-05",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study examines how the American Medical Association (AMA) helped shape the development of the U.S. health insurance system in the critical period after World War II. Working with the political public relations firm Campaigns, Inc., the AMA launched a nationwide campaign to weaken support for National Health Insurance by framing it as “socialized medicine,” while simultaneously enrolling people in private health insurance plans to shift demand away from a public alternative. Drawing on newly assembled archival data, we find that greater exposure to the campaign explains about 20% of the rise in private health insurance enrollment and a comparable decline in public support for a national program. The campaign also appears to have influenced policymaking through coordinated messaging, resolutions passed by civic organizations, congressional rhetoric, and political donations. These findings suggest that the rise of private health insurance in the United States was not solely due to macroeconomic forces or collective bargaining; rather it was also enabled by a strategic, interest group-financed effort to shape citizen views and influence policy.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article examines how the American Medical Association (AMA) helped shape the development of the U.S. health insurance system in the critical period after World War II. Working with the political public relations firm Campaigns, Inc., the AMA launched a nationwide campaign to weaken support for national health insurance by framing it as “socialized medicine,” while simultaneously enrolling people in private health insurance plans to shift demand away from a public alternative. Drawing on newly assembled archival data, we find that greater exposure to the campaign explains about 20% of the rise in private health insurance enrollment and a comparable decline in public support for a national program. The campaign also appears to have influenced policy making through coordinated messaging, resolutions passed by civic organizations, congressional rhetoric, and political donations. These findings suggest that the rise of private health insurance in the United States was not solely due to macroeconomic forces or collective bargaining; rather, it was also enabled by a strategic, interest group–financed effort to shape citizen views and influence policy.</jats:p>",
       "doi": "10.1093/qje/qjag024",
       "url": "https://doi.org/10.1093/qje/qjag024"
     },
@@ -1378,7 +1418,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-04-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pre-tax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that, at the firm level, mandated profit-sharing (a) increases the labor share by 1.8 percentage points, (b) reduces the profit share by 1.4 percentage points, and (c) has small to non-existent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pretax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that at the firm level, mandated profit-sharing (i) increases the labor share by 1.8 percentage points, (ii) reduces the profit share by 1.4 percentage points, and (iii) has small to nonexistent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.</jats:p>",
       "doi": "10.1093/qje/qjag022",
       "url": "https://doi.org/10.1093/qje/qjag022"
     },
@@ -1713,12 +1753,12 @@
       "url": "https://doi.org/10.1093/qje/qjag020"
     },
     {
-      "title": "Codification, Technology Absorption, and The Globalization of the Industrial Revolution",
+      "title": "Codification, Technology Absorption, and the Globalization of the Industrial Revolution",
       "authors": "Réka Juhász, Shogo Sakabe, David E Weinstein",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-04-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper examines the global adoption of technology in the late nineteenth century. We construct several novel datasets to test the idea that the codification of technical knowledge in the vernacular was necessary for countries to absorb the technologies of the First Industrial Revolution. We find that comparative advantage shifted to industries that could benefit from these technologies in countries and colonies with access to codified technical knowledge, but not in other regions. Using the rapid and unprecedented codification of technical knowledge in Meiji Japan as a natural experiment, we show that this pattern emerged only after the Japanese government codified vast amounts of technical knowledge. Our findings shed new light on the frictions associated with technological diffusion and offer a novel explanation for why Meiji Japan was unique among non-Western countries in successfully industrializing during the first wave of globalization.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article examines the global adoption of technology in the late nineteenth century. We construct several novel data sets to test the idea that the codification of technical knowledge in the vernacular was necessary for countries to absorb the technologies of the first Industrial Revolution. We find that comparative advantage shifted to industries that could benefit from these technologies in countries and colonies with access to codified technical knowledge, but not in other regions. Using the rapid and unprecedented codification of technical knowledge in Meiji Japan as a natural experiment, we show that this pattern emerged only after the Japanese government codified vast amounts of technical knowledge. Our findings shed new light on the frictions associated with technological diffusion and offer a novel explanation for why Meiji Japan was unique among non-Western countries in successfully industrializing during the first wave of globalization.</jats:p>",
       "doi": "10.1093/qje/qjag021",
       "url": "https://doi.org/10.1093/qje/qjag021"
     },
@@ -2448,7 +2488,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-03-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do men negatively respond when women first enter an occupation? We answer this question by studying the end of one of the final explicit occupational barriers to women in the U.S.: in 2016, the U.S. military opened all positions to women, including historically male-only combat occupations. We exploit the staggered integration of women into combat units to estimate the causal effects of the introduction of female colleagues on men’s job performance, behavior, and perceptions of workplace quality, using monthly administrative personnel records and rich survey responses. We find that integrating women into previously all-male units does not negatively affect men’s performance or behavioral outcomes, including retention, promotions, demotions, separations for misconduct, criminal investigations, and medical conditions. Most of our results are precise enough to rule out small detrimental effects. However, there is a wedge between men’s perceptions and performance. The integration of women causes a negative shift in male soldiers’ perceptions of workplace quality. The decline is driven by units integrated with female officers, likely arising from female officers increasing men’s awareness of workplace problems or from men’s dissatisfaction from working with women in positions of authority—even though men in such units show some performance gains. If male-dominated workplaces are reluctant to incorporate women due to expectations that men will become less productive, our paper provides evidence to weigh against that notion.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do men negatively respond when women first enter an occupation? We answer this question by studying the end of one of the final explicit occupational barriers to women in the United States: in 2016, the U.S. military opened all positions to women, including historically male-only combat occupations. We exploit the staggered integration of women into combat units to estimate the causal effects of the introduction of female colleagues on men’s job performance, behavior, and perceptions of workplace quality, using monthly administrative personnel records and rich survey responses. We find that integrating women into previously all-male units does not negatively affect men’s performance or behavioral outcomes, including retention, promotions, demotions, separations for misconduct, criminal investigations, and medical conditions. Most of our results are precise enough to rule out small detrimental effects. However, there is a wedge between men’s perceptions and performance. The integration of women causes a negative shift in male soldiers’ perceptions of workplace quality. The decline is driven by units integrated with female officers, likely arising from female officers increasing men’s awareness of workplace problems or from men’s dissatisfaction from working with women in positions of authority—even though men in such units show some performance gains. If male-dominated workplaces are reluctant to incorporate women due to expectations that men will become less productive, our paper provides evidence to weigh against that notion.</jats:p>",
       "doi": "10.1093/qje/qjag016",
       "url": "https://doi.org/10.1093/qje/qjag016"
     },
@@ -4531,36 +4571,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the returns to enrolling in U.S. public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10% of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8% more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26% for the marginal students themselves, 16% for society (which must pay for the additional education), and 7% for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.</jats:p>",
       "doi": "10.1093/qje/qjaf055",
       "url": "https://doi.org/10.1093/qje/qjaf055"
-    },
-    {
-      "title": "Going Public and the Internal Organization of the Firm",
-      "authors": "Daniel Bias, Benjamin Lochner, Stefan Obernberger, Merih Sevilir",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines how initial public offerings (IPOs) affect firms' internal organization. We find that IPO firms become more hierarchical and standardized organizations, characterized by additional layers, more managers, smaller control spans, and larger administrative functions. These changes occur mostly in preparation for the IPO and can be only partially explained by growth. IPO firms with greater human capital risk experience larger hierarchical changes. Hierarchical changes help firms standardize employee roles and formalize internal processes. Our results suggest that firms reorganize to reduce their dependence on key individuals' human capital when transitioning to public markets.</jats:p>",
-      "doi": "10.1111/jofi.70012",
-      "url": "https://doi.org/10.1111/jofi.70012"
-    },
-    {
-      "title": "Adverse Selection in Corporate Loan Markets",
-      "authors": "Mehdi Beyhaghi, Cesare Fracassi, Gregory Weitzner",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Theories of competition typically predict a positive relationship between market concentration and prices. However, in loan markets, adverse selection can reverse this relationship as riskier borrowers become more likely to receive funding. Using supervisory data, we show that interest rates, borrower risk, and lending volume are higher in markets with more banks. We also create a novel measure of markup that is orthogonal to borrower risk, and find that, consistent with adverse selection, markups are higher after repeated borrowing relationships. Finally, we use a shock to large banks' lending costs to provide further support for the adverse selection channel.</jats:p>",
-      "doi": "10.1111/jofi.70011",
-      "url": "https://doi.org/10.1111/jofi.70011"
-    },
-    {
-      "title": "Paying Too Much? Borrower Sophistication and Overpayment in the U.S. Mortgage Market",
-      "authors": "Neil Bhutta, Andreas Fuster, Aurel Hizmo",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Comparing mortgage rates that borrowers obtain to rates that lenders could offer for the same loan, we find that many homeowners significantly overpay for their mortgage, with overpayment varying across borrower types and with market interest rates. Survey data reveal that borrowers' mortgage knowledge and shopping behavior strongly correlate with the rates they secure. We also document substantial variation in how expensive and profitable lenders are, without any evidence that expensive loans are associated with a better borrower experience. Despite many lenders operating in the U.S. mortgage market, limited borrower sophistication may provide lenders with market power.</jats:p>",
-      "doi": "10.1111/jofi.70001",
-      "url": "https://doi.org/10.1111/jofi.70001"
     }
   ]
 }
