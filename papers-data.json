@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-10T06:24:54.479Z",
-  "count": 457,
+  "lastUpdated": "2026-06-11T06:50:04.426Z",
+  "count": 458,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -603,6 +603,36 @@
       "url": "https://doi.org/10.2308/tar-2023-0569"
     },
     {
+      "title": "Managers’ Understanding of Macroeconomic News, Competitor Influence, and Firm Performance: Evidence from Consumer Sentiment News",
+      "authors": "Mei Feng, Lian Fen Lee, Benda Yin",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101906",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101906"
+    },
+    {
+      "title": "Re-doing the audit",
+      "authors": "Isabel J. Cho, Clive Lennox, Xiangyu Li",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101905",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101905"
+    },
+    {
+      "title": "The Academics of Standard Setting: A Field Study of Financial Reporting Standard Setters’ Engagement with Academic Research",
+      "authors": "Shannon Garavaglia, Christie Hayne, Cassie Mongold",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Financial reporting standard-setting bodies are expected to include academic research in their decision-making processes. However, little is known about whether, why, and how they engage with research. We interview staff from two major accounting standard-setting bodies and, using the information seeking and communication model as a theoretical lens, identify factors shaping their research engagement. These factors include perceptions of academic research, search difficulties, and challenges with assessing the credibility and utility of academic research. Our findings reveal an unstructured, idiosyncratic approach to information seeking, a reliance on academic papers over direct researcher interaction, a significant lack of two-way communication, and concerns relating to incentive differences between academics and standard setters. These structural issues limit the extent to which academic research can inform standard setting. We provide insights on improving the inclusion of academic research in the standard-setting decision-making process and contribute to broader discussions on research relevance.</jats:p>\n                  <jats:p>JEL Classifications: M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2024-0289",
+      "url": "https://doi.org/10.2308/tar-2024-0289"
+    },
+    {
       "title": "Business, Liquidity, and Information Cycles",
       "authors": "Gorkem Bostanci, Guillermo Ordoñez",
       "journal": "Quarterly Journal of Economics",
@@ -758,7 +788,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask, should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.</jats:p>",
       "doi": "10.1093/qje/qjag025",
       "url": "https://doi.org/10.1093/qje/qjag025"
     },
@@ -4551,26 +4581,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between CEOs’ preferences for environmental protection (“nature‐loving preferences”) and corporate environmental actions. Drawing on social ecology research, I develop a proxy for CEOs’ nature‐loving preferences based on their childhood exposure to greenspace and validate it using their positive discussions of nature during earnings conference calls. Findings show a significant positive association between CEOs’ nature‐loving preferences and their firms’ participation in Clean Development Mechanism projects. This effect remains robust after addressing firm–CEO matching and omitted variable concerns. Cross‐sectional tests reveal stronger effects when local environmental demands are high and when CEOs have greater decision‐making power. Further analyses suggest that these CEOs are associated with greater corporate carbon reduction, while market reactions to their appointments remain neutral. The study highlights the link between CEOs’ personal environmental preferences and firms’ environmental actions, offering new insights into individual‐level factors behind corporate social responsibility.</jats:p>",
       "doi": "10.1111/1475-679x.70033",
       "url": "https://doi.org/10.1111/1475-679x.70033"
-    },
-    {
-      "title": "Who’s Afraid of the Minimum Wage? Measuring the Impacts on Independent Businesses Using Matched U.S. Tax Returns",
-      "authors": "Nirupama L Rao, Max Risch",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-12-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A common concern surrounding minimum wage policies is their impact on independent businesses, which are often feared to be less able to bear or pass on cost increases. We examine how these typically small and medium-size firms accommodate minimum wage increases along product and labor market margins using a matched owner-firm-worker panel data set drawn from the universe of U.S. tax records over a 10-year period, and using state minimum wage changes as identifying variation. We find that on average, firms in highly exposed industries do not substantially reduce employment—they do not lay off workers but moderately reduce part-time hiring. Instead, these firms are able to fully finance the new labor costs with new revenues, leaving average owner profits unchanged. Higher wage floors, however, forestall entry, particularly for less productive firms, reducing the number of independent firms operating in these industries by roughly 2%. Yet these industries do not shrink; instead, incumbent responses and strong positive selection among entrants reshape industries that rely heavily on low-wage workers, yielding fewer but more productive firms after the cost shock. We also take a worker-level perspective to examine how potentially vulnerable individuals are affected by minimum wage increases. Using panels of low-earning and young workers, we find that their average earnings rise substantially with the minimum wage, while they are no less likely to be employed. Worker transitions indicate that minimum wage increases boost retention and that worker reallocation from independent firms toward corporations buffers disemployment impacts from reduced hiring at independent firms.</jats:p>",
-      "doi": "10.1093/qje/qjaf053",
-      "url": "https://doi.org/10.1093/qje/qjaf053"
-    },
-    {
-      "title": "Marginal Returns to Public Universities",
-      "authors": "Jack Mountjoy",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2025-12-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the returns to enrolling in U.S. public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10% of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8% more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26% for the marginal students themselves, 16% for society (which must pay for the additional education), and 7% for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.</jats:p>",
-      "doi": "10.1093/qje/qjaf055",
-      "url": "https://doi.org/10.1093/qje/qjaf055"
     }
   ]
 }
