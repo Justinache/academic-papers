@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T06:42:15.185Z",
-  "count": 458,
+  "lastUpdated": "2026-06-13T06:17:34.325Z",
+  "count": 457,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -4571,16 +4571,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We exploit an episode of plausibly random debt discharge due to the loss of paperwork for thousands of defaulted borrowers to examine the effects of private student debt relief on borrower outcomes. We find that borrowers who receive debt relief (treated) experience declines in debt balances and delinquency rates on\n                    <jats:italic>other</jats:italic>\n                    accounts, and increases in mobility and income relative to those who bear the costs of default like wage garnishment and collections (control). Borrowers in both groups contribute to our findings through different mechanisms. While our estimates may not directly apply to blanket student loan forgiveness, they speak to the benefits of forgiveness in reducing the consequences of debt burden for distressed borrowers.\n                  </jats:p>",
       "doi": "10.1111/jofi.70002",
       "url": "https://doi.org/10.1111/jofi.70002"
-    },
-    {
-      "title": "Do Nature‐Loving CEOs Make the World Greener?",
-      "authors": "Weijia Zhi",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2025-12-12",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between CEOs’ preferences for environmental protection (“nature‐loving preferences”) and corporate environmental actions. Drawing on social ecology research, I develop a proxy for CEOs’ nature‐loving preferences based on their childhood exposure to greenspace and validate it using their positive discussions of nature during earnings conference calls. Findings show a significant positive association between CEOs’ nature‐loving preferences and their firms’ participation in Clean Development Mechanism projects. This effect remains robust after addressing firm–CEO matching and omitted variable concerns. Cross‐sectional tests reveal stronger effects when local environmental demands are high and when CEOs have greater decision‐making power. Further analyses suggest that these CEOs are associated with greater corporate carbon reduction, while market reactions to their appointments remain neutral. The study highlights the link between CEOs’ personal environmental preferences and firms’ environmental actions, offering new insights into individual‐level factors behind corporate social responsibility.</jats:p>",
-      "doi": "10.1111/1475-679x.70033",
-      "url": "https://doi.org/10.1111/1475-679x.70033"
     }
   ]
 }
