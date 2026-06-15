@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-14T06:41:15.021Z",
-  "count": 457,
+  "lastUpdated": "2026-06-15T07:21:01.819Z",
+  "count": 456,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -171,6 +171,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "The Variance Premium and Seasonal Momentum in Option Returns",
+      "authors": "Steven L Heston, Christopher S Jones, Mehdi Khorram, Shuaiqi Li, Haitao Mo",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model-free measure of the variance premium by constructing option portfolios whose returns are highly correlated with realized stock variance. This effectively decomposes returns into realized variance minus implied variance. We apply this decomposition to document a novel quarterly cross-sectional continuation pattern in both realized variance and implied variance of individual stocks. Implied variance underanticipates the seasonality of realized variance, so options that performed well at quarterly lags continue to earn high returns in the future. Quarterly periodicity in realized stock variance only occurs on days with analyst earning revisions, suggesting an informational channel for this pattern. (JEL G12, G13, G40)</jats:p>",
+      "doi": "10.1093/rfs/hhag057",
+      "url": "https://doi.org/10.1093/rfs/hhag057"
     },
     {
       "title": "The Debt‐Equity Spread",
@@ -4533,16 +4543,6 @@
       "url": "https://doi.org/10.1111/jofi.70003"
     },
     {
-      "title": "Cross-Border M&A Flows, Economic Growth, and Foreign Exchange Rates",
-      "authors": "Steven J Riddiough, Huizhong Zhang",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information about future economic conditions from firms’ cross-border merger and acquisition announcements, and show it predicts changes in relative economic growth rates and foreign exchange rate returns. We find the predictability is driven by the acquisition decisions of domestic firms, which signal turning points in local economic growth. The findings are motivated by a simple model of exchange rate determination with heterogeneous expectations and support the theorized relationship between foreign exchange rates and macroeconomic fundamentals. The results provide new tools for policy makers seeking to predict economic activity and offer global investors a novel source of portfolio diversification.</jats:p>",
-      "doi": "10.1093/rfs/hhaf109",
-      "url": "https://doi.org/10.1093/rfs/hhaf109"
-    },
-    {
       "title": "An Economic View of Corporate Social Impact",
       "authors": "Hunt Allcott, Giovanni Montanari, Bora Ozaltun, Brandon Tan",
       "journal": "Journal of Finance",
@@ -4553,24 +4553,14 @@
       "url": "https://doi.org/10.1111/jofi.70004"
     },
     {
-      "title": "Losing Control? The Two‐Decade Decline in Loan Covenant Violations",
-      "authors": "Thomas P. Griffin, Greg Nini, David C. Smith",
-      "journal": "Journal of Finance",
+      "title": "Cross-Border M&A Flows, Economic Growth, and Foreign Exchange Rates",
+      "authors": "Steven J Riddiough, Huizhong Zhang",
+      "journal": "Review of Financial Studies",
       "field": "Finance",
-      "date": "2025-12-14",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The annual proportion of U.S. public firms that reported a financial covenant violation fell roughly 70% between 1997 and 2019. To understand this trend, we develop an estimable model of covenant design that depends on the ability to differentiate between distressed and nondistressed borrowers and the relative costs associated with screening incorrectly. We find that the drop in violations is best explained by an increased willingness to forgo early detection of distressed borrowers in exchange for fewer inconsequential violations, which we attribute largely to a shift in the composition of public borrowers and partly to heightened investor sentiment during the 2010s.</jats:p>",
-      "doi": "10.1111/jofi.70005",
-      "url": "https://doi.org/10.1111/jofi.70005"
-    },
-    {
-      "title": "Second Chance: Life with Less Student Debt",
-      "authors": "Marco Di Maggio, Ankit Kalda, Vincent Yao",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-14",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We exploit an episode of plausibly random debt discharge due to the loss of paperwork for thousands of defaulted borrowers to examine the effects of private student debt relief on borrower outcomes. We find that borrowers who receive debt relief (treated) experience declines in debt balances and delinquency rates on\n                    <jats:italic>other</jats:italic>\n                    accounts, and increases in mobility and income relative to those who bear the costs of default like wage garnishment and collections (control). Borrowers in both groups contribute to our findings through different mechanisms. While our estimates may not directly apply to blanket student loan forgiveness, they speak to the benefits of forgiveness in reducing the consequences of debt burden for distressed borrowers.\n                  </jats:p>",
-      "doi": "10.1111/jofi.70002",
-      "url": "https://doi.org/10.1111/jofi.70002"
+      "date": "2025-12-15",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information about future economic conditions from firms’ cross-border merger and acquisition announcements, and show it predicts changes in relative economic growth rates and foreign exchange rate returns. We find the predictability is driven by the acquisition decisions of domestic firms, which signal turning points in local economic growth. The findings are motivated by a simple model of exchange rate determination with heterogeneous expectations and support the theorized relationship between foreign exchange rates and macroeconomic fundamentals. The results provide new tools for policy makers seeking to predict economic activity and offer global investors a novel source of portfolio diversification.</jats:p>",
+      "doi": "10.1093/rfs/hhaf109",
+      "url": "https://doi.org/10.1093/rfs/hhaf109"
     }
   ]
 }
