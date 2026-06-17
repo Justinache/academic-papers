@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T07:27:08.626Z",
-  "count": 454,
+  "lastUpdated": "2026-06-17T07:08:57.928Z",
+  "count": 464,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -31,6 +31,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104311",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104311"
+    },
+    {
+      "title": "Angels, entrepreneurship, and employment dynamics: Evidence from investor accreditation rules",
+      "authors": "Laura Lindsey, Luke C.D. Stein",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104323",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104323"
+    },
+    {
+      "title": "Measuring firms’ capability to absorb external knowledge",
+      "authors": "Michael Woeppel, M. Deniz Yavuz",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104322",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104322"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -171,6 +191,86 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "Silence to Solidarity: How Communication About a Minority Affects Discrimination",
+      "authors": "Duncan Webb",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742724",
+      "url": "https://doi.org/10.1086/742724"
+    },
+    {
+      "title": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining",
+      "authors": "David A. Green, Ben M. Sand, Iain G. Snoddy, Jeanne Tschopp",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742712",
+      "url": "https://doi.org/10.1086/742712"
+    },
+    {
+      "title": "Regulatory Competition in the US Life Insurance Industry",
+      "authors": "Johnny Tang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742725",
+      "url": "https://doi.org/10.1086/742725"
+    },
+    {
+      "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
+      "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742710",
+      "url": "https://doi.org/10.1086/742710"
+    },
+    {
+      "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+      "authors": "Thomas R Covert, Ryan Kellogg",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742713",
+      "url": "https://doi.org/10.1086/742713"
+    },
+    {
+      "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
+      "authors": "Ian Schofield Ball, Deniz Kattwinkel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742716",
+      "url": "https://doi.org/10.1086/742716"
+    },
+    {
+      "title": "Peer Effects and Rank Concerns in the Classroom",
+      "authors": "Michela Maria Tincani",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742714",
+      "url": "https://doi.org/10.1086/742714"
+    },
+    {
+      "title": "Online Business Models, Digital Ads, and User Welfare",
+      "authors": "Daron Acemoglu, Daniel Huttenlocher, Asuman Ozdaglar, James Siderius",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-06-15",
+      "abstract": "",
+      "doi": "10.1086/742715",
+      "url": "https://doi.org/10.1086/742715"
     },
     {
       "title": "The Variance Premium and Seasonal Momentum in Option Returns",
@@ -2673,7 +2773,7 @@
       "url": "https://doi.org/10.1093/rfs/hhaf103"
     },
     {
-      "title": "Making a Swap:  Network Formation with Increasing Marginal Costs",
+      "title": "Making a Swap: Network Formation with Increasing Marginal Costs",
       "authors": "Evan Sadler",
       "journal": "Journal of Political Economy",
       "field": "Economics",
