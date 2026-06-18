@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T07:08:57.928Z",
-  "count": 464,
+  "lastUpdated": "2026-06-18T06:53:24.048Z",
+  "count": 468,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -191,6 +191,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "Learning to Navigate a New Financial Technology",
+      "authors": "Emily Breza, Martin Kanz, Leora Klapper",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-06-17",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We present results from a field experiment that introduced digital payroll accounts to unbanked factory workers to examine how inexperienced consumers learn to use a new financial technology. We find that exposure to payroll accounts leads to increased account use, accelerated learning, and avoidance of common consumer protection risks. Those receiving electronic wage payments gradually build trust in the technology, learn to use accounts without assistance, and avoid illicit fees. Using experimental variation in assignment to bank versus mobile money accounts, we show that these impacts are concentrated in mobile money accounts, the newer, more complex, and less trusted financial technology.</jats:p>",
+      "doi": "10.1111/jofi.70062",
+      "url": "https://doi.org/10.1111/jofi.70062"
+    },
+    {
+      "title": "Consensus? An Examination of Differences in Earnings Information Across Forecast Data Providers",
+      "authors": "Stephannie Larocque, Jessica Watkins, Eric Weisbrod",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-06-17",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher‐quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.</jats:p>",
+      "doi": "10.1111/1475-679x.70072",
+      "url": "https://doi.org/10.1111/1475-679x.70072"
     },
     {
       "title": "Silence to Solidarity: How Communication About a Minority Affects Discrimination",
@@ -743,6 +763,26 @@
       "url": "https://doi.org/10.2308/tar-2024-0289"
     },
     {
+      "title": "Selling Its Soul? Private Equity and the Commercialization of the Attest Profession",
+      "authors": "Nicole Donahoo, Christy S. Nielson, Jeffrey Pickerd",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The recent influx of deals between accounting and private equity (PE) firms has raised concerns regarding potential implications for the attest profession. We interview 20 attest partners from PE-backed accounting firms, along with four experienced professionals, to examine how these partnerships affect the attest practice. Using Freidson’s (2001) theory of professional autonomy as a theoretical lens, we find that despite independence requirements mandating PE-backed firms separate from their attest function, firms largely retain a one-firm mentality. Moreover, although attest firms retain responsibility for audit execution, PE firms influence attests’ strategic priorities through ROI targets, increased strategic acquisitions, evolved compensation structures, and reevaluated client portfolios. These dynamics underscore a PE-driven shift toward commercialism, potentially eroding—although not eliminating—the attest profession’s professional ideals of public service. This stifling of professionalism raises ethical concerns about PE-driven commercialism amid the growing uncertainty raised by respondents around the future of PE-backed firms.</jats:p>\n                  <jats:p>Data Availability: Available upon request.</jats:p>\n                  <jats:p>JEL Classifications: M4; M40.</jats:p>",
+      "doi": "10.2308/tar-2025-0459",
+      "url": "https://doi.org/10.2308/tar-2025-0459"
+    },
+    {
+      "title": "Financial Reporting Consequences of Exempting Low-Revenue Issuers from the Internal Control Audit Requirement",
+      "authors": "Jennifer McCallen, Roy Schmardebeck, Jonathan Shipman, Robert L. Whited",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the consequences of the 2020 amendment to Exchange Act Rule 12b-2, which exempted low-revenue issuers from the ICFR audit requirement and reignited the debate among regulators, issuers, auditors, and academics about the costs and benefits of ICFR audits. We find that exempt issuers rarely obtain ICFR audits voluntarily, indicating they generally do not view such audits as cost beneficial. We also find that exempt issuers report fewer MWs than nonexempt issuers, although this effect is driven by a recent increase in MWs for nonexempt issuers rather than a decline in MW for exempt issuers. We find no evidence that exempt issuers misstate more frequently or that they have less informative control effectiveness disclosures. Overall, our findings suggest that the exemption was welcomed by affected issuers and did not materially impair reporting quality, informing the literature and ongoing policy discussions regarding the appropriate scope of ICFR audit requirements.</jats:p>\n                  <jats:p>Data Availability: Data are publicly available from the sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42; M48.</jats:p>",
+      "doi": "10.2308/tar-2024-0762",
+      "url": "https://doi.org/10.2308/tar-2024-0762"
+    },
+    {
       "title": "Business, Liquidity, and Information Cycles",
       "authors": "Gorkem Bostanci, Guillermo Ordoñez",
       "journal": "Quarterly Journal of Economics",
@@ -848,7 +888,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-05-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information from earnings call transcripts to develop a comprehensive and reliable measure of labor shortage exposure. After validating the measure at the state, industry, and firm levels, we show that firms with labor shortage exposures experience lower earnings call CARs, future stock returns and operating performance. Firms respond to labor shortages by substituting labor with capital and R&amp;D investments, and by producing more production-process patents. Such responses help mitigate the negative effects on future performance. Our measure has broad applicability, and our findings provide new insight into labor-capital substitution in imperfectly competitive labor markets. JEL G12, G30, J2</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information from earnings call transcripts to develop a comprehensive and reliable measure of labor shortage exposure. After validating the measure at the state, industry, and firm levels, we show that firms with labor shortage exposures experience lower earnings call CARs, future stock returns and operating performance. Firms respond to labor shortages by substituting labor with capital and R&amp;D investments, and by producing more production-process patents. Such responses help mitigate the negative effects on future performance. Our measure has broad applicability, and our findings provide new insight into labor-capital substitution in imperfectly competitive labor markets.</jats:p>",
       "doi": "10.1093/rfs/hhag049",
       "url": "https://doi.org/10.1093/rfs/hhag049"
     },
