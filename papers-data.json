@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-18T06:53:24.048Z",
-  "count": 468,
+  "lastUpdated": "2026-06-19T07:07:08.243Z",
+  "count": 473,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -51,6 +51,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104322",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104322"
+    },
+    {
+      "title": "Blended finance",
+      "authors": "Caroline Flammer, Thomas Giroux, Geoffrey M. Heal",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104321",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104321"
+    },
+    {
+      "title": "Asymmetric thin markets",
+      "authors": "Vincent Fardeau",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104319",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104319"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -191,6 +211,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "Beliefs About the Economy are Excessively Sensitive to Household-Level Shocks: Evidence from Linked Survey and Administrative Data",
+      "authors": "Dmitry Taubinsky, Luigi Butera, Matteo Saccarola, Chen Lian",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-06-18",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how people’s beliefs about the economy covary with household-level events, utilizing a unique link between Danish administrative data and a large-scale survey of consumer expectations. We find that compared to actual inflation, people’s inflation forecasts covary much more strongly (and negatively) with both recently realized household income changes and measures of expected future household income changes. We formally establish that these findings are stark deviations from the Bayesian rational expectations benchmark. Similar results hold for perceptions of past inflation (“backcasts” ), suggesting that imperfect recall is a key mechanism for biased forecasts. Building on this, a series of additional tests, some of which utilize data on adverse health events, suggests that the forecast biases are at least partly due to affect-cued recall. That is, negative (positive) household-level events cue negative (positive) recollections, which lead to pessimistic (optimistic) forecasts.</jats:p>",
+      "doi": "10.1093/qje/qjag032",
+      "url": "https://doi.org/10.1093/qje/qjag032"
+    },
+    {
+      "title": "Green Investing and Political Behavior",
+      "authors": "Florian Heeb, Julian F Kölbel, Stefano Ramelli, Anna Vasileva",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-18",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A fundamental concern about green investing is that it may crowd out political support for public policies addressing negative externalities. We examine this concern in a preregistered experiment conducted shortly before a real referendum on a climate law in Switzerland. We find that offering an opportunity to invest in a climate-friendly fund does not reduce individual support for climate regulation, measured by political donations and voting intentions. A replication of the experiment in the United Kingdom yields similar results. Our estimates reject a crowding-out effect, suggesting instead a modest crowding-in effect of green investing on political support for green policies. (JEL D14, H42, G18, P16)</jats:p>",
+      "doi": "10.1093/rfs/hhag055",
+      "url": "https://doi.org/10.1093/rfs/hhag055"
     },
     {
       "title": "Learning to Navigate a New Financial Technology",
@@ -733,7 +773,7 @@
       "url": "https://doi.org/10.2308/tar-2023-0569"
     },
     {
-      "title": "Managers’ Understanding of Macroeconomic News, Competitor Influence, and Firm Performance: Evidence from Consumer Sentiment News",
+      "title": "Managers’ understanding of macroeconomic news, competitor influence, and firm performance: Evidence from consumer sentiment news",
       "authors": "Mei Feng, Lian Fen Lee, Benda Yin",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -781,6 +821,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the consequences of the 2020 amendment to Exchange Act Rule 12b-2, which exempted low-revenue issuers from the ICFR audit requirement and reignited the debate among regulators, issuers, auditors, and academics about the costs and benefits of ICFR audits. We find that exempt issuers rarely obtain ICFR audits voluntarily, indicating they generally do not view such audits as cost beneficial. We also find that exempt issuers report fewer MWs than nonexempt issuers, although this effect is driven by a recent increase in MWs for nonexempt issuers rather than a decline in MW for exempt issuers. We find no evidence that exempt issuers misstate more frequently or that they have less informative control effectiveness disclosures. Overall, our findings suggest that the exemption was welcomed by affected issuers and did not materially impair reporting quality, informing the literature and ongoing policy discussions regarding the appropriate scope of ICFR audit requirements.</jats:p>\n                  <jats:p>Data Availability: Data are publicly available from the sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42; M48.</jats:p>",
       "doi": "10.2308/tar-2024-0762",
       "url": "https://doi.org/10.2308/tar-2024-0762"
+    },
+    {
+      "title": "Tracing Investors’ Minds: Investors’ Inquiries and Key Audit Matter Reporting",
+      "authors": "Songsheng Chen, Chan Li, Lili Sun, Xiren Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101907",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101907"
+    },
+    {
+      "title": "Generative AI and Investor Processing of Financial Information",
+      "authors": "Elizabeth Blankespoor, Joe Croom, Stephanie M. Grant",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101908",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101908"
     },
     {
       "title": "Business, Liquidity, and Information Cycles",
@@ -4671,16 +4731,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the structure of public firm buyouts in a model that features the Berle-Means problem (lack of incentives) and the Grossman-Hart problem (holdout). We find that bootstrapping, debt in excess of funding needs, and upfront fees to bidders are socially optimal and increase buyout premiums. These elements make LBO financing tantamount to a “management contract” arranged by an outside manager to receive cash and incentives to manage a firm—except the cash is funded by excess debt imposed on the firm. Our model also rationalizes why PE firms collect fees from their equity partnerships and directly from target firms.</jats:p>",
       "doi": "10.1093/rfs/hhaf111",
       "url": "https://doi.org/10.1093/rfs/hhaf111"
-    },
-    {
-      "title": "FinTech Lending and Cashless Payments",
-      "authors": "Pulak Ghosh, Boris Vallee, Yao Zeng",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-18",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Borrowers' use of cashless payments improves their access to capital from FinTech lenders and predicts a lower probability of default. These relationships are stronger for cashless technologies providing more precise information, and for outflows. Cashless payment usage complements other signals of borrower quality. We rationalize these empirical findings using a framework in which borrowers signal their lower likelihood of diverting cash flows through payment technology choice, and screening accuracy is further strengthened by informational complementarities. The informational synergy we uncover provides a rationale for the joint rise of cashless payments and FinTech lending, as well as for open banking.</jats:p>",
-      "doi": "10.1111/jofi.70003",
-      "url": "https://doi.org/10.1111/jofi.70003"
     }
   ]
 }
