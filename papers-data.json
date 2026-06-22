@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T06:52:01.878Z",
-  "count": 474,
+  "lastUpdated": "2026-06-22T07:23:03.644Z",
+  "count": 472,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -4721,26 +4721,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that exposure to anti‐capitalist ideology can exert a lasting influence on attitudes toward capital markets and stock market participation. Using novel survey, bank, and broker data, we document that, decades after Germany's reunification, East Germans invest significantly less in stocks and hold more negative views on capital markets. Effects vary by personal experience under communism. Results are strongest for individuals who remember life in the German Democratic Republic positively, for example, those living in a “showcase city.” Results reverse for those with negative experiences like environmental pollution or lack of Western TV entertainment.</jats:p>",
       "doi": "10.1111/jofi.70006",
       "url": "https://doi.org/10.1111/jofi.70006"
-    },
-    {
-      "title": "Investment under Upstream and Downstream Uncertainty",
-      "authors": "Fotis Grigoris, Gill Segal",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The impact of uncertainty shocks on firm‐level economic activity depends on their origin in supply chains. Upstream (downstream) uncertainty from suppliers (customers) is associated with variability over future input (output) prices. Consequently, a real‐option production model with time‐to‐build suggests that only upstream uncertainty suppresses investment, since upstream (downstream) uncertainty affects the shorter (longer) run. Production network data show that upstream uncertainty negatively affects firm‐level outcomes. Conversely, downstream uncertainty affects firm‐level outcomes more weakly but positively. At the macro level, these two uncertainties oppositely predict aggregate growth and asset prices. Overall, downstream uncertainty has an expansionary effect, in contrast to other facets of uncertainty.</jats:p>",
-      "doi": "10.1111/jofi.70010",
-      "url": "https://doi.org/10.1111/jofi.70010"
-    },
-    {
-      "title": "The Structure of Leveraged Buyouts and the Free-Rider Problem",
-      "authors": "Mike Burkart, Samuel Lee, Henrik Petri",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the structure of public firm buyouts in a model that features the Berle-Means problem (lack of incentives) and the Grossman-Hart problem (holdout). We find that bootstrapping, debt in excess of funding needs, and upfront fees to bidders are socially optimal and increase buyout premiums. These elements make LBO financing tantamount to a “management contract” arranged by an outside manager to receive cash and incentives to manage a firm—except the cash is funded by excess debt imposed on the firm. Our model also rationalizes why PE firms collect fees from their equity partnerships and directly from target firms.</jats:p>",
-      "doi": "10.1093/rfs/hhaf111",
-      "url": "https://doi.org/10.1093/rfs/hhaf111"
     }
   ]
 }
