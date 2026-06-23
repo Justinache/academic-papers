@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T07:23:03.644Z",
-  "count": 472,
+  "lastUpdated": "2026-06-23T06:08:20.159Z",
+  "count": 474,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -211,6 +211,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+      "authors": "John J Conlon, Dev Patel",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-06-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using both surveys administered among undergraduates at the Ohio State University and large-scale nationally representative data, we measure how US freshmen perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which correlational evidence on job/major mismatch corroborates. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students’ intentions about what to study as well as the classes and majors they enroll in.</jats:p>",
+      "doi": "10.1093/qje/qjag031",
+      "url": "https://doi.org/10.1093/qje/qjag031"
+    },
+    {
+      "title": "Can Discount Window Stigma Be Cured? An Experimental Investigation",
+      "authors": "Olivier Armantier, Charles Holt",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience. (JEL E58, G01, C92)</jats:p>",
+      "doi": "10.1093/rfs/hhag013",
+      "url": "https://doi.org/10.1093/rfs/hhag013"
     },
     {
       "title": "Beliefs About the Economy are Excessively Sensitive to Household-Level Shocks: Evidence from Linked Survey and Administrative Data",
