@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T06:08:20.159Z",
-  "count": 474,
+  "lastUpdated": "2026-06-24T06:08:19.671Z",
+  "count": 475,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -71,6 +71,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104319",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104319"
+    },
+    {
+      "title": "Trade credit and relationships",
+      "authors": "Felipe Benguria, Alvaro Garcia-Marin, Tim Schmidt-Eisenlohr",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104320",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104320"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -1013,12 +1023,12 @@
       "url": "https://doi.org/10.1093/qje/qjag028"
     },
     {
-      "title": "The Power of Proximity to Coworkers",
+      "title": "The Power of Proximity to Coworkres",
       "authors": "Natalia Emanuel, Emma Harrington, Amanda Pallais",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: (i) the office closures in 2020 and (ii) the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a tradeoff: experienced engineers write less code when sitting near teammates. In national US data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022−2024) compared to pre-pandemic (2017−2019), a pattern we do not observe in non-remotable jobs.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: the office closures in 2020 and the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a trade-off: experienced engineers write less code when sitting near teammates. In national U.S. data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022–2024) compared to pre-pandemic (2017–2019), a pattern we do not observe in non-remotable jobs.</jats:p>",
       "doi": "10.1093/qje/qjag027",
       "url": "https://doi.org/10.1093/qje/qjag027"
     },
@@ -1758,7 +1768,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-04-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the role of race and ethnicity in the mutual fund context at two distinct levels. At the fund manager level, we document a co-racial tilt—funds managed by minority-dominant (White-dominant) teams allocate larger portfolio weights to minority-led (White-led) firms. This tilt is not associated with superior performance. It diminishes as fund managers gain experience, suggesting the presence of inaccurate statistical discrimination. At the investor level, we find that minority-led funds are penalized similarly to White-dominant funds for poor performance but are not rewarded as much for superior performance. Overall, our results uncover race-related investment choices at both levels.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the role of race and ethnicity in the mutual fund context at two distinct levels. At the fund manager level, we document a co-racial tilt—funds managed by minority-dominant (White-dominant) teams allocate larger portfolio weights to minority-led (White-led) firms. This tilt is not associated with superior performance. It diminishes as fund managers gain experience, suggesting the presence of inaccurate statistical discrimination. At the investor level, we find that minority-dominant funds are penalized similarly to White-dominant funds for poor performance but are not rewarded as much for superior performance. Overall, our results uncover race-related investment choices at both levels.</jats:p>",
       "doi": "10.1093/rfs/hhag038",
       "url": "https://doi.org/10.1093/rfs/hhag038"
     },
@@ -2468,7 +2478,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-04-01",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that the Democratic Party’s evolution on economic policy helps explain partisan realignment by education. First, we document that educated Americans differentially oppose “predistribution” (e.g., job guarantees, higher minimum wages, protectionism, and stronger unions), while the educational gradient for redistribution (taxes and transfers) is close to zero. These relationships have been largely unchanged since the 1940s. Second, focusing on politicians and donors as key party actors, we show that the Democratic Party has moved away from predistribution since the 1970s. The number of predistribution bills introduced by Democratic House Speakers has declined by half since the 1970s. Unions—the traditional lobbying force for predistribution—see their share of Democratic Party PAC donations decline from ninety to forty percent from 1968 to 1980, following 1970s legislation that facilitated corporate PAC donations. From 1980 onward, the Democrats rely increasingly on individual contributions from educated donors relative to the Republicans. We show the increased reliance on corporate PACs and educated donors is driven by the rise of a self-described “New Democrat’ faction particularly conservative on pre-distribution and social issues. Finally, we trace out the reaction of voters to these changes in the Democratic Party. Less-educated Americans begin to leave the party in the 1970s, after decades of serving as its base. We also show that in the crucial transition period of the 1970s through 1990s, New Democrat candidates out-perform other Democrats among more-educated voters in both survey questions and actual Congressional elections. As the New Democrats are more socially conservative than other Democrats, their success with educated voters suggests that social issues alone cannot explain educational realignment.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that the Democratic Party’s evolution on economic policy helps explain partisan realignment by education. First, we document that educated Americans differentially oppose “predistribution” (e.g., job guarantees, higher minimum wages, protectionism, and stronger unions), while the educational gradient for redistribution (taxes and transfers) is close to zero. These relationships have been largely unchanged since the 1940s. Second, focusing on politicians and donors as key party actors, we show that the Democratic Party has moved away from predistribution since the 1970s. The number of predistribution bills introduced by Democratic House Speakers has declined by half since the 1970s. Unions—the traditional lobbying force for predistribution—see their share of Democratic Party PAC donations decline from 90% to 40% from 1968 to 1980, following 1970s legislation that facilitated corporate PAC donations. From 1980 onward, the Democrats rely increasingly on individual contributions from educated donors relative to the Republicans. We show the increased reliance on corporate PACs and educated donors is driven by the rise of a self-described “New Democrat’’ faction particularly conservative on predistribution and social issues. Finally, we trace the reaction of voters to these changes in the Democratic Party. Less-educated Americans begin to leave the party in the 1970s, after decades of serving as its base. We also show that in the crucial transition period of the 1970s through 1990s, New Democrat candidates outperform other Democrats among more-educated voters in both survey questions and actual Congressional elections. As the New Democrats are more socially conservative than other Democrats, their success with educated voters suggests that social issues alone cannot explain educational realignment.</jats:p>",
       "doi": "10.1093/qje/qjag019",
       "url": "https://doi.org/10.1093/qje/qjag019"
     },
