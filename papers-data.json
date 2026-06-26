@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T06:07:05.398Z",
+  "lastUpdated": "2026-06-26T06:12:06.162Z",
   "count": 475,
   "papers": [
     {
@@ -221,6 +221,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "Twin Defaults and Bank Capital Requirements",
+      "authors": "Caterina Mendicino, Kalin Nikolov, Juan Rubio‐ramirez, Javier Suarez, Dominik Supera",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-06-25",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We examine optimal capital requirements in a quantitative general equilibrium model with banks exposed to nondiversifiable borrower default risk. Contrary to standard models of bank default risk, our framework captures the limited upside, but significant downside risk of loan portfolio returns. This helps to reproduce the frequency and severity of\n                    <jats:italic>twin defaults</jats:italic>\n                    : simultaneously high firm and bank defaults. Hence, the optimal bank capital requirement, which trades off a lower frequency of twin defaults against restricting credit provision, is higher than under default risk models which underestimate the impact of borrower default on bank solvency.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70058",
+      "url": "https://doi.org/10.1111/jofi.70058"
     },
     {
       "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
@@ -458,7 +468,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a dynamic theory of “Partial Equilibrium Thinking” (PET), which micro-founds time-varying return extrapolation: extrapolative beliefs are present at all times, but only sometimes manifest themselves in explosive ways. We formalize the distinction between normal times shocks and “displacement shocks,” and study their interaction with extrapolative beliefs. In normal times, PET generates constant extrapolation and momentum. After a displacement shock that increases uncertainty, PET leads to stronger and time-varying extrapolation, triggering bubbles and endogenous crashes. Our theory sheds light on both market dynamics in normal times and Kindleberger’s narrative of bubbles within a unified framework. (JEL D84, G12, G41)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a dynamic theory of “Partial Equilibrium Thinking” (PET), which micro-founds time-varying return extrapolation: extrapolative beliefs are present at all times, but only sometimes manifest themselves in explosive ways. We formalize the distinction between normal times shocks and “displacement shocks,” and study their interaction with extrapolative beliefs. In normal times, PET generates constant extrapolation and momentum. After a displacement shock that increases uncertainty, PET leads to stronger and time-varying extrapolation, triggering bubbles and endogenous crashes. Our theory sheds light on both market dynamics in normal times and Kindleberger’s narrative of bubbles within a unified framework.</jats:p>",
       "doi": "10.1093/rfs/hhag053",
       "url": "https://doi.org/10.1093/rfs/hhag053"
     },
@@ -888,7 +898,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-05-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock markets play a dual role: they provide information about firms’ fundamentals, which improves resource allocations, and they provide liquidity. We propose a setting in which these two roles interact: if stocks are used more intensively for liquidity, then prices reveal less information about fundamentals. We structurally estimate stock price informativeness for several countries and show that it declines when alternative liquidity sources, such as banks, are in distress. To study the real effects of this mechanism, we devise a strategy to integrate our stock-trading module into a dynamic general equilibrium model with heterogeneous firms. We calibrate the model to the US and simulate recessions with and without banking distress. In a stand-alone recession, prices become more informative, and allocation improves, mitigating output losses by 4.4%. If the recession coincides with banking distress, agents rely more on stock markets to obtain liquidity, prices become less informative, and allocation deteriorates, magnifying output losses by 22%.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock markets play a dual role: they provide information about firms’ fundamentals, which improves resource allocations, and they provide liquidity. We propose a setting in which these two roles interact: if stocks are used more intensively for liquidity, then prices reveal less information about fundamentals. We structurally estimate stock price informativeness for several countries and show that it declines when alternative liquidity sources, such as banks, are in distress. To study the real effects of this mechanism, we devise a strategy to integrate our stock-trading module into a dynamic general equilibrium model with heterogeneous firms. We calibrate the model to the United States and simulate recessions with and without banking distress. In a standalone recession, prices become more informative and allocation improves, mitigating output losses by 4.4%. If the recession coincides with banking distress, agents rely more on stock markets to obtain liquidity, prices become less informative, and allocation deteriorates, magnifying output losses by 22%.</jats:p>",
       "doi": "10.1093/qje/qjag029",
       "url": "https://doi.org/10.1093/qje/qjag029"
     },
@@ -1058,7 +1068,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a novel measure of investment companies’ reliance on generative artificial intelligence (GenAI), we document a sharp increase in GenAI usage by hedge funds after ChatGPT’s 2022 launch. A difference-in-differences test shows that hedge funds adopting GenAI earn 2-4% higher annualized abnormal returns than nonadopters, while non-hedge funds do not benefit. The outperformance originates from funds’ AI talent and ChatGPT’s strength in analyzing firm-specific information. We conduct a new survey of fund managers’ GenAI usage to provide direct validation of our measure and offer additional new insights on how managers adopt GenAI tools in their practice. (JEL C81, G11, G14, G23)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a novel measure of investment companies’ reliance on generative artificial intelligence (GenAI), we document a sharp increase in GenAI usage by hedge funds after ChatGPT’s 2022 launch. A difference-in-differences test shows that hedge funds adopting GenAI earn 2-4% higher annualized abnormal returns than nonadopters, while non-hedge funds do not benefit. The outperformance originates from funds’ AI talent and ChatGPT’s strength in analyzing firm-specific information. We conduct a new survey of fund managers’ GenAI usage to provide direct validation of our measure and offer additional new insights on how managers adopt GenAI tools in their practice.</jats:p>",
       "doi": "10.1093/rfs/hhag050",
       "url": "https://doi.org/10.1093/rfs/hhag050"
     },
@@ -1108,7 +1118,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-05-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how capital supply from mutual funds affects municipal bond financing, making three key contributions. First, we introduce an identification strategy using the rule-based update of Morningstar ratings for 5-year-old funds, isolating supply-side effects from fund and issuer fundamentals. The results indicate that exogenous fund flows increase bond issuance probability and decrease yields. Second, these fund flows lead to more issuances when funds and issuers are connected through underwriters, highlighting relationship lending in municipal bond financing. Third, municipal issuers leverage favorable financing conditions for new issuance of revenue bonds, which translates into higher local house prices. (JEL G23, G32, H74)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how capital supply from mutual funds affects municipal bond financing, making three key contributions. First, we introduce an identification strategy using the rule-based update of Morningstar ratings for 5-year-old funds, isolating supply-side effects from fund and issuer fundamentals. The results indicate that exogenous fund flows increase bond issuance probability and decrease yields. Second, these fund flows lead to more issuances when funds and issuers are connected through underwriters, highlighting relationship lending in municipal bond financing. Third, municipal issuers leverage favorable financing conditions for new issuance of revenue bonds, which translates into higher local house prices.</jats:p>",
       "doi": "10.1093/rfs/hhag048",
       "url": "https://doi.org/10.1093/rfs/hhag048"
     },
@@ -4741,16 +4751,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How do resolution frameworks affect the private restructuring of distressed banks? We model a bank’s shareholders and creditors negotiating a restructuring, under two frictions: asymmetric information about asset quality and externalities on the government. High-quality banks signal themselves by delaying the negotiation, which is socially inefficient. Public policies can improve welfare if they reduce the signaling motive or increase the negotiation surplus. Stricter bail-in rules make debt more information sensitive and increase delays. The bank chooses a capital structure with too little renegotiable debt, giving a new rationale, for example, for Total Loss Absorbing Capacity requirements.</jats:p>",
       "doi": "10.1093/rfs/hhaf113",
       "url": "https://doi.org/10.1093/rfs/hhaf113"
-    },
-    {
-      "title": "The Long‐Lasting Effects of Experiencing Communism on Attitudes toward Financial Markets",
-      "authors": "Christine Laudenbach, Ulrike Malmendier, Alexandra Niessen‐ruenzi",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2025-12-25",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that exposure to anti‐capitalist ideology can exert a lasting influence on attitudes toward capital markets and stock market participation. Using novel survey, bank, and broker data, we document that, decades after Germany's reunification, East Germans invest significantly less in stocks and hold more negative views on capital markets. Effects vary by personal experience under communism. Results are strongest for individuals who remember life in the German Democratic Republic positively, for example, those living in a “showcase city.” Results reverse for those with negative experiences like environmental pollution or lack of Western TV entertainment.</jats:p>",
-      "doi": "10.1111/jofi.70006",
-      "url": "https://doi.org/10.1111/jofi.70006"
     }
   ]
 }
