@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T06:12:06.162Z",
-  "count": 475,
+  "lastUpdated": "2026-06-27T05:54:43.804Z",
+  "count": 476,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -221,6 +221,86 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104292",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104292"
+    },
+    {
+      "title": "The Origin of the State: Land Productivity or Appropriability? A Comment",
+      "authors": "Nikolai Cook, Thibaut Duprey, Anthony Heyes, Martino Pelli",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740225",
+      "url": "https://doi.org/10.1086/740225"
+    },
+    {
+      "title": "The Gas Trap: Outcompeting Coal versus Renewables",
+      "authors": "Bård Harstad, Katinka Holtsmark",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740172",
+      "url": "https://doi.org/10.1086/740172"
+    },
+    {
+      "title": "The Zero-Beta Interest Rate",
+      "authors": "Sebastian Di Tella, Benjamin Hébert, Pablo Kurlat, Qitong Wang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740220",
+      "url": "https://doi.org/10.1086/740220"
+    },
+    {
+      "title": "The Macroeconomic Consequences of Early Childhood Development Policies",
+      "authors": "Diego Daruich",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740224",
+      "url": "https://doi.org/10.1086/740224"
+    },
+    {
+      "title": "Training, Communications Patterns, and Spillovers inside Organizations",
+      "authors": "Miguel Espinosa, Christopher Stanton",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740219",
+      "url": "https://doi.org/10.1086/740219"
+    },
+    {
+      "title": "Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo            Paga",
+      "authors": "Juliana Londoño-Vélez, Catherine Rodríguez, Fabio Sánchez, Luis Esteban Álvarez-Arango",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740226",
+      "url": "https://doi.org/10.1086/740226"
+    },
+    {
+      "title": "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search",
+      "authors": "Jason Abaluck, Giovanni Compiani, Fan Zhang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1086/740223",
+      "url": "https://doi.org/10.1086/740223"
+    },
+    {
+      "title": "Mutual Fund Flows at Long Horizons",
+      "authors": "Hendrik Bessembinder, Shuaiyu Chen, Michael J Cooper, Jinming Xue, Feng Zhang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that positive flows to active mutual funds with high recent returns partially reverse at longer horizons. This outcome is robust across a broad range of alternative specifications. Reversal occurs from greater outflows associated with high prior returns, not reduced inflows. We test theories to explain the reversal: investment life cycles, tax loss selling, and a behavioral “disappointment” hypothesis based on investors’ overreaction to positive returns. While both tax loss selling and short investor life cycles can contribute, the evidence supports a role for investor disappointment, whereby investors redeem their capital when return performance fails to meet expectations. (JEL G10, G23)</jats:p>",
+      "doi": "10.1093/rfs/hhag059",
+      "url": "https://doi.org/10.1093/rfs/hhag059"
     },
     {
       "title": "Twin Defaults and Bank Capital Requirements",
@@ -893,6 +973,26 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101909"
     },
     {
+      "title": "Passed Over for Promotion: Evidence from Middle-Level Managers",
+      "authors": "Fei Du, Yudan Li, Wei Luo, Yue Ma",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using data from a large telecom service provider in China between 2014 and 2019, we examine the impact of being passed over for promotion on subsequent performance for middle managers. Specifically, we find that there is a negative association between high promotion probability and post-pass over performance changes. Such negative association is less pronounced when bonus incentives are stronger and when promotions are more predictable. Our research highlights a hidden cost of promotion incentives and strategies organizations can use to mitigate this unintended negative effect for promotion pass over on high performers.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are proprietary. Access to the data may be granted upon request, subject to the approval of the data providers and compliance with confidentiality agreements.</jats:p>\n                  <jats:p>JEL Classifications: M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0369",
+      "url": "https://doi.org/10.2308/tar-2024-0369"
+    },
+    {
+      "title": "The Influence of Data Visualizations on Investor Information Processing: Evidence from Earnings Conference Call Slideshows",
+      "authors": "Karson E. Fronk",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine the association between data visualizations in earnings conference call presentations and contemporaneous disclosure processing outcomes. I find that the use of data visualizations in this setting is associated with decreases in abnormal information asymmetry and increases in abnormal market liquidity. In addition, I find that data visualizations help investors process information when investors face greater acquisition and integration costs. Finally, I find that data visualizations are associated with increased trading activity and trade profitability for less-sophisticated investors. Overall, my results suggest that the use of data visualizations in earnings conference calls can reduce investors’ processing costs and improve market outcomes.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: D83; G14; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0638",
+      "url": "https://doi.org/10.2308/tar-2023-0638"
+    },
+    {
       "title": "Business, Liquidity, and Information Cycles",
       "authors": "Gorkem Bostanci, Guillermo Ordoñez",
       "journal": "Quarterly Journal of Economics",
@@ -1123,16 +1223,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag048"
     },
     {
-      "title": "The Origin of the State: Land Productivity or Appropriability? Comment",
-      "authors": "Nikolai Cook, Thibaut Duprey, Anthony Heyes, Martino Pelli",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-05-08",
-      "abstract": "",
-      "doi": "10.1086/740225",
-      "url": "https://doi.org/10.1086/740225"
-    },
-    {
       "title": "Partisan Entrepreneurship",
       "authors": "Joseph Engelberg, Jorge Guzman, Runjing Lu, William Mullins",
       "journal": "Journal of Finance",
@@ -1181,16 +1271,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Recent work within accounting and finance has highlighted that modern AI systems exhibit superhuman performance on a variety of foundational activities within these fields. However, the literature often does not provide economic rationale for\n                    <jats:italic>why</jats:italic>\n                    AI models seem to outperform, largely because these models are a black box. Through a series of experiments, I set out to open the black box and provide direct evidence on\n                    <jats:italic>how</jats:italic>\n                    and\n                    <jats:italic>why</jats:italic>\n                    AI models appear to perform so well on accounting and finance‐related tasks. I show that much of the superior performance of AI models can be attributed to artifacts of the modeling itself, rather than to mechanisms grounded in economics. Focusing on two key components of AI models, which may bias inferences in papers that rely on them, I first show that Large Language Model (LLMs) exhibit extremely poor numerical reasoning and thus application in these settings should proceed with caution. Second, I highlight that commercial LLMs suffer from significant look‐ahead bias, which may explain a large portion of their predictive ability in various settings.\n                  </jats:p>",
       "doi": "10.1111/1475-679x.70058",
       "url": "https://doi.org/10.1111/1475-679x.70058"
-    },
-    {
-      "title": "The Gas Trap: Outcompeting Coal versus Renewables",
-      "authors": "Bård Harstad, Katinka Holtsmark",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-05-05",
-      "abstract": "",
-      "doi": "10.1086/740172",
-      "url": "https://doi.org/10.1086/740172"
     },
     {
       "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
@@ -1641,16 +1721,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101904",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101904"
-    },
-    {
-      "title": "The Zero-Beta Interest Rate",
-      "authors": "Sebastian Di Tella, Benjamin Hébert, Pablo Kurlat, Qitong Wang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-30",
-      "abstract": "",
-      "doi": "10.1086/740220",
-      "url": "https://doi.org/10.1086/740220"
     },
     {
       "title": "The Cost of Regulatory Compliance in the United States",
@@ -2164,7 +2234,7 @@
     },
     {
       "title": "Robust Estimation and Inference in Panels with Interactive Fixed Effects",
-      "authors": "Timothy Armstrong, Martin Weidner, Andrei Zeleneev",
+      "authors": "Timothy B. Armstrong, Martin Weidner, Andrei Zeleneev",
       "journal": "Journal of Political Economy",
       "field": "Economics",
       "date": "2026-04-02",
@@ -2174,7 +2244,7 @@
     },
     {
       "title": "Exchange Rates and Asset Prices in a Global Demand System",
-      "authors": "Ralph S.J. Koijen, Motohiro Yogo",
+      "authors": "Ralph S. J. Koijen, Motohiro Yogo",
       "journal": "Journal of Political Economy",
       "field": "Economics",
       "date": "2026-04-02",
@@ -4353,16 +4423,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70035"
     },
     {
-      "title": "The Macroeconomic Consequences of Early Childhood Development Policies",
-      "authors": "Diego Daruich",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740224",
-      "url": "https://doi.org/10.1086/740224"
-    },
-    {
       "title": "Sleep: Educational Impact and Habit Formation",
       "authors": "Osea Giuntella, Silvia Saccardo, Sally Sadoff",
       "journal": "Journal of Political Economy",
@@ -4381,36 +4441,6 @@
       "abstract": "",
       "doi": "10.1086/740222",
       "url": "https://doi.org/10.1086/740222"
-    },
-    {
-      "title": "Training, Communications Patterns, and Spillovers inside Organizations",
-      "authors": "Miguel Espinosa, Christopher Stanton",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740219",
-      "url": "https://doi.org/10.1086/740219"
-    },
-    {
-      "title": "Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo Paga",
-      "authors": "Juliana Londoño-Vélez, Catherine Rodríguez, Fabio Sánchez, Luis Esteban Álvarez-Arango",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740226",
-      "url": "https://doi.org/10.1086/740226"
-    },
-    {
-      "title": "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search",
-      "authors": "Jason Abaluck, Giovanni Compiani, Fan Zhang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740223",
-      "url": "https://doi.org/10.1086/740223"
     },
     {
       "title": "Default Risk and the Pricing of U.S. Sovereign Bonds",
@@ -4731,26 +4761,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Rapid credit expansions predict lower output growth and banking crises, but does it matter who finances them? We identify the ultimate counterparties financing credit expansions in a panel of 33 advanced economies and find that foreign-financed household credit expansions predict lower GDP growth and higher crisis risk, but domestically financed credit expansions do not. Studying the mechanisms, we find that foreign-financed household credit expansions are accompanied by higher supply of foreign capital (reflected in low credit spreads), are followed by elevated credit cycle reversal risk, and lead to higher debt service payments to foreigners which depress aggregate demand.</jats:p>",
       "doi": "10.1093/rfs/hhaf114",
       "url": "https://doi.org/10.1093/rfs/hhaf114"
-    },
-    {
-      "title": "Mortgage Design, Repayment Schedules, and Household Borrowing",
-      "authors": "Claes Bäckman, Patrick Moran, Peter van Santen",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does the design of debt repayment schedules affect household borrowing? To answer this question, we exploit a Swedish policy reform that eliminated interest-only mortgages for loan-to-value ratios above 50%. We document substantial bunching at the threshold, leading to 5% lower borrowing. Wealthy borrowers drive the results, challenging credit constraints as the primary explanation. We develop a model to evaluate the mechanisms driving household behavior and find that much of the effect comes from households experiencing ongoing flow disutility to amortization payments. Our results indicate that mortgage contracts with low initial payments substantially increase household borrowing and lifetime interest costs.</jats:p>",
-      "doi": "10.1093/rfs/hhaf115",
-      "url": "https://doi.org/10.1093/rfs/hhaf115"
-    },
-    {
-      "title": "Financial Restructuring and Resolution of Banks",
-      "authors": "Jean-Edouard Colliard, Denis Gromb",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How do resolution frameworks affect the private restructuring of distressed banks? We model a bank’s shareholders and creditors negotiating a restructuring, under two frictions: asymmetric information about asset quality and externalities on the government. High-quality banks signal themselves by delaying the negotiation, which is socially inefficient. Public policies can improve welfare if they reduce the signaling motive or increase the negotiation surplus. Stricter bail-in rules make debt more information sensitive and increase delays. The bank chooses a capital structure with too little renegotiable debt, giving a new rationale, for example, for Total Loss Absorbing Capacity requirements.</jats:p>",
-      "doi": "10.1093/rfs/hhaf113",
-      "url": "https://doi.org/10.1093/rfs/hhaf113"
     }
   ]
 }
