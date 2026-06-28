@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T05:54:43.804Z",
-  "count": 476,
+  "lastUpdated": "2026-06-28T06:18:59.345Z",
+  "count": 478,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -81,6 +81,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104320",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104320"
+    },
+    {
+      "title": "Changing the board game: Horizontal spillovers of gender quotas",
+      "authors": "Luigi Guiso, Fabiano Schivardi, Luana Zaccaria",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104326",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104326"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -991,6 +1001,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine the association between data visualizations in earnings conference call presentations and contemporaneous disclosure processing outcomes. I find that the use of data visualizations in this setting is associated with decreases in abnormal information asymmetry and increases in abnormal market liquidity. In addition, I find that data visualizations help investors process information when investors face greater acquisition and integration costs. Finally, I find that data visualizations are associated with increased trading activity and trade profitability for less-sophisticated investors. Overall, my results suggest that the use of data visualizations in earnings conference calls can reduce investors’ processing costs and improve market outcomes.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: D83; G14; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0638",
       "url": "https://doi.org/10.2308/tar-2023-0638"
+    },
+    {
+      "title": "The Effects of Tax Clienteles on Disclosure: Evidence from the Municipal Bond Market",
+      "authors": "Novia Chen, Michelle Hutchens, Junwei Xia",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101910",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101910"
     },
     {
       "title": "Business, Liquidity, and Information Cycles",
