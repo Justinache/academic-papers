@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T06:47:49.293Z",
-  "count": 478,
+  "lastUpdated": "2026-06-30T06:11:59.893Z",
+  "count": 479,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -91,6 +91,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104326",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104326"
+    },
+    {
+      "title": "Forecast bias across horizons: Inflation expectations and the Treasury yields",
+      "authors": "Hao Pang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104327",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104327"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -301,6 +311,16 @@
       "abstract": "",
       "doi": "10.1086/740223",
       "url": "https://doi.org/10.1086/740223"
+    },
+    {
+      "title": "Emission Caps and Investment in Green Technologies",
+      "authors": "Bruno Biais, Augustin Landier",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the interaction between firms, which can invest in green technologies, and a government, which can impose emission caps but has limited commitment power. Investment in green technologies generates innovation spillovers, reducing the cost of further investments. Spillovers generate intertemporal strategic complementarities between firms and government, and equilibrium multiplicity. In a “green equilibrium”, firms, anticipating caps, invest in green technologies, which reduces the cost of further investment, making the government willing to cap emissions. In a “brown equilibrium”, firms, anticipating no caps, don’t invest, so green technologies remain costly and the government gives up on emission caps. (JEL Q54, Q55, Q58, H23, O33)</jats:p>",
+      "doi": "10.1093/rfs/hhag060",
+      "url": "https://doi.org/10.1093/rfs/hhag060"
     },
     {
       "title": "Mutual Fund Flows at Long Horizons",
@@ -528,7 +548,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-06-05",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present a theory of choice in which attention to the features of options is determined by the decision maker’s categorization of the current problem in a set of problems she solved in the past. Categorization depends on goal-relevant and contextual problem-level features. The model yields heterogeneity in attention and choice in a given problem based on different past experiences and instability when changes in irrelevant context cause re-categorization. We show that heterogeneous and unstable representations of a choice problem unify major biases in judgment and decision making.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present a theory of choice in which attention to the features of options is determined by the decision maker’s categorization of the current problem in a set of problems she solved in the past. Categorization depends on goal-relevant and contextual problem-level features. The model yields heterogeneity in attention and choice in a given problem based on different past experiences and instability when changes in irrelevant context cause recategorization. We show that heterogeneous and unstable representations of a choice problem unify major biases in judgment and decision making.</jats:p>",
       "doi": "10.1093/qje/qjag023",
       "url": "https://doi.org/10.1093/qje/qjag023"
     },
@@ -973,7 +993,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101908"
     },
     {
-      "title": "Ideology-Driven Social Media Opinions and Capital Markets: Evidence from Polarizing Boycotts",
+      "title": "Ideology-driven social media opinions and capital markets: Evidence from polarizing boycotts",
       "authors": "Xue Li",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4771,16 +4791,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
-    },
-    {
-      "title": "When Two Become One: Foreign Capital and Household Credit Expansion",
-      "authors": "Lukas Diebold, Björn Richter",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2025-12-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Rapid credit expansions predict lower output growth and banking crises, but does it matter who finances them? We identify the ultimate counterparties financing credit expansions in a panel of 33 advanced economies and find that foreign-financed household credit expansions predict lower GDP growth and higher crisis risk, but domestically financed credit expansions do not. Studying the mechanisms, we find that foreign-financed household credit expansions are accompanied by higher supply of foreign capital (reflected in low credit spreads), are followed by elevated credit cycle reversal risk, and lead to higher debt service payments to foreigners which depress aggregate demand.</jats:p>",
-      "doi": "10.1093/rfs/hhaf114",
-      "url": "https://doi.org/10.1093/rfs/hhaf114"
     }
   ]
 }
