@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T06:11:59.893Z",
-  "count": 479,
+  "lastUpdated": "2026-07-01T06:26:54.524Z",
+  "count": 485,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -311,6 +311,146 @@
       "abstract": "",
       "doi": "10.1086/740223",
       "url": "https://doi.org/10.1086/740223"
+    },
+    {
+      "title": "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power",
+      "authors": "Horng Chern Wong",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>I study how firm market power and worker bargaining power shape wages and welfare. Using French micro-data, I document patterns linking wages and firm market power that existing models cannot explain. A model in which firms produce vertically differentiated goods and share profits with workers explains those patterns. The model (i) reveals new challenges in estimating monopsony and bargaining power, proposing an alternative approach; (ii) shows that the passthrough of firm-specific shocks to wages depends on the type of shock; (iii) explains how markups shape firm wage premia; and (iv) formalizes how strengthening worker bargaining power affects wages and welfare. (JEL D22, J31, J42, J52, L12, L22)</jats:p>",
+      "doi": "10.1257/aer.20230344",
+      "url": "https://doi.org/10.1257/aer.20230344"
+    },
+    {
+      "title": "Germs in the Family: The Short- and Long-Term Consequences of Intrahousehold Disease Spread",
+      "authors": "N. Meltem Daysal, Hui Ding, Maya Rossin-Slater, Hannes Schwandt",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>Preschool-aged children get sick frequently and spread disease to other family members. Despite the universality of this experience, there is limited causal evidence on the magnitudes and consequences of these externalities, especially for infant siblings with developing immune systems and brains. We show in Danish administrative data that during infancy, younger siblings have two to three times higher hospitalization rates for respiratory conditions than older siblings. We combine birth order and within-municipality variation in respiratory disease prevalence among young children, finding lasting differential impacts of early-life respiratory disease exposure on younger siblings' earnings, educational attainment, chronic respiratory health, and mental health-related outcomes. (JEL D13, D62, I12, J12, J13, J24, J31)</jats:p>",
+      "doi": "10.1257/aer.20231521",
+      "url": "https://doi.org/10.1257/aer.20231521"
+    },
+    {
+      "title": "The Aggregate Costs of Uninsurable Business Risk",
+      "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)</jats:p>",
+      "doi": "10.1257/aer.20230849",
+      "url": "https://doi.org/10.1257/aer.20230849"
+    },
+    {
+      "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
+      "authors": "Matthew A. Masten, Alexandre Poirier",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)</jats:p>",
+      "doi": "10.1257/aer.20230242",
+      "url": "https://doi.org/10.1257/aer.20230242"
+    },
+    {
+      "title": "The Effect of High-Tech Clusters on the Productivity of Top Inventors: Comment",
+      "authors": "Michael Wiebe",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>Moretti (2021) reports a positive elasticity between technology cluster size and patenting, and uses an event study and instrumental variables regressions to justify a causal interpretation. The event study does not use the variation generated by inventors moving across cities, and the instrument is constructed incorrectly due to a coding error. I run a corrected event study and fix the coding error, and find null effects. The reported elasticity may not be causal. (JEL J24, L60, O31, O34, R32)</jats:p>",
+      "doi": "10.1257/aer.20231415",
+      "url": "https://doi.org/10.1257/aer.20231415"
+    },
+    {
+      "title": "Self-Fulfilling Fluctuations in HANK Economies",
+      "authors": "Sushant Acharya, Jess Benhabib",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>We show that in heterogeneous agent New Keynesian (HANK) economies with countercyclical risk, the natural interest rate is endogenous and co-moves with output, leaving the economy susceptible to self-fulfilling fluctuations. Unlike in representative agent New Keynesian models, the Taylor principle is not sufficient to guarantee uniqueness of equilibrium in HANK if risk is even mildly countercyclical: Multiple bounded equilibria exist, no matter how strongly monetary policy responds to changes in inflation. For an active monetary policy to eliminate self-fulfilling fluctuations, it must stabilize the endogenous natural rate fluctuations. Alternatively, a passive monetary and active fiscal regime can also eliminate equilibrium multiplicity. (JEL E12, E23, E31, E32, E43, E52, E62)</jats:p>",
+      "doi": "10.1257/aer.20240642",
+      "url": "https://doi.org/10.1257/aer.20240642"
+    },
+    {
+      "title": "A Theory of Price Caps on Nonrenewable Resources",
+      "authors": "Simon Johnson, Lukasz Rachel, Catherine Wolfram",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances. (JEL F12, F14, F51, L71, P28, P33, Q35)</jats:p>",
+      "doi": "10.1257/aer.20250064",
+      "url": "https://doi.org/10.1257/aer.20250064"
+    },
+    {
+      "title": "Ideological Alignment and Evidence-Based Policy Adoption",
+      "authors": "Jorge García-Hombrados, Marcel Jansen, Ángel Martínez, Berkay Özcan, Pedro Rey-Biel, Antonio Roldán-Monés",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>The implementation of evidence-based policies hinges on the dissemination of evidence to policymakers, a process influenced by the attributes of the sender. We conducted a nationwide RCT with ideologically opposite think tanks, major newspapers, and a research institution with nonsalient ideology to communicate a nonideological, cost-effective policy to local policymakers. Results show a 65 percent increase in policy adoption when informing institutions align ideologically with policymakers. We compare the impact of think tanks versus media outlets on implementation, finding both equally effective when ideologically aligned. We explore three actions where ideology may influence adoption: information exposure, belief updating and implementation. (JEL C93, D72, D78, D83, I23)</jats:p>",
+      "doi": "10.1257/aer.20240673",
+      "url": "https://doi.org/10.1257/aer.20240673"
+    },
+    {
+      "title": "Monetary Policy without Commitment",
+      "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)</jats:p>",
+      "doi": "10.1257/aer.20241925",
+      "url": "https://doi.org/10.1257/aer.20241925"
+    },
+    {
+      "title": "A Welfare Analysis of Policies Impacting Climate Change",
+      "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)</jats:p>",
+      "doi": "10.1257/aer.20250166",
+      "url": "https://doi.org/10.1257/aer.20250166"
+    },
+    {
+      "title": "Nobel Lecture: The Economics of Creative Destruction",
+      "authors": "Philippe Aghion",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1257/aer.116.7.2324",
+      "url": "https://doi.org/10.1257/aer.116.7.2324"
+    },
+    {
+      "title": "Market Opacity and Fragility: Why Liquidity Evaporates When It Is Most Needed",
+      "authors": "Giovanni Cespa, Xavier Vives",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:p>Lack of market transparency can impair the liquidity provision of nonstandard liquidity suppliers and make liquidity demand increasing in illiquidity. This can yield strategic complementarities and induce multiple equilibria. Then an initial dearth of liquidity may degenerate into a liquidity rout (as in a “flash crash”), and traders faced with the largest cost of trading are those trading more intensely at equilibrium. An increase in order flow transparency and/or in the mass of dealers who are in the market at all times has a positive impact on total welfare. (JEL G12, G14, G41)</jats:p>",
+      "doi": "10.1257/aer.20231613",
+      "url": "https://doi.org/10.1257/aer.20231613"
+    },
+    {
+      "title": "Nobel Lecture: Creative Destruction and Economic Growth",
+      "authors": "Peter Howitt",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1257/aer.116.7.2357",
+      "url": "https://doi.org/10.1257/aer.116.7.2357"
+    },
+    {
+      "title": "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained?",
+      "authors": "Joel Mokyr",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1257/aer.116.7.2299",
+      "url": "https://doi.org/10.1257/aer.116.7.2299"
     },
     {
       "title": "Emission Caps and Investment in Green Technologies",
@@ -1031,6 +1171,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101910",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101910"
+    },
+    {
+      "title": "Disclosure Spillovers Through ESG Ratings",
+      "authors": "Tanja Keeve",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-06-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine how mandatory ESG disclosure regulations transmit to unregulated firms through ESG rating agencies’ peer benchmarking. Using the United Kingdom’s 2017 gender pay gap (GPG) disclosure mandate with its expected positive rating consequences for regulated U.K. firms, I show that unregulated firms with similar Refinitiv ESG ratings are significantly more likely to voluntarily disclose GPG information after the mandate. The effect is more pronounced when peers are defined by ESG rating similarity rather than market capitalization and is not driven by industry affiliation alone. Consistent with ESG ratings creating competitive pressures, spillovers are strongest when U.K. peers were initially lower ranked and when unregulated firms can report relatively better GPG performance. Further analyses show that these spillovers extend to other social disclosures and generalize to the European Union’s Non-Financial Reporting Directive. Overall, the paper highlights how ESG rating structures extend the reach of disclosure regulations beyond their formal scope.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M14; M48; D70.</jats:p>",
+      "doi": "10.2308/tar-2024-0327",
+      "url": "https://doi.org/10.2308/tar-2024-0327"
     },
     {
       "title": "Business, Liquidity, and Information Cycles",
@@ -4493,96 +4643,6 @@
       "url": "https://doi.org/10.1111/jofi.70014"
     },
     {
-      "title": "Implicit extrapolation and the beliefs channel of investment demand",
-      "authors": "Haoyang Liu, Christopher Palmer",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104172",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104172"
-    },
-    {
-      "title": "Policy news and stock market volatility",
-      "authors": "Scott R. Baker, Nicholas Bloom, Steven J. Davis, Kyle Kost",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104187",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104187"
-    },
-    {
-      "title": "How costly are cultural biases? Evidence from FinTech",
-      "authors": "Francesco D’Acunto, Pulak Ghosh, Alberto G. Rossi",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104202",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104202"
-    },
-    {
-      "title": "Securing technological leadership? The cost of export controls on firms",
-      "authors": "Matteo Crosignani, Lina Han, Marco Macchiavelli, André F. Silva",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104192",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104192"
-    },
-    {
-      "title": "Policy uncertainty reduces green innovation",
-      "authors": "Mengyu Wang, Jeffrey Wurgler, Hong Zhang",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104189",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104189"
-    },
-    {
-      "title": "Institutions’ return expectations across assets and time",
-      "authors": "Magnus Dahlquist, Markus Ibert",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104188",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104188"
-    },
-    {
-      "title": "The canary in the coal decline: Appalachian household finance and the transition from fossil fuels",
-      "authors": "Joshua Blonz, Brigitte Roth Tran, Erin Troland",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104167",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104167"
-    },
-    {
-      "title": "Discount factors and monetary policy: Evidence from dual-listed stocks",
-      "authors": "Quentin Vandeweyer, Minghao Yang, Constantine Yannelis",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104190",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104190"
-    },
-    {
-      "title": "Demand disagreement",
-      "authors": "Christian Heyerdahl-Larsen, Philipp Illeditsch",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104191",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104191"
-    },
-    {
       "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
       "authors": "Henrik Sigstad",
       "journal": "American Economic Review",
@@ -4673,56 +4733,6 @@
       "url": "https://doi.org/10.1257/aer.20240167"
     },
     {
-      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
-      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/739334",
-      "url": "https://doi.org/10.1086/739334"
-    },
-    {
-      "title": "Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments",
-      "authors": "Elizabeth Caucutt, Lance Lochner, Joseph Mullins, Youngmin Park",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738480",
-      "url": "https://doi.org/10.1086/738480"
-    },
-    {
-      "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
-      "authors": "John A. List",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/739436",
-      "url": "https://doi.org/10.1086/739436"
-    },
-    {
-      "title": "Mentoring and Schooling Decisions: Causal Evidence",
-      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738484",
-      "url": "https://doi.org/10.1086/738484"
-    },
-    {
-      "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
-      "authors": "Emily Cuddy, Janet Currie",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738249",
-      "url": "https://doi.org/10.1086/738249"
-    },
-    {
       "title": "A Study of the Microdynamics of Early-Childhood Learning",
       "authors": "James J. Heckman, Jin Zhou",
       "journal": "Journal of Political Economy",
@@ -4753,14 +4763,54 @@
       "url": "https://doi.org/10.1086/738483"
     },
     {
-      "title": "A Structural Meta-Analysis of Welfare Reform Experiments and Their Impacts on Children",
-      "authors": "Joseph Mullins",
+      "title": "Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments",
+      "authors": "Elizabeth Caucutt, Lance Lochner, Joseph Mullins, Youngmin Park",
       "journal": "Journal of Political Economy",
       "field": "Economics",
       "date": "2026-01-01",
       "abstract": "",
-      "doi": "10.1086/738482",
-      "url": "https://doi.org/10.1086/738482"
+      "doi": "10.1086/738480",
+      "url": "https://doi.org/10.1086/738480"
+    },
+    {
+      "title": "Mentoring and Schooling Decisions: Causal Evidence",
+      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738484",
+      "url": "https://doi.org/10.1086/738484"
+    },
+    {
+      "title": "Why Don’t Struggling Students Do Their Homework? Disentangling Motivation and Study Productivity as Drivers of Human Capital Formation",
+      "authors": "Christopher S. Cotton, Brent R. Hickman, John A. List, Joseph Price, Sutanuka Roy",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738479",
+      "url": "https://doi.org/10.1086/738479"
+    },
+    {
+      "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
+      "authors": "John A. List",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/739436",
+      "url": "https://doi.org/10.1086/739436"
+    },
+    {
+      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
+      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/739334",
+      "url": "https://doi.org/10.1086/739334"
     },
     {
       "title": "Exercise Improves Academic Performance",
@@ -4773,14 +4823,24 @@
       "url": "https://doi.org/10.1086/738251"
     },
     {
-      "title": "Why Don’t Struggling Students Do Their Homework? Disentangling Motivation and Study Productivity as Drivers of Human Capital Formation",
-      "authors": "Christopher S. Cotton, Brent R. Hickman, John A. List, Joseph Price, Sutanuka Roy",
+      "title": "A Structural Meta-Analysis of Welfare Reform Experiments and Their Impacts on Children",
+      "authors": "Joseph Mullins",
       "journal": "Journal of Political Economy",
       "field": "Economics",
       "date": "2026-01-01",
       "abstract": "",
-      "doi": "10.1086/738479",
-      "url": "https://doi.org/10.1086/738479"
+      "doi": "10.1086/738482",
+      "url": "https://doi.org/10.1086/738482"
+    },
+    {
+      "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+      "authors": "Emily Cuddy, Janet Currie",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-01-01",
+      "abstract": "",
+      "doi": "10.1086/738249",
+      "url": "https://doi.org/10.1086/738249"
     },
     {
       "title": "Mandatory carbon disclosure and new business creation",
