@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T06:26:54.524Z",
-  "count": 485,
+  "lastUpdated": "2026-07-02T05:58:27.469Z",
+  "count": 467,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -101,6 +101,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104327",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104327"
+    },
+    {
+      "title": "Gambling away stability: Sports betting’s impact on vulnerable households",
+      "authors": "Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason Kotter, Kevin Pisciotta",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104330",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104330"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -453,6 +463,26 @@
       "url": "https://doi.org/10.1257/aer.116.7.2299"
     },
     {
+      "title": "Who Pays for Unions?",
+      "authors": "Samuel Dodini, Anna Stansbury, Alexander Willén",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less-attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses–and therefore who ultimately bears the cost-depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.</jats:p>",
+      "doi": "10.1093/qje/qjag034",
+      "url": "https://doi.org/10.1093/qje/qjag034"
+    },
+    {
+      "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
+      "authors": "Jefferson Duarte, Christopher S Jones, Mehdi Khorram, Haitao Mo, Junbo L Wang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-06-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Numerous trading strategies examined in options research exhibit remarkably high mean returns and Sharpe ratios. We show some of these seemingly “good deals” are due to look-ahead biases. These biases stem from using information unavailable at the portfolio formation time to filter out observations suspected of being noisy or erroneous. Our results suggest that elevated Sharpe ratios may serve as potential indicators of such look-ahead biases. Furthermore, deviating from previous literature findings, we show that illiquidity is not strongly priced in stock options and that only a small set of stock characteristics are in fact associated with option expected returns. (JEL G12, G14, G17)</jats:p>",
+      "doi": "10.1093/rfs/hhag061",
+      "url": "https://doi.org/10.1093/rfs/hhag061"
+    },
+    {
       "title": "Emission Caps and Investment in Green Technologies",
       "authors": "Bruno Biais, Augustin Landier",
       "journal": "Review of Financial Studies",
@@ -498,7 +528,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience. (JEL E58, G01, C92)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience.</jats:p>",
       "doi": "10.1093/rfs/hhag013",
       "url": "https://doi.org/10.1093/rfs/hhag013"
     },
@@ -518,7 +548,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-18",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A fundamental concern about green investing is that it may crowd out political support for public policies addressing negative externalities. We examine this concern in a preregistered experiment conducted shortly before a real referendum on a climate law in Switzerland. We find that offering an opportunity to invest in a climate-friendly fund does not reduce individual support for climate regulation, measured by political donations and voting intentions. A replication of the experiment in the United Kingdom yields similar results. Our estimates reject a crowding-out effect, suggesting instead a modest crowding-in effect of green investing on political support for green policies. (JEL D14, H42, G18, P16)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A fundamental concern about green investing is that it may crowd out political support for public policies addressing negative externalities. We examine this concern in a preregistered experiment conducted shortly before a real referendum on a climate law in Switzerland. We find that offering an opportunity to invest in a climate-friendly fund does not reduce individual support for climate regulation, measured by political donations and voting intentions. A replication of the experiment in the United Kingdom yields similar results. Our estimates reject a crowding-out effect, suggesting instead a modest crowding-in effect of green investing on political support for green policies.</jats:p>",
       "doi": "10.1093/rfs/hhag055",
       "url": "https://doi.org/10.1093/rfs/hhag055"
     },
@@ -1193,12 +1223,12 @@
       "url": "https://doi.org/10.1093/qje/qjag029"
     },
     {
-      "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities*",
+      "title": "Global Capital and Local Assets: House Prices, Quantities, and Elasticities",
       "authors": "Caitlin S Gorback, Benjamin J Keys",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-05-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We estimate price elasticities of housing supply for U.S. cities by examining the impact of foreign purchases on housing prices and quantities. After other countries introduced foreign-buyer taxes beginning in 2011, both house prices and quantities increased more in locations with high foreign-born populations. A 1% increase in global capital inflows, instrumented with tax policy changes scaled by immigrant exposure, increased prices and quantities by 3% and 0.5%, respectively, over 2011–2018. We combine these estimates to construct new local supply elasticities. Compared to prior estimates, our elasticities are more inelastic and change cities’ relative rankings.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We estimate price elasticities of housing supply for U.S. cities by examining the impact of foreign purchases on housing prices and quantities. After other countries introduced foreign-buyer taxes beginning in 2011, both house prices and quantities increased more in locations with high foreign-born populations. An increase in global capital inflows, instrumented with tax policy changes scaled by immigrant exposure, increased prices and quantities over 2011–2018. We combine these estimates to construct new local supply elasticities, which average 0.26 and range from 0.06 to 0.9. Compared to prior estimates, our elasticities are more inelastic and change cities’ relative rankings.</jats:p>",
       "doi": "10.1093/rfs/hhag040",
       "url": "https://doi.org/10.1093/rfs/hhag040"
     },
@@ -4641,216 +4671,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the relative pricing of nominal Treasury bonds and Treasury inflation‐protected securities in the presence of U.S. default risk. Hedged breakeven inflation is significantly positively related to U.S. default risk, driven by correlation between shocks to default risk and both shocks to inflation swap premia and Treasury yields. To understand the mechanisms through which default risk is related to inflation swaps and sovereign yields, we estimate an affine term structure model to capture their joint dynamics. Our estimation implies that the interaction between inflation dynamics and default is the primary source of differential pricing.</jats:p>",
       "doi": "10.1111/jofi.70014",
       "url": "https://doi.org/10.1111/jofi.70014"
-    },
-    {
-      "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
-      "authors": "Henrik Sigstad",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates. (JEL C26, K41, K42, O17)</jats:p>",
-      "doi": "10.1257/aer.20231104",
-      "url": "https://doi.org/10.1257/aer.20231104"
-    },
-    {
-      "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
-      "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas. (JEL G51, I32, I38, J12, R23)</jats:p>",
-      "doi": "10.1257/aer.20200108",
-      "url": "https://doi.org/10.1257/aer.20200108"
-    },
-    {
-      "title": "Monetary Cooperation during Global Inflation Surges",
-      "authors": "Luca Fornaro, Federica Romei",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>We study optimal monetary policy during times of global scarcity of tradable goods. The optimal monetary response entails a surge in inflation, which helps rebalance production toward the tradable sector. While the inflation costs are fully borne domestically, however, the gains in terms of higher supply of tradable goods partly spill over to the rest of the world. National central banks may thus fall into a coordination trap and implement an excessively tight monetary policy causing an unnecessarily sharp global contraction. (JEL E24, E31, E32, E52, F11, F31, F42)</jats:p>",
-      "doi": "10.1257/aer.20231018",
-      "url": "https://doi.org/10.1257/aer.20231018"
-    },
-    {
-      "title": "Across-Country Wage Compression in Multinationals",
-      "authors": "Jonas Hjort, Xuan Li, Heather Sarsons",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>Many employers link wages at establishments outside of the home region to the level at headquarters. We show this using new data on 1,200 multinationals’ establishments across the world and linked employee-level data on their establishments in Brazil. Headquarters wage changes arising from minimum wage and exchange rate shocks are partially transmitted to workers employed in the same position abroad. Wage change transmission appears to be direct and results from firm-wide wage-setting procedures rather than associated technology or employment changes. “Anchored” wage setting is somewhat associated with particular characteristics of the job × employer × headquarters-establishment country-pair. (JEL F23, F31, J24, J31, J38, M16, O15)</jats:p>",
-      "doi": "10.1257/aer.20200042",
-      "url": "https://doi.org/10.1257/aer.20200042"
-    },
-    {
-      "title": "Optimal Taxation and Market Power",
-      "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power. (JEL D24, D31, D43, H21, H23, H24, H25)</jats:p>",
-      "doi": "10.1257/aer.20211445",
-      "url": "https://doi.org/10.1257/aer.20211445"
-    },
-    {
-      "title": "Racial Disparities in Housing Returns",
-      "authors": "Amir Kermani, Francis Wong",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>We show that higher rates of distressed home sales (i.e., foreclosures and short sales) among Black and Hispanic homeowners severely reduce realized housing returns for these groups—in particular, to a level below that realized by White homeowners. Yet absent financial distress, houses owned by minorities do not appreciate at substantially slower rates than houses owned by nonminorities. Racial differences in liquidity and income stability, which are imperfectly observed by lenders, are important determinants of differences in distress. Policies that prevent foreclosure among distressed minorities can mitigate the racial gap in returns. (JEL D31, G51, J15, R31)</jats:p>",
-      "doi": "10.1257/aer.20240327",
-      "url": "https://doi.org/10.1257/aer.20240327"
-    },
-    {
-      "title": "Sequential Learning under Informational Ambiguity",
-      "authors": "Jaden Yang Chen",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>This paper investigates a sequential social learning problem in which individuals face ambiguity about others’ signal structures and have max-min expected utility preferences, thereby exhibiting ambiguity aversion. Unlike previous findings, which suggest that learning outcomes depend on the specifics of the learning environment, this study establishes information cascades as a robust outcome under ambiguity. With sufficient ambiguity, cascades arise almost surely, regardless of the statistical properties of signal structures. Moreover, standard results predicting the absence of cascades can easily break down: Even minimal ambiguity can trigger cascades when signals are bounded and lead to incorrect herding when signals are unbounded. (JEL D81, D82, D83)</jats:p>",
-      "doi": "10.1257/aer.20231394",
-      "url": "https://doi.org/10.1257/aer.20231394"
-    },
-    {
-      "title": "Tying with Network Effects",
-      "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a “quasi-installed base” advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects. (JEL D41, D85, K21, L15, L40)</jats:p>",
-      "doi": "10.1257/aer.20240461",
-      "url": "https://doi.org/10.1257/aer.20240461"
-    },
-    {
-      "title": "Gender-Biased Technological Change: Milking Machines and the Exodus of Women from Farming",
-      "authors": "Philipp Ager, Marc Goñi, Kjell G. Salvanes",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "<jats:p>This paper studies how gender-biased technological change in agriculture affected women’s work in twentieth-century Norway. In the 1950s, dairy farms began widely adopting milking machines to replace milking cows by hand, a task typically performed by young women. We show that the machines pushed rural young women in dairy-intensive areas out of farming. The displaced women moved to cities where they acquired more education and found better-paying, skilled employment. Our results suggest that the adoption of milking machines broke up allocative inefficiencies associated with moving costs across sectors, which improved the economic status of women relative to men. (JEL J16, J24, J43, J61, N34, N54, O33)</jats:p>",
-      "doi": "10.1257/aer.20240167",
-      "url": "https://doi.org/10.1257/aer.20240167"
-    },
-    {
-      "title": "A Study of the Microdynamics of Early-Childhood Learning",
-      "authors": "James J. Heckman, Jin Zhou",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/739256",
-      "url": "https://doi.org/10.1086/739256"
-    },
-    {
-      "title": "Parenting with Patience: Parental Incentives and Child Development",
-      "authors": "Daniela Del Boca, Christopher Flinn, Ewout Verriest, Matthew Wiswall",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738481",
-      "url": "https://doi.org/10.1086/738481"
-    },
-    {
-      "title": "Effects of Multigenerational Exposure to Early-Life Advantage: Lessons from a Primate Study",
-      "authors": "Amanda M. Dettmer, James J. Heckman, Juan Pantano, Victor Ronda, Stephen J. Suomi",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738483",
-      "url": "https://doi.org/10.1086/738483"
-    },
-    {
-      "title": "Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments",
-      "authors": "Elizabeth Caucutt, Lance Lochner, Joseph Mullins, Youngmin Park",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738480",
-      "url": "https://doi.org/10.1086/738480"
-    },
-    {
-      "title": "Mentoring and Schooling Decisions: Causal Evidence",
-      "authors": "Armin Falk, Fabian Kosse, Pia Pinger",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738484",
-      "url": "https://doi.org/10.1086/738484"
-    },
-    {
-      "title": "Why Don’t Struggling Students Do Their Homework? Disentangling Motivation and Study Productivity as Drivers of Human Capital Formation",
-      "authors": "Christopher S. Cotton, Brent R. Hickman, John A. List, Joseph Price, Sutanuka Roy",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738479",
-      "url": "https://doi.org/10.1086/738479"
-    },
-    {
-      "title": "The Economics of Scaling Early Childhood Programs: Lessons from the Chicago School",
-      "authors": "John A. List",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/739436",
-      "url": "https://doi.org/10.1086/739436"
-    },
-    {
-      "title": "It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects",
-      "authors": "Francesco Agostinelli, Matthias Doepke, Giuseppe Sorrenti, Fabrizio Zilibotti",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/739334",
-      "url": "https://doi.org/10.1086/739334"
-    },
-    {
-      "title": "Exercise Improves Academic Performance",
-      "authors": "Alexander W. Cappelen, Gary Charness, Mathias Ekström, Uri Gneezy, Bertil Tungodden",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738251",
-      "url": "https://doi.org/10.1086/738251"
-    },
-    {
-      "title": "A Structural Meta-Analysis of Welfare Reform Experiments and Their Impacts on Children",
-      "authors": "Joseph Mullins",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738482",
-      "url": "https://doi.org/10.1086/738482"
-    },
-    {
-      "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
-      "authors": "Emily Cuddy, Janet Currie",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1086/738249",
-      "url": "https://doi.org/10.1086/738249"
-    },
-    {
-      "title": "Mandatory carbon disclosure and new business creation",
-      "authors": "Raphael Duguay, Chenchen Li, Frank Zhang",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-01-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101864",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
     }
   ]
 }
