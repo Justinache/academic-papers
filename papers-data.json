@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T06:29:43.710Z",
-  "count": 474,
+  "lastUpdated": "2026-07-07T06:07:54.581Z",
+  "count": 473,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -141,6 +141,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104332",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104332"
+    },
+    {
+      "title": "Reaching for influence: Do banks use loans to establish political connections?",
+      "authors": "Mahsa Kaviani, Hosein Maleki, Pavel Savor",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104333",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104333"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -541,6 +551,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study advances our understanding of firms’ incentives to disclose aggregate information. In standard product and supply market settings, firms prefer to either provide detailed information or make no disclosure at all. However, this paper shows that the confluence of product market competition and supply market investments creates a distinct ex ante preference for aggregate disclosures. Firm disclosures encourage supply market investments. Supply market decisions are made at the firm level rather than at the product level, implying that aggregate disclosures are sufficient for the supplier’s decisions while simultaneously obfuscating information from rivals. The results highlight how the divergent informational needs of external parties shape firms’ disclosure decisions. Specifically, our analysis shows that when supplier investments are critical and information is industry-specific, firms prefer aggregate disclosures. This preference persists even in industries characterized by private communication between firms and suppliers: aggregation emerges in both public disclosures and private communications.</jats:p>\n                  <jats:p>JEL Classifications: D43; D82; L13; M41.</jats:p>",
       "doi": "10.2308/tar-2025-0276",
       "url": "https://doi.org/10.2308/tar-2025-0276"
+    },
+    {
+      "title": "How does product market competition affect disclosure of management forecasts? Evidence from China imports",
+      "authors": "Zhihong Chen, Charles Hsu, Ruichao Zhu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101913",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101913"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4711,36 +4731,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how the assignment of intellectual property rights between inventors and their employers affects innovation. Incomplete contracting theories predict that stronger employer property rights reduce the threat that employee inventors hold up their employers, thereby affecting inventor and invention outcomes. We test these predictions using a U.S. appellate court ruling that shifted the assignment of property rights from inventors to their employers. Within‐employer‐year analyses demonstrate that affected inventors are less likely to retain patent rights, assign patents to new employers, or leave their current employer, all consistent with reduced inventor ability to hold up their employers. Due to the reduced possibility of hold‐up, affected inventors’ innovations are revealed more promptly when disclosed, draw from a broader set of prior patents, and spread more to subsequent patents. If affected inventors do leave their employer, they are more likely to relocate to unaffected states. Furthermore, employers affected by the ruling are more likely to locate their inventors in agglomeration economies and alter their innovation strategy by reallocating activity across states and expanding their innovation portfolios. Our collective evidence suggests that shifting intellectual property rights to employers affects inventor and invention outcomes by reducing the threat of employee hold‐up from the employer's perspective.</jats:p>",
       "doi": "10.1111/1475-679x.70035",
       "url": "https://doi.org/10.1111/1475-679x.70035"
-    },
-    {
-      "title": "Sleep: Educational Impact and Habit Formation",
-      "authors": "Osea Giuntella, Silvia Saccardo, Sally Sadoff",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740221",
-      "url": "https://doi.org/10.1086/740221"
-    },
-    {
-      "title": "Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants",
-      "authors": "Mert Demirer, Omer Karaduman",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-01-07",
-      "abstract": "",
-      "doi": "10.1086/740222",
-      "url": "https://doi.org/10.1086/740222"
-    },
-    {
-      "title": "Default Risk and the Pricing of U.S. Sovereign Bonds",
-      "authors": "Robert F. Dittmar, Alex Hsu, Guillaume Roussellet, Peter Simasek",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the relative pricing of nominal Treasury bonds and Treasury inflation‐protected securities in the presence of U.S. default risk. Hedged breakeven inflation is significantly positively related to U.S. default risk, driven by correlation between shocks to default risk and both shocks to inflation swap premia and Treasury yields. To understand the mechanisms through which default risk is related to inflation swaps and sovereign yields, we estimate an affine term structure model to capture their joint dynamics. Our estimation implies that the interaction between inflation dynamics and default is the primary source of differential pricing.</jats:p>",
-      "doi": "10.1111/jofi.70014",
-      "url": "https://doi.org/10.1111/jofi.70014"
     }
   ]
 }
