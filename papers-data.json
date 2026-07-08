@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T06:07:54.581Z",
-  "count": 473,
+  "lastUpdated": "2026-07-08T05:23:00.921Z",
+  "count": 477,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -213,6 +213,36 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104293"
     },
     {
+      "title": "In their Shoes: Empathy Through Information",
+      "authors": "Marianne Andries, Leonardo Bursztyn, Thomas Chaney, Milena Djourelova, Alex Imas",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-07-06",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We explore the mechanics of empathy. We show that information about an outgroup can activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group. We provide evidence for this effect in an immersive virtual reality experiment where participants (“witnesses”) experience a simulation of the struggle of unauthorized migrants (“protagonists”), then replicate these results in a series of controlled lab experiments. We show that information enhances the witnesses’ empathetic response and drives them to engage in more prosocial behavior when it increases their perceived interpersonal similarity, or relatability to the protagonist — an effect we trace to attention: eye-tracking data reveals that information provision concentrates witnesses’ gaze on the struggles of the protagonist instead of searching through peripheral elements of the scene. Conversely, only information packages that strengthen perceived relatability — an effect that can vary across subgroups with heterogeneous attributes — magnify empathy. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple, targeted, information provision.</jats:p>",
+      "doi": "10.1093/qje/qjag033",
+      "url": "https://doi.org/10.1093/qje/qjag033"
+    },
+    {
+      "title": "All Clear for Takeoff: Evidence from Airports on the Effects of Infrastructure Privatization",
+      "authors": "Sabrina T Howell, Yeejin Jang, Hyeik Kim, Michael S Weisbach",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-06",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study privatization and corporate ownership in transportation infrastructure, focusing on global airports. Privatization in general does not improve performance. However, private equity (PE) ownership has strong and persistent positive effects on efficiency, volume, and quality, with positive externalities for the local economy. We address selection using close auctions where PE and non-PE firms bid. PE funds expand physical capacity and encourage larger planes while adding low-cost carriers and international routes. They are especially effective in countries with more corruption or state-owned flag carriers. In contrast, the poorer performance of non-PE acquirers may reflect private benefits and historical state ties. (JEL G32, G38, L32, R42, H54)</jats:p>",
+      "doi": "10.1093/rfs/hhag023",
+      "url": "https://doi.org/10.1093/rfs/hhag023"
+    },
+    {
+      "title": "The Economic Consequences of CEO Compensation Lawsuits",
+      "authors": "Xiangnian Kong, Ke Na",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-07-06",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies shareholder derivative lawsuits related to CEO compensation. We document that compensation lawsuits are more likely to be filed against firms with higher CEO pay, especially in the presence of poor firm performance. Firms reduce the level of CEO compensation after lawsuits, which leads to CEO departures and declines in CEO effort provisions, and consequently, results in deteriorated firm performance. Interestingly, compensation lawsuits accompanied by low support in the preceding Say‐on‐Pay votes, which likely capture the quality of pay practices, are associated with even higher pay cuts, but do not harm firm performance or lead to departures of talented CEOs, supporting the idea that suboptimal pay and deteriorated performance after compensation lawsuits are driven by the lack of a sophisticated understanding of CEO pay by plaintiff shareholders.</jats:p>",
+      "doi": "10.1111/1475-679x.70075",
+      "url": "https://doi.org/10.1111/1475-679x.70075"
+    },
+    {
       "title": "Institutional Synergies and the Fragility of Loan Funds",
       "authors": "Mustafa Emin, Christopher James, Tao Li, Jing Lu",
       "journal": "Review of Financial Studies",
@@ -228,7 +258,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-07-02",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper uses labor force surveys from 160 countries to build a new microdatabase on hours worked covering 97% of the world population in cross section. We also construct time series spanning over 20 years in 86 countries. Hours worked per adult slightly decline with GDP per capita but are weakly correlated with development overall. Hours worked by the young (aged 15-19) and elderly (aged 60+) fall with development, driven entirely by growing school attendance and public pension coverage. Hours worked among prime-age adults (aged 20-59) are stable with development but undergo a great gender reshuffling: falling male hours per worker have been exactly offset by increases in female labor force participation in many countries. Labor income taxes are strongly negatively related to hours worked across countries. This correlation is attenuated when controlling for social spending and disappears when further controlling for working hours regulations. Both social spending and working hours regulations are associated with lower hours worked.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article uses labor force surveys from 160 countries to build a new microdatabase on hours worked covering 97% of the world population in cross section. We also construct time series spanning over 20 years in 86 countries. Hours worked per adult slightly decline with GDP per capita but are weakly correlated with development overall. Hours worked by the young (aged 15–19) and elderly (aged 60+) fall with development, driven entirely by growing school attendance and public pension coverage. Hours worked among prime-age adults (aged 20–59) are stable with development but undergo a great gender reshuffling: falling hours per male worker have been exactly offset by increases in female labor force participation in many countries. Labor income taxes are strongly negatively related to hours worked across countries. This correlation is attenuated when controlling for social spending and disappears when further controlling for working hours regulations. Both social spending and working hours regulations are associated with lower hours worked.</jats:p>",
       "doi": "10.1093/qje/qjag030",
       "url": "https://doi.org/10.1093/qje/qjag030"
     },
@@ -561,6 +591,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101913",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101913"
+    },
+    {
+      "title": "A New Wave of Talent: Big 4 Response to New Partner Qualification Requirements in China",
+      "authors": "Pietro A. Bianchi, Lin Liao, Miguel Minutti-Meza, Yini Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the Big 4 responded to evolving partner qualification requirements in China. By 2017, at least 80 percent of the Big 4 partners were required to hold CICPA qualifications, a requirement that did not apply to local firms. Using data from a 14-year window around the reform, we document that the Big 4 expanded their partnership and primarily complied through internal promotion of locally licensed auditors, often into junior signing roles and serving new clients. Our analyses of audit outcomes yield mixed and time-varying evidence: although we observe relative increases in restatements in selected periods, the triangulated evidence does not suggest a pervasive deterioration in audit quality. However, we find a decline in the Big 4’s market share and audit fee premium. Overall, our findings shed light on how regulatory interventions targeting auditor qualifications reshape audit firms and market competition.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M4; M40; M41; M42; M49.</jats:p>",
+      "doi": "10.2308/tar-2024-0095",
+      "url": "https://doi.org/10.2308/tar-2024-0095"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -1403,7 +1443,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0762"
     },
     {
-      "title": "Tracing Investors’ Minds: Investors’ Inquiries and Key Audit Matter Reporting",
+      "title": "Tracing investors' minds: Investors’ inquiries and key audit matter reporting",
       "authors": "Songsheng Chen, Chan Li, Lili Sun, Xiren Zhang",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
