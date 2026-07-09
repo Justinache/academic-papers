@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T05:23:00.921Z",
-  "count": 477,
+  "lastUpdated": "2026-07-09T06:05:45.723Z",
+  "count": 475,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -151,6 +151,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104333",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104333"
+    },
+    {
+      "title": "Investor expertise and private investment selection",
+      "authors": "Shane Miller, Emmanuel Yimfor, Ye Zhang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104331",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104331"
     },
     {
       "title": "The co-pricing factor zoo",
@@ -4741,36 +4751,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policy makers and researchers are concerned that the expected credit loss (ECL) approach may exacerbate procyclicality. Using administrative loan‐level and firm‐level data in China, we find that banks adopting the ECL model reduced their credit supply and became more prudent in lending decisions after the onset of the COVID‐19 pandemic, compared to banks using the incurred credit loss (ICL) approach. Our findings are more pronounced for banks that experienced greater loan loss provisions induced by ECL and for firms with higher credit risk. The credit contraction persisted throughout our sample period. We further document that firms more exposed to ECL banks experienced larger reductions in loans, assets, liabilities, and revenue after the pandemic began than those more exposed to ICL banks. These findings support the conjecture that the ECL approach may exacerbate procyclicality.</jats:p>",
       "doi": "10.1111/1475-679x.70030",
       "url": "https://doi.org/10.1111/1475-679x.70030"
-    },
-    {
-      "title": "Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility",
-      "authors": "Raj Chetty, Will Dobbie, Benjamin Goldman, Sonya R Porter, Crystal S Yang",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-08",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that intergenerational mobility changed rapidly by race and class in recent decades in the United States and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (class) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for nonmonetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, in local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.</jats:p>",
-      "doi": "10.1093/qje/qjaf057",
-      "url": "https://doi.org/10.1093/qje/qjaf057"
-    },
-    {
-      "title": "Corporate ESG Profiles and Investor Horizons",
-      "authors": "Laura T. Starks, Parth Venkat, Qifei Zhu",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We find that long‐term institutional investors tilt their portfolios toward firms with better Environmental, Social, and Governance (ESG) profiles, in the cross sections of both institutional investor portfolios and the ownership of firms. We test whether several theoretically motivated mechanisms can explain this relationship. Our results that long‐term investors exhibit patience with firms around poor earnings announcements, but quickly sell portfolio firms after negative ES incidents, support the view that long‐ and short‐term investors evaluate information differently. Our evidence shows that limits‐to‐arbitrage play a role, as we find that investors' ESG tilt weakens following regulatory shocks that shorten their horizon.</jats:p>",
-      "doi": "10.1111/jofi.70008",
-      "url": "https://doi.org/10.1111/jofi.70008"
-    },
-    {
-      "title": "The Assignment of Intellectual Property Rights and Innovation",
-      "authors": "Christopher Armstrong, Stephen Glaeser, Stella Yeayeun Park, Oscar Timmermans",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-01-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how the assignment of intellectual property rights between inventors and their employers affects innovation. Incomplete contracting theories predict that stronger employer property rights reduce the threat that employee inventors hold up their employers, thereby affecting inventor and invention outcomes. We test these predictions using a U.S. appellate court ruling that shifted the assignment of property rights from inventors to their employers. Within‐employer‐year analyses demonstrate that affected inventors are less likely to retain patent rights, assign patents to new employers, or leave their current employer, all consistent with reduced inventor ability to hold up their employers. Due to the reduced possibility of hold‐up, affected inventors’ innovations are revealed more promptly when disclosed, draw from a broader set of prior patents, and spread more to subsequent patents. If affected inventors do leave their employer, they are more likely to relocate to unaffected states. Furthermore, employers affected by the ruling are more likely to locate their inventors in agglomeration economies and alter their innovation strategy by reallocating activity across states and expanding their innovation portfolios. Our collective evidence suggests that shifting intellectual property rights to employers affects inventor and invention outcomes by reducing the threat of employee hold‐up from the employer's perspective.</jats:p>",
-      "doi": "10.1111/1475-679x.70035",
-      "url": "https://doi.org/10.1111/1475-679x.70035"
     }
   ]
 }
