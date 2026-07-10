@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-09T06:05:45.723Z",
-  "count": 475,
+  "lastUpdated": "2026-07-10T06:04:22.411Z",
+  "count": 476,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -163,6 +163,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104331"
     },
     {
+      "title": "Carbon VIX: Carbon price uncertainty and decarbonization investments",
+      "authors": "Maximilian Fuchs, Johannes Stroebel, Julian Terstegge",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104328",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
       "title": "The co-pricing factor zoo",
       "authors": "Alexander Dickerson, Christian Julliard, Philippe Mueller",
       "journal": "Journal of Financial Economics",
@@ -221,6 +231,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104293",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104293"
+    },
+    {
+      "title": "Corporate Green Pledges",
+      "authors": "Michael Bauer, Daniel Huber, Eric Offner, Ole Wilms",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-09",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We build a novel data set of time-stamped corporate decarbonization commitments—green pledges—for U.S. public firms by classifying news articles with large language models and human validation. Firms announcing green pledges tend to be larger and browner than other firms, both within and across industries. Green pledges significantly raise stock prices, consistent with a reduction in the carbon premium, and predict sizable declines in future carbon emissions and emission intensities. These effects tend to be strongest for firms in brown industries. Green pledges thus appear credible, convey relevant new information to investors, and provide meaningful financial incentives to decarbonize. (JEL G14, G32, Q54, Q56)</jats:p>",
+      "doi": "10.1093/rfs/hhag063",
+      "url": "https://doi.org/10.1093/rfs/hhag063"
     },
     {
       "title": "In their Shoes: Empathy Through Information",
@@ -658,7 +678,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-06-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using both surveys administered among undergraduates at the Ohio State University and large-scale nationally representative data, we measure how US freshmen perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which correlational evidence on job/major mismatch corroborates. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students’ intentions about what to study as well as the classes and majors they enroll in.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using surveys administered among undergraduates at the Ohio State University as well as large-scale nationally representative data, we measure how U.S. first-year students perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which we corroborate with correlational evidence on job/major mismatch. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students’ intentions about what to study as well as the classes and majors they enroll in.</jats:p>",
       "doi": "10.1093/qje/qjag031",
       "url": "https://doi.org/10.1093/qje/qjag031"
     },
@@ -1568,7 +1588,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-05-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the informativeness of fund risk disclosure by combining fund returns and textual data. We develop a novel measure, INF, to capture the explanatory power of disclosed risks for fund returns. Average INF is 55% after controlling for market risk and remains 26–29% after excluding risks related to fund name or strategy. We explain variations in INF through disclosure costs and benefits: (1) Funds with less informative disclosures face SEC comment letters and reduced flow, (2) informative disclosures attract institutional flows, and (3) performance concerns may disincentivize disclosure. Overall, funds face trade-offs between transparency and maintaining their competitive advantage. (JEL G12)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the informativeness of fund risk disclosure by combining fund returns and textual data. We develop a novel measure, INF, to capture the explanatory power of disclosed risks for fund returns. Average INF is 55% after controlling for market risk and remains 26–29% after excluding risks related to fund name or strategy. We explain variations in INF through disclosure costs and benefits: (1) Funds with less informative disclosures face SEC comment letters and reduced flow, (2) informative disclosures attract institutional flows, and (3) performance concerns may disincentivize disclosure. Overall, funds face trade-offs between transparency and maintaining their competitive advantage.</jats:p>",
       "doi": "10.1093/rfs/hhag020",
       "url": "https://doi.org/10.1093/rfs/hhag020"
     },
@@ -4741,16 +4761,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the labor market consequences of the 2020 Regulation S‐K requiring human capital disclosure in 10K filings. Using large‐sample job‐level data and a Generative Large Language Model (GLLM), we observe that public firms subject to the regulation increase their disclosure of diversity, equity, and inclusion (DEI) information in job postings relative to a matched sample of large private firms. The increase in job‐posting disclosure is more pronounced among firms facing greater external pressure to increase their workforce diversity. These findings suggest a shift in demand for diverse candidates by public firms following the regulation. Yet, consistent with short‐term inelastic labor supply, this demand shift lengthens the recruitment period, with noticeable increases in workplace gender diversity emerging one year after the regulation, particularly among firms that demonstrate a credible commitment to DEI. Our study documents how securities regulations can impact labor market practices and underscores the challenges involved in shaping workforce diversity.</jats:p>",
       "doi": "10.1111/1475-679x.70036",
       "url": "https://doi.org/10.1111/1475-679x.70036"
-    },
-    {
-      "title": "A Tale of Two Banks: When Credit Loss Models Meet Economic Crises",
-      "authors": "Chen Chen, Difang Huang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-01-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policy makers and researchers are concerned that the expected credit loss (ECL) approach may exacerbate procyclicality. Using administrative loan‐level and firm‐level data in China, we find that banks adopting the ECL model reduced their credit supply and became more prudent in lending decisions after the onset of the COVID‐19 pandemic, compared to banks using the incurred credit loss (ICL) approach. Our findings are more pronounced for banks that experienced greater loan loss provisions induced by ECL and for firms with higher credit risk. The credit contraction persisted throughout our sample period. We further document that firms more exposed to ECL banks experienced larger reductions in loans, assets, liabilities, and revenue after the pandemic began than those more exposed to ICL banks. These findings support the conjecture that the ECL approach may exacerbate procyclicality.</jats:p>",
-      "doi": "10.1111/1475-679x.70030",
-      "url": "https://doi.org/10.1111/1475-679x.70030"
     }
   ]
 }
