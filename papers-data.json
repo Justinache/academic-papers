@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T06:04:22.411Z",
-  "count": 476,
+  "lastUpdated": "2026-07-11T05:14:33.425Z",
+  "count": 478,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -258,7 +258,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study privatization and corporate ownership in transportation infrastructure, focusing on global airports. Privatization in general does not improve performance. However, private equity (PE) ownership has strong and persistent positive effects on efficiency, volume, and quality, with positive externalities for the local economy. We address selection using close auctions where PE and non-PE firms bid. PE funds expand physical capacity and encourage larger planes while adding low-cost carriers and international routes. They are especially effective in countries with more corruption or state-owned flag carriers. In contrast, the poorer performance of non-PE acquirers may reflect private benefits and historical state ties. (JEL G32, G38, L32, R42, H54)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study privatization and corporate ownership in transportation infrastructure, focusing on global airports. Privatization in general does not improve performance. However, private equity (PE) ownership has strong and persistent positive effects on efficiency, volume, and quality, with positive externalities for the local economy. We address selection using close auctions where PE and non-PE firms bid. PE funds expand physical capacity and encourage larger planes while adding low-cost carriers and international routes. They are especially effective in countries with more corruption or state-owned flag carriers. In contrast, the poorer performance of non-PE acquirers may reflect private benefits and historical state ties.</jats:p>",
       "doi": "10.1093/rfs/hhag023",
       "url": "https://doi.org/10.1093/rfs/hhag023"
     },
@@ -631,6 +631,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the Big 4 responded to evolving partner qualification requirements in China. By 2017, at least 80 percent of the Big 4 partners were required to hold CICPA qualifications, a requirement that did not apply to local firms. Using data from a 14-year window around the reform, we document that the Big 4 expanded their partnership and primarily complied through internal promotion of locally licensed auditors, often into junior signing roles and serving new clients. Our analyses of audit outcomes yield mixed and time-varying evidence: although we observe relative increases in restatements in selected periods, the triangulated evidence does not suggest a pervasive deterioration in audit quality. However, we find a decline in the Big 4’s market share and audit fee premium. Overall, our findings shed light on how regulatory interventions targeting auditor qualifications reshape audit firms and market competition.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M4; M40; M41; M42; M49.</jats:p>",
       "doi": "10.2308/tar-2024-0095",
       "url": "https://doi.org/10.2308/tar-2024-0095"
+    },
+    {
+      "title": "Auditing smart contracts",
+      "authors": "Wayne Landsman, Evgeny Lyandres, Edward Maydew, Daniel Rabetti, Che Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101911",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101911"
+    },
+    {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Kevin Smith, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101915",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101915"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
