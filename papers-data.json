@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-12T05:28:12.253Z",
-  "count": 478,
+  "lastUpdated": "2026-07-13T05:38:17.178Z",
+  "count": 477,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -668,7 +668,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the interaction between firms, which can invest in green technologies, and a government, which can impose emission caps but has limited commitment power. Investment in green technologies generates innovation spillovers, reducing the cost of further investments. Spillovers generate intertemporal strategic complementarities between firms and government, and equilibrium multiplicity. In a “green equilibrium”, firms, anticipating caps, invest in green technologies, which reduces the cost of further investment, making the government willing to cap emissions. In a “brown equilibrium”, firms, anticipating no caps, don’t invest, so green technologies remain costly and the government gives up on emission caps. (JEL Q54, Q55, Q58, H23, O33)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the interaction between firms, which can invest in green technologies, and a government, which can impose emission caps but has limited commitment power. Investment in green technologies generates innovation spillovers, reducing the cost of further investments. Spillovers generate intertemporal strategic complementarities between firms and government, and equilibrium multiplicity. In a “green equilibrium”, firms, anticipating caps, invest in green technologies, which reduces the cost of further investment, making the government willing to cap emissions. In a “brown equilibrium”, firms, anticipating no caps, don’t invest, so green technologies remain costly and the government gives up on emission caps.</jats:p>",
       "doi": "10.1093/rfs/hhag060",
       "url": "https://doi.org/10.1093/rfs/hhag060"
     },
@@ -678,7 +678,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that positive flows to active mutual funds with high recent returns partially reverse at longer horizons. This outcome is robust across a broad range of alternative specifications. Reversal occurs from greater outflows associated with high prior returns, not reduced inflows. We test theories to explain the reversal: investment life cycles, tax loss selling, and a behavioral “disappointment” hypothesis based on investors’ overreaction to positive returns. While both tax loss selling and short investor life cycles can contribute, the evidence supports a role for investor disappointment, whereby investors redeem their capital when return performance fails to meet expectations. (JEL G10, G23)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that positive flows to active mutual funds with high recent returns partially reverse at longer horizons. This outcome is robust across a broad range of alternative specifications. Reversal occurs from greater outflows associated with high prior returns, not reduced inflows. We test theories to explain the reversal: investment life cycles, tax loss selling, and a behavioral “disappointment” hypothesis based on investors’ overreaction to positive returns. While both tax loss selling and short investor life cycles can contribute, the evidence supports a role for investor disappointment, whereby investors redeem their capital when return performance fails to meet expectations.</jats:p>",
       "doi": "10.1093/rfs/hhag059",
       "url": "https://doi.org/10.1093/rfs/hhag059"
     },
@@ -4771,16 +4771,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article explores the relationship between economic growth and trust in government using variation in GDP growth experienced over a lifetime since birth. We assemble a newly harmonized global data set across 11 major opinion surveys, comprising 3.3 million respondents in 166 countries since 1990. Exploiting cohort-level variation, we find that people who have experienced higher GDP growth are more prone to trust their governments, with larger effects found in democracies. Higher-growth experiences are also associated with improved perceptions of government performance and living standards. We find no similar channel between growth experience and interpersonal trust. Second, more recent growth experiences appear to matter most for trust in government, with no detectable effect of growth experienced during one’s formative years, closer to birth, or before birth. Third, we find evidence of a “trust paradox” whereby average trust in government is lower in democracies than in autocracies. Our results are robust to a range of falsification exercises, robustness checks, and single-country evidence using the American National Election Studies and the Swiss Household Panel.</jats:p>",
       "doi": "10.1093/qje/qjaf056",
       "url": "https://doi.org/10.1093/qje/qjaf056"
-    },
-    {
-      "title": "Human Capital Disclosure and Labor Market Outcomes: Evidence from Regulation S‐K",
-      "authors": "Jung Ho Choi, Dan Li, Daniele Macciocchi",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-01-12",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the labor market consequences of the 2020 Regulation S‐K requiring human capital disclosure in 10K filings. Using large‐sample job‐level data and a Generative Large Language Model (GLLM), we observe that public firms subject to the regulation increase their disclosure of diversity, equity, and inclusion (DEI) information in job postings relative to a matched sample of large private firms. The increase in job‐posting disclosure is more pronounced among firms facing greater external pressure to increase their workforce diversity. These findings suggest a shift in demand for diverse candidates by public firms following the regulation. Yet, consistent with short‐term inelastic labor supply, this demand shift lengthens the recruitment period, with noticeable increases in workplace gender diversity emerging one year after the regulation, particularly among firms that demonstrate a credible commitment to DEI. Our study documents how securities regulations can impact labor market practices and underscores the challenges involved in shaping workforce diversity.</jats:p>",
-      "doi": "10.1111/1475-679x.70036",
-      "url": "https://doi.org/10.1111/1475-679x.70036"
     }
   ]
 }
