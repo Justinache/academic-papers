@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T05:38:17.178Z",
-  "count": 477,
+  "lastUpdated": "2026-07-14T04:52:02.196Z",
+  "count": 479,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -231,6 +231,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104293",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104293"
+    },
+    {
+      "title": "Voting Choice",
+      "authors": "Andrey Malenko, Nadya Malenko",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Traditionally, fund managers cast votes on behalf of fund investors. Recently, there is a shift toward “pass-through voting,” with funds offering investors a choice: delegate votes to the fund or vote themselves. We develop a framework to study the implications of voting choice. While it helps reflect heterogeneous investor preferences, it also shapes the informational content of the vote, and these forces can conflict. When interests are aligned, voting choice improves information aggregation and investor welfare. With preference heterogeneity or costly information, however, it can make investors worse off by weakening informed. (JEL D72, D82, D83, G34, K22)</jats:p>",
+      "doi": "10.1093/rfs/hhag065",
+      "url": "https://doi.org/10.1093/rfs/hhag065"
+    },
+    {
+      "title": "Generative AI and Data Quality: Implications for Productivity, Labor Displacement, and Policy",
+      "authors": "Zhifeng Cai",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Generative artificial intelligence (AI) is increasingly consuming and producing huge amounts of data. We propose a social learning model of AI, emphasizing a data-AI feedback loop: data quality affects AI productivity, which influences AI adoption and, consequently, the composition (AI versus human-generated) and quality of future data. Calibrated to evidence on synthetic training loops, the model predicts hump-shaped labor dynamics—short-term displacement that partially reverses as data quality deteriorates. A Grossman–Stiglitz-style externality emerges: AI adopters free-ride on the human-generated actions that supply the novel information on which AI itself relies. In a competitive market, AI should be taxed to correct the data-quality externality; a concentrated AI industry overcorrects, making a subsidy optimal. (JEL O33, D62, D83, J24)</jats:p>",
+      "doi": "10.1093/rfs/hhag064",
+      "url": "https://doi.org/10.1093/rfs/hhag064"
     },
     {
       "title": "Corporate Green Pledges",
@@ -651,6 +671,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101915",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101915"
+    },
+    {
+      "title": "Inequality Grows in Silence: The Impact of Newspaper Closures on CEO-Worker Pay Disparity",
+      "authors": "Jie Chen, Yang Gao, Cheng Zeng",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Addressing income inequality is crucial for ensuring equitable and prosperous societies. This study examines the impact of the local press on intrafirm pay disparity. By using recently mandated disclosures of CEO-worker pay ratios and analyzing the staggered shutdown of local newspapers, we find that within-firm pay disparity increases by 8.2 percent following local newspaper closures. Further analysis suggests that this post-closure increase in pay disparity ratio is unlikely to be driven by either CEO compensation or worker pay alone or underlying economic conditions but instead reflects reduced concerns over reputational damage. Overall, our findings are consistent with local newspapers’ playing an important role in disseminating CEO-worker pay ratios and amplifying their reputational effects, thereby shaping and monitoring within-firm pay disparity.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G38; J31; M12; L82.</jats:p>",
+      "doi": "10.2308/tar-2025-0068",
+      "url": "https://doi.org/10.2308/tar-2025-0068"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4761,16 +4791,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic-minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central people, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual-work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic-majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central people were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony in multiethnic communities.</jats:p>",
       "doi": "10.1093/qje/qjag001",
       "url": "https://doi.org/10.1093/qje/qjag001"
-    },
-    {
-      "title": "Growth Experiences and Trust in Government",
-      "authors": "Timothy Besley, Christopher Dann, Sacha Dray",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article explores the relationship between economic growth and trust in government using variation in GDP growth experienced over a lifetime since birth. We assemble a newly harmonized global data set across 11 major opinion surveys, comprising 3.3 million respondents in 166 countries since 1990. Exploiting cohort-level variation, we find that people who have experienced higher GDP growth are more prone to trust their governments, with larger effects found in democracies. Higher-growth experiences are also associated with improved perceptions of government performance and living standards. We find no similar channel between growth experience and interpersonal trust. Second, more recent growth experiences appear to matter most for trust in government, with no detectable effect of growth experienced during one’s formative years, closer to birth, or before birth. Third, we find evidence of a “trust paradox” whereby average trust in government is lower in democracies than in autocracies. Our results are robust to a range of falsification exercises, robustness checks, and single-country evidence using the American National Election Studies and the Swiss Household Panel.</jats:p>",
-      "doi": "10.1093/qje/qjaf056",
-      "url": "https://doi.org/10.1093/qje/qjaf056"
     }
   ]
 }
