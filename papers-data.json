@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T04:52:02.196Z",
-  "count": 479,
+  "lastUpdated": "2026-07-15T04:52:38.595Z",
+  "count": 480,
   "papers": [
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -681,6 +681,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Addressing income inequality is crucial for ensuring equitable and prosperous societies. This study examines the impact of the local press on intrafirm pay disparity. By using recently mandated disclosures of CEO-worker pay ratios and analyzing the staggered shutdown of local newspapers, we find that within-firm pay disparity increases by 8.2 percent following local newspaper closures. Further analysis suggests that this post-closure increase in pay disparity ratio is unlikely to be driven by either CEO compensation or worker pay alone or underlying economic conditions but instead reflects reduced concerns over reputational damage. Overall, our findings are consistent with local newspapers’ playing an important role in disseminating CEO-worker pay ratios and amplifying their reputational effects, thereby shaping and monitoring within-firm pay disparity.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G38; J31; M12; L82.</jats:p>",
       "doi": "10.2308/tar-2025-0068",
       "url": "https://doi.org/10.2308/tar-2025-0068"
+    },
+    {
+      "title": "The sound of uncertainty: Examining managerial acoustic uncertainty in conference calls",
+      "authors": "Daniela De la Parra, John Gallemore",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101914",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101914"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -1733,7 +1743,7 @@
       "url": "https://doi.org/10.1093/qje/qjag028"
     },
     {
-      "title": "The Power of Proximity to Coworkres",
+      "title": "The Power of Proximity to Coworkers",
       "authors": "Natalia Emanuel, Emma Harrington, Amanda Pallais",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
