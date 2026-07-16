@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T04:52:38.595Z",
+  "lastUpdated": "2026-07-16T05:01:09.940Z",
   "count": 480,
   "papers": [
     {
@@ -231,6 +231,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104293",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104293"
+    },
+    {
+      "title": "Government Intervention in the Financial Market",
+      "authors": "Jiang Wang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-15",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Government intervention in the financial market through its own trading fundamentally changes the market’s structure, function, and outcome. I develop a general equilibrium framework to study the impact of government trading on investor welfare. I show that with incompleteness and information asymmetry, the market equilibrium is in general suboptimal, and government intervention can potentially improve investor welfare even with no additional information. However, the actual welfare impact of government intervention is sensitive to the details of the economy and the policy design. Popular policy targets such as price stability, market liquidity, and informational efficiency can have different welfare implications.</jats:p>",
+      "doi": "10.1093/rfs/hhag058",
+      "url": "https://doi.org/10.1093/rfs/hhag058"
     },
     {
       "title": "Voting Choice",
@@ -4791,16 +4801,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using data on Internet news reading, we measure fund‐level attention to both aggregate and firm‐specific news and relate it to fund portfolio allocation decisions. In the time series, we find that funds shift attention toward macroeconomic news during periods of high aggregate volatility. Those funds that exhibit stronger attention‐reallocation patterns earn higher future returns. In the cross‐section of fund portfolios, fund attention is positively related to stock holdings. Furthermore, fund attention to a stock increases the value‐add of that position to the fund's performance. This relationship is stronger using fund attention to more value‐relevant news articles.</jats:p>",
       "doi": "10.1111/jofi.70009",
       "url": "https://doi.org/10.1111/jofi.70009"
-    },
-    {
-      "title": "Leveraging Virtual Contact and Social Networks to Foster Interethnic Harmony",
-      "authors": "Abu Siddique, Michael Vlassopoulos, Yves Zenou",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates whether virtual contact, initiated through a documentary film, can promote interethnic harmony. We carried out a cluster-randomized field experiment involving over 3,300 households across 121 multiethnic villages in Bangladesh. We find that a documentary film, designed to humanize the ethnic-minority Santals and evoke empathy among the ethnic majority Bengalis, increased the ethnic majority’s prosociality toward minorities, though the strength of the evidence varies by treatment arm and outcome. Using emotion-detecting software to analyze facial expressions during the film viewing suggests that the documentary elicited emotional responses consistent with empathy. We do not find evidence that the intervention reduced the prevalence of negative stereotypes and discriminatory opinions toward minorities. In villages assigned to target network-central people, we find positive behavioral effects on untreated individuals, including Santals, and village-level administrative data suggest a reduction in police complaints in those villages. About five months after the intervention, we conducted a casual-work field experiment involving 720 participants from the main intervention. In this task, pairs of ethnic-majority and minority participants jointly produced paper bags for a local supplier under a piece-rate compensation scheme. We find positive treatment effects on productivity for both ethnic groups, with effects concentrated in villages where network-central people were treated. For the ethnic majority, increased prosociality, and for the ethnic minority, reciprocity or peer pressure may have contributed to increased productivity. Overall, our findings suggest that virtual contact and social networks may help promote harmony in multiethnic communities.</jats:p>",
-      "doi": "10.1093/qje/qjag001",
-      "url": "https://doi.org/10.1093/qje/qjag001"
     }
   ]
 }
