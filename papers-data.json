@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-07-16T05:01:09.940Z",
-  "count": 480,
+  "lastUpdated": "2026-07-17T05:14:58.149Z",
+  "count": 481,
   "papers": [
+    {
+      "title": "Strategic communication among banks",
+      "authors": "Christian Bittner, Falko Fecht, Melissa Pala, Farzad Saidi",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104338",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104338"
+    },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
       "authors": "Yael V. Hochberg, Ali Kakhbod, Peiyao Li, Kunal Sachdeva",
@@ -703,12 +713,22 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101914"
     },
     {
+      "title": "Auditing in the Digital Age: Determinants and Consequences of Technology Investment",
+      "authors": "Hyun Hwang, Eunhee Kim, Minlei Ye",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Technological advances are reshaping the business landscape, yet their use in financial reporting has been slow. We develop a model in which auditors and companies make technology investment decisions and examine their impact on audit fees and outcomes. Our analysis shows that auditors and companies may fail to invest in mutually beneficial technology that would enhance audit quality, resulting in coordination failure. We also demonstrate how legal liability, client business risk, and auditor pricing power affect the conditions under which such coordination failure occurs. Furthermore, technology investments can either increase or decrease audit fees. When companies can choose among projects with varying risk levels, technology investments can increase audit failure risk while improving welfare by enabling them to pursue riskier but more profitable projects. Our results provide a rationale for regulatory intervention to facilitate technology investments in the financial reporting environment and offer empirical predictions.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42; M48.</jats:p>",
+      "doi": "10.2308/tar-2024-0427",
+      "url": "https://doi.org/10.2308/tar-2024-0427"
+    },
+    {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
       "authors": "Jefferson Duarte, Christopher S Jones, Mehdi Khorram, Haitao Mo, Junbo L Wang",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Numerous trading strategies examined in options research exhibit remarkably high mean returns and Sharpe ratios. We show some of these seemingly “good deals” are due to look-ahead biases. These biases stem from using information unavailable at the portfolio formation time to filter out observations suspected of being noisy or erroneous. Our results suggest that elevated Sharpe ratios may serve as potential indicators of such look-ahead biases. Furthermore, deviating from previous literature findings, we show that illiquidity is not strongly priced in stock options and that only a small set of stock characteristics are in fact associated with option expected returns. (JEL G12, G14, G17)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Numerous trading strategies examined in options research exhibit remarkably high mean returns and Sharpe ratios. We show some of these seemingly “good deals” are due to look-ahead biases. These biases stem from using information unavailable at the portfolio formation time to filter out observations suspected of being noisy or erroneous. Our results suggest that elevated Sharpe ratios may serve as potential indicators of such look-ahead biases. Furthermore, deviating from previous literature findings, we show that illiquidity is not strongly priced in stock options and that only a small set of stock characteristics are in fact associated with option expected returns.</jats:p>",
       "doi": "10.1093/rfs/hhag061",
       "url": "https://doi.org/10.1093/rfs/hhag061"
     },
@@ -4791,16 +4811,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A long tradition in macro-finance studies the dynamics of aggregate stock returns and dividends using vector autoregressions, imposing the restrictions implied by the Campbell-Shiller (CS) identity to sharpen inference. We develop Bayesian methods that encode a priori skepticism about return predictability while imposing the restrictions. We highlight that persistence in dividend growth induces “dividend momentum,” a previously overlooked channel for return predictability. By combining Bayesian shrinkage and the CS restrictions, we obtain more plausible degrees of return predictability, superior out-of-sample forecasts, and Sharpe ratios, which cannot be obtained by using either shrinkage or the CS restrictions on their own.</jats:p>",
       "doi": "10.1093/rfs/hhaf110",
       "url": "https://doi.org/10.1093/rfs/hhaf110"
-    },
-    {
-      "title": "Institutional Investor Attention",
-      "authors": "Alan Kwan, Yukun Liu, Ben Matthies",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-16",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using data on Internet news reading, we measure fund‐level attention to both aggregate and firm‐specific news and relate it to fund portfolio allocation decisions. In the time series, we find that funds shift attention toward macroeconomic news during periods of high aggregate volatility. Those funds that exhibit stronger attention‐reallocation patterns earn higher future returns. In the cross‐section of fund portfolios, fund attention is positively related to stock holdings. Furthermore, fund attention to a stock increases the value‐add of that position to the fund's performance. This relationship is stronger using fund attention to more value‐relevant news articles.</jats:p>",
-      "doi": "10.1111/jofi.70009",
-      "url": "https://doi.org/10.1111/jofi.70009"
     }
   ]
 }
