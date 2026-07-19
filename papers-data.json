@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-18T04:49:59.834Z",
-  "count": 485,
+  "lastUpdated": "2026-07-19T05:23:03.430Z",
+  "count": 487,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -21,6 +21,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104336",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104336"
+    },
+    {
+      "title": "Short versus long-run demand elasticities in asset pricing",
+      "authors": "Philippe van der Beck",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104337",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104337"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -861,6 +871,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101916",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101916"
+    },
+    {
+      "title": "Private Firms and the Economic Role of Accounting: A Review of Empirical Research",
+      "authors": "Darren Bernard, Andrew G. Sutherland",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101929",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101929"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
