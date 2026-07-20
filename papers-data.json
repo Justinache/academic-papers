@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-19T05:23:03.430Z",
-  "count": 487,
+  "lastUpdated": "2026-07-20T05:40:17.086Z",
+  "count": 484,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -4841,36 +4841,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether and, if so, how retail consumers change their shopping in response to firm‐specific negative environmental, social, and governance (ESG) news. Using an event study methodology, we do not find significant changes in consumer foot traffic in response to negative ESG news, on average. However, the average consumer reacts negatively when such news is covered by national or global media outlets, which elevates consumer awareness. In addition, we provide evidence of the heterogeneity in responses to negative ESG news across consumer groups. Consumers in more ESG‐conscious counties, as measured by county ESG preferences, income, education, and political ideology, reduce store visits in response to negative ESG news. In contrast, consumers in the least ESG‐conscious counties increase their visits in response to negative ESG news. These opposing reactions explain the insignificant average consumer response to negative ESG news. Furthermore, the ESG‐conscious consumers' negative reaction is, at most, modest, dissipating within six weeks. Overall, our findings suggest that firms face divergent responses to ESG activities from different consumer groups, underscoring the divisive nature of ESG issues.</jats:p>",
       "doi": "10.1111/1475-679x.70034",
       "url": "https://doi.org/10.1111/1475-679x.70034"
-    },
-    {
-      "title": "The Future in Mind: Aspirations and Long-Term Outcomes in Rural Ethiopia",
-      "authors": "Tanguy Bernard, Stefan Dercon, Kate Orkin, Giulio Schinaia, Alemayehu Seyoum Taffesse",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomized controlled trial in remote, rural Ethiopia to explore this and evaluate an intervention that aims to change how poor people perceive their future opportunities, alter their aspirations, and through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and who serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children’s education, and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</jats:p>",
-      "doi": "10.1093/qje/qjag002",
-      "url": "https://doi.org/10.1093/qje/qjag002"
-    },
-    {
-      "title": "Investor-Driven Corporate Finance: Evidence from Insurance Markets",
-      "authors": "Christian Kubitza",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-01-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I study the effect of bond investor demand on the financing and investment decisions of nonfinancial firms using granular data on the bond transactions of insurance companies. Liquidity inflows from insurance premiums combined with insurers’ persistent investment preferences identify bond demand shifts in the secondary market. These raise bond prices and reduce firms’ financing costs. In response, firms issue more bonds, especially when they have well-connected bond underwriters. The proceeds are used for investment activities, particularly by financially constrained firms. My findings emphasize that bond investors significantly affect corporate decisions through their price impact.</jats:p>",
-      "doi": "10.1093/rfs/hhag003",
-      "url": "https://doi.org/10.1093/rfs/hhag003"
-    },
-    {
-      "title": "Dividend Momentum and Stock Return Predictability: A Bayesian Approach",
-      "authors": "Juan Antolín-Díaz, Ivan Petrella, Juan Rubio-Ramírez",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-01-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A long tradition in macro-finance studies the dynamics of aggregate stock returns and dividends using vector autoregressions, imposing the restrictions implied by the Campbell-Shiller (CS) identity to sharpen inference. We develop Bayesian methods that encode a priori skepticism about return predictability while imposing the restrictions. We highlight that persistence in dividend growth induces “dividend momentum,” a previously overlooked channel for return predictability. By combining Bayesian shrinkage and the CS restrictions, we obtain more plausible degrees of return predictability, superior out-of-sample forecasts, and Sharpe ratios, which cannot be obtained by using either shrinkage or the CS restrictions on their own.</jats:p>",
-      "doi": "10.1093/rfs/hhaf110",
-      "url": "https://doi.org/10.1093/rfs/hhaf110"
     }
   ]
 }
