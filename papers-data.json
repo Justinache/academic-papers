@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T05:40:17.086Z",
-  "count": 484,
+  "lastUpdated": "2026-07-21T05:21:48.728Z",
+  "count": 482,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -881,6 +881,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101929",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101929"
+    },
+    {
+      "title": "Discussion of 'Private Firms and the Economic Role of Accounting: A Review of Empirical Research'",
+      "authors": "Lakshmanan Shivakumar",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101928",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101928"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4783,16 +4793,6 @@
       "url": "https://doi.org/10.1093/qje/qjag004"
     },
     {
-      "title": "Deposit Inflows and Outflows in Failing Banks: The Role of Deposit Insurance",
-      "authors": "Christopher Martin, Manju Puri, Alexander Ufier",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-21",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Using unique, daily, account‐level data, we investigate deposit outflows and inflows in a distressed bank. We observe an\n                    <jats:italic>outflow</jats:italic>\n                    of uninsured depositors following bad regulatory news. Both regular and temporary deposit insurance reduce outflows. We provide important new evidence that, simultaneous with deposit outflows, deposit\n                    <jats:italic>inflows</jats:italic>\n                    are first order. Uninsured deposit outflows were largely offset with new insured deposit inflows as the bank approached failure, with the bank increasing term deposit rates. This phenomenon holds in a large sample of banks that faced regulatory action, suggesting that insured deposit inflows are an important mechanism that weakens depositor discipline.\n                  </jats:p>",
-      "doi": "10.1111/jofi.70007",
-      "url": "https://doi.org/10.1111/jofi.70007"
-    },
-    {
       "title": "Investor Composition and the Liquidity Component in the U.S. Corporate Bond Market",
       "authors": "Jian Li, Haiyue Yu",
       "journal": "Journal of Finance",
@@ -4813,34 +4813,14 @@
       "url": "https://doi.org/10.1111/jofi.70027"
     },
     {
-      "title": "(Not) Thinking About the Future: Financial Information and Maternal Labor Supply",
-      "authors": "Ana Costa-Ramón, Michaela Slotwinski, Ursina Schaede, Anne Ardila Brenøe",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7%. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.</jats:p>",
-      "doi": "10.1093/qje/qjag003",
-      "url": "https://doi.org/10.1093/qje/qjag003"
-    },
-    {
-      "title": "ESG Shocks in Global Supply Chains",
-      "authors": "Emilio Bisetti, Guoman She, Alminas Žaldokas",
-      "journal": "Review of Financial Studies",
+      "title": "Deposit Inflows and Outflows in Failing Banks: The Role of Deposit Insurance",
+      "authors": "Christopher Martin, Manju Puri, Alexander Ufier",
+      "journal": "Journal of Finance",
       "field": "Finance",
-      "date": "2026-01-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that U.S. firms cut imports by 31.8% when their international suppliers experience environmental and social (E&amp;S) incidents. These trade cuts are larger for publicly listed U.S. importers facing high E&amp;S investor pressure and lead to cross-country supplier reallocation, suggesting that E&amp;S preferences in capital markets can be privately costly but have real effects for foreign suppliers. Larger trade cuts around the incident result in better supplier E&amp;S performance in subsequent years and in the eventual resumption of trade. Our results highlight the role of investors in ensuring suppliers’ E&amp;S compliance along global supply chains.</jats:p>",
-      "doi": "10.1093/rfs/hhag001",
-      "url": "https://doi.org/10.1093/rfs/hhag001"
-    },
-    {
-      "title": "Do Consumers Vote with Their Feet in Response to Negative ESG News? Evidence from Foot Traffic to Retail Locations",
-      "authors": "Svenja Dube, Hye Seung (grace) Lee, Danye Wang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-01-20",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether and, if so, how retail consumers change their shopping in response to firm‐specific negative environmental, social, and governance (ESG) news. Using an event study methodology, we do not find significant changes in consumer foot traffic in response to negative ESG news, on average. However, the average consumer reacts negatively when such news is covered by national or global media outlets, which elevates consumer awareness. In addition, we provide evidence of the heterogeneity in responses to negative ESG news across consumer groups. Consumers in more ESG‐conscious counties, as measured by county ESG preferences, income, education, and political ideology, reduce store visits in response to negative ESG news. In contrast, consumers in the least ESG‐conscious counties increase their visits in response to negative ESG news. These opposing reactions explain the insignificant average consumer response to negative ESG news. Furthermore, the ESG‐conscious consumers' negative reaction is, at most, modest, dissipating within six weeks. Overall, our findings suggest that firms face divergent responses to ESG activities from different consumer groups, underscoring the divisive nature of ESG issues.</jats:p>",
-      "doi": "10.1111/1475-679x.70034",
-      "url": "https://doi.org/10.1111/1475-679x.70034"
+      "date": "2026-01-21",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Using unique, daily, account‐level data, we investigate deposit outflows and inflows in a distressed bank. We observe an\n                    <jats:italic>outflow</jats:italic>\n                    of uninsured depositors following bad regulatory news. Both regular and temporary deposit insurance reduce outflows. We provide important new evidence that, simultaneous with deposit outflows, deposit\n                    <jats:italic>inflows</jats:italic>\n                    are first order. Uninsured deposit outflows were largely offset with new insured deposit inflows as the bank approached failure, with the bank increasing term deposit rates. This phenomenon holds in a large sample of banks that faced regulatory action, suggesting that insured deposit inflows are an important mechanism that weakens depositor discipline.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70007",
+      "url": "https://doi.org/10.1111/jofi.70007"
     }
   ]
 }
