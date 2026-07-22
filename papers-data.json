@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T05:21:48.728Z",
-  "count": 482,
+  "lastUpdated": "2026-07-22T05:19:38.639Z",
+  "count": 481,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -381,6 +381,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "M&As, Employee Costs, and Labor Reallocation",
+      "authors": "Spyridon Lagaras",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-07-21",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mergers are associated with large and persistent earnings declines for incumbent employees in target firms. Linking employer‐employee administrative data with information on merger activity in Brazil, I find the negative effects concentrate on employees who exit target firms and reflect displacement in the short run and wage declines in the long run. Low‐skilled, managerial, and older employees fare worse. Overall, I conclude that mergers are followed by substantial reallocation costs reflecting losses of firm‐specific wage premiums, matching inefficiencies, and industry‐specific human capital depreciation, with employees transitioning to lower paying firms considered to be of lower productivity and employment value.</jats:p>",
+      "doi": "10.1111/jofi.70065",
+      "url": "https://doi.org/10.1111/jofi.70065"
+    },
+    {
+      "title": "What Hundreds of Economic News Events Say About Belief Overreaction in the Stock Market",
+      "authors": "Francesco Bianchi, Sydney C Ludvigson, Sai Ma",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure the nature and severity of a variety of belief distortions in market reactions to hundreds of economic news events by synthesizing structural estimation with algorithmic machine learning to quantify bias. We find that investors systematically overreact to perceptions about multiple fundamental shocks, a phenomenon we show often dampens rather than amplifies market volatility via a “shock composition effect.” Such effects imply that the stock market can underreact to news, even when investors overreact to all shocks. (JEL E7, E27, E32, E17, G4)</jats:p>",
+      "doi": "10.1093/rfs/hhag062",
+      "url": "https://doi.org/10.1093/rfs/hhag062"
     },
     {
       "title": "Government Intervention in the Financial Market",
@@ -891,6 +911,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101928",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101928"
+    },
+    {
+      "title": "Government-Brokerage Analysts and Market Stabilization: Evidence from China",
+      "authors": "Sheng Cao, Xianjie He, Charles C. Y. Wang, Huifang Yin",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Government-controlled brokerage analysts serve as a market stabilization tool in China. Examining the 2005–2019 period, we show these analysts issue relatively more optimistic—yet less accurate and timely—forecasts during market rescue periods, supporting stock prices. During market booms, they issue comparatively pessimistic but more accurate and timely forecasts, tempering excessive optimism. These patterns are stronger for large firms and state-owned enterprises, and at the most government-influenced brokerages. Markets appear to respond to these forecasts: stocks with greater government-brokerage coverage experience higher liquidity during downturns but lower liquidity during hot markets, with corresponding post-earnings price adjustments. Our findings match Brunnermeier, Sockin, and Xiong’s (2022) theoretical predictions: state interventions can erode information efficiency under intensive intervention while maintaining it under moderate intervention. Collectively, these results underscore that analysts can serve a dual role—as information providers and policy instruments shaping market expectations and stability—in a coordinated economy.</jats:p>\n                  <jats:p>Data Availability: The data used in this study were obtained from the China Stock Market &amp; Accounting Research (CSMAR) database under a commercial license and cannot be redistributed by the authors. Researchers can obtain equivalent data through institutional access to CSMAR.</jats:p>\n                  <jats:p>JEL Classifications: G14; G24; G28; O16.</jats:p>",
+      "doi": "10.2308/tar-2019-0605",
+      "url": "https://doi.org/10.2308/tar-2019-0605"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4763,16 +4793,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag005"
     },
     {
-      "title": "The Impact of Bank Consolidation on Credit Supply and Performance",
-      "authors": "Sergio Mayordomo, Nicola Pavanini, Emanuele Tarantino",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-01-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Between 2009 and 2011, the Spanish banking system underwent a restructuring process based on savings banks’ consolidation. The program’s design allows us to study how banks’ consolidation affects credit supply and performance. We propose a quasi-experimental analysis showing that bank mergers restrict credit supply and set higher interest rates but also reject fewer applicants and report fewer nonperforming loans. We then estimate a structural model of credit in which banks set interest rates and lending standards. We find that, despite the relaxation in their lending standards, merged banks’ credit performance improved thanks to a significant drop in their screening costs.</jats:p>",
-      "doi": "10.1093/rfs/hhaf107",
-      "url": "https://doi.org/10.1093/rfs/hhaf107"
-    },
-    {
       "title": "Bank Monitoring with On‐Site Inspections",
       "authors": "Amanda Rae Heitz, Christopher Martin, Alexander Ufier",
       "journal": "Journal of Finance",
@@ -4783,44 +4803,14 @@
       "url": "https://doi.org/10.1111/jofi.70026"
     },
     {
-      "title": "How Do You Identify a Good Manager?",
-      "authors": "Ben Weidmann, Joseph Vecci, Farah Said, Sonia Bhalotra, Achyuta Adhvaryu, Anant Nyshadham, Jorge Tamayo, David Deming",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce and validate a novel approach to identifying good managers. In a preregistered lab experiment, we causally identify managerial contributions by randomly assigning managers to teams and controlling for individual skill. We find that manager contributions are crucial for team success, and that people who self-select into management roles perform worse than randomly assigned managers. Managerial performance is strongly predicted by economic decision-making skill but not by demographic characteristics. Two validation studies support our experimental results. Participants who succeed in the lab receive more real-world promotions and, in a separate study of retail store managers, skill measures strongly predict store sales. A one standard deviation increase in manager quality increases annual per store sales by US$4.1 million (25% increase). Selecting managers on skills rather than demographic characteristics or the desire to lead could substantially improve organizational performance.</jats:p>",
-      "doi": "10.1093/qje/qjag004",
-      "url": "https://doi.org/10.1093/qje/qjag004"
-    },
-    {
-      "title": "Investor Composition and the Liquidity Component in the U.S. Corporate Bond Market",
-      "authors": "Jian Li, Haiyue Yu",
-      "journal": "Journal of Finance",
+      "title": "The Impact of Bank Consolidation on Credit Supply and Performance",
+      "authors": "Sergio Mayordomo, Nicola Pavanini, Emanuele Tarantino",
+      "journal": "Review of Financial Studies",
       "field": "Finance",
-      "date": "2026-01-21",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The link between corporate bond credit spreads and secondary market illiquidity in the cross section has grown stronger since 2005, resulting in a higher liquidity component in credit spreads. Using U.S. investor holdings data, we show that short‐term investors (e.g., mutual funds/exchange‐traded funds [ETFs]) increase trading activities in the secondary market, amplifying the effect of secondary market frictions on prices. We provide a model featuring heterogeneous investors with different trading needs and heterogeneous bonds to investigate the impact of the rapid‐growing mutual fund/ETF sector on the corporate bond market. We find the change in investor composition can quantitatively explain the aggregate trend.</jats:p>",
-      "doi": "10.1111/jofi.70024",
-      "url": "https://doi.org/10.1111/jofi.70024"
-    },
-    {
-      "title": "Model Ambiguity versus Model Misspecification in Dynamic Portfolio Choice",
-      "authors": "Pascal J. Maenhout, Hao Xing, Anne G. Balter",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-21",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study aversion to model ambiguity and misspecification in dynamic portfolio choice. Risk‐averse investors (relative risk aversion ) fear return persistence, while risk‐tolerant investors () fear mean reversion, when confronting model misspecification concerns of identically and independently distributed (IID) returns. The intuition is that risk‐averse investors, who want to hedge intertemporally, endogenously fear return persistence, which precludes hedging. A log investor is myopic and unaffected by model misspecification, therefore only worrying about model ambiguity. Our model can generate belief scarring, nonparticipation in equity markets, and extrapolative return expectations. Extending beyond IID returns, we study model misspecification for a mean‐reverting Sharpe ratio.</jats:p>",
-      "doi": "10.1111/jofi.70027",
-      "url": "https://doi.org/10.1111/jofi.70027"
-    },
-    {
-      "title": "Deposit Inflows and Outflows in Failing Banks: The Role of Deposit Insurance",
-      "authors": "Christopher Martin, Manju Puri, Alexander Ufier",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-21",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Using unique, daily, account‐level data, we investigate deposit outflows and inflows in a distressed bank. We observe an\n                    <jats:italic>outflow</jats:italic>\n                    of uninsured depositors following bad regulatory news. Both regular and temporary deposit insurance reduce outflows. We provide important new evidence that, simultaneous with deposit outflows, deposit\n                    <jats:italic>inflows</jats:italic>\n                    are first order. Uninsured deposit outflows were largely offset with new insured deposit inflows as the bank approached failure, with the bank increasing term deposit rates. This phenomenon holds in a large sample of banks that faced regulatory action, suggesting that insured deposit inflows are an important mechanism that weakens depositor discipline.\n                  </jats:p>",
-      "doi": "10.1111/jofi.70007",
-      "url": "https://doi.org/10.1111/jofi.70007"
+      "date": "2026-01-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Between 2009 and 2011, the Spanish banking system underwent a restructuring process based on savings banks’ consolidation. The program’s design allows us to study how banks’ consolidation affects credit supply and performance. We propose a quasi-experimental analysis showing that bank mergers restrict credit supply and set higher interest rates but also reject fewer applicants and report fewer nonperforming loans. We then estimate a structural model of credit in which banks set interest rates and lending standards. We find that, despite the relaxation in their lending standards, merged banks’ credit performance improved thanks to a significant drop in their screening costs.</jats:p>",
+      "doi": "10.1093/rfs/hhaf107",
+      "url": "https://doi.org/10.1093/rfs/hhaf107"
     }
   ]
 }
