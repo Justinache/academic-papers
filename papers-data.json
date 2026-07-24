@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T05:23:34.065Z",
-  "count": 481,
+  "lastUpdated": "2026-07-24T05:21:43.605Z",
+  "count": 484,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -381,6 +381,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "Do Equity and Options Markets Agree about Volatility?",
+      "authors": "Carsten H. Chong, Viktor Todorov",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-07-23",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We derive tight pricing kernel restrictions from options with same‐day expiration (“0DTEs”). These restrictions concern the volatility of small and frequent asset price moves that the equity and options markets must agree on in a frictionless economy. Their violation leads to pseudo‐arbitrage opportunities, characterized by nontrivial reward‐to‐risk ratios over arbitrarily short horizons and achieved by a combined position in 0DTEs and the underlying asset. Empirically, we find no evidence of feasible pseudo‐arbitrage opportunities, as transaction costs, estimation risk, and short‐term volatility risk prevent investors from taking advantage of small and infrequent disagreements about volatility between equity and options markets.</jats:p>",
+      "doi": "10.1111/jofi.70070",
+      "url": "https://doi.org/10.1111/jofi.70070"
     },
     {
       "title": "Sovereign Default and the Decline in Interest Rates*",
@@ -941,6 +951,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101917",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101917"
+    },
+    {
+      "title": "Discussion of “Auditing smart contracts:” Assurance in the world of decentralized finance",
+      "authors": "Andreas Park",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101925",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101925"
+    },
+    {
+      "title": "The Evolving Make-or-Buy Decision: Strategic Concurrent Sourcing and Capacity Choice",
+      "authors": "Anil Arya, Ram N. V. Ramanan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The once binary make-or-buy choice in firms’ sourcing has evolved in recent years into what is often a make-and-buy decision where the same input is both produced internally and procured externally. This paper presents a novel explanation for concurrent sourcing, one rooted in firms’ strategic positioning and intrinsically tied to their capacity choices. In our setting, a firm that chooses solely to make internally maximizes cost savings but prices away efficiency gains via intense retail competition. A firm that chooses solely to buy externally tempers competitive tendencies but finds input prices excessive. By choosing concurrent sourcing, a firm keeps average costs low (relying on external supply sparingly) while also credibly committing to reining in aggressive retail pricing due to the modestly higher marginal costs associated with outsourcing. This optimal middle ground is achieved by the firm strategically limiting its installed capacity.</jats:p>\n                  <jats:p>JEL Classifications: D43; L13; L23; M41.</jats:p>",
+      "doi": "10.2308/tar-2025-0280",
+      "url": "https://doi.org/10.2308/tar-2025-0280"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
