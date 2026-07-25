@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-24T05:21:43.605Z",
-  "count": 484,
+  "lastUpdated": "2026-07-25T05:15:05.172Z",
+  "count": 486,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -31,6 +31,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104337",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104337"
+    },
+    {
+      "title": "Can ChatGPT forecast stock price movements? Return predictability and large language models",
+      "authors": "Alejandro Lopez-Lira, Yuehua Tang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104335",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104335"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -391,6 +401,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We derive tight pricing kernel restrictions from options with same‐day expiration (“0DTEs”). These restrictions concern the volatility of small and frequent asset price moves that the equity and options markets must agree on in a frictionless economy. Their violation leads to pseudo‐arbitrage opportunities, characterized by nontrivial reward‐to‐risk ratios over arbitrarily short horizons and achieved by a combined position in 0DTEs and the underlying asset. Empirically, we find no evidence of feasible pseudo‐arbitrage opportunities, as transaction costs, estimation risk, and short‐term volatility risk prevent investors from taking advantage of small and infrequent disagreements about volatility between equity and options markets.</jats:p>",
       "doi": "10.1111/jofi.70070",
       "url": "https://doi.org/10.1111/jofi.70070"
+    },
+    {
+      "title": "Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants",
+      "authors": "Chen Lin, Thomas Schmid, Michael S. Weisbach",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-07-23",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>How does demand uncertainty affect firms' investment decisions? We examine this question in the context of electricity‐producing firms' planned investments in new power plants. We measure uncertainty about future electricity demand using plausibly exogenous variation in temperature projections across scientific climate models. The results show that uncertainty increases investment in power plants with flexible production technologies, while reducing investment in less flexible technologies. Overall, the net effect of uncertainty on investment is positive when firms have access to flexible investment opportunities. These findings are consistent with models in which production flexibility shapes the investment response to demand uncertainty.</jats:p>",
+      "doi": "10.1111/jofi.70071",
+      "url": "https://doi.org/10.1111/jofi.70071"
     },
     {
       "title": "Sovereign Default and the Decline in Interest Rates*",
