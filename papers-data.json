@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T05:31:38.262Z",
-  "count": 487,
+  "lastUpdated": "2026-07-27T05:50:31.637Z",
+  "count": 488,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -41,6 +41,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104335",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104335"
+    },
+    {
+      "title": "The passthrough of treasury supply to bank deposit funding",
+      "authors": "Wenhao Li, Yiming Ma, Yang Zhao",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104334",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104334"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -1011,6 +1021,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The once binary make-or-buy choice in firms’ sourcing has evolved in recent years into what is often a make-and-buy decision where the same input is both produced internally and procured externally. This paper presents a novel explanation for concurrent sourcing, one rooted in firms’ strategic positioning and intrinsically tied to their capacity choices. In our setting, a firm that chooses solely to make internally maximizes cost savings but prices away efficiency gains via intense retail competition. A firm that chooses solely to buy externally tempers competitive tendencies but finds input prices excessive. By choosing concurrent sourcing, a firm keeps average costs low (relying on external supply sparingly) while also credibly committing to reining in aggressive retail pricing due to the modestly higher marginal costs associated with outsourcing. This optimal middle ground is achieved by the firm strategically limiting its installed capacity.</jats:p>\n                  <jats:p>JEL Classifications: D43; L13; L23; M41.</jats:p>",
       "doi": "10.2308/tar-2025-0280",
       "url": "https://doi.org/10.2308/tar-2025-0280"
+    },
+    {
+      "title": "Insider Trading After the 2022 Rule 10b5-1 Amendment",
+      "authors": "Sehwa Kim, Seil Kim, Shiva Rajgopal",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101932",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101932"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4861,16 +4881,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We quantify the impact of perceived cancer risk on housing values using widely advertised national reclassifications of chemical carcinogenicity in the United States. Combining these information events with an empirical design that compares changes in house values closer to affected toxic plants against those farther away isolates the effect of cancer risk news from other local factors. Focusing on plants previously emitting reclassified carcinogenic chemicals, we estimate a 1–2% decline in housing values within a 3-mile radius compared to those located farther away. The effects are stronger in areas with higher media presence underscoring the role of salience as a mechanism.</jats:p>",
       "doi": "10.1093/rfs/hhag006",
       "url": "https://doi.org/10.1093/rfs/hhag006"
-    },
-    {
-      "title": "Corporate Tax System Complexity and Investment Sensitivity to Tax Policy Changes",
-      "authors": "Harald Amberger, John Gallemore, Jaron Wilde",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-01-26",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Effective policymakers must balance the demands of formulating a corporate tax system that raises revenue and spurs economic activity (e.g., investment) while promoting a “level playing field” across firms. Balancing these tradeoffs has likely caused tax systems to become more complex over time, increasing firms’ difficulty in understanding and complying with tax regulations. We investigate the impact of tax system complexity on the responsiveness of firm‐level investment to tax policy changes. Exploiting staggered tax rate changes and variation in tax system complexity across countries, we document two key findings. First, firm‐level investment is less sensitive to changes in the corporate tax rate when tax system complexity is higher, suggesting that such complexity can undermine the ability of tax policy to affect economic growth. Second, the impact of tax complexity on the sensitivity of investment to tax rate changes varies significantly across firms, with domestic‐owned, smaller, and private firms being more affected. These cross‐sectional disparities are consistent with tax system complexity potentially reducing tax system parity. Collectively, our findings suggest that corporate tax system complexity can negatively impact the ability of fiscal policy to affect investment and lead to heterogeneous tax policy responses across firms.</jats:p>",
-      "doi": "10.1111/1475-679x.70040",
-      "url": "https://doi.org/10.1111/1475-679x.70040"
     }
   ]
 }
