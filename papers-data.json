@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27T05:50:31.637Z",
-  "count": 488,
+  "lastUpdated": "2026-07-28T05:14:51.699Z",
+  "count": 487,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -401,6 +401,36 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "Illiquid Lemon Markets and the Macroeconomy",
+      "authors": "Aimé Bierdel, Andres Drenik, Juan Herreño, Pablo Ottonello",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-27",
+      "abstract": "",
+      "doi": "10.1086/742435",
+      "url": "https://doi.org/10.1086/742435"
+    },
+    {
+      "title": "Pension Liquidity Risk",
+      "authors": "Kristy A E Jansen, Sven Klingler, Angelo Ranaldo, Patty Duijm",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Pension funds use interest rate swaps to hedge the interest rate risk arising from their liabilities. Analyzing regulatory data on Dutch pension funds, we show that pension funds with worse funding ratios, indicating greater fragility, use swaps more aggressively. These swap positions expose pension funds to the risk of margin calls, which can exceed 6% of their total assets, when interest rates rise. Pension funds respond to realized margin calls by selling safe government bonds with medium-term maturities. This procyclical selling behavior adversely affects the prices of the sold bonds and thereby exposes pension funds to market liquidity risk. (JEL E43, G12, G18)</jats:p>",
+      "doi": "10.1093/rfs/hhag068",
+      "url": "https://doi.org/10.1093/rfs/hhag068"
+    },
+    {
+      "title": "Dollar Asset Holdings and Hedging around the Globe",
+      "authors": "Wenxin Du, Amy W Huber",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-27",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We collect and analyze detailed filings from global institutional investors to estimate foreign investors’ U.S. dollar (USD) security holdings and currency hedging. Over two decades, foreign USD holdings grew sixfold, while hedge ratios rose by 15 percentage points after the 2008–2009 crisis. Currency hedging across mutual funds, pensions, and insurance reached $2 trillion by 2019. Hedging demand varies across investors, currency areas, and banking systems. We show that expected FX returns, beyond variance minimization, drive currency exposure in portfolios. Finally, we demonstrate and quantify how aggregate hedging demand affects hedging costs in the presence of constrained intermediaries. (JEL F21, F31, G11, G15, G22, G23)</jats:p>",
+      "doi": "10.1093/rfs/hhag067",
+      "url": "https://doi.org/10.1093/rfs/hhag067"
     },
     {
       "title": "Mental Models of the Stock Market",
@@ -1033,6 +1063,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101932"
     },
     {
+      "title": "Earnings management in private equity portfolio firms during fundraising",
+      "authors": "Brian K. Baik",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101926",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101926"
+    },
+    {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
       "authors": "Jefferson Duarte, Christopher S Jones, Mehdi Khorram, Haitao Mo, Junbo L Wang",
       "journal": "Review of Financial Studies",
@@ -1551,16 +1591,6 @@
       "abstract": "",
       "doi": "10.1086/742422",
       "url": "https://doi.org/10.1086/742422"
-    },
-    {
-      "title": "Illiquid Lemon Markets and the Macroeconomy",
-      "authors": "Aime Bierdel, Andres Drenik, Juan Herreno, Pablo Ottonello",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742435",
-      "url": "https://doi.org/10.1086/742435"
     },
     {
       "title": "The Real Effect of Sociopolitical Racial/Ethnic Animus: Mutual Fund Manager Performance during AAPI Hate",
@@ -4841,46 +4871,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Fraud indicators within the Paycheck Protection Program (PPP), a major COVID relief program, are highly geographically concentrated. ZIP codes and counties with high rates of suspicious PPP loans are strongly socially connected, with evidence that fraud spreads spatially over time through social networks. Individuals in suspicious social media groups have higher rates of PPP fraud, and socially connected ZIP codes frequently use the same specific FinTech lenders, consistent with social networks influencing detailed loan decisions. Our findings suggest that more proactive data analysis is needed for fraud prevention, detection, and prosecution to prevent the social spread of fraudulent schemes.</jats:p>",
       "doi": "10.1093/rfs/hhag004",
       "url": "https://doi.org/10.1093/rfs/hhag004"
-    },
-    {
-      "title": "Monetary Policy, Inflation, and Crises: Evidence from History and Administrative Data",
-      "authors": "Gabriel Jiménez, Dmitry Kuvshinov, José‐luis Peydró, Björn Richter",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that a U‐shaped monetary rate path increases banking crisis risk, via credit and asset price cycles, analyzing 17 countries over 150 years. Rate hikes (raw or instrumented) increase crisis risk, but only if preceded by prolonged cuts. These patterns are unique to banking crises, unlike noncrisis recessions. Regarding the mechanism, prolonged cuts raise the likelihood of large credit and asset price booms, consistent with higher credit supply and risk‐taking. Subsequent hikes strongly reduce credit and asset prices, and increase banks' realized credit risk, rather than interest rate risk. We find consistent results in administrative loan‐level data for Spain.</jats:p>",
-      "doi": "10.1111/jofi.70023",
-      "url": "https://doi.org/10.1111/jofi.70023"
-    },
-    {
-      "title": "Monetary Policy and Wealth Effects: The Role of Risk and Heterogeneity",
-      "authors": "Nicolas Caramp, Dejanir H. Silva",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the role of asset revaluation in the monetary transmission mechanism. We build an analytical heterogeneous‐agents model with two main ingredients: (i) rare disasters and (ii) heterogeneous beliefs. The model captures time‐varying risk premia and precautionary savings in a setting that nests the textbook New Keynesian model. The model generates large movements in asset prices after a monetary shock but these movements can be neutral on real variables. Real effects depend on the redistribution among agents with heterogeneous precautionary motives. In quantitative analysis, we find that this channel can account for a large fraction of the transmission to aggregate consumption.</jats:p>",
-      "doi": "10.1111/jofi.70021",
-      "url": "https://doi.org/10.1111/jofi.70021"
-    },
-    {
-      "title": "The Dollar during the Great Recession: The Information Channel of U.S. Monetary Policy and the “Flight to Safety”",
-      "authors": "Vania Stavrakeva, Jenny Tang",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-01-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Conventional wisdom holds that lowering a home country's interest rate relative to another's will depreciate the domestic currency. We document that, at business‐cycle frequencies, U.S. forward guidance monetary policy easings had the opposite effect during the Great Recession. We attribute this effect to calendar‐based forward guidance that signaled economic weakness, resulting in a “flight‐to‐safety” effect and lower expected U.S. inflation. We also document cross‐currency heterogeneity: a surprise U.S. rate cut induced a larger appreciation of the dollar against currencies that typically depreciate more when the world economy is contracting. We build a model that can reconcile these findings.</jats:p>",
-      "doi": "10.1111/jofi.70025",
-      "url": "https://doi.org/10.1111/jofi.70025"
-    },
-    {
-      "title": "The Impact of Carcinogenic Risk Exposure on Housing Values: Estimates from Chemical Reclassifications",
-      "authors": "Jules van Binsbergen, João F Cocco, Marco Grotteria, S Lakshmi Naaraayanan",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-01-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We quantify the impact of perceived cancer risk on housing values using widely advertised national reclassifications of chemical carcinogenicity in the United States. Combining these information events with an empirical design that compares changes in house values closer to affected toxic plants against those farther away isolates the effect of cancer risk news from other local factors. Focusing on plants previously emitting reclassified carcinogenic chemicals, we estimate a 1–2% decline in housing values within a 3-mile radius compared to those located farther away. The effects are stronger in areas with higher media presence underscoring the role of salience as a mechanism.</jats:p>",
-      "doi": "10.1093/rfs/hhag006",
-      "url": "https://doi.org/10.1093/rfs/hhag006"
     }
   ]
 }
