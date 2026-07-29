@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T05:14:51.699Z",
-  "count": 487,
+  "lastUpdated": "2026-07-29T05:22:40.122Z",
+  "count": 488,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -401,6 +401,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "Capital Services in Global Value Chains",
+      "authors": "Xiang Ding",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-07-28",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper constructs the first global dataset on inter-sectoral capital service expenditures. I use this data to disaggregate capital services and intermediate inputs in a dynamic multi-sector trade model. Steady state allocations and responses to shocks are determined by a capital-augmented global input-output matrix. Two properties of the measured network deliver larger long-run consumption gains from globalization than existing estimates, as well as larger gains in more capital-intensive countries. First, more trade-exposed sectors supply capital to more consumption-influential producers. Second, heterogeneity in the network reallocates sectoral expenditures towards producers with larger declines in capital rental prices. These reallocations raise capital incomes and lower consumption price indices.</jats:p>",
+      "doi": "10.1093/qje/qjag041",
+      "url": "https://doi.org/10.1093/qje/qjag041"
+    },
+    {
+      "title": "Dynamic Self‐Fulfilling Fire Sales",
+      "authors": "Paymon Khorrami, Fernando Mendo",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-07-28",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Why do fire sales occur if many risks are hedgeable? We study a version of Brunnermeier and Sannikov (2014,\n                    <jats:italic>American Economic Review</jats:italic>\n                    104, 379–421) in which all fundamental risks can be hedged frictionlessly. Our analysis shows that fire sales are inherently self‐fulfilling. Fundamental shocks can never cause fire sales, and an efficient, safe equilibrium exists. On the other hand, there exists an equilibrium in which agents coordinate fire sales on nonfundamental shocks. A simple refinement based on vanishingly small perceived fundamental risk eliminates the safe equilibrium and selects the fire‐sale equilibrium as the unique outcome.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70069",
+      "url": "https://doi.org/10.1111/jofi.70069"
     },
     {
       "title": "Illiquid Lemon Markets and the Macroeconomy",
@@ -1003,7 +1023,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101929"
     },
     {
-      "title": "Discussion of 'Private Firms and the Economic Role of Accounting: A Review of Empirical Research'",
+      "title": "Discussion of 'Private firms and the economic role of accounting: A review of empirical research'",
       "authors": "Lakshmanan Shivakumar",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4861,16 +4881,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the effects of automation in a task-based economy in which some jobs pay workers rents—wages above workers' outside options. We show that automation targets high-rent tasks, dissipating rents, amplifying wage losses, and reducing within-group wage dispersion in exposed groups. This form of rent dissipation is inefficient and offsets the productivity gains from automation. Using U.S. data from 1980 to 2016, we find evidence of sizable rent dissipation and reduced within-group wage dispersion due to automation. Automation accounts for 52% of the increase in between-group inequality since 1980, with rent dissipation explaining one-fifth of this total. Our estimates imply that inefficient rent dissipation has offset 60%–90% of the productivity gains from automation over this period.</jats:p>",
       "doi": "10.1093/qje/qjag006",
       "url": "https://doi.org/10.1093/qje/qjag006"
-    },
-    {
-      "title": "Is Fraud Contagious? Social Connections and the Looting of COVID Relief Programs",
-      "authors": "John M Griffin, Samuel Kruger, Prateek Mahajan",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-01-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Fraud indicators within the Paycheck Protection Program (PPP), a major COVID relief program, are highly geographically concentrated. ZIP codes and counties with high rates of suspicious PPP loans are strongly socially connected, with evidence that fraud spreads spatially over time through social networks. Individuals in suspicious social media groups have higher rates of PPP fraud, and socially connected ZIP codes frequently use the same specific FinTech lenders, consistent with social networks influencing detailed loan decisions. Our findings suggest that more proactive data analysis is needed for fraud prevention, detection, and prosecution to prevent the social spread of fraudulent schemes.</jats:p>",
-      "doi": "10.1093/rfs/hhag004",
-      "url": "https://doi.org/10.1093/rfs/hhag004"
     }
   ]
 }
