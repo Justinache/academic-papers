@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T05:22:40.122Z",
+  "lastUpdated": "2026-07-30T04:56:59.913Z",
   "count": 488,
   "papers": [
     {
@@ -401,6 +401,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "Optimal Tests Following Sequential Experiments",
+      "authors": "Karun Adusumilli",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-29",
+      "abstract": "",
+      "doi": "10.1086/742418",
+      "url": "https://doi.org/10.1086/742418"
     },
     {
       "title": "Capital Services in Global Value Chains",
@@ -1581,16 +1591,6 @@
       "abstract": "",
       "doi": "10.1086/742423",
       "url": "https://doi.org/10.1086/742423"
-    },
-    {
-      "title": "Optimal Tests Following Sequential Experiments",
-      "authors": "Karun Adusumilli",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742418",
-      "url": "https://doi.org/10.1086/742418"
     },
     {
       "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
