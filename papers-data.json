@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T04:56:59.913Z",
-  "count": 488,
+  "lastUpdated": "2026-07-31T05:36:40.442Z",
+  "count": 494,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -403,6 +403,16 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
     },
     {
+      "title": "Stocks as Lotteries? An Experimental Test of Expected Utility versus Behavioral Models",
+      "authors": "Brice Corgnet, Yao Thibaut Kpegli, Jacopo Magnani",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Our study provides the first causal test of classical and behavioral asset pricing models that incorporate skewness pricing. In line with these models, our experimental markets show that skewness is systematically priced. Our findings also reveal that positively skewed assets available in small supply exhibit negative expected returns, which is consistent with prospect theory, but not with expected utility models. Furthermore, in line with the mechanism underlying prospect theory, we show that the negative returns of the positively skewed asset are most pronounced during market sessions where traders overweight the low probability of receiving a large payoff. (JEL C92, G10, G40)</jats:p>",
+      "doi": "10.1093/rfs/hhag070",
+      "url": "https://doi.org/10.1093/rfs/hhag070"
+    },
+    {
       "title": "Optimal Tests Following Sequential Experiments",
       "authors": "Karun Adusumilli",
       "journal": "Journal of Political Economy",
@@ -411,6 +421,26 @@
       "abstract": "",
       "doi": "10.1086/742418",
       "url": "https://doi.org/10.1086/742418"
+    },
+    {
+      "title": "Learning by Investing: Entrepreneurial Spillovers from Venture Capital",
+      "authors": "Josh Lerner, Jinlin Li, Tong Liu",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-07-29",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how investing in venture capital (VC) affects the entrepreneurial outcomes of individual limited partners (LPs). Using comprehensive administrative data on entrepreneurial activities and VC fundraising and investments in China, we find that after investing in a successfully launched VC fund, individual LPs create significantly more ventures than do LPs in funds that failed to launch. These new ventures tend to be high-tech firms with better employment outcomes and more patent activity. Our results suggest that venture investments are a channel through which individual LPs learn. (JEL D83, G23, G24, L25, L26)</jats:p>",
+      "doi": "10.1093/rfs/hhag069",
+      "url": "https://doi.org/10.1093/rfs/hhag069"
+    },
+    {
+      "title": "“Megadeal” Subsidies, Local Spillovers, and Corporate Innovation",
+      "authors": "Yoojin Lee, Shaphan Ng, Aruhn Venkat",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-07-29",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether the largest place‐based, firm‐specific corporate subsidies (“Megadeals”) awarded by state and local governments affect local firms’ innovation. First, we document that (1) subsidy firms innovate in the subsidized county and (2) subsidy firms bring inventors from other counties into the subsidized county, consistent with subsidy firms generating new knowledge locally. In our main test, we use a stacked cohort design with stringent fixed effects to document that local firms increase patenting following a Megadeal. Cross‐sectionally, effects are increasing (1) in subsidy firm innovativeness, (2) in the technological closeness of subsidy firms and local firms, (3) when subsidy and local firms share an industry, and (4) when the subsidized location has a heavy college presence. Additionally, we document that following a Megadeal, local firms increasingly make citations to subsidy firm patents and that the patent similarity of local and subsidy firms increases. We document that subsidy firm inventors are more likely to move to local firms following a Megadeal. We also find that subsidies for labs, headquarters, and high‐tech manufacturing plants drive our main results. These results are consistent with knowledge spillovers being one channel through which we observe an increase in local firm patenting following Megadeals.</jats:p>",
+      "doi": "10.1111/1475-679x.70079",
+      "url": "https://doi.org/10.1111/1475-679x.70079"
     },
     {
       "title": "Capital Services in Global Value Chains",
@@ -431,6 +461,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Why do fire sales occur if many risks are hedgeable? We study a version of Brunnermeier and Sannikov (2014,\n                    <jats:italic>American Economic Review</jats:italic>\n                    104, 379–421) in which all fundamental risks can be hedged frictionlessly. Our analysis shows that fire sales are inherently self‐fulfilling. Fundamental shocks can never cause fire sales, and an efficient, safe equilibrium exists. On the other hand, there exists an equilibrium in which agents coordinate fire sales on nonfundamental shocks. A simple refinement based on vanishingly small perceived fundamental risk eliminates the safe equilibrium and selects the fire‐sale equilibrium as the unique outcome.\n                  </jats:p>",
       "doi": "10.1111/jofi.70069",
       "url": "https://doi.org/10.1111/jofi.70069"
+    },
+    {
+      "title": "The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing",
+      "authors": "Ricardo Correa, Ai He, Christoph Herpfer, Ugur Lel",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-07-28",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Banks adjust loan spreads after observing natural disasters linked to climate change. We isolate this updating process by identifying loans to borrowers at risk of, but not directly affected by, such disasters. Loan spreads for these borrowers spike in both primary and secondary markets, while no such updating occurs for non–climate‐related disasters. Evidence suggests a heightened perceived credit risk, which nonetheless cannot fully explain the increase in rates. Taken altogether, increased spreads are explained primarily by salience bias, as they are short‐lived and amplified by media attention. This salience impacts financial decisions at bank‐dependent firms.</jats:p>",
+      "doi": "10.1111/jofi.70066",
+      "url": "https://doi.org/10.1111/jofi.70066"
     },
     {
       "title": "Illiquid Lemon Markets and the Macroeconomy",
@@ -528,7 +568,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure the nature and severity of a variety of belief distortions in market reactions to hundreds of economic news events by synthesizing structural estimation with algorithmic machine learning to quantify bias. We find that investors systematically overreact to perceptions about multiple fundamental shocks, a phenomenon we show often dampens rather than amplifies market volatility via a “shock composition effect.” Such effects imply that the stock market can underreact to news, even when investors overreact to all shocks. (JEL E7, E27, E32, E17, G4)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure the nature and severity of a variety of belief distortions in market reactions to hundreds of economic news events by synthesizing structural estimation with algorithmic machine learning to quantify bias. We find that investors systematically overreact to perceptions about multiple fundamental shocks, a phenomenon we show often dampens rather than amplifies market volatility via a “shock composition effect.” Such effects imply that the stock market can underreact to news, even when investors overreact to all shocks.</jats:p>",
       "doi": "10.1093/rfs/hhag062",
       "url": "https://doi.org/10.1093/rfs/hhag062"
     },
@@ -568,7 +608,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We build a novel data set of time-stamped corporate decarbonization commitments—green pledges—for U.S. public firms by classifying news articles with large language models and human validation. Firms announcing green pledges tend to be larger and browner than other firms, both within and across industries. Green pledges significantly raise stock prices, consistent with a reduction in the carbon premium, and predict sizable declines in future carbon emissions and emission intensities. These effects tend to be strongest for firms in brown industries. Green pledges thus appear credible, convey relevant new information to investors, and provide meaningful financial incentives to decarbonize. (JEL G14, G32, Q54, Q56)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We build a novel data set of time-stamped corporate decarbonization commitments—green pledges—for U.S. public firms by classifying news articles with large language models and human validation. Firms announcing green pledges tend to be larger and browner than other firms, both within and across industries. Green pledges significantly raise stock prices, consistent with a reduction in the carbon premium, and predict sizable declines in future carbon emissions and emission intensities. These effects tend to be strongest for firms in brown industries. Green pledges thus appear credible, convey relevant new information to investors, and provide meaningful financial incentives to decarbonize.</jats:p>",
       "doi": "10.1093/rfs/hhag063",
       "url": "https://doi.org/10.1093/rfs/hhag063"
     },
@@ -608,7 +648,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>There are two major institutional investors in the syndicated loan market: collateralized loan obligations (CLOs) and loan mutual funds. CLOs are closed-end funds while loan funds are open-end funds that issue claims that are redeemable on demand. In this paper, we examine whether CLOs provide arbitrage capital that contributes to the resilience of loan funds. We find that CLOs act as shock absorbers, providing liquidity through par-building trades when loan funds experience large outflows. However, CLO-provided liquidity is limited to par build–eligible loans, leading to potential flow-induced fire sales among par build–ineligible loans. (JEL G23, G38</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>There are two major institutional investors in the syndicated loan market: collateralized loan obligations (CLOs) and loan mutual funds. CLOs are closed-end funds while loan funds are open-end funds that issue claims that are redeemable on demand. In this paper, we examine whether CLOs provide arbitrage capital that contributes to the resilience of loan funds. We find that CLOs act as shock absorbers, providing liquidity through par-building trades when loan funds experience large outflows. However, CLO-provided liquidity is limited to par build–eligible loans, leading to potential flow-induced fire sales among par build–ineligible loans.</jats:p>",
       "doi": "10.1093/rfs/hhag056",
       "url": "https://doi.org/10.1093/rfs/hhag056"
     },
@@ -923,7 +963,7 @@
       "url": "https://doi.org/10.1093/qje/qjag034"
     },
     {
-      "title": "Technological Investment and Accounting: A Demand-Side Perspective on Labor Markets and Enrollments",
+      "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
       "authors": "Henry Friedman, Andrew G. Sutherland, Felix W. Vetter",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1063,7 +1103,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101917"
     },
     {
-      "title": "Discussion of “Auditing smart contracts:” Assurance in the world of decentralized finance",
+      "title": "Discussion of “Auditing smart contracts”: Assurance in the world of decentralized finance",
       "authors": "Andreas Park",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1101,6 +1141,46 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101926",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101926"
+    },
+    {
+      "title": "Accounting and the informal economy: A review and discussion",
+      "authors": "Rimmy E. Tomy",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101927",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101927"
+    },
+    {
+      "title": "Tax-Induced Shifts in Risk-Taking Incentives and Executive Compensation Design",
+      "authors": "Jennifer L. Blouin, Thomas R. Kubick, John R. Robinson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Theory suggests that changes in corporate tax rates can alter the dispersion of after-tax project payoffs, thereby altering the exposure of firm-level risk transmitted to executives through compensation. Using state tax changes, we observe firms shifting away from option-based compensation following state corporate tax rate increases. This result is concentrated in compensation contracts that lack relative performance evaluation (RPE) features, which filter common shocks to performance and influence the type of risk executives are incentivized to take. We also find that firms are more likely to initiate RPE shortly after a state tax rate increase and that firms that adjusted compensation through reductions in equity risk incentives or used RPE were less likely to experience a subsequent increase in systematic risk following a state tax rate increase. Overall, our findings provide novel insight into how taxes can influence CEO compensation design and the transmission of firm-level risk to executives.</jats:p>\n                  <jats:p>Data Availability: Data are obtained from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G32; H32; J33; J41; L25.</jats:p>",
+      "doi": "10.2308/tar-2023-0226",
+      "url": "https://doi.org/10.2308/tar-2023-0226"
+    },
+    {
+      "title": "Employee-Level Real Activities Management, Employee Performance, and Managerial Target Setting",
+      "authors": "Markus C. Arnold, Kai A. Bauch, Eric W. Chan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates how real activities management (RAM) by employees to meet internal targets set by managers affects their performance, and how managers’ awareness of employees’ opportunity to engage in RAM moderates this effect. Using two experiments, we predict and find that when managers are unaware of employees’ RAM opportunity, employees who face miscalibrated targets use RAM to restore their own incentives to work hard, resulting in increased employee performance. Counter to conventional wisdom, we also predict and find that making managers aware of employees’ RAM opportunity hurts employee performance. Such managers overestimate employees’ RAM and adjust targets aggressively such that they become more difficult to achieve, leading to lower employee motivation and less trusting employee-manager relations. Overall, our findings show that the opportunity to engage in RAM can have the indirect benefits of motivating higher employee performance, but increasing managers’ awareness of this has negative performance and relational effects.</jats:p>\n                  <jats:p>Data Availability: The data and research instrument are available from the authors upon request.</jats:p>\n                  <jats:p>JEL Classifications: D91; M10; M40.</jats:p>",
+      "doi": "10.2308/tar-2024-0166",
+      "url": "https://doi.org/10.2308/tar-2024-0166"
+    },
+    {
+      "title": "The Consequences of Regulating Ownership for Profitable Tax-Exempt Organizations",
+      "authors": "Brian D. Cadman, Elena S. Patel",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-07-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Many tax-exempt hospitals generate substantial profits. At the same time, regulations governing tax-exempt status prohibit these organizations from issuing equity or operating for the benefit of private owners, leaving managers with unusual discretion over retained resources. This combination makes them especially prone to agency problems. Because hospitals play a central role in the U.S. economy, the costs of weak governance extend beyond the sector itself. We find that tax-exempt hospitals spend more on administrative wages and capital investments than comparable taxable hospitals. At the same time, weaker financial performance accompanies greater mission-related activity. A novel, hand-collected measure of additional state-level oversight reveals that stronger oversight disciplines finances without crowding out mission-related activity.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are derived from publicly available sources. Hospital financial and operational data are from the Centers for Medicare and Medicaid Services’ Hospital Cost Report Information System (HCRIS). County-level demographic data are from the Area Resource File maintained by the U.S. Department of Health and Human Services. Hospital market definitions are from the Dartmouth Atlas of Health Care. The hand-collected measure of state-level oversight (the O-Score) is described in the manuscript and appendices.</jats:p>\n                  <jats:p>JEL Classifications: M12; G30; G34; I18; J30.</jats:p>",
+      "doi": "10.2308/tar-2023-0208",
+      "url": "https://doi.org/10.2308/tar-2023-0208"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4861,26 +4941,6 @@
       "abstract": "",
       "doi": "10.1086/738344",
       "url": "https://doi.org/10.1086/738344"
-    },
-    {
-      "title": "A Theory of How Workers Keep up with Inflation",
-      "authors": "Hassan Afrouzi, Andres Blanco, Andres Drenik, Erik Hurst",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021–2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policy makers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</jats:p>",
-      "doi": "10.1093/qje/qjag007",
-      "url": "https://doi.org/10.1093/qje/qjag007"
-    },
-    {
-      "title": "Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity",
-      "authors": "Daron Acemoglu, Pascual Restrepo",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-01-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article studies the effects of automation in a task-based economy in which some jobs pay workers rents—wages above workers' outside options. We show that automation targets high-rent tasks, dissipating rents, amplifying wage losses, and reducing within-group wage dispersion in exposed groups. This form of rent dissipation is inefficient and offsets the productivity gains from automation. Using U.S. data from 1980 to 2016, we find evidence of sizable rent dissipation and reduced within-group wage dispersion due to automation. Automation accounts for 52% of the increase in between-group inequality since 1980, with rent dissipation explaining one-fifth of this total. Our estimates imply that inefficient rent dissipation has offset 60%–90% of the productivity gains from automation over this period.</jats:p>",
-      "doi": "10.1093/qje/qjag006",
-      "url": "https://doi.org/10.1093/qje/qjag006"
     }
   ]
 }
