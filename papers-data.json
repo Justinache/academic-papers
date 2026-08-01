@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T05:36:40.442Z",
-  "count": 494,
+  "lastUpdated": "2026-08-01T05:25:23.216Z",
+  "count": 483,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -401,6 +401,116 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101864",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101864"
+    },
+    {
+      "title": "Energy Transitions in Regulated Markets",
+      "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)</jats:p>",
+      "doi": "10.1257/aer.20240094",
+      "url": "https://doi.org/10.1257/aer.20240094"
+    },
+    {
+      "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+      "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)</jats:p>",
+      "doi": "10.1257/aer.20240617",
+      "url": "https://doi.org/10.1257/aer.20240617"
+    },
+    {
+      "title": "The Productivity of Professions: Evidence from the Emergency Department",
+      "authors": "David Chan, Yiqun Chen",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)</jats:p>",
+      "doi": "10.1257/aer.20241007",
+      "url": "https://doi.org/10.1257/aer.20241007"
+    },
+    {
+      "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
+      "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)</jats:p>",
+      "doi": "10.1257/aer.20240497",
+      "url": "https://doi.org/10.1257/aer.20240497"
+    },
+    {
+      "title": "Talent Hoarding in Organizations",
+      "authors": "Ingrid Haegele",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)</jats:p>",
+      "doi": "10.1257/aer.20220264",
+      "url": "https://doi.org/10.1257/aer.20220264"
+    },
+    {
+      "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
+      "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent. (JEL J15, K37, K42)</jats:p>",
+      "doi": "10.1257/aer.20250305",
+      "url": "https://doi.org/10.1257/aer.20250305"
+    },
+    {
+      "title": "Uncertainty and Change: Survey Evidence of Firms' Subjective Beliefs",
+      "authors": "Rüdiger Bachmann, Kai Carstensen, Stefan Lautenbacher, Manuel Menkhoff, Martin Schneider",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>This paper studies how managers plan under uncertainty. In a new panel survey of German manufacturing firms, we observe both forecasts of sales growth and a quantitative measure of subjective uncertainty. We show that subjective uncertainty reflects change experienced by firms: It is high when growth is either unusually low or unusually high. Subjective uncertainty is more than conditional volatility; while more volatile firms are typically more uncertain, experienced change alone increases uncertainty, consistent with a model of learning. Uncertainty over our sample is mostly idiosyncratic but varies substantially over time and leads managers to plan lower employment and prices. (JEL C83, D22, E20, E23)</jats:p>",
+      "doi": "10.1257/aer.20240056",
+      "url": "https://doi.org/10.1257/aer.20240056"
+    },
+    {
+      "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+      "authors": "Karl M. Aspelund, Anna Russo",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)</jats:p>",
+      "doi": "10.1257/aer.20250295",
+      "url": "https://doi.org/10.1257/aer.20250295"
+    },
+    {
+      "title": "Professional Motivations in the Public Sector: Evidence from Police Officers",
+      "authors": "Aaron Chalfin, Felipe Gonçalves",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>We study how public sector workers balance their professional motivations with private economic concerns, focusing on police arrests. Arrests made near the end of an officer's shift typically require overtime work, and officers respond by reducing arrest frequency but increasing arrest quality. Days in which an officer works a second job after their police shift have higher opportunity cost, also reducing late-shift arrests. Combining our estimates in a dynamic model identifies officer preferences over workplace activity and overtime work. Our results indicate that officers' private costs of arrests have a first-order impact on the quantity and quality of enforcement. (JEL K42, J33, J45)</jats:p>",
+      "doi": "10.1257/aer.20231696",
+      "url": "https://doi.org/10.1257/aer.20231696"
+    },
+    {
+      "title": "Random Utility with Unobservable Alternatives",
+      "authors": "Haruki Kono, Kota Saito, Alec Sandroni",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>The random utility model (RUM), a cornerstone in economics, is typically studied under the assumption that choice frequencies of all alternatives are observable. In practice, however, some alternatives have unobservable choice frequencies and are commonly aggregated into a single category called an outside option. We study RUM in such environments and derive a finite, nonredundant system of inequality constraints on observed choice frequencies that characterizes RU-rationalizability. We show that the conventional practice of aggregating unobserved alternatives can miss key information leading to incorrect conclusions such as that observed choices are rationalizable, even when no RUM is consistent with them. (JEL D11, D44, D83)</jats:p>",
+      "doi": "10.1257/aer.20240712",
+      "url": "https://doi.org/10.1257/aer.20240712"
+    },
+    {
+      "title": "Remote Work and City Structure",
+      "authors": "Ferdinando Monte, Charly Porcher, Esteban Rossi-Hansberg",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "<jats:p>Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent. (JEL I12, J22, M54, R23, R31)</jats:p>",
+      "doi": "10.1257/aer.20231414",
+      "url": "https://doi.org/10.1257/aer.20231414"
     },
     {
       "title": "Stocks as Lotteries? An Experimental Test of Expected Utility versus Behavioral Models",
@@ -4543,146 +4653,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70041"
     },
     {
-      "title": "Manufacturing risk-free government debt",
-      "authors": "Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104203",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104203"
-    },
-    {
-      "title": "Appropriated growth",
-      "authors": "Yuchen Chen, Xuelin Li, Richard T. Thakor, Colin Ward",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104207",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104207"
-    },
-    {
-      "title": "Sequential credit markets",
-      "authors": "Ulf Axelson, Igor Makarov",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104216",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104216"
-    },
-    {
-      "title": "Richer earnings dynamics, consumption and portfolio choice over the life cycle",
-      "authors": "Julio Gálvez, Gonzalo Paz-Pardo",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104206",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104206"
-    },
-    {
-      "title": "Bank consolidation and uniform pricing",
-      "authors": "João Granja, Nuno Paixão",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104204",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104204"
-    },
-    {
-      "title": "Public goods under financial distress",
-      "authors": "Pawel Janas",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104205",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104205"
-    },
-    {
-      "title": "Investing in misallocation",
-      "authors": "Mete Kılıç, Şelale Tüzel",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104208",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104208"
-    },
-    {
-      "title": "Social media as a bank run catalyst",
-      "authors": "J. Anthony Cookson, Corbin Fox, Javier Gil-Bazo, Juan F. Imbet, Christoph Schiller",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104218",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104218"
-    },
-    {
-      "title": "Do teams alleviate or exacerbate overreaction in beliefs?",
-      "authors": "Ricardo Barahona, Stefano Cassella, Kristy A.E. Jansen, Vincenzo Pezone",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104219",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104219"
-    },
-    {
-      "title": "The benchmark greenium",
-      "authors": "Stefania D’Amico, Johannes Klausmann, N. Aaron Pancost",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104217",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104217"
-    },
-    {
-      "title": "Windfall income shocks with finite planning horizons",
-      "authors": "Michael Boutros",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104174",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104174"
-    },
-    {
-      "title": "Regional Banks, Aggregate Effects",
-      "authors": "Quinn Maingi",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104226",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104226"
-    },
-    {
-      "title": "Government bond risk and return in the US and China",
-      "authors": "Jennifer N. Carpenter, Fangzhou Lu, Robert F. Whitelaw",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104224",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104224"
-    },
-    {
-      "title": "Intermediation frictions in equity markets",
-      "authors": "Bryan Seegmiller",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104223",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104223"
-    },
-    {
       "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
       "authors": "Kristine W. Hankins, Morteza Momeni, David Sovich",
       "journal": "American Economic Review",
@@ -4711,6 +4681,26 @@
       "abstract": "<jats:p>We argue that consumer credit spreads matter for household choices and that time-varying spreads have important distributional consequences. Studying Danish household data, we show that consumer credit spreads have heterogeneous impact on asset dynamics and consumption choices across the wealth distribution and that time-varying spreads induce a countercyclical marginal propensity to consume. We study a HANK model where banks provide consumer credit and corporate loans. Through countercyclical credit spreads, frictional finance amplifies aggregate shocks and induces consumption inequality. Economies with less leveraged banks experience reduced aggregate volatility but may face higher volatility and lower welfare at the household level. (JEL D12, D31, E12, E21, E32, E52, G51)</jats:p>",
       "doi": "10.1257/aer.20211219",
       "url": "https://doi.org/10.1257/aer.20211219"
+    },
+    {
+      "title": "Competition under Incomplete Contracts and the Design of Procurement Policies",
+      "authors": "Rodrigo Carril, Andres Gonzalez-Lira, Michael S. Walker",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We study the effects of intensifying competition for contracts in the context of US Defense procurement. Leveraging a discontinuous regulation that mandates agencies to publicize certain contract opportunities, we document that expanding the set of bidders reduces award prices but deteriorates post-award performance in terms of cost overruns and delays. We develop and estimate an auction model with endogenous entry and stochastic execution performance, in which the buyer endogenously chooses the intensity of competition. Model estimates indicate substantial heterogeneity in performance across contractors and show that simple adjustments to the current regulation could provide significant savings in procurement spending. (JEL D22, D24, D44, D82, D86, H56, H57)</jats:p>",
+      "doi": "10.1257/aer.20221345",
+      "url": "https://doi.org/10.1257/aer.20221345"
+    },
+    {
+      "title": "“Potential” and the Gender Promotion Gap",
+      "authors": "Alan Benson, Danielle Li, Kelly Shue",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-02-01",
+      "abstract": "<jats:p>We show that subjective assessments of employee “potential” contribute to gender gaps in promotion and pay. Using data on 29,809 management-track employees from a large retail chain, we find that women receive substantially lower potential ratings despite receiving higher performance ratings. Differences in potential ratings account for approximately half of the gender promotion gap. Women’s lower potential ratings do not reflect accurate forecasts of future performance: Women subsequently outperform male colleagues, both on average and on the margin of promotion. We highlight two mechanisms driving the gender potential gap: strategic retention and stereotyping. (JEL J16, J31, J71, L81, M12, M51)</jats:p>",
+      "doi": "10.1257/aer.20220831",
+      "url": "https://doi.org/10.1257/aer.20220831"
     },
     {
       "title": "Work from Home and the Office Real Estate Apocalypse",
@@ -4751,26 +4741,6 @@
       "abstract": "<jats:p>This paper studies the efficiency of self-enforced relational agreements, a common solution to contracting frictions, when sellers have market power and contracts cannot be externally enforced. To this end, I develop a dynamic contracting model with limited enforcement in which buyers can default on their trade credit debt and estimate it using a novel dataset from the Ecuadorian manufacturing supply chain. The key empirical finding is that bilateral trade is inefficiently low in early periods of the relationship, but converges toward efficiency over time, despite sellers’ market power. Counterfactual simulations imply that both market power and enforcement contribute to inefficiencies in trade. (JEL D86, G32, K12, L14, L60, O14)</jats:p>",
       "doi": "10.1257/aer.20230264",
       "url": "https://doi.org/10.1257/aer.20230264"
-    },
-    {
-      "title": "Competition under Incomplete Contracts and the Design of Procurement Policies",
-      "authors": "Rodrigo Carril, Andres Gonzalez-Lira, Michael S. Walker",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "<jats:p>We study the effects of intensifying competition for contracts in the context of US Defense procurement. Leveraging a discontinuous regulation that mandates agencies to publicize certain contract opportunities, we document that expanding the set of bidders reduces award prices but deteriorates post-award performance in terms of cost overruns and delays. We develop and estimate an auction model with endogenous entry and stochastic execution performance, in which the buyer endogenously chooses the intensity of competition. Model estimates indicate substantial heterogeneity in performance across contractors and show that simple adjustments to the current regulation could provide significant savings in procurement spending. (JEL D22, D24, D44, D82, D86, H56, H57)</jats:p>",
-      "doi": "10.1257/aer.20221345",
-      "url": "https://doi.org/10.1257/aer.20221345"
-    },
-    {
-      "title": "“Potential” and the Gender Promotion Gap",
-      "authors": "Alan Benson, Danielle Li, Kelly Shue",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "<jats:p>We show that subjective assessments of employee “potential” contribute to gender gaps in promotion and pay. Using data on 29,809 management-track employees from a large retail chain, we find that women receive substantially lower potential ratings despite receiving higher performance ratings. Differences in potential ratings account for approximately half of the gender promotion gap. Women’s lower potential ratings do not reflect accurate forecasts of future performance: Women subsequently outperform male colleagues, both on average and on the margin of promotion. We highlight two mechanisms driving the gender potential gap: strategic retention and stereotyping. (JEL J16, J31, J71, L81, M12, M51)</jats:p>",
-      "doi": "10.1257/aer.20220831",
-      "url": "https://doi.org/10.1257/aer.20220831"
     },
     {
       "title": "A Theory of Supply Function Choice and Aggregate Supply",
@@ -4861,86 +4831,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2025.101806",
       "url": "https://doi.org/10.1016/j.jacceco.2025.101806"
-    },
-    {
-      "title": "Dynamic Trading with Realization Utility",
-      "authors": "Min Dai, Cong Qin, Neng Wang",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-02-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>An investor receives utility bursts from realizing gains and losses at the individual stock level and dynamically allocates his mental budget between risky and risk‐free assets at the trading account level. Using savings, he reduces his stockholdings and is more willing to realize losses. Using leverage, he increases his stockholdings beyond his mental budget and is more reluctant to realize losses. While leverage strengthens the disposition effect, introducing leverage constraints mitigates it. Our model predicts that investors with stocks in deep losses sell them either immediately or after stocks rebound a little.</jats:p>",
-      "doi": "10.1111/jofi.13472",
-      "url": "https://doi.org/10.1111/jofi.13472"
-    },
-    {
-      "title": "Gender, Confidence, and the Mismeasure of Intelligence, Competitiveness, and Literacy",
-      "authors": "Glenn W. Harrison, Don Ross, J. Todd Swarthout",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738345",
-      "url": "https://doi.org/10.1086/738345"
-    },
-    {
-      "title": "A Case for Pay-as-Bid Auctions",
-      "authors": "Marek Pycia, Kyle Woodward",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738341",
-      "url": "https://doi.org/10.1086/738341"
-    },
-    {
-      "title": "The Short-Run Policy Constraints of Long-Run Expectations",
-      "authors": "Stefano Eusepi, Marc Giannoni, Bruce Preston",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738335",
-      "url": "https://doi.org/10.1086/738335"
-    },
-    {
-      "title": "Laws and Norms",
-      "authors": "Roland Bénabou, Jean Tirole",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738343",
-      "url": "https://doi.org/10.1086/738343"
-    },
-    {
-      "title": "Screening with Persuasion",
-      "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738342",
-      "url": "https://doi.org/10.1086/738342"
-    },
-    {
-      "title": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors Appropriate?",
-      "authors": "Atsushi Inoue, Lutz Kilian",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738339",
-      "url": "https://doi.org/10.1086/738339"
-    },
-    {
-      "title": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock",
-      "authors": "Andrés Rodríguez-Clare, Mauricio Ulate, José P. Vásquez",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-02-01",
-      "abstract": "",
-      "doi": "10.1086/738344",
-      "url": "https://doi.org/10.1086/738344"
     }
   ]
 }
