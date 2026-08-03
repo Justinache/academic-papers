@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T05:26:30.133Z",
-  "count": 465,
+  "lastUpdated": "2026-08-03T05:42:45.637Z",
+  "count": 473,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -511,6 +511,96 @@
       "abstract": "<jats:p>Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent. (JEL I12, J22, M54, R23, R31)</jats:p>",
       "doi": "10.1257/aer.20231414",
       "url": "https://doi.org/10.1257/aer.20231414"
+    },
+    {
+      "title": "Interpreting the Effects of Rule 10b5-1 Reform",
+      "authors": "Colleen Honigsberg, Robert J. Jackson",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101933",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101933"
+    },
+    {
+      "title": "Markups: A Search-Theoretic Perspective",
+      "authors": "Guido Menzio",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/742420",
+      "url": "https://doi.org/10.1086/742420"
+    },
+    {
+      "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
+      "authors": "David Card, Eric Chyn, Laura Giuliano",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743389",
+      "url": "https://doi.org/10.1086/743389"
+    },
+    {
+      "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
+      "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743387",
+      "url": "https://doi.org/10.1086/743387"
+    },
+    {
+      "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+      "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743331",
+      "url": "https://doi.org/10.1086/743331"
+    },
+    {
+      "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
+      "authors": "Nathan Canen, Chad Kendall, Francesco Trebbi",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743333",
+      "url": "https://doi.org/10.1086/743333"
+    },
+    {
+      "title": "A Theory of  Redistribution and Public Good Provision Under Non-Democracy",
+      "authors": "Nicola Persico",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743332",
+      "url": "https://doi.org/10.1086/743332"
+    },
+    {
+      "title": "Safe Spaces: Shelters or Tribes?",
+      "authors": "Jean Tirole",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743388",
+      "url": "https://doi.org/10.1086/743388"
+    },
+    {
+      "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
+      "authors": "Thomas Wollmann",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-07-31",
+      "abstract": "",
+      "doi": "10.1086/743329",
+      "url": "https://doi.org/10.1086/743329"
     },
     {
       "title": "Stocks as Lotteries? An Experimental Test of Expected Utility versus Behavioral Models",
@@ -1761,16 +1851,6 @@
       "abstract": "",
       "doi": "10.1086/742434",
       "url": "https://doi.org/10.1086/742434"
-    },
-    {
-      "title": "Markups: A Search-Theoretic Perspective",
-      "authors": "Guido Menzio",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742420",
-      "url": "https://doi.org/10.1086/742420"
     },
     {
       "title": "The Effect of Education Policy on Crime: An Intergenerational Perspective",
