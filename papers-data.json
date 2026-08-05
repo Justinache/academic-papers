@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T05:12:27.645Z",
-  "count": 472,
+  "lastUpdated": "2026-08-05T05:14:39.167Z",
+  "count": 473,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -221,6 +221,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Board Dynamics over the Startup Life Cycle",
+      "authors": "Michael Ewens, Nadya Malenko",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-02",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We explore the dynamics of venture capital (VC)‐backed startup boards using novel data on director entry, exit, and characteristics. At formation, a typical board is entrepreneur‐controlled. Independent directors join the median board after the second financing and hold a tie‐breaking vote. Their presence is particularly likely when potential VC‐entrepreneur conflicts are larger. At later stages, control switches to VCs and independent director characteristics change. These patterns align with key financial contracting theories, but also highlight unique roles of independent directors over the life cycle: mediation followed by advising. Independent directors thus represent another potential source of value‐add to startup performance.</jats:p>",
+      "doi": "10.1111/jofi.70072",
+      "url": "https://doi.org/10.1111/jofi.70072"
     },
     {
       "title": "The co-pricing factor zoo",
