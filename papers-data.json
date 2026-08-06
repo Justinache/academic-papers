@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-05T05:14:39.167Z",
-  "count": 473,
+  "lastUpdated": "2026-08-06T05:15:17.420Z",
+  "count": 472,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -2213,7 +2213,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101907"
     },
     {
-      "title": "Generative AI and Investor Processing of Financial Information",
+      "title": "Generative AI and investor processing of financial information",
       "authors": "Elizabeth Blankespoor, Joe Croom, Stephanie M. Grant",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -4721,16 +4721,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Green finance—including environmental, social, and governance investing and sustainable finance regulations—is widespread, but can it substitute for carbon pricing in fighting climate change? In a unified model, I show that (i) when carbon prices reflect the social cost of carbon, green finance should not be used; (ii) when carbon prices are too low, green finance can implement the social optimum if each firm's cost of capital can be set to its\n                    <jats:italic>sustainable discount rate</jats:italic>\n                    , which increases with the ratio of carbon emissions to firm value. I provide calibrations, analyze stranded assets, and present implementations through subsidies or preferential financing for green firms.\n                  </jats:p>",
       "doi": "10.1111/jofi.70022",
       "url": "https://doi.org/10.1111/jofi.70022"
-    },
-    {
-      "title": "Competition Enforcement and Accounting for Intangible Capital",
-      "authors": "John D. Kepler, Charles G. Mcclure, Christopher R. Stewart",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-02-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Antitrust laws mandate review of mergers and acquisitions (M&amp;As) that exceed an asset size threshold based on accounting standards that exclude most intangible capital. We show that this exclusion leads to thousands of intangible‐intensive M&amp;As being nonreportable. Acquirers in nonreportable deals achieve higher equity values and price markups, especially when consolidating product markets. Furthermore, nonreportable pharmaceutical deals are three times more likely to involve overlapping drug projects, which are subsequently 40% more likely to be terminated. Our results suggest that the growth of intangible assets may exacerbate market power through nonreportable consolidation of the sectors most concerning for consumers.</jats:p>",
-      "doi": "10.1111/jofi.70028",
-      "url": "https://doi.org/10.1111/jofi.70028"
     }
   ]
 }
