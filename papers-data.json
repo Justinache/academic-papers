@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T04:24:43.675Z",
-  "count": 473,
+  "lastUpdated": "2026-08-08T03:25:37.672Z",
+  "count": 477,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -51,6 +51,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104334",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104334"
+    },
+    {
+      "title": "Institutional investor mandates, securities lending, and short-selling constraints",
+      "authors": "Taisiya Sikorskaya",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104349",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104349"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -221,6 +231,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses",
+      "authors": "Bo Cowgill, Brandon Freiberg, Evan Starr",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-08-07",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study worker noncompete clauses in a large field experiment with two finance firms. Across ~14,000 job offers to freelance recruiters on short-term contracts, we randomize wages and the presence, salience, and duration of noncompetes (all contracts also included a nondisclosure agreement). Removing a noncompete increases mobility between competing employers by 36–52% and raises workers’ total earnings from the two firms by 12–17%. We find no evidence—rejecting even small effects—that removing noncompetes generates secret leakage. We also find no evidence that workers choose noncompete jobs for higher pay. Many workers appear unaware of noncompetes before firms’ post-employment communication. The results align with a model of inattention and uncertainty about enforcement.</jats:p>",
+      "doi": "10.1093/qje/qjag040",
+      "url": "https://doi.org/10.1093/qje/qjag040"
+    },
+    {
+      "title": "International Arbitrage Premia",
+      "authors": "Mirela Sandulescu, Paul Schneider",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-08-06",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce the nonlinear arbitrage correction (NAC), the residual that renders a linear benchmark model arbitrage-free while preserving the law of one price. The price of NAC captures the marginal Sharpe ratio increase consistent with no-arbitrage and upper-bounds the constrained Hansen–Jagannathan distance. Using four decades of international equity, currency, and factor returns, NAC is strongly countercyclical, peaking during crises when linear models turn negative. The implied Sharpe ratio increase reaches 0.3, underscoring its economic relevance. While linear models perform well on average, they fail in distressed states, underpricing nonlinear payoffs. Incorporating NAC restores positivity and stabilizes pricing across regimes. (JEL G11, G12, G15)</jats:p>",
+      "doi": "10.1093/rfs/hhag054",
+      "url": "https://doi.org/10.1093/rfs/hhag054"
+    },
+    {
+      "title": "Size-Based Regulation and Bank Fragility: Evidence from the Wells Fargo Asset Cap",
+      "authors": "Tianyue Ruan, Siddharth Vij",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-08-03",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that heightened regulation on large banks contributed to the rise in fragility of smaller banks revealed by the 2023 regional bank crisis. In 2018, regulators restricted Wells Fargo, the third largest U.S. bank, from growing its total assets. We estimate this asset cap led Wells Fargo to give up deposits amounting to 2.2% of aggregate bank deposits. These deposits, primarily uninsured, were reallocated to banks geographically proximate to Wells Fargo, including smaller, less regulated banks. In turn, these banks experienced higher deposit outflows once monetary tightening commenced and saw their stock prices plummet during the 2023 stress. (JEL G01, G21, G28, G32, E44, E58)</jats:p>",
+      "doi": "10.1093/rfs/hhag071",
+      "url": "https://doi.org/10.1093/rfs/hhag071"
     },
     {
       "title": "Board Dynamics over the Startup Life Cycle",
@@ -1283,7 +1323,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101916"
     },
     {
-      "title": "Private Firms and the Economic Role of Accounting: A Review of Empirical Research",
+      "title": "Private firms and the economic role of accounting: A review of empirical research",
       "authors": "Darren Bernard, Andrew G. Sutherland",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1343,7 +1383,7 @@
       "url": "https://doi.org/10.2308/tar-2025-0280"
     },
     {
-      "title": "Insider Trading After the 2022 Rule 10b5-1 Amendment",
+      "title": "Insider trading after the 2022 Rule 10b5-1 amendment",
       "authors": "Sehwa Kim, Seil Kim, Shiva Rajgopal",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
