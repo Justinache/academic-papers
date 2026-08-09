@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T03:25:37.672Z",
+  "lastUpdated": "2026-08-09T03:41:13.101Z",
   "count": 477,
   "papers": [
     {
@@ -231,6 +231,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Personal Costs of Executive Turnovers",
+      "authors": "Kasper Meisner Nielsen",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the income loss following forced CEO turnovers using income data from the official records at the Danish Tax Authority. We find that dismissed CEOs’ personal income is 40% lower in the five years following forced turnovers. The decline is driven by labor market outcomes: labor and entrepreneurial incomes decline, while other sources of income increase. We find larger declines in income for executives with poor performance during their tenures, consistent with the executive labor market being the main channel for the lower income. Overall, the findings suggest that executives face significant personal costs from forced turnovers.</jats:p>",
+      "doi": "10.1111/jofi.70064",
+      "url": "https://doi.org/10.1111/jofi.70064"
     },
     {
       "title": "Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses",
@@ -4603,44 +4613,14 @@
       "url": "https://doi.org/10.1111/1475-679x.70042"
     },
     {
-      "title": "Multi-Metric Vesting Schemes in Executive Performance Equity Grants",
-      "authors": "Francesca Franco, Oktay Urcan",
+      "title": "The Leverage Effect of Bank Disclosures",
+      "authors": "Philipp J. König, Christian Laux, David Pothier",
       "journal": "The Accounting Review",
       "field": "Accounting",
       "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a large sample of executive performance equity grants over 2006–2019, we provide a comprehensive representation of the single- and multi-metric vesting schemes used by U.S. public firms and investigate the incentives provided by alternative functional forms of vesting formulas that combine earnings with stock returns and other nonearnings targets. Our results indicate that, compared to earnings-vesting single- and multi-metric summative grants, binding schemes that require the contemporaneous achievement of both earnings and nonearnings targets for grant vesting limit executive fixation on earnings and the associated incentives to maximize grant payouts by managing earnings around the targets. The findings confirm the expectation of different incentive effects from alternative (linear versus nonlinear) aggregations of multiple performance targets in the grant vesting formulas, with binding schemes being more effective in mitigating the risk of executives prioritizing earnings relative to other targets in multi-metric grants.</jats:p>\n                  <jats:p>JEL Classifications: G34; J33.</jats:p>",
-      "doi": "10.2308/tar-2024-0108",
-      "url": "https://doi.org/10.2308/tar-2024-0108"
-    },
-    {
-      "title": "Un-Nudging Pay Gaps: The Role of Pay Raise Budget Framing",
-      "authors": "Hayden T. Gunnell, Karl Schuhmacher, Kristy L. Towry",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Pay gaps, like gender or racial gaps, violate the widely held belief that employees should receive equal pay for equal work. This study examines whether a common control choice—framing pay raise budgets in percentages—contributes to perpetuating pay gaps. We predict that when the pay raise budget is framed as a percentage (the percentage frame), it inadvertently nudges managers to anchor individual raises on that budget percentage, thereby impounding prior salaries, and thus, existing inequities, into pay raises. We further predict that framing the pay raise budget as an absolute amount (the dollar frame) can un-nudge this behavior. As expected, we find in two experiments that the dollar frame perpetuates pay gaps less than the percentage frame, and that this difference is robust to varying levels of ambiguity about the source of salary differences. Our study examines a simple, cost-effective way to limit the perpetuation of pay gaps.</jats:p>\n                  <jats:p>Data Availability: Contact the authors.</jats:p>\n                  <jats:p>JEL Classifications: D91; J16; J31; J71; M40; M52.</jats:p>",
-      "doi": "10.2308/tar-2024-0105",
-      "url": "https://doi.org/10.2308/tar-2024-0105"
-    },
-    {
-      "title": "Investment Opportunities, Market Feedback, and Voluntary Disclosure: Evidence from the Shale Oil Revolution",
-      "authors": "Zackery Fox, Jaewoo Kim, Bryce Schonberger",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Exploiting the U.S. shale oil revolution as a substantial, unexpected shock to investment opportunities for oil and gas (O&amp;G) firms, we explore whether firms facing an uncertain investment decision adopt a voluntary disclosure policy that facilitates informational feedback from the equity market. Difference-in-differences tests show O&amp;G firms increase (reduce) their issuance of capital expenditure (earnings) forecasts during the shale oil revolution relative to similar, capital-intensive firms. Consistent with managers using market reactions to proposed investment plans to gather information from informed traders, we find investment expenditures become more sensitive to market reactions to capex forecasts during the shale oil revolution period. Consistent with managerial learning improving investment decisions, we find a more pronounced positive relation between future operating performance and investment adjustments made in response to market reactions for O&amp;G firms during the shale oil boom. Our evidence speaks to how managers tailor disclosures to promote informational feedback from prices.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G31; M41.</jats:p>",
-      "doi": "10.2308/tar-2024-0457",
-      "url": "https://doi.org/10.2308/tar-2024-0457"
-    },
-    {
-      "title": "Does Compliance Auditing Affect Bond Yields? Evidence from the Municipal Bond Market",
-      "authors": "Bethany A. Courson",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I use a unique setting in the municipal bond market to examine the impact of compliance auditing on bond yields. SEC Rule 15c2-12 requires bond issuers to provide annual financial and operating disclosures to investors over the life of the bonds. Due to concerns of noncompliance, Louisiana passed a state law requiring auditors to test for compliance with Rule 15c2-12. I find that bond yields in the municipal bond market decrease by 21 basis points after the audit law for previously noncompliant issuers in Louisiana. I find similar results when I separately examine the primary and secondary markets. I also find that previously noncompliant issuers file 75.2 percent more annual disclosures after the audit law, suggesting that the audit law improved compliance with Rule 15c2-12. Overall, my findings inform policymakers and regulators on the role of auditing over compliance with disclosure regulation as a mechanism to protect investors.</jats:p>\n                  <jats:p>JEL Classifications: G28; H74; K22; M42.</jats:p>",
-      "doi": "10.2308/tar-2022-0210",
-      "url": "https://doi.org/10.2308/tar-2022-0210"
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how disclosures affect banks’ leverage and risk. Banks screen borrowers and originate loans, partially financed using insured deposits. The possibility to sell loans before they mature incentivizes banks to lever up using uninsured short-term debt to dilute insured deposits. If markets are opaque, good loans trade at a discount, which limits banks’ use of short-term debt. If markets are transparent, prices compound information contained in disclosures, which leads banks to issue more short-term debt to further dilute insured deposits. We identify conditions under which the increase in leverage caused by disclosures reduces banks’ screening incentives. Our analysis has important implications for prudential regulation, including minimum regulatory capital requirements and leverage-based deposit insurance premiums.</jats:p>\n                  <jats:p>JEL Classifications: D80; G21; G14.</jats:p>",
+      "doi": "10.2308/tar-2024-0186",
+      "url": "https://doi.org/10.2308/tar-2024-0186"
     },
     {
       "title": "Emerging From the Shadows: Consequences of Position Disclosure in Corporate Bankruptcy",
@@ -4653,34 +4633,14 @@
       "url": "https://doi.org/10.2308/tar-2024-0075"
     },
     {
-      "title": "Creditor Rights and Related-Party Transactions: Evidence from the Implementation of the Insolvency Reforms in India",
-      "authors": "Ole-Kristian Hope, Christine Liu, Dushyantkumar Vyas",
+      "title": "Rigid Cost Structures as a Preemptive Strategy",
+      "authors": "Martin Artz, Martin Holzhacker, André Hoppe",
       "journal": "The Accounting Review",
       "field": "Accounting",
       "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Non-arm’s-length transactions between a firm and its related parties, or related-party transactions (RPTs), are widely used in emerging economies. We examine the effect of creditor rights on the usage of financing RPTs using the enactment of India’s Insolvency and Bankruptcy Code (IBC) of 2016 as a shock to creditor rights. We show that stronger creditor rights make arm’s-length external financing more attractive relative to RPT financing. In particular, we find that firms that are ex ante more likely to be affected by IBC (i.e., those with low asset tangibility) reduce their dependence on financing-related RPTs, in particular, RPT loan inflows. This effect is strengthened for firms with greater financial constraints and higher growth opportunities. Our findings suggest that creditor rights influence financing choices and contribute to our understanding of how insolvency reforms affect financing and RPTs in emerging markets.</jats:p>",
-      "doi": "10.2308/tar-2023-0464",
-      "url": "https://doi.org/10.2308/tar-2023-0464"
-    },
-    {
-      "title": "Managers' Inventory Holding Decisions in Response to Natural Disasters",
-      "authors": "Seunghyun Cho, Boo Chun Jung, Felipe B. G. Silva, Choong-Yuel Yoo",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how firms' inventory holdings are affected by natural disasters. Building on the premise that managers often make decisions in line with the availability heuristic, we investigate whether managers increase inventory holdings in response to heightened disaster risk perceptions and the need to hedge against inventory shortages. Through a battery of tests, we show that the occurrence of disasters in neighboring counties triggers inventory stockpiling, an effect that is unlikely to be driven by the real disaster disruptions. Our results also indicate that inventory stockpiling is likely inconsistent with a rational expectations equilibrium. Collectively, our results highlight another undesirable consequence of natural disasters and warn about supply chain implications due to increased climate ambiguity.</jats:p>\n                  <jats:p>Data Availability: All the data used in this study are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G31; G41; M21; M11; M41; Q54.</jats:p>",
-      "doi": "10.2308/tar-2023-0568",
-      "url": "https://doi.org/10.2308/tar-2023-0568"
-    },
-    {
-      "title": "The Leverage Effect of Bank Disclosures",
-      "authors": "Philipp J. König, Christian Laux, David Pothier",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how disclosures affect banks’ leverage and risk. Banks screen borrowers and originate loans, partially financed using insured deposits. The possibility to sell loans before they mature incentivizes banks to lever up using uninsured short-term debt to dilute insured deposits. If markets are opaque, good loans trade at a discount, which limits banks’ use of short-term debt. If markets are transparent, prices compound information contained in disclosures, which leads banks to issue more short-term debt to further dilute insured deposits. We identify conditions under which the increase in leverage caused by disclosures reduces banks’ screening incentives. Our analysis has important implications for prudential regulation, including minimum regulatory capital requirements and leverage-based deposit insurance premiums.</jats:p>\n                  <jats:p>JEL Classifications: D80; G21; G14.</jats:p>",
-      "doi": "10.2308/tar-2024-0186",
-      "url": "https://doi.org/10.2308/tar-2024-0186"
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether firms strategically increase cost rigidity to adopt an aggressive product market stance. Using large cuts in industry-level import tariff rates as a setting, we find that domestic firms respond to a looming competitive threat from foreign rivals by raising cost rigidity. This increase cannot plausibly be explained by investments to create physical excess capacity, suggesting firms enter cost commitments for labor and procurement instead. Additional tests corroborate the hypothesized preemptive intent. First, the increase in cost rigidity is concentrated in industries in which a firm’s aggressive market stance elicits a softening of competition. Second, it is only in these industries that firms with rigid cost structures experience market share gains around a large tariff cut. The latter effect is more pronounced the more reliably firms’ cost structures can be discerned from their financial statements. Overall, our study suggests that firms enter cost commitments as a preemptive strategy.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L22; M21; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0506",
+      "url": "https://doi.org/10.2308/tar-2023-0506"
     },
     {
       "title": "Fair Market Value of Used Capacity Assets: Forecasts for Repurposed Electric Vehicle Batteries",
@@ -4703,6 +4663,56 @@
       "url": "https://doi.org/10.2308/tar-2024-0662"
     },
     {
+      "title": "Managers' Inventory Holding Decisions in Response to Natural Disasters",
+      "authors": "Seunghyun Cho, Boo Chun Jung, Felipe B. G. Silva, Choong-Yuel Yoo",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how firms' inventory holdings are affected by natural disasters. Building on the premise that managers often make decisions in line with the availability heuristic, we investigate whether managers increase inventory holdings in response to heightened disaster risk perceptions and the need to hedge against inventory shortages. Through a battery of tests, we show that the occurrence of disasters in neighboring counties triggers inventory stockpiling, an effect that is unlikely to be driven by the real disaster disruptions. Our results also indicate that inventory stockpiling is likely inconsistent with a rational expectations equilibrium. Collectively, our results highlight another undesirable consequence of natural disasters and warn about supply chain implications due to increased climate ambiguity.</jats:p>\n                  <jats:p>Data Availability: All the data used in this study are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G31; G41; M21; M11; M41; Q54.</jats:p>",
+      "doi": "10.2308/tar-2023-0568",
+      "url": "https://doi.org/10.2308/tar-2023-0568"
+    },
+    {
+      "title": "Does Compliance Auditing Affect Bond Yields? Evidence from the Municipal Bond Market",
+      "authors": "Bethany A. Courson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I use a unique setting in the municipal bond market to examine the impact of compliance auditing on bond yields. SEC Rule 15c2-12 requires bond issuers to provide annual financial and operating disclosures to investors over the life of the bonds. Due to concerns of noncompliance, Louisiana passed a state law requiring auditors to test for compliance with Rule 15c2-12. I find that bond yields in the municipal bond market decrease by 21 basis points after the audit law for previously noncompliant issuers in Louisiana. I find similar results when I separately examine the primary and secondary markets. I also find that previously noncompliant issuers file 75.2 percent more annual disclosures after the audit law, suggesting that the audit law improved compliance with Rule 15c2-12. Overall, my findings inform policymakers and regulators on the role of auditing over compliance with disclosure regulation as a mechanism to protect investors.</jats:p>\n                  <jats:p>JEL Classifications: G28; H74; K22; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0210",
+      "url": "https://doi.org/10.2308/tar-2022-0210"
+    },
+    {
+      "title": "Un-Nudging Pay Gaps: The Role of Pay Raise Budget Framing",
+      "authors": "Hayden T. Gunnell, Karl Schuhmacher, Kristy L. Towry",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Pay gaps, like gender or racial gaps, violate the widely held belief that employees should receive equal pay for equal work. This study examines whether a common control choice—framing pay raise budgets in percentages—contributes to perpetuating pay gaps. We predict that when the pay raise budget is framed as a percentage (the percentage frame), it inadvertently nudges managers to anchor individual raises on that budget percentage, thereby impounding prior salaries, and thus, existing inequities, into pay raises. We further predict that framing the pay raise budget as an absolute amount (the dollar frame) can un-nudge this behavior. As expected, we find in two experiments that the dollar frame perpetuates pay gaps less than the percentage frame, and that this difference is robust to varying levels of ambiguity about the source of salary differences. Our study examines a simple, cost-effective way to limit the perpetuation of pay gaps.</jats:p>\n                  <jats:p>Data Availability: Contact the authors.</jats:p>\n                  <jats:p>JEL Classifications: D91; J16; J31; J71; M40; M52.</jats:p>",
+      "doi": "10.2308/tar-2024-0105",
+      "url": "https://doi.org/10.2308/tar-2024-0105"
+    },
+    {
+      "title": "Multi-Metric Vesting Schemes in Executive Performance Equity Grants",
+      "authors": "Francesca Franco, Oktay Urcan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a large sample of executive performance equity grants over 2006–2019, we provide a comprehensive representation of the single- and multi-metric vesting schemes used by U.S. public firms and investigate the incentives provided by alternative functional forms of vesting formulas that combine earnings with stock returns and other nonearnings targets. Our results indicate that, compared to earnings-vesting single- and multi-metric summative grants, binding schemes that require the contemporaneous achievement of both earnings and nonearnings targets for grant vesting limit executive fixation on earnings and the associated incentives to maximize grant payouts by managing earnings around the targets. The findings confirm the expectation of different incentive effects from alternative (linear versus nonlinear) aggregations of multiple performance targets in the grant vesting formulas, with binding schemes being more effective in mitigating the risk of executives prioritizing earnings relative to other targets in multi-metric grants.</jats:p>\n                  <jats:p>JEL Classifications: G34; J33.</jats:p>",
+      "doi": "10.2308/tar-2024-0108",
+      "url": "https://doi.org/10.2308/tar-2024-0108"
+    },
+    {
+      "title": "Creditor Rights and Related-Party Transactions: Evidence from the Implementation of the Insolvency Reforms in India",
+      "authors": "Ole-Kristian Hope, Christine Liu, Dushyantkumar Vyas",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Non-arm’s-length transactions between a firm and its related parties, or related-party transactions (RPTs), are widely used in emerging economies. We examine the effect of creditor rights on the usage of financing RPTs using the enactment of India’s Insolvency and Bankruptcy Code (IBC) of 2016 as a shock to creditor rights. We show that stronger creditor rights make arm’s-length external financing more attractive relative to RPT financing. In particular, we find that firms that are ex ante more likely to be affected by IBC (i.e., those with low asset tangibility) reduce their dependence on financing-related RPTs, in particular, RPT loan inflows. This effect is strengthened for firms with greater financial constraints and higher growth opportunities. Our findings suggest that creditor rights influence financing choices and contribute to our understanding of how insolvency reforms affect financing and RPTs in emerging markets.</jats:p>",
+      "doi": "10.2308/tar-2023-0464",
+      "url": "https://doi.org/10.2308/tar-2023-0464"
+    },
+    {
       "title": "Underreporting in Revenue-Sharing Contracts: Evidence from the Chinese Film Industry",
       "authors": "Aner Zhou, Eric J. Allen, Fei Du, S. Mark Young",
       "journal": "The Accounting Review",
@@ -4711,16 +4721,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Revenue-sharing contracts allow firms that are distant from their target markets to leverage sellers' local expertise. Although these contracts align incentives in operational decisions, they also introduce the potential for sellers to underreport revenues. We analyze film-level box office data from 7,309 Chinese cinemas and find that cinemas report significantly lower revenues for foreign films than for comparable domestic films, consistent with foreign producers being less able to monitor reported revenues due to geographic distance. The underreporting of foreign films is lower in cities with widespread mobile payments, in multi-unit cinemas, and when foreign films have more predictable revenues, suggesting institutional factors that increase detection likelihood can mitigate underreporting. Further tests indicate the lower reported box office revenues of foreign films is not due to government intervention. Our findings provide novel evidence of product-level misreporting under revenue-sharing contracts and offer insights on mitigating these risks in international markets.</jats:p>\n                  <jats:p>Data availability: Data are available via the sources specified in the paper. The authors greatly appreciate the data supplied by EntGroup (http://english.entgroup.com.cn/enbase.html) but are not able to share the data based on the agreement with Entgroup.</jats:p>\n                  <jats:p>JEL Classifications: F00; L82; M40.</jats:p>",
       "doi": "10.2308/tar-2021-0546",
       "url": "https://doi.org/10.2308/tar-2021-0546"
-    },
-    {
-      "title": "Rigid Cost Structures as a Preemptive Strategy",
-      "authors": "Martin Artz, Martin Holzhacker, André Hoppe",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether firms strategically increase cost rigidity to adopt an aggressive product market stance. Using large cuts in industry-level import tariff rates as a setting, we find that domestic firms respond to a looming competitive threat from foreign rivals by raising cost rigidity. This increase cannot plausibly be explained by investments to create physical excess capacity, suggesting firms enter cost commitments for labor and procurement instead. Additional tests corroborate the hypothesized preemptive intent. First, the increase in cost rigidity is concentrated in industries in which a firm’s aggressive market stance elicits a softening of competition. Second, it is only in these industries that firms with rigid cost structures experience market share gains around a large tariff cut. The latter effect is more pronounced the more reliably firms’ cost structures can be discerned from their financial statements. Overall, our study suggests that firms enter cost commitments as a preemptive strategy.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L22; M21; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0506",
-      "url": "https://doi.org/10.2308/tar-2023-0506"
     },
     {
       "title": "Misstatement Detection Lag and Prediction Evaluation",
@@ -4743,6 +4743,16 @@
       "url": "https://doi.org/10.2308/tar-2024-0150"
     },
     {
+      "title": "Investment Opportunities, Market Feedback, and Voluntary Disclosure: Evidence from the Shale Oil Revolution",
+      "authors": "Zackery Fox, Jaewoo Kim, Bryce Schonberger",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-02-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Exploiting the U.S. shale oil revolution as a substantial, unexpected shock to investment opportunities for oil and gas (O&amp;G) firms, we explore whether firms facing an uncertain investment decision adopt a voluntary disclosure policy that facilitates informational feedback from the equity market. Difference-in-differences tests show O&amp;G firms increase (reduce) their issuance of capital expenditure (earnings) forecasts during the shale oil revolution relative to similar, capital-intensive firms. Consistent with managers using market reactions to proposed investment plans to gather information from informed traders, we find investment expenditures become more sensitive to market reactions to capex forecasts during the shale oil revolution period. Consistent with managerial learning improving investment decisions, we find a more pronounced positive relation between future operating performance and investment adjustments made in response to market reactions for O&amp;G firms during the shale oil boom. Our evidence speaks to how managers tailor disclosures to promote informational feedback from prices.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G31; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0457",
+      "url": "https://doi.org/10.2308/tar-2024-0457"
+    },
+    {
       "title": "The Value of Theory-Based Research in Accounting",
       "authors": "Kathryn Kadous",
       "journal": "The Accounting Review",
@@ -4761,16 +4771,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Firms are facing increasing pressure to provide information about their Corporate Social Responsibility (CSR) commitment. Firms however differ in the quality of how they communicate CSR-related efforts to stakeholders as well as in the intensity of their CSR contracting. We examine the relationship between CSR disclosures and contracting and argue that the designs of the two practices are complements in signaling a CSR commitment. Using hand-collected data to capture disclosure quality of CSR reports and intensity of CSR contracting (i.e., scope, importance, and degree to which CSR metrics are incorporated) for S&amp;P 500 firms, we show that firms indeed align the design choices of the two practices. In addition, firms using both practices intensively are associated with a stronger CSR commitment and more credible CSR disclosures. Finally, we document that firms that face higher credibility concerns show stronger complementarity between the design of these two practices.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources mentioned in the text.</jats:p>\n                  <jats:p>JEL Classifications: M14; M40.</jats:p>",
       "doi": "10.2308/tar-2021-0520",
       "url": "https://doi.org/10.2308/tar-2021-0520"
-    },
-    {
-      "title": "Carbon Pricing versus Green Finance",
-      "authors": "Lasse Heje Pedersen",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-02-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Green finance—including environmental, social, and governance investing and sustainable finance regulations—is widespread, but can it substitute for carbon pricing in fighting climate change? In a unified model, I show that (i) when carbon prices reflect the social cost of carbon, green finance should not be used; (ii) when carbon prices are too low, green finance can implement the social optimum if each firm's cost of capital can be set to its\n                    <jats:italic>sustainable discount rate</jats:italic>\n                    , which increases with the ratio of carbon emissions to firm value. I provide calibrations, analyze stranded assets, and present implementations through subsidies or preferential financing for green firms.\n                  </jats:p>",
-      "doi": "10.1111/jofi.70022",
-      "url": "https://doi.org/10.1111/jofi.70022"
     }
   ]
 }
