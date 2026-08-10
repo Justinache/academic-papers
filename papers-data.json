@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-09T03:41:13.101Z",
-  "count": 477,
+  "lastUpdated": "2026-08-10T03:52:56.738Z",
+  "count": 463,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -261,6 +261,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce the nonlinear arbitrage correction (NAC), the residual that renders a linear benchmark model arbitrage-free while preserving the law of one price. The price of NAC captures the marginal Sharpe ratio increase consistent with no-arbitrage and upper-bounds the constrained Hansen–Jagannathan distance. Using four decades of international equity, currency, and factor returns, NAC is strongly countercyclical, peaking during crises when linear models turn negative. The implied Sharpe ratio increase reaches 0.3, underscoring its economic relevance. While linear models perform well on average, they fail in distressed states, underpricing nonlinear payoffs. Incorporating NAC restores positivity and stabilizes pricing across regimes. (JEL G11, G12, G15)</jats:p>",
       "doi": "10.1093/rfs/hhag054",
       "url": "https://doi.org/10.1093/rfs/hhag054"
+    },
+    {
+      "title": "Disaggregating Cash Flows: The Effect of Linking and Labeling on Investors’ Understanding of the Statement of Cash Flows",
+      "authors": "Richard Crandall, Shannon Garavaglia, Cassie Mongold",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-08-06",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Operating cash flows are a critical input to valuation activities. Research and practice indicate that the most common method of presenting operating cash flows, the indirect method, is viewed as overly complex. We experimentally examine whether two theoretically motivated factors represent shortcomings of the indirect method: (1) inadequate linking of related components of net income and changes in working capital accounts, and (2) inconsistent income statement labeling between components of net income and their corresponding working capital changes. Drawing on causal reasoning theory, we predict and find that these factors hinder the decision usefulness of the operating section of the statement of cash flows. The results of our study are informative to the academic literature and standard setters, as we examine underlying reasons why the indirect method may be viewed unfavorably.</jats:p>",
+      "doi": "10.1111/1475-679x.70081",
+      "url": "https://doi.org/10.1111/1475-679x.70081"
     },
     {
       "title": "Size-Based Regulation and Bank Fragility: Evidence from the Wells Fargo Asset Cap",
@@ -593,6 +603,16 @@
       "url": "https://doi.org/10.2308/tar-2023-0699"
     },
     {
+      "title": "Knowledge is Power: A Field Experiment in the Chinese and US Stock Markets",
+      "authors": "Sonia Man-Lai Wong, Yuan Xue, Bohui Zhang, Xiaofeng Zhao",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101935",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101935"
+    },
+    {
       "title": "Markups: A Search-Theoretic Perspective",
       "authors": "Guido Menzio",
       "journal": "Journal of Political Economy",
@@ -768,7 +788,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We collect and analyze detailed filings from global institutional investors to estimate foreign investors’ U.S. dollar (USD) security holdings and currency hedging. Over two decades, foreign USD holdings grew sixfold, while hedge ratios rose by 15 percentage points after the 2008–2009 crisis. Currency hedging across mutual funds, pensions, and insurance reached $2 trillion by 2019. Hedging demand varies across investors, currency areas, and banking systems. We show that expected FX returns, beyond variance minimization, drive currency exposure in portfolios. Finally, we demonstrate and quantify how aggregate hedging demand affects hedging costs in the presence of constrained intermediaries. (JEL F21, F31, G11, G15, G22, G23)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We collect and analyze detailed filings from global institutional investors to estimate foreign investors’ U.S. dollar (USD) security holdings and currency hedging. Over two decades, foreign USD holdings grew sixfold, while hedge ratios rose by 15 percentage points after the 2008–2009 crisis. Currency hedging across mutual funds, pensions, and insurance reached $2 trillion by 2019. Hedging demand varies across investors, currency areas, and banking systems. We show that expected FX returns, beyond variance minimization, drive currency exposure in portfolios. Finally, we demonstrate and quantify how aggregate hedging demand affects hedging costs in the presence of constrained intermediaries.</jats:p>",
       "doi": "10.1093/rfs/hhag067",
       "url": "https://doi.org/10.1093/rfs/hhag067"
     },
@@ -883,12 +903,12 @@
       "url": "https://doi.org/10.1093/rfs/hhag063"
     },
     {
-      "title": "In their Shoes: Empathy Through Information",
+      "title": "In Their Shoes: Empathy Through Information",
       "authors": "Marianne Andries, Leonardo Bursztyn, Thomas Chaney, Milena Djourelova, Alex Imas",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-07-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We explore the mechanics of empathy. We show that information about an outgroup can activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group. We provide evidence for this effect in an immersive virtual reality experiment where participants (“witnesses”) experience a simulation of the struggle of unauthorized migrants (“protagonists”), then replicate these results in a series of controlled lab experiments. We show that information enhances the witnesses’ empathetic response and drives them to engage in more prosocial behavior when it increases their perceived interpersonal similarity, or relatability to the protagonist — an effect we trace to attention: eye-tracking data reveals that information provision concentrates witnesses’ gaze on the struggles of the protagonist instead of searching through peripheral elements of the scene. Conversely, only information packages that strengthen perceived relatability — an effect that can vary across subgroups with heterogeneous attributes — magnify empathy. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple, targeted, information provision.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We explore the mechanics of empathy. We show that information about an outgroup can activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group. We provide evidence for this effect in an immersive virtual reality experiment where participants (witnesses) experience a simulation of the struggle of unauthorized migrants (protagonists), then replicate these results in a series of controlled lab experiments. We show that information enhances the witnesses’ empathetic response and drives them to engage in more prosocial behavior when it increases their perceived interpersonal similarity, or relatability to the protagonist—an effect we trace to attention: eye-tracking data reveal that information provision concentrates witnesses’ gaze on the struggles of the protagonist instead of searching through peripheral elements of the scene. Conversely, only information packages that strengthen perceived relatability—an effect that can vary across subgroups with heterogeneous attributes—magnify empathy. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple, targeted, information provision.</jats:p>",
       "doi": "10.1093/qje/qjag033",
       "url": "https://doi.org/10.1093/qje/qjag033"
     },
@@ -1228,7 +1248,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-07-01",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less-attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses–and therefore who ultimately bears the cost-depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses—and therefore who ultimately bears the cost—depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.</jats:p>",
       "doi": "10.1093/qje/qjag034",
       "url": "https://doi.org/10.1093/qje/qjag034"
     },
@@ -1638,7 +1658,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-06-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model-free measure of the variance premium by constructing option portfolios whose returns are highly correlated with realized stock variance. This effectively decomposes returns into realized variance minus implied variance. We apply this decomposition to document a novel quarterly cross-sectional continuation pattern in both realized variance and implied variance of individual stocks. Implied variance underanticipates the seasonality of realized variance, so options that performed well at quarterly lags continue to earn high returns in the future. Quarterly periodicity in realized stock variance only occurs on days with analyst earning revisions, suggesting an informational channel for this pattern. (JEL G12, G13, G40)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a model-free measure of the variance premium by constructing option portfolios whose returns are highly correlated with realized stock variance. This effectively decomposes returns into realized variance minus implied variance. We apply this decomposition to document a novel quarterly cross-sectional continuation pattern in both realized variance and implied variance of individual stocks. Implied variance underanticipates the seasonality of realized variance, so options that performed well at quarterly lags continue to earn high returns in the future. Quarterly periodicity in realized stock variance only occurs on days with analyst earning revisions, suggesting an informational channel for this pattern.</jats:p>",
       "doi": "10.1093/rfs/hhag057",
       "url": "https://doi.org/10.1093/rfs/hhag057"
     },
@@ -4611,166 +4631,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Regulators are contemplating or mandating precise measurement of financial climate‐risk exposure to promote sustainable investments. We show that such mandates can be counterproductive in the presence of social funds that catalyze change by subsidizing the adoption of cleaner production technologies. Firms can exploit a social fund's impact motive by measuring their climate‐risk exposure imprecisely. This strategic imprecision prevents the fund from distinguishing between firms that require subsidies and those that would switch to clean technologies for financial reasons alone, thereby increasing the ex ante subsidies firms can extract. A by‐product of this rent‐seeking behavior is that firms adopt clean technologies more frequently than would be jointly efficient under precise measurement. Our analysis suggests that the regulatory push for precise climate‐risk measurement can reduce social funds' impact and the frequency of green transitions.</jats:p>",
       "doi": "10.1111/1475-679x.70042",
       "url": "https://doi.org/10.1111/1475-679x.70042"
-    },
-    {
-      "title": "The Leverage Effect of Bank Disclosures",
-      "authors": "Philipp J. König, Christian Laux, David Pothier",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how disclosures affect banks’ leverage and risk. Banks screen borrowers and originate loans, partially financed using insured deposits. The possibility to sell loans before they mature incentivizes banks to lever up using uninsured short-term debt to dilute insured deposits. If markets are opaque, good loans trade at a discount, which limits banks’ use of short-term debt. If markets are transparent, prices compound information contained in disclosures, which leads banks to issue more short-term debt to further dilute insured deposits. We identify conditions under which the increase in leverage caused by disclosures reduces banks’ screening incentives. Our analysis has important implications for prudential regulation, including minimum regulatory capital requirements and leverage-based deposit insurance premiums.</jats:p>\n                  <jats:p>JEL Classifications: D80; G21; G14.</jats:p>",
-      "doi": "10.2308/tar-2024-0186",
-      "url": "https://doi.org/10.2308/tar-2024-0186"
-    },
-    {
-      "title": "Emerging From the Shadows: Consequences of Position Disclosure in Corporate Bankruptcy",
-      "authors": "Kevin D. Chen",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine how mandatory position disclosure of claimholders’ economic interests affects Chapter 11 bankruptcy outcomes. Exploiting a regulation that increased disclosure by creditors and equityholders on certain committees, I find that position disclosure is associated with a decrease in the length of bankruptcy cases, especially the duration of negotiations between claimholders across classes. Further, I show that position disclosure is associated with lower post-bankruptcy recidivism. Contrary to the concerns expressed by critics, I find little evidence that position disclosure reduced claimholders’ participation in committees or decreased trading in the market for bankruptcy claims. My findings highlight the overall benefits of position disclosure in facilitating negotiations during bankruptcy.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: D82; G33: G34; K22; M40.</jats:p>",
-      "doi": "10.2308/tar-2024-0075",
-      "url": "https://doi.org/10.2308/tar-2024-0075"
-    },
-    {
-      "title": "Rigid Cost Structures as a Preemptive Strategy",
-      "authors": "Martin Artz, Martin Holzhacker, André Hoppe",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether firms strategically increase cost rigidity to adopt an aggressive product market stance. Using large cuts in industry-level import tariff rates as a setting, we find that domestic firms respond to a looming competitive threat from foreign rivals by raising cost rigidity. This increase cannot plausibly be explained by investments to create physical excess capacity, suggesting firms enter cost commitments for labor and procurement instead. Additional tests corroborate the hypothesized preemptive intent. First, the increase in cost rigidity is concentrated in industries in which a firm’s aggressive market stance elicits a softening of competition. Second, it is only in these industries that firms with rigid cost structures experience market share gains around a large tariff cut. The latter effect is more pronounced the more reliably firms’ cost structures can be discerned from their financial statements. Overall, our study suggests that firms enter cost commitments as a preemptive strategy.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: L22; M21; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0506",
-      "url": "https://doi.org/10.2308/tar-2023-0506"
-    },
-    {
-      "title": "Fair Market Value of Used Capacity Assets: Forecasts for Repurposed Electric Vehicle Batteries",
-      "authors": "Amadeus Bach, Simona Onori, Stefan Reichelstein, Jihan Zhuang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In response to growing economic and environmental concerns, companies in a range of industries seek to repurpose products (assets) that retain functional capacity beyond their initial first life. This paper examines a generic valuation model for used capacity assets that can either be recycled immediately or repurposed for a second life application. We apply our model framework to lithium-ion batteries retired from electric vehicles, as these assets typically retain substantial energy storage capacity at the end of their first life. Our analysis focuses on two battery chemistries: lithium-iron-phosphate (LFP) and nickel-cobalt-X (NCX) based. We project their future fair market values in the United States and China. Our findings indicate that repurposing LFP batteries will be economically viable in both countries for the coming decade. In contrast, for most NCX batteries immediate recycling will soon be preferable due to their more valuable raw material content and shorter usable lives.</jats:p>",
-      "doi": "10.2308/tar-2025-0024",
-      "url": "https://doi.org/10.2308/tar-2025-0024"
-    },
-    {
-      "title": "Ex Ante\n                    Litigation Risk and Audit Firm Hiring and Retention",
-      "authors": "William M. Docimo, Nina Xu",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the impact of ex ante litigation risk on auditor hiring and retention. Using employee data from LinkedIn, we find ex ante accounting-related litigation risk is associated with fewer auditors joining and more auditors leaving an audit office, whereas we fail to find any impact of nonaccounting litigation risk. Moreover, ex ante accounting-related litigation risk is associated with audit firms' hiring less experienced and less educated auditors, suggesting ex ante litigation risk impacts the quality of auditing hires. We also find that the impact of ex ante litigation risk is concentrated in audit offices with more outside job opportunities and in those that are more susceptible to changes in litigation risk. Our results highlight the impact of ex ante litigation risk on audit labor supply, providing insights concerning the unintended consequences of increasing auditors' legal liability.</jats:p>\n                  <jats:p>Data Availability: All data used in this study are based on publicly available information obtained through the services or authors cited in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: M42.</jats:p>",
-      "doi": "10.2308/tar-2024-0662",
-      "url": "https://doi.org/10.2308/tar-2024-0662"
-    },
-    {
-      "title": "Managers' Inventory Holding Decisions in Response to Natural Disasters",
-      "authors": "Seunghyun Cho, Boo Chun Jung, Felipe B. G. Silva, Choong-Yuel Yoo",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how firms' inventory holdings are affected by natural disasters. Building on the premise that managers often make decisions in line with the availability heuristic, we investigate whether managers increase inventory holdings in response to heightened disaster risk perceptions and the need to hedge against inventory shortages. Through a battery of tests, we show that the occurrence of disasters in neighboring counties triggers inventory stockpiling, an effect that is unlikely to be driven by the real disaster disruptions. Our results also indicate that inventory stockpiling is likely inconsistent with a rational expectations equilibrium. Collectively, our results highlight another undesirable consequence of natural disasters and warn about supply chain implications due to increased climate ambiguity.</jats:p>\n                  <jats:p>Data Availability: All the data used in this study are publicly available.</jats:p>\n                  <jats:p>JEL Classifications: G31; G41; M21; M11; M41; Q54.</jats:p>",
-      "doi": "10.2308/tar-2023-0568",
-      "url": "https://doi.org/10.2308/tar-2023-0568"
-    },
-    {
-      "title": "Does Compliance Auditing Affect Bond Yields? Evidence from the Municipal Bond Market",
-      "authors": "Bethany A. Courson",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I use a unique setting in the municipal bond market to examine the impact of compliance auditing on bond yields. SEC Rule 15c2-12 requires bond issuers to provide annual financial and operating disclosures to investors over the life of the bonds. Due to concerns of noncompliance, Louisiana passed a state law requiring auditors to test for compliance with Rule 15c2-12. I find that bond yields in the municipal bond market decrease by 21 basis points after the audit law for previously noncompliant issuers in Louisiana. I find similar results when I separately examine the primary and secondary markets. I also find that previously noncompliant issuers file 75.2 percent more annual disclosures after the audit law, suggesting that the audit law improved compliance with Rule 15c2-12. Overall, my findings inform policymakers and regulators on the role of auditing over compliance with disclosure regulation as a mechanism to protect investors.</jats:p>\n                  <jats:p>JEL Classifications: G28; H74; K22; M42.</jats:p>",
-      "doi": "10.2308/tar-2022-0210",
-      "url": "https://doi.org/10.2308/tar-2022-0210"
-    },
-    {
-      "title": "Un-Nudging Pay Gaps: The Role of Pay Raise Budget Framing",
-      "authors": "Hayden T. Gunnell, Karl Schuhmacher, Kristy L. Towry",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Pay gaps, like gender or racial gaps, violate the widely held belief that employees should receive equal pay for equal work. This study examines whether a common control choice—framing pay raise budgets in percentages—contributes to perpetuating pay gaps. We predict that when the pay raise budget is framed as a percentage (the percentage frame), it inadvertently nudges managers to anchor individual raises on that budget percentage, thereby impounding prior salaries, and thus, existing inequities, into pay raises. We further predict that framing the pay raise budget as an absolute amount (the dollar frame) can un-nudge this behavior. As expected, we find in two experiments that the dollar frame perpetuates pay gaps less than the percentage frame, and that this difference is robust to varying levels of ambiguity about the source of salary differences. Our study examines a simple, cost-effective way to limit the perpetuation of pay gaps.</jats:p>\n                  <jats:p>Data Availability: Contact the authors.</jats:p>\n                  <jats:p>JEL Classifications: D91; J16; J31; J71; M40; M52.</jats:p>",
-      "doi": "10.2308/tar-2024-0105",
-      "url": "https://doi.org/10.2308/tar-2024-0105"
-    },
-    {
-      "title": "Multi-Metric Vesting Schemes in Executive Performance Equity Grants",
-      "authors": "Francesca Franco, Oktay Urcan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a large sample of executive performance equity grants over 2006–2019, we provide a comprehensive representation of the single- and multi-metric vesting schemes used by U.S. public firms and investigate the incentives provided by alternative functional forms of vesting formulas that combine earnings with stock returns and other nonearnings targets. Our results indicate that, compared to earnings-vesting single- and multi-metric summative grants, binding schemes that require the contemporaneous achievement of both earnings and nonearnings targets for grant vesting limit executive fixation on earnings and the associated incentives to maximize grant payouts by managing earnings around the targets. The findings confirm the expectation of different incentive effects from alternative (linear versus nonlinear) aggregations of multiple performance targets in the grant vesting formulas, with binding schemes being more effective in mitigating the risk of executives prioritizing earnings relative to other targets in multi-metric grants.</jats:p>\n                  <jats:p>JEL Classifications: G34; J33.</jats:p>",
-      "doi": "10.2308/tar-2024-0108",
-      "url": "https://doi.org/10.2308/tar-2024-0108"
-    },
-    {
-      "title": "Creditor Rights and Related-Party Transactions: Evidence from the Implementation of the Insolvency Reforms in India",
-      "authors": "Ole-Kristian Hope, Christine Liu, Dushyantkumar Vyas",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Non-arm’s-length transactions between a firm and its related parties, or related-party transactions (RPTs), are widely used in emerging economies. We examine the effect of creditor rights on the usage of financing RPTs using the enactment of India’s Insolvency and Bankruptcy Code (IBC) of 2016 as a shock to creditor rights. We show that stronger creditor rights make arm’s-length external financing more attractive relative to RPT financing. In particular, we find that firms that are ex ante more likely to be affected by IBC (i.e., those with low asset tangibility) reduce their dependence on financing-related RPTs, in particular, RPT loan inflows. This effect is strengthened for firms with greater financial constraints and higher growth opportunities. Our findings suggest that creditor rights influence financing choices and contribute to our understanding of how insolvency reforms affect financing and RPTs in emerging markets.</jats:p>",
-      "doi": "10.2308/tar-2023-0464",
-      "url": "https://doi.org/10.2308/tar-2023-0464"
-    },
-    {
-      "title": "Underreporting in Revenue-Sharing Contracts: Evidence from the Chinese Film Industry",
-      "authors": "Aner Zhou, Eric J. Allen, Fei Du, S. Mark Young",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Revenue-sharing contracts allow firms that are distant from their target markets to leverage sellers' local expertise. Although these contracts align incentives in operational decisions, they also introduce the potential for sellers to underreport revenues. We analyze film-level box office data from 7,309 Chinese cinemas and find that cinemas report significantly lower revenues for foreign films than for comparable domestic films, consistent with foreign producers being less able to monitor reported revenues due to geographic distance. The underreporting of foreign films is lower in cities with widespread mobile payments, in multi-unit cinemas, and when foreign films have more predictable revenues, suggesting institutional factors that increase detection likelihood can mitigate underreporting. Further tests indicate the lower reported box office revenues of foreign films is not due to government intervention. Our findings provide novel evidence of product-level misreporting under revenue-sharing contracts and offer insights on mitigating these risks in international markets.</jats:p>\n                  <jats:p>Data availability: Data are available via the sources specified in the paper. The authors greatly appreciate the data supplied by EntGroup (http://english.entgroup.com.cn/enbase.html) but are not able to share the data based on the agreement with Entgroup.</jats:p>\n                  <jats:p>JEL Classifications: F00; L82; M40.</jats:p>",
-      "doi": "10.2308/tar-2021-0546",
-      "url": "https://doi.org/10.2308/tar-2021-0546"
-    },
-    {
-      "title": "Misstatement Detection Lag and Prediction Evaluation",
-      "authors": "Liu Yang, Min Zhu",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Accounting misstatements are often detected with substantial delays, leading to “look-ahead bias” in model predictions if the detection lag is not considered. Moreover, the misstatement data-generating process is evolving due to regulatory regime shifts, further complicating the evaluation of model predictions. We design an approach that accounts for detection lags and continuously updates models to adapt to the changing data-generating process. By comparing with the conventional approach that ignores detection lags, we show that the look-ahead bias can substantially inflate prediction performance. We also demonstrate that although leaving a temporal gap between training and test samples can mitigate the look-ahead bias, it sacrifices the model’s predictive power by disconnecting the dynamic data-generating process between training and test periods. We further implement a trading strategy to evaluate the practical utility of the continuously updating approach. Our study presents a new conceptual lens for understanding and evaluating misstatement prediction models.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources identified in the study.</jats:p>\n                  <jats:p>JEL Classifications: C53; G32; G38; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0073",
-      "url": "https://doi.org/10.2308/tar-2023-0073"
-    },
-    {
-      "title": "When a Dollar is Not a Dollar: Examining How Timing and Delivery of Government Transfers Influence Household Consumption Decisions",
-      "authors": "Ethan G. LaMothe, Mary E. Marshall, Jason M. Schwebke",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Governments implement wealth transfers with different policy goals and distribution methods. Prior research examines the timing (lump sum/periodic) of transfers but fails to simultaneously consider payment delivery method (standalone/combined with other income). Based on the behavioral life-cycle model, we predict payment timing influences how recipients spend government transfers, but that this effect is muted when the transfer payment is combined with other income. In contrast to prior research, our experimental findings provide theory-consistent results and suggest recipients of a periodic transfer spend more of the transfer than recipients of a lump sum transfer, but only when the transfer is standalone and not combined. Our findings help to explain theory-inconsistent results of prior research and extend the literature on the behavioral life-cycle model and mental budgeting. Moreover, our results suggest policymakers can intentionally structure the distribution of government transfers to encourage household spending or saving consistent with policy goals.</jats:p>",
-      "doi": "10.2308/tar-2024-0150",
-      "url": "https://doi.org/10.2308/tar-2024-0150"
-    },
-    {
-      "title": "Investment Opportunities, Market Feedback, and Voluntary Disclosure: Evidence from the Shale Oil Revolution",
-      "authors": "Zackery Fox, Jaewoo Kim, Bryce Schonberger",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Exploiting the U.S. shale oil revolution as a substantial, unexpected shock to investment opportunities for oil and gas (O&amp;G) firms, we explore whether firms facing an uncertain investment decision adopt a voluntary disclosure policy that facilitates informational feedback from the equity market. Difference-in-differences tests show O&amp;G firms increase (reduce) their issuance of capital expenditure (earnings) forecasts during the shale oil revolution relative to similar, capital-intensive firms. Consistent with managers using market reactions to proposed investment plans to gather information from informed traders, we find investment expenditures become more sensitive to market reactions to capex forecasts during the shale oil revolution period. Consistent with managerial learning improving investment decisions, we find a more pronounced positive relation between future operating performance and investment adjustments made in response to market reactions for O&amp;G firms during the shale oil boom. Our evidence speaks to how managers tailor disclosures to promote informational feedback from prices.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G10; G11; G31; M41.</jats:p>",
-      "doi": "10.2308/tar-2024-0457",
-      "url": "https://doi.org/10.2308/tar-2024-0457"
-    },
-    {
-      "title": "The Value of Theory-Based Research in Accounting",
-      "authors": "Kathryn Kadous",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This essay is based on my American Accounting Association (AAA) Presidential Scholar Lecture delivered at the 2025 AAA Annual Meeting in Chicago. In this essay, I assert that theory-based scientific research is the best way to solve the practical—and existential—problems that threaten the accounting profession. I provide an example based on my own research into auditors’ judgments about complex estimates. I further argue that, although academic researchers and accounting practitioners share goals regarding the success and legitimacy of the accounting profession, their roles and responsibilities differ. I encourage accounting researchers to address the big problems facing the profession through independent development of generalizable knowledge, and I ask practitioners to support the research endeavor.</jats:p>",
-      "doi": "10.2308/tar-2025-0613",
-      "url": "https://doi.org/10.2308/tar-2025-0613"
-    },
-    {
-      "title": "The Complementarity between Corporate Social Responsibility Disclosure Quality and Corporate Social Responsibility Contracting Intensity",
-      "authors": "Isabella Grabner, Annelies Renders, Lu Yang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-02-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Firms are facing increasing pressure to provide information about their Corporate Social Responsibility (CSR) commitment. Firms however differ in the quality of how they communicate CSR-related efforts to stakeholders as well as in the intensity of their CSR contracting. We examine the relationship between CSR disclosures and contracting and argue that the designs of the two practices are complements in signaling a CSR commitment. Using hand-collected data to capture disclosure quality of CSR reports and intensity of CSR contracting (i.e., scope, importance, and degree to which CSR metrics are incorporated) for S&amp;P 500 firms, we show that firms indeed align the design choices of the two practices. In addition, firms using both practices intensively are associated with a stronger CSR commitment and more credible CSR disclosures. Finally, we document that firms that face higher credibility concerns show stronger complementarity between the design of these two practices.</jats:p>\n                  <jats:p>Data Availability: All data are available from public sources mentioned in the text.</jats:p>\n                  <jats:p>JEL Classifications: M14; M40.</jats:p>",
-      "doi": "10.2308/tar-2021-0520",
-      "url": "https://doi.org/10.2308/tar-2021-0520"
     }
   ]
 }
