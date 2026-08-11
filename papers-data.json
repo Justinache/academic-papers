@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-10T03:52:56.738Z",
-  "count": 463,
+  "lastUpdated": "2026-08-11T03:44:20.963Z",
+  "count": 462,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -231,6 +231,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "The Effect of Education Policy on Crime: An Intergenerational            Perspective",
+      "authors": "Ulrika Ahrsjö, Costas Meghir, Mårten Palme, Marieke Schnabel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-10",
+      "abstract": "",
+      "doi": "10.1086/742423",
+      "url": "https://doi.org/10.1086/742423"
+    },
+    {
+      "title": "Rent Guarantee Insurance",
+      "authors": "Boaz Abramson, Stijn Van Nieuwerburgh",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-10",
+      "abstract": "",
+      "doi": "10.1086/742422",
+      "url": "https://doi.org/10.1086/742422"
     },
     {
       "title": "Personal Costs of Executive Turnovers",
@@ -611,6 +631,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101935",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101935"
+    },
+    {
+      "title": "The role of accounting in the informal economy",
+      "authors": "Marcela Aguilar, Gary Lind, K. Ramesh",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101934",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101934"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
@@ -1943,16 +1973,6 @@
       "url": "https://doi.org/10.1086/742434"
     },
     {
-      "title": "The Effect of Education Policy on Crime: An Intergenerational Perspective",
-      "authors": "Ulrika Ahrsjö, Costas Meghir, Marten Palme, Marieke Schnabel",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742423",
-      "url": "https://doi.org/10.1086/742423"
-    },
-    {
       "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
       "authors": "Victor Chernozhukov, Kaspar Wuthrich, Yinchu Zhu",
       "journal": "Journal of Political Economy",
@@ -1961,16 +1981,6 @@
       "abstract": "",
       "doi": "10.1086/742424",
       "url": "https://doi.org/10.1086/742424"
-    },
-    {
-      "title": "Rent Guarantee Insurance",
-      "authors": "Boaz Abramson, Stijn Van Nieuwerburgh",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742422",
-      "url": "https://doi.org/10.1086/742422"
     },
     {
       "title": "The Real Effect of Sociopolitical Racial/Ethnic Animus: Mutual Fund Manager Performance during AAPI Hate",
@@ -4611,26 +4621,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effect of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977–1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories in a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, using a movers design, we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced people report higher education than their siblings who stayed behind but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.</jats:p>",
       "doi": "10.1093/qje/qjag009",
       "url": "https://doi.org/10.1093/qje/qjag009"
-    },
-    {
-      "title": "Disaggregated Economic Accounts",
-      "authors": "Asger Lau Andersen, Kilian Huber, Niels Johannesen, Ludwig Straub, Emil Toft Vestergaard",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-02-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a system of disaggregated economic accounts. The system breaks down national accounting positions into bilateral flows between consistently defined groups of consumers (consumer cells), groups of producers (producer cells), the government, and the rest of the world. We disaggregate the full circular flow of money, including consumer spending, labor compensation, firm profits, intermediates trade, foreign trade, and government transactions, while satisfying all national accounting identities. We implement the disaggregated system for small region-by-industry cells in Denmark and present stylized facts, such as variation in domestic spending, local and urban bias in consumer spending, and a pattern of triangular flows across regions. Cell-level measures of spending intensity capture how much spending by a cell contributes to the income of cells experiencing unemployment after a shock. Using a general equilibrium model, we show that fiscal transfers raise aggregate GDP by more when they target cells with high spending intensity on unemployed cells. The disaggregated economic accounts help governments select more effective policies.</jats:p>",
-      "doi": "10.1093/qje/qjag010",
-      "url": "https://doi.org/10.1093/qje/qjag010"
-    },
-    {
-      "title": "Financial Climate‐Risk Measurement, Impact Funds, and Green Transitions",
-      "authors": "Volker Laux, Lucas Mahieux",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-02-11",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Regulators are contemplating or mandating precise measurement of financial climate‐risk exposure to promote sustainable investments. We show that such mandates can be counterproductive in the presence of social funds that catalyze change by subsidizing the adoption of cleaner production technologies. Firms can exploit a social fund's impact motive by measuring their climate‐risk exposure imprecisely. This strategic imprecision prevents the fund from distinguishing between firms that require subsidies and those that would switch to clean technologies for financial reasons alone, thereby increasing the ex ante subsidies firms can extract. A by‐product of this rent‐seeking behavior is that firms adopt clean technologies more frequently than would be jointly efficient under precise measurement. Our analysis suggests that the regulatory push for precise climate‐risk measurement can reduce social funds' impact and the frequency of green transitions.</jats:p>",
-      "doi": "10.1111/1475-679x.70042",
-      "url": "https://doi.org/10.1111/1475-679x.70042"
     }
   ]
 }
