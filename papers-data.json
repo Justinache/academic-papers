@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T03:44:20.963Z",
-  "count": 462,
+  "lastUpdated": "2026-08-12T04:07:39.281Z",
+  "count": 464,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -61,6 +61,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104349",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104349"
+    },
+    {
+      "title": "Convenience lost",
+      "authors": "Zhengyang Jiang, Robert J. Richmond, Tony Zhang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104347",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104347"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -251,6 +261,16 @@
       "abstract": "",
       "doi": "10.1086/742422",
       "url": "https://doi.org/10.1086/742422"
+    },
+    {
+      "title": "Sequential Search for Corporate Bonds",
+      "authors": "Mahyar Kargar, Benjamin Lester, Sébastien Plante, Pierre‐olivier Weill",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-10",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Customers in over‐the‐counter (OTC) markets must find a counterparty to trade. Little is known about this process, however, because existing data consist of transaction records, which only reveal the\n                    <jats:italic>outcome</jats:italic>\n                    of a search. Using data from a trading platform for corporate bonds, we unpack the search process. We analyze how long it takes customers to trade and how dealers' offers evolve across repeated inquiries. We estimate that it takes two to three days to complete a transaction after an unsuccessful attempt, with substantial variation across trade and customer characteristics. Our analysis offers insights into the sources of trading delays in OTC markets.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70068",
+      "url": "https://doi.org/10.1111/jofi.70068"
     },
     {
       "title": "Personal Costs of Executive Turnovers",
@@ -641,6 +661,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101934",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101934"
+    },
+    {
+      "title": "The Market Disciplinary Effect of Asset Write-Off: Theory and Empirical Evidence from Goodwill Impairment",
+      "authors": "Yi Jiang, Yupeng Lin, Wenjie Xue",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the effect of subsequent write-off tests on myopic managers’ investment decisions. Write-off tests discipline overinvestment when the likelihood of adverse events is high but can otherwise cause more severe underinvestment. Hence, tightening impairment stringency improves firm value when the likelihood of adverse events is high but destroys firm value when that likelihood is low. With intermediate levels of likelihood, firm value is hump-shaped in impairment stringency. To test the theory, we exploit an increase in goodwill impairment stringency following goodwill-related restatements by peer firms audited by the same auditor office, and we adopt a stacked difference-in-differences (DiD) design to control for any generic effects of peer restatements. Firms facing more stringent goodwill impairment reduce M&amp;As relative to other types of investment, as well as in absolute amounts. The valuation of treated firms improves only during periods of high recession expectations or when facing high distress risk.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: D82; G31; G34; M41; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0526",
+      "url": "https://doi.org/10.2308/tar-2022-0526"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
@@ -4611,16 +4641,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a present-value identity relating a firm’s market value to expected future markups, output growth, discount rates, and investments. Distinguishing current from expected markups reveals five empirical facts: (1) Expected markups account for half the rise in U.S. firm values since 1980. (2) The rise in aggregate expected markups reflects market-share reallocation toward high-expected-markup firms and within-firm increases. (3) Expected markups are linked to intangible investments. (4) They relate negatively to discount rates over time but (5) positively to abnormal returns across firms. Finally, variation in long-term expected markups is primarily associated with asset prices rather than current markups.</jats:p>",
       "doi": "10.1093/rfs/hhaf112",
       "url": "https://doi.org/10.1093/rfs/hhaf112"
-    },
-    {
-      "title": "Civil War–Induced Displacement and Human Capital",
-      "authors": "Giorgio Chiovelli, Stelios Michalopoulos, Elias Papaioannou, Sandra Sequeira",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-02-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effect of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977–1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories in a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, using a movers design, we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced people report higher education than their siblings who stayed behind but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.</jats:p>",
-      "doi": "10.1093/qje/qjag009",
-      "url": "https://doi.org/10.1093/qje/qjag009"
     }
   ]
 }
