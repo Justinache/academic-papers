@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T04:07:39.281Z",
-  "count": 464,
+  "lastUpdated": "2026-08-13T04:11:53.639Z",
+  "count": 466,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -71,6 +71,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104347",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104347"
+    },
+    {
+      "title": "Segmented Dollar Funding",
+      "authors": "Pēteris Kloks, Edouard Mattille, Angelo Ranaldo",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104348",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104348"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -243,6 +253,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
     },
     {
+      "title": "Personal Bankruptcy Protection and Household Debt",
+      "authors": "Felipe Severino, Meta Brown, Rajashri Chakrabarti",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-08-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Increasing personal bankruptcy protection raises consumers’ desire to borrow and lenders’ cost of extending credit; the impact on equilibrium borrowing is ambiguous. Using bankruptcy protection changes between 1999 and 2005 across U.S. states, we find that borrowers respond to greater protection by increasing their unsecured debt. Border county estimates suggest that local economic conditions do not drive these results. Borrowers pay more for protection through higher interest rates, yet delinquency is unaffected. Our results indicate that rising borrower demand outstripped decreasing supply. Increased protections did not reduce the aggregate level of household debt but affected the composition of borrowing. (JEL G00, G33, G51, D14, D18, K35, R2)</jats:p>",
+      "doi": "10.1093/rfs/hhag076",
+      "url": "https://doi.org/10.1093/rfs/hhag076"
+    },
+    {
       "title": "The Effect of Education Policy on Crime: An Intergenerational            Perspective",
       "authors": "Ulrika Ahrsjö, Costas Meghir, Mårten Palme, Marieke Schnabel",
       "journal": "Journal of Political Economy",
@@ -298,7 +318,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-08-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce the nonlinear arbitrage correction (NAC), the residual that renders a linear benchmark model arbitrage-free while preserving the law of one price. The price of NAC captures the marginal Sharpe ratio increase consistent with no-arbitrage and upper-bounds the constrained Hansen–Jagannathan distance. Using four decades of international equity, currency, and factor returns, NAC is strongly countercyclical, peaking during crises when linear models turn negative. The implied Sharpe ratio increase reaches 0.3, underscoring its economic relevance. While linear models perform well on average, they fail in distressed states, underpricing nonlinear payoffs. Incorporating NAC restores positivity and stabilizes pricing across regimes. (JEL G11, G12, G15)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce the nonlinear arbitrage correction (NAC), the residual that renders a linear benchmark model arbitrage-free while preserving the law of one price. The price of NAC captures the marginal Sharpe ratio increase consistent with no-arbitrage and upper-bounds the constrained Hansen–Jagannathan distance. Using four decades of international equity, currency, and factor returns, NAC is strongly countercyclical, peaking during crises when linear models turn negative. The implied Sharpe ratio increase reaches 0.3, underscoring its economic relevance. While linear models perform well on average, they fail in distressed states, underpricing nonlinear payoffs. Incorporating NAC restores positivity and stabilizes pricing across regimes.</jats:p>",
       "doi": "10.1093/rfs/hhag054",
       "url": "https://doi.org/10.1093/rfs/hhag054"
     },
@@ -318,7 +338,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-08-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that heightened regulation on large banks contributed to the rise in fragility of smaller banks revealed by the 2023 regional bank crisis. In 2018, regulators restricted Wells Fargo, the third largest U.S. bank, from growing its total assets. We estimate this asset cap led Wells Fargo to give up deposits amounting to 2.2% of aggregate bank deposits. These deposits, primarily uninsured, were reallocated to banks geographically proximate to Wells Fargo, including smaller, less regulated banks. In turn, these banks experienced higher deposit outflows once monetary tightening commenced and saw their stock prices plummet during the 2023 stress. (JEL G01, G21, G28, G32, E44, E58)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that heightened regulation on large banks contributed to the rise in fragility of smaller banks revealed by the 2023 regional bank crisis. In 2018, regulators restricted Wells Fargo, the third largest U.S. bank, from growing its total assets. We estimate this asset cap led Wells Fargo to give up deposits amounting to 2.2% of aggregate bank deposits. These deposits, primarily uninsured, were reallocated to banks geographically proximate to Wells Fargo, including smaller, less regulated banks. In turn, these banks experienced higher deposit outflows once monetary tightening commenced and saw their stock prices plummet during the 2023 stress.</jats:p>",
       "doi": "10.1093/rfs/hhag071",
       "url": "https://doi.org/10.1093/rfs/hhag071"
     },
