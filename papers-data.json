@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T04:11:53.639Z",
-  "count": 466,
+  "lastUpdated": "2026-08-14T04:08:44.529Z",
+  "count": 470,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -253,6 +253,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
     },
     {
+      "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
+      "authors": "Tan Gan, Nicholas Wu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-13",
+      "abstract": "",
+      "doi": "10.1086/742434",
+      "url": "https://doi.org/10.1086/742434"
+    },
+    {
       "title": "Personal Bankruptcy Protection and Household Debt",
       "authors": "Felipe Severino, Meta Brown, Rajashri Chakrabarti",
       "journal": "Review of Financial Studies",
@@ -261,6 +271,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Increasing personal bankruptcy protection raises consumers’ desire to borrow and lenders’ cost of extending credit; the impact on equilibrium borrowing is ambiguous. Using bankruptcy protection changes between 1999 and 2005 across U.S. states, we find that borrowers respond to greater protection by increasing their unsecured debt. Border county estimates suggest that local economic conditions do not drive these results. Borrowers pay more for protection through higher interest rates, yet delinquency is unaffected. Our results indicate that rising borrower demand outstripped decreasing supply. Increased protections did not reduce the aggregate level of household debt but affected the composition of borrowing. (JEL G00, G33, G51, D14, D18, K35, R2)</jats:p>",
       "doi": "10.1093/rfs/hhag076",
       "url": "https://doi.org/10.1093/rfs/hhag076"
+    },
+    {
+      "title": "What Do Impact Investors Do Differently?*",
+      "authors": "Shawn Cole, Leslie Jeng, Josh Lerner, Natalia Rigol, Benjamin N Roth",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-08-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do impact investors seek impact, or merely “impact wash”? We provide systematic evidence on the nonfinancial determinants of impact investing. Impact investors focus on firms aligned with the priorities of the federal government and disproportionately invest in economically disadvantaged regions. While we find high levels of coinvestment between impact and traditional investors, we also show that impact investors influence the strategies of their traditional coinvestors, are more likely to fund firms in nascent industries, and invest countercyclically. Finally, we characterize investment heterogeneity based on a novel classification of impact investment theses, with a focus on climate, environment, and jobs and equity.</jats:p>",
+      "doi": "10.1093/rfs/hhag074",
+      "url": "https://doi.org/10.1093/rfs/hhag074"
     },
     {
       "title": "The Effect of Education Policy on Crime: An Intergenerational            Perspective",
@@ -663,7 +683,7 @@
       "url": "https://doi.org/10.2308/tar-2023-0699"
     },
     {
-      "title": "Knowledge is Power: A Field Experiment in the Chinese and US Stock Markets",
+      "title": "Knowledge is power: A field experiment in the Chinese and US stock markets",
       "authors": "Sonia Man-Lai Wong, Yuan Xue, Bohui Zhang, Xiaofeng Zhao",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -691,6 +711,36 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the effect of subsequent write-off tests on myopic managers’ investment decisions. Write-off tests discipline overinvestment when the likelihood of adverse events is high but can otherwise cause more severe underinvestment. Hence, tightening impairment stringency improves firm value when the likelihood of adverse events is high but destroys firm value when that likelihood is low. With intermediate levels of likelihood, firm value is hump-shaped in impairment stringency. To test the theory, we exploit an increase in goodwill impairment stringency following goodwill-related restatements by peer firms audited by the same auditor office, and we adopt a stacked difference-in-differences (DiD) design to control for any generic effects of peer restatements. Firms facing more stringent goodwill impairment reduce M&amp;As relative to other types of investment, as well as in absolute amounts. The valuation of treated firms improves only during periods of high recession expectations or when facing high distress risk.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: D82; G31; G34; M41; M42.</jats:p>",
       "doi": "10.2308/tar-2022-0526",
       "url": "https://doi.org/10.2308/tar-2022-0526"
+    },
+    {
+      "title": "Benefits of Bank-Collateralized Loan Obligation Relationships: Evidence from Bankruptcy and Restructuring Outcomes of Collateralized Loan Obligation-Held Loans",
+      "authors": "Yupeng Lin, Dushyantkumar Vyas, Wanrong Xu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite persistent academic and regulatory concerns, collateralized loan obligations (CLOs) have consistently demonstrated resiliency over the past two decades. We document that firms whose loans are acquired by CLOs are less likely to experience adverse credit events within 12 months of inclusion in the CLO portfolio, particularly when CLOs maintain institutional-level relationships with originating banks (through repeated transactions) or when individual-level relationships exist (as evidenced by personnel flows between originating banks and CLOs). The effects of these relationships are more pronounced when banks likely possess superior private information about borrowers. Furthermore, conditional upon filing for bankruptcy, borrowers whose loans are held by CLOs with institutional- or individual-level relationships are more likely to successfully reorganize under Chapter 11. Collectively, our findings highlight the dual information channels, both institutional and personnel based, that mitigate information frictions in the leveraged loan market.</jats:p>\n                  <jats:p>Data Availability: Data are available from commercial sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12.</jats:p>",
+      "doi": "10.2308/tar-2024-0758",
+      "url": "https://doi.org/10.2308/tar-2024-0758"
+    },
+    {
+      "title": "When Companies Choose Their Reporting Standards: Evidence on SASB Adoption and Associated Outcomes",
+      "authors": "Khrystyna Bochkay, Seungju Choi, Jeffrey Hales",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine companies’ voluntary adoption of sustainability disclosure standards developed by the Sustainability Accounting Standards Board (SASB). Specifically, we study which company characteristics help explain the use of SASB standards and examine whether voluntary use is associated with sustainability-related activities and market outcomes. We find that peer behavior, sustainability-focused institutional ownership, company size, and existing sustainability reporting practices are key determinants associated with SASB adoption. Moreover, SASB adoption appears to be a highly persistent disclosure choice. It is significantly associated with better sustainability performance, such as lower sustainability violations, greenhouse gas emissions, and pollution levels, particularly when the SASB standards identify those issues as financially material for the company's industry. Finally, SASB adoption is associated with more extensive sustainability disclosure and greater price informativeness, consistent with investors getting additional firm-specific information from SASB-based reporting.</jats:p>\n                  <jats:p>JEL Classifications: M41; M14; G32; Q56.</jats:p>",
+      "doi": "10.2308/tar-2023-0485",
+      "url": "https://doi.org/10.2308/tar-2023-0485"
+    },
+    {
+      "title": "Social Tax Discontent and Individual Tax Avoidance",
+      "authors": "Andrew Belnap, Kevin R. Standridge, Jacob R. Thornock, Braden Williams",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between exposure to social tax discontent—public expressions of frustration about others’ tax avoidance on social media—and individual tax avoidance. Economic and psychological theories predict bidirectional effects: discontent may reduce avoidance by inducing internal sanctions (e.g., shame and guilt) or increase avoidance by normalizing noncompliance through perceived prevalence. Using a novel, large-scale measure of tax discontent derived from geolocated Twitter data and a language classification model, we find that increases in social tax discontent are associated with reductions in estimated tax avoidance. The effect is stronger among high-income groups, in response to tweets targeting wealthy individuals, and in areas with higher political engagement and social media activity. Our results reinforce the importance of taxpayers’ social and behavioral motivations and suggest that jurisdictions’ efforts to manage taxpayer beliefs and leverage social norms can act as a complementary tool to traditional enforcement.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are derived from public and third-party sources described in the text: the IRS Statistics of Income, the U.S. Bureau of Labor Statistics (BLS) Quarterly Census of Employment and Wages, the Bureau of Economic Analysis, Google Trends, and the National Neighborhood Data Archive. Twitter/X data were collected via the Twitter Application Programming Interface (API) under its academic-access terms and are subject to Twitter’s/X’s terms of use; they cannot be redistributed by the authors, but the collection and classification procedures are described in Section IV.</jats:p>\n                  <jats:p>JEL Classifications: H26; H24; Z13; D91.</jats:p>",
+      "doi": "10.2308/tar-2023-0689",
+      "url": "https://doi.org/10.2308/tar-2023-0689"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
@@ -888,7 +938,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-07-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Information often spreads and influences beliefs regardless of its reliability. We show that this occurs in part because indicators of reliability tend to be lost in the process of word-of-mouth transmission. We conduct controlled experiments where participants listen to economic forecasts and pass them on through voice messages. Other participants listen either to original or transmitted audio recordings and report incentivized beliefs. Across various transmitter incentive schemes, a claim’s reliability is lost in transmission much more than the claim itself. Reliable and unreliable information, once filtered through transmission, impact listener beliefs similarly. Mechanism experiments show that reliability is lost not because it is perceived as less relevant or harder to transmit, but because it is less likely to come to mind during transmission. Evidence from our experiments, a large corpus of everyday conversations, and economic TV news shows that contextual cues can bring reliability to mind and induce its transmission, but situations in which people share information seldom contain such cues.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Information often spreads and influences beliefs regardless of its reliability. We show that this occurs in part because indicators of reliability tend to be lost in the process of word-of-mouth transmission. We conduct controlled experiments where participants listen to economic forecasts and pass them on through voice messages. Other participants listen either to original or transmitted audio recordings and report incentivized beliefs. Across various transmitter incentive schemes, a claim’s reliability is lost in transmission much more than the claim itself. Reliable and unreliable information, once filtered through transmission, affect listeners’ beliefs similarly. Mechanism experiments show that reliability is lost not because it is perceived as less relevant or harder to transmit but because it is less likely to come to mind during transmission. Evidence from our experiments, a large corpus of everyday conversations, and economic TV news shows that contextual cues can bring reliability to mind and induce its transmission, but situations in which people share information seldom contain such cues.</jats:p>",
       "doi": "10.1093/qje/qjag037",
       "url": "https://doi.org/10.1093/qje/qjag037"
     },
@@ -2011,16 +2061,6 @@
       "abstract": "",
       "doi": "10.1086/742421",
       "url": "https://doi.org/10.1086/742421"
-    },
-    {
-      "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
-      "authors": "Tan Gan, Nicholas Wu",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742434",
-      "url": "https://doi.org/10.1086/742434"
     },
     {
       "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
