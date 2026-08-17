@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T02:57:26.730Z",
-  "count": 474,
+  "lastUpdated": "2026-08-17T02:56:23.193Z",
+  "count": 469,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -4691,56 +4691,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that judges&amp;#x02019; political affiliations are strongly associated with the level of judicial penalties levied against companies. For example, Republican-appointed judges impose larger fines for hiring illegal immigrants, while Democrat-appointed judges impose larger fines for pollution- and environment-related violations. Time-series variation suggests that political partisanship, not fixed ideological differences, drives these findings. The differences become amplified when higher-court judicial vacancies exist and in the months before national elections. Our findings highlight the importance of political polarization for U.S. companies and illustrate how judicial composition can affect firms&amp;#x02019; incentive to avoid violating laws connected to partisan issues.</jats:p>",
       "doi": "10.1093/rfs/hhaf027",
       "url": "https://doi.org/10.1093/rfs/hhaf027"
-    },
-    {
-      "title": "Cooling Auction Fever: Evidence from the Housing Market",
-      "authors": "Antonio Gargano, Marco Giacoletti",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the effects of underquoting, the practice of setting listing prices below sellers’ reservation values, on housing auctions. Laws introduced in Australia to deter underquoting lead to higher listing prices, but also to declines in sales prices and sales probabilities. We develop a quantitative model to formalize predictions under different assumptions about bidders’ information and rationality. The effects of the laws are matched by a version of the model in which participating bidders overbid. While both behavioral biases arising during the auction and switching costs can explain overbidding, empirical and survey evidence points to behavioral biases as the main mechanism.</jats:p>",
-      "doi": "10.1093/rfs/hhaf101",
-      "url": "https://doi.org/10.1093/rfs/hhaf101"
-    },
-    {
-      "title": "Algorithmic Pricing and Liquidity in Securities Markets",
-      "authors": "Jean-Edouard Colliard, Thierry Foucault, Stefano Lovo",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study “Algorithmic Market Makers” (AMs) that use Q-learning algorithms to set prices for a risky asset. We find that while AMs successfully adapt to adverse selection, they struggle to learn competitive pricing strategies. This failure is driven by limited experimentation and noisy feedback regarding the profitability of undercutting a competitor. Consequently, an increase in AMs’ profit volatility tends to result in less competitive market outcomes. These features leave identifiable patterns: for example, AMs earn higher rents in the absence of adverse selection, and their bid-ask spreads respond asymmetrically to symmetric shocks to their costs.</jats:p>",
-      "doi": "10.1093/rfs/hhag010",
-      "url": "https://doi.org/10.1093/rfs/hhag010"
-    },
-    {
-      "title": "Financial Intermediaries and the Yield Curve",
-      "authors": "Andrés Schneider",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-17",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I study the yield curve dynamics in a general equilibrium model with financial intermediaries facing financing constraints. When constraints bind, intermediaries reallocate their portfolios, causing deadweight losses in aggregate consumption, thus affecting savers’ marginal utility. Because the yield curve is a forecast of marginal utility, intermediaries’ constraints show up, via general equilibrium forces, in long-term yields. I show that the mechanism connecting intermediaries’ constraints and long-term yields produces highly nonlinear interest rate dynamics and a positive real term premium in equilibrium. I extend the analysis to the nominal yield curve using a simple Taylor rule.</jats:p>",
-      "doi": "10.1093/rfs/hhaf102",
-      "url": "https://doi.org/10.1093/rfs/hhaf102"
-    },
-    {
-      "title": "Accounting Rules and the Labor Market for Accountants",
-      "authors": "Anthony Le",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-02-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In this study, I explore how accounting rules—in particular the restrictiveness of GAAP—have impacted the labor market for accountants. I find that when the rules become more restrictive, there are fewer students majoring in accounting and fewer accountants and auditors overall. The overall number of accounting positions that firms recruit for does not decrease when the rules become more restrictive; however, the nature of accountants' work changes. There is less focus on tasks such as applying judgment, thinking creatively, and thinking critically and more focus on determining compliance. Despite the decrease in accountants, earnings for accountants do not increase, and the wage distribution becomes more compressed. I supplement these analyses with a survey‐based field experiment and find that the salience of restrictiveness heightens students' views of accounting as a profession where they are unable to use creative and critical thinking. Overall, the findings suggest that restrictive regulation can shift the task content of occupations and reduce the pool of individuals interested in the profession.</jats:p>",
-      "doi": "10.1111/1475-679x.70043",
-      "url": "https://doi.org/10.1111/1475-679x.70043"
-    },
-    {
-      "title": "The Present Value of Future Market Power",
-      "authors": "Thummim Cho, Marco Grotteria, Lukas Kremens, Howard Kung",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a present-value identity relating a firm’s market value to expected future markups, output growth, discount rates, and investments. Distinguishing current from expected markups reveals five empirical facts: (1) Expected markups account for half the rise in U.S. firm values since 1980. (2) The rise in aggregate expected markups reflects market-share reallocation toward high-expected-markup firms and within-firm increases. (3) Expected markups are linked to intangible investments. (4) They relate negatively to discount rates over time but (5) positively to abnormal returns across firms. Finally, variation in long-term expected markups is primarily associated with asset prices rather than current markups.</jats:p>",
-      "doi": "10.1093/rfs/hhaf112",
-      "url": "https://doi.org/10.1093/rfs/hhaf112"
     }
   ]
 }
