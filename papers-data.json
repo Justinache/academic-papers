@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T02:56:23.193Z",
+  "lastUpdated": "2026-08-18T02:53:40.301Z",
   "count": 469,
   "papers": [
     {
@@ -948,7 +948,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Pension funds use interest rate swaps to hedge the interest rate risk arising from their liabilities. Analyzing regulatory data on Dutch pension funds, we show that pension funds with worse funding ratios, indicating greater fragility, use swaps more aggressively. These swap positions expose pension funds to the risk of margin calls, which can exceed 6% of their total assets, when interest rates rise. Pension funds respond to realized margin calls by selling safe government bonds with medium-term maturities. This procyclical selling behavior adversely affects the prices of the sold bonds and thereby exposes pension funds to market liquidity risk. (JEL E43, G12, G18)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Pension funds use interest rate swaps to hedge the interest rate risk arising from their liabilities. Analyzing regulatory data on Dutch pension funds, we show that pension funds with worse funding ratios, indicating greater fragility, use swaps more aggressively. These swap positions expose pension funds to the risk of margin calls, which can exceed 6% of their total assets, when interest rates rise. Pension funds respond to realized margin calls by selling safe government bonds with medium-term maturities. This procyclical selling behavior adversely affects the prices of the sold bonds and thereby exposes pension funds to market liquidity risk.</jats:p>",
       "doi": "10.1093/rfs/hhag068",
       "url": "https://doi.org/10.1093/rfs/hhag068"
     },
