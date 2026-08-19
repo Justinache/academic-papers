@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-18T02:53:40.301Z",
-  "count": 469,
+  "lastUpdated": "2026-08-19T02:56:18.867Z",
+  "count": 474,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -261,6 +261,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Informing Entrepreneurs? Initial Public Offerings and New Business Formation",
+      "authors": "John M. Barrios, Jung Ho Choi, Yael V. Hochberg, Jinhwan Kim, Miao Liu",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-08-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the spillover effects of local initial public offerings (IPOs) on new business formation. An IPO in a local area is associated with a 1%–4% increase in new business registrations, and this effect is particularly pronounced in counties facing higher economic uncertainty. New business registrations are significantly influenced by the extent of EDGAR downloads related to the IPO firm's public disclosures and the information in the IPO firm's S‐1 disclosure. The findings highlight the role of IPOs in conveying crucial information through signaling of potential success prospects and additional provision of information through disclosures. A field survey of 503 entrepreneurs further supports these conclusions.</jats:p>",
+      "doi": "10.1111/1475-679x.70082",
+      "url": "https://doi.org/10.1111/1475-679x.70082"
+    },
+    {
+      "title": "Non‐Fundamental Loan Renegotiations",
+      "authors": "Aj Yuan Chen, Matthew A. Phillips, Regina Wittenberg‐moerman, Tiange Ye",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-08-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Prior studies predominantly examine fundamental performance‐driven explanations of loan renegotiations. We contrast with this work by investigating the improvement in secondary loan market trading conditions as a\n                    <jats:italic>non‐fundamental</jats:italic>\n                    driver of loan renegotiation. Exploiting a regression discontinuity design around the LSTA 100 Index reconstitution, we find that index‐included loans are around five times more likely to receive interest‐rate–reducing amendments than comparable loans just below the index inclusion threshold. Within‐loan‐package tests confirm that these renegotiations are not driven by changes in the borrower's fundamental performance. The threat of refinancing likely drives this effect, as the results are more pronounced when such threats are more credible.\n                  </jats:p>",
+      "doi": "10.1111/1475-679x.70080",
+      "url": "https://doi.org/10.1111/1475-679x.70080"
     },
     {
       "title": "The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States",
@@ -781,6 +801,36 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101936",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101936"
+    },
+    {
+      "title": "Circuitousness in Disclosure Narratives",
+      "authors": "Nicholas Guest, Jiawen Yan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines circuitousness, which reflects related information being spread throughout a narrative as opposed to being grouped together. Circuitousness in the MD&amp;A is higher for underperforming firms facing an imminent recovery, a difficult scenario for managers to describe and reconcile. Such firms’ disclosures are accompanied by heightened information processing activity, such as EDGAR downloads and analyst forecast revisions. Additionally, initial return reactions are faster but incomplete, consistent with recoveries and the ensuing circuitousness increasing processing costs that delay price discovery. Changes in institutional ownership are concentrated among quasi-indexers, who rely on public disclosure but rebalance only gradually. Circuitousness is incrementally and more consistently predictive than other textual characteristics that are related but are typically associated with obfuscation, such as the Fog index and repetition. Overall, circuitousness in financial disclosure signals that a turnaround is imminent and corresponds to more costly information processing.</jats:p>\n                  <jats:p>JEL Classifications: D83; D84; G14; G30; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0731",
+      "url": "https://doi.org/10.2308/tar-2023-0731"
+    },
+    {
+      "title": "Broker In-House ESG Research",
+      "authors": "Yixin Wei, Steven F. Cahan, Li Chen",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the determinants and consequences of broker in-house ESG research. Using manually collected brokerage ESG research data, we find that the provision of in-house ESG research is positively related to both demand-side factors (client demand, internal demand, and local ESG awareness) and supply-side factors (broker size and coverage of sustainable industries). Regarding the consequences of such research, we find that in-house ESG research is associated with improved earnings forecast accuracy in industries where ESG is more salient. Further, the market reaction to earnings forecast revisions is stronger when equity analysts have access to in-house ESG research. Finally, we observe a consistent pattern suggesting that ESG analysts support equity analysts beyond forecast accuracy, as equity analysts with access to in-house ESG research issue more accurate target prices, more informative recommendation upgrades for ESG-heavy industries, and discuss ESG issues more extensively in their analyst reports.</jats:p>\n                  <jats:p>Data Availability Statement: The data used in this study are obtained from publicly available sources identified in the paper, as well as job posting data licensed from Lightcast. Sample construction procedures are described in the paper. Researchers interested in the job posting data should contact Lightcast directly, as access is subject to licensing restrictions.</jats:p>\n                  <jats:p>JEL Classifications: G14; G24; M41; M14.</jats:p>",
+      "doi": "10.2308/tar-2023-0401",
+      "url": "https://doi.org/10.2308/tar-2023-0401"
+    },
+    {
+      "title": "Domestic Product Market Impacts of Politically Motivated Foreign Tariffs",
+      "authors": "Carlyle S. Burd, Duke Ferguson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how foreign non-income tax shocks affect U.S. product markets. Our setting is the politically motivated tariffs on U.S. whiskey exports levied during the 2018 trade war, which created an exogenous negative foreign demand shock for domestic producers. Using a difference-in-differences design we show that, on average, U.S. whiskey producers decrease U.S. product prices and thus increase domestic sales volume following the export tariffs. However, we find evidence of strategic pricing, as producers increase prices of locally produced products in primary production states (Kentucky and Tennessee) and more significantly decrease prices in states where whiskey consumption is less popular. Further, we show that U.S. whiskey producers implement smaller product price decreases in states with greater tariff-related media exposure and reduce advertising spending nationwide but not in Kentucky and Tennessee. Taken together, these findings provide timely evidence regarding how foreign trade restrictions impact the U.S. product market and consumer outcomes.</jats:p>\n                  <jats:p>Data Availability: NielsenIQ Retail Scanner Data are available through the Kilts Center for Marketing at the University of Chicago Booth School of Business (http://research.chicagobooth.edu/nielsen). Kantar Advertising Insights data are available by subscription. GDELT data are available at https://www.gdeltproject.org/.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41; F10; F13; F14.</jats:p>",
+      "doi": "10.2308/tar-2024-0708",
+      "url": "https://doi.org/10.2308/tar-2024-0708"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
