@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T02:56:18.867Z",
+  "lastUpdated": "2026-08-20T02:55:45.754Z",
   "count": 474,
   "papers": [
     {
@@ -261,6 +261,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Can Small Businesses Survive Chapter 11?",
+      "authors": "Edith Hotchkiss, Benjamin Iverson, Xiang Zheng",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-19",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>A majority of small U.S. businesses attempting to reorganize in bankruptcy fail to do so. Subchapter V of Chapter 11 (SubV) streamlines bankruptcy for small firms by reducing bankruptcy costs and negotiation frictions, and enables entrepreneurs to retain ownership. We show that many businesses reorganize under SubV that otherwise would liquidate. Creditor recoveries and postbankruptcy survival rates are at least as high in SubV as in traditional Chapter 11s. Our results show the increase in reorganizations is not associated with continuation of unviable firms, and that creditors are not harmed by a shift in bargaining power toward small business owners.</jats:p>",
+      "doi": "10.1111/jofi.70076",
+      "url": "https://doi.org/10.1111/jofi.70076"
+    },
+    {
+      "title": "Underrepresentation of Women CEOs",
+      "authors": "Li He, Toni M Whited",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-08-18",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do so few women become CEOs? To understand this glass ceiling, we estimate a dynamic model of the CEO gender decision, which contains perceived gender productivity differences, search costs reflecting limited female labor supply, and employer disutility from discrimination. The key factor is the shortage of suitable female candidates, as boards prefer hiring women, and productivity differences between genders are minimal. We find no evidence of a glass cliff in which women become CEOs just as firms are failing. While better governance is associated with women becoming CEOs, the importance of limited female labor supply is unrelated to governance.</jats:p>",
+      "doi": "10.1093/rfs/hhag077",
+      "url": "https://doi.org/10.1093/rfs/hhag077"
     },
     {
       "title": "Informing Entrepreneurs? Initial Public Offerings and New Business Formation",
@@ -793,7 +813,7 @@
       "url": "https://doi.org/10.2308/tar-2023-0689"
     },
     {
-      "title": "What Drives Banks’ Overreaction to Loan Loss Information? Discussion of Imperfect Expectations in Loan Loss Forecasts",
+      "title": "What drives banks’ overreaction to loan loss information? Discussion of imperfect expectations in loan loss forecasts",
       "authors": "Scott Liao, Brent A. Schmidt",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1098,7 +1118,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Traditionally, fund managers cast votes on behalf of fund investors. Recently, there is a shift toward “pass-through voting,” with funds offering investors a choice: delegate votes to the fund or vote themselves. We develop a framework to study the implications of voting choice. While it helps reflect heterogeneous investor preferences, it also shapes the informational content of the vote, and these forces can conflict. When interests are aligned, voting choice improves information aggregation and investor welfare. With preference heterogeneity or costly information, however, it can make investors worse off by weakening informed. (JEL D72, D82, D83, G34, K22)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Traditionally, fund managers cast votes on behalf of fund investors. Recently, there is a shift toward “pass-through voting,” with funds offering investors a choice: delegate votes to the fund or vote themselves. We develop a framework to study the implications of voting choice. While it helps reflect heterogeneous investor preferences, it also shapes the informational content of the vote, and these forces can conflict. When interests are aligned, voting choice improves information aggregation and investor welfare. With preference heterogeneity or costly information, however, it can make investors worse off by weakening informed decision making and fund managers’ incentives to acquire information.</jats:p>",
       "doi": "10.1093/rfs/hhag065",
       "url": "https://doi.org/10.1093/rfs/hhag065"
     },
@@ -4721,26 +4741,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Option wholesalers specialize in purchasing and executing against retail option order flow. Orders are internalized via auctions (which provide price improvement) and the limit order book. Designated market makers (DMMs) have a key advantage in internalizing limit order book trades: they obtain the first five contracts of any order they bring to an exchange where they are a DMM. We exploit variation in DMM assignments and allocation rules to highlight how these rules create a barrier to entry in option wholesaling that does not exist for equity wholesaling, protecting wholesaler profits and high option PFOF.</jats:p>",
       "doi": "10.1093/rfs/hhaf108",
       "url": "https://doi.org/10.1093/rfs/hhaf108"
-    },
-    {
-      "title": "The Macroeconomic Impact of Climate Change: Global Versus Local Temperature",
-      "authors": "Adrien Bilal, Diego R Känzig",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-02-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article estimates that the macroeconomic damages from climate change are an order of magnitude larger than previously thought. Exploiting natural global temperature variability, we find that 1ºC warming reduces world GDP by over 20% in the long run. Global temperature correlates strongly with extreme climatic events, unlike country-level temperature used in previous work, explaining our larger estimate. We use this evidence to estimate damage functions in a neoclassical growth model. Business-as-usual warming implies a present welfare loss of more than 30%, and a social cost of carbon in excess of $1,200 per ton. These impacts suggest that unilateral decarbonization policy is cost-effective for large countries such as the United States.</jats:p>",
-      "doi": "10.1093/qje/qjag011",
-      "url": "https://doi.org/10.1093/qje/qjag011"
-    },
-    {
-      "title": "When Do Judges Throw the Book at Companies? The Influence of Partisanship in Corporate Prosecutions",
-      "authors": "Todd A Gormley, Mahsa Kaviani, Hosein I Maleki",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that judges&amp;#x02019; political affiliations are strongly associated with the level of judicial penalties levied against companies. For example, Republican-appointed judges impose larger fines for hiring illegal immigrants, while Democrat-appointed judges impose larger fines for pollution- and environment-related violations. Time-series variation suggests that political partisanship, not fixed ideological differences, drives these findings. The differences become amplified when higher-court judicial vacancies exist and in the months before national elections. Our findings highlight the importance of political polarization for U.S. companies and illustrate how judicial composition can affect firms&amp;#x02019; incentive to avoid violating laws connected to partisan issues.</jats:p>",
-      "doi": "10.1093/rfs/hhaf027",
-      "url": "https://doi.org/10.1093/rfs/hhaf027"
     }
   ]
 }
