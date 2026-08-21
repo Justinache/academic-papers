@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T02:55:45.754Z",
-  "count": 474,
+  "lastUpdated": "2026-08-21T02:59:07.481Z",
+  "count": 473,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -4731,16 +4731,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We use large language models to analyze the content of 4,700 private meetings between a large active asset manager and its portfolio firms. The high‐level meetings convey mostly soft information about the firm, and little about industry or market. Fund manager meetings focus on business models and financial metrics, while governance specialist meetings focus on environmental, social, and governance risks; 0.4% of meetings discuss material nonpublic information. Trades by fund managers increase with meetings attended by senior management, rated as unusually good or bad, where the tone is significantly positive or negative, or assessed as creating consensus. Meeting‐informed portfolios can generate significant outperformance.</jats:p>",
       "doi": "10.1111/jofi.13495",
       "url": "https://doi.org/10.1111/jofi.13495"
-    },
-    {
-      "title": "Payment for Order Flow and Option Internalization",
-      "authors": "Thomas Ernst, Chester Spatt",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-02-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Option wholesalers specialize in purchasing and executing against retail option order flow. Orders are internalized via auctions (which provide price improvement) and the limit order book. Designated market makers (DMMs) have a key advantage in internalizing limit order book trades: they obtain the first five contracts of any order they bring to an exchange where they are a DMM. We exploit variation in DMM assignments and allocation rules to highlight how these rules create a barrier to entry in option wholesaling that does not exist for equity wholesaling, protecting wholesaler profits and high option PFOF.</jats:p>",
-      "doi": "10.1093/rfs/hhaf108",
-      "url": "https://doi.org/10.1093/rfs/hhaf108"
     }
   ]
 }
