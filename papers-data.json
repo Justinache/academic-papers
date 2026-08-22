@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T02:59:07.481Z",
+  "lastUpdated": "2026-08-22T02:54:00.282Z",
   "count": 473,
   "papers": [
     {
@@ -261,6 +261,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Debiasing and\n                    t\n                    -Tests for Synthetic Control Inference on Average Causal Effects",
+      "authors": "Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-21",
+      "abstract": "",
+      "doi": "10.1086/742424",
+      "url": "https://doi.org/10.1086/742424"
+    },
+    {
+      "title": "Carbon Emissions and the Bank-Lending Channel",
+      "authors": "Marcin Kacperczyk, José-Luis Peydró",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-08-20",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how firm-level carbon emissions affect bank lending and real outcomes in a sample of global firms with syndicated loans. We exploit bank-level climate commitments as firm-level shocks to lending relationships, using firms' prior credit exposures to identify credit supply effects. Firms with higher emissions that previously borrowed from committed banks receive less bank credit. Evidence from lending volumes, prices, and within-firm-time loan-level data indicates a supply-side shift away from high-emission firms, not explained by borrower risk. Affected firms reduce debt, leverage, size, and investment, yet we find no reduction in future emissions, instead documenting evidence consistent with greenwashing. (JEL G21, G23, G30, D62, Q50)</jats:p>",
+      "doi": "10.1093/rfs/hhag078",
+      "url": "https://doi.org/10.1093/rfs/hhag078"
     },
     {
       "title": "Can Small Businesses Survive Chapter 11?",
@@ -733,7 +753,7 @@
       "url": "https://doi.org/10.1257/aer.20231414"
     },
     {
-      "title": "Interpreting the Effects of Rule 10b5-1 Reform",
+      "title": "Interpreting the effects of rule 10b5-1 reform",
       "authors": "Colleen Honigsberg, Robert J. Jackson",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -2171,16 +2191,6 @@
       "abstract": "",
       "doi": "10.1086/742421",
       "url": "https://doi.org/10.1086/742421"
-    },
-    {
-      "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
-      "authors": "Victor Chernozhukov, Kaspar Wuthrich, Yinchu Zhu",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742424",
-      "url": "https://doi.org/10.1086/742424"
     },
     {
       "title": "The Real Effect of Sociopolitical Racial/Ethnic Animus: Mutual Fund Manager Performance during AAPI Hate",
@@ -4721,16 +4731,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article develops a New Keynesian model with sovereign default risk. Inflation is set by forward-looking firms, monetary policy is an interest rate rule, and the fiscal government borrows externally, long-term, with an option to default. In this framework, default risk creates inflation pressures through an expectations channel, and tight monetary policy disincentivizes fiscal overborrowing. The model sheds light on temporary inflation events in emerging-market data: short-lived spikes in inflation, spreads, and domestic policy rates. As spreads rise, firms increase their prices in expectation of higher future inflation and low consumption during default. Monetary policy tightens, which reduces inflation and helps bring spreads down by disciplining government borrowing. These monetary-fiscal interactions imply that delivering the flexible-prices allocation may not be optimal for monetary policy.</jats:p>",
       "doi": "10.1093/qje/qjag012",
       "url": "https://doi.org/10.1093/qje/qjag012"
-    },
-    {
-      "title": "The Benefits of Access: Evidence from Private Meetings with Portfolio Firms",
-      "authors": "Marco Becht, Julian Franks, Hannes F. Wagner",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-02-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We use large language models to analyze the content of 4,700 private meetings between a large active asset manager and its portfolio firms. The high‐level meetings convey mostly soft information about the firm, and little about industry or market. Fund manager meetings focus on business models and financial metrics, while governance specialist meetings focus on environmental, social, and governance risks; 0.4% of meetings discuss material nonpublic information. Trades by fund managers increase with meetings attended by senior management, rated as unusually good or bad, where the tone is significantly positive or negative, or assessed as creating consensus. Meeting‐informed portfolios can generate significant outperformance.</jats:p>",
-      "doi": "10.1111/jofi.13495",
-      "url": "https://doi.org/10.1111/jofi.13495"
     }
   ]
 }
