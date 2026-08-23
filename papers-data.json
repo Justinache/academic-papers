@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T02:54:00.282Z",
-  "count": 473,
+  "lastUpdated": "2026-08-23T03:02:08.053Z",
+  "count": 476,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -273,6 +273,16 @@
       "url": "https://doi.org/10.1086/742424"
     },
     {
+      "title": "The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance",
+      "authors": "Marina Gertsberg",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-21",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>How did #MeToo alter collaboration between women and men? I show junior female researchers start fewer projects after #MeToo. A decrease in collaborations with male coauthors—especially new senior male coauthors at the same institution—largely explains the decline. The decrease is larger at universities with higher perceived harassment accusation risk and smaller where both women and men publicly express greater awareness of gender issues. I find no evidence that reduced collaboration improves research outcomes for junior female researchers. The results suggest that #MeToo led to a breakdown in trust that came at a cost for junior women's career opportunities.</jats:p>",
+      "doi": "10.1111/jofi.70075",
+      "url": "https://doi.org/10.1111/jofi.70075"
+    },
+    {
       "title": "Carbon Emissions and the Bank-Lending Channel",
       "authors": "Marcin Kacperczyk, José-Luis Peydró",
       "journal": "Review of Financial Studies",
@@ -291,6 +301,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>A majority of small U.S. businesses attempting to reorganize in bankruptcy fail to do so. Subchapter V of Chapter 11 (SubV) streamlines bankruptcy for small firms by reducing bankruptcy costs and negotiation frictions, and enables entrepreneurs to retain ownership. We show that many businesses reorganize under SubV that otherwise would liquidate. Creditor recoveries and postbankruptcy survival rates are at least as high in SubV as in traditional Chapter 11s. Our results show the increase in reorganizations is not associated with continuation of unviable firms, and that creditors are not harmed by a shift in bargaining power toward small business owners.</jats:p>",
       "doi": "10.1111/jofi.70076",
       "url": "https://doi.org/10.1111/jofi.70076"
+    },
+    {
+      "title": "Beyond Automation: AI and the Human Value of Sell‐Side Analysts",
+      "authors": "Devin Shanthikumar, Il Sun Yoo",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-08-19",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how analysts’ information acquisition and processing differ when analysts have access to AI resources, focusing on investment banks’ AI investments. We propose and test a two‐step framework, which is informed by in‐depth interviews with analysts. First, consistent with AI facilitating automation‐assisted public information processing, we show that AI investments are associated with more timely earnings forecasts following 10‐K filings, particularly after the implementation of iXBRL, which increases the machine readability of filings. Second, we show that analysts reallocate the time and capacity freed by automation toward acquiring and incorporating private information, supported by several sets of evidence: AI investments (1) are associated with higher quality and bolder earnings forecasts, particularly when private information is more important and accessible to analysts; (2) are associated with an expansion of analyst coverage to new firms and industries; and (3) are associated with higher information‐seeking efforts, particularly greater participation in earnings conference calls. Additionally, exploiting the launch of AskResearchGPT at Morgan Stanley, an in‐house generative AI designed for research, we find results consistent with our main analyses. Overall, our study provides insights into the potential for AI to reshape the human value of sell‐side analysts.</jats:p>",
+      "doi": "10.1111/1475-679x.70083",
+      "url": "https://doi.org/10.1111/1475-679x.70083"
     },
     {
       "title": "Underrepresentation of Women CEOs",
@@ -871,6 +891,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how foreign non-income tax shocks affect U.S. product markets. Our setting is the politically motivated tariffs on U.S. whiskey exports levied during the 2018 trade war, which created an exogenous negative foreign demand shock for domestic producers. Using a difference-in-differences design we show that, on average, U.S. whiskey producers decrease U.S. product prices and thus increase domestic sales volume following the export tariffs. However, we find evidence of strategic pricing, as producers increase prices of locally produced products in primary production states (Kentucky and Tennessee) and more significantly decrease prices in states where whiskey consumption is less popular. Further, we show that U.S. whiskey producers implement smaller product price decreases in states with greater tariff-related media exposure and reduce advertising spending nationwide but not in Kentucky and Tennessee. Taken together, these findings provide timely evidence regarding how foreign trade restrictions impact the U.S. product market and consumer outcomes.</jats:p>\n                  <jats:p>Data Availability: NielsenIQ Retail Scanner Data are available through the Kilts Center for Marketing at the University of Chicago Booth School of Business (http://research.chicagobooth.edu/nielsen). Kantar Advertising Insights data are available by subscription. GDELT data are available at https://www.gdeltproject.org/.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41; F10; F13; F14.</jats:p>",
       "doi": "10.2308/tar-2024-0708",
       "url": "https://doi.org/10.2308/tar-2024-0708"
+    },
+    {
+      "title": "Regulating via Social Media: Deterrence Effects of the SEC’s Use of Twitter",
+      "authors": "Raphael Duguay, Jinjie Lin, Jake Thomas, Laiyi Yin",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101938",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101938"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
