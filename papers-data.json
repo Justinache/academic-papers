@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T03:02:08.053Z",
-  "count": 476,
+  "lastUpdated": "2026-08-24T03:01:53.444Z",
+  "count": 475,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -4751,16 +4751,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Empirical studies find that the pass-through of input cost changes to prices is incomplete: a 10% increase in costs causes downstream prices to rise less than 10%, even at long horizons. Using microdata from gas stations, food products, and manufacturing industries, I find that incomplete pass-through in percentages often disguises complete pass-through in levels: a $1/unit increase in input costs leads to $1/unit higher downstream prices. Pass-through appears incomplete in percentages due to a gap between prices and costs. Complete pass-through in levels contrasts with workhorse macroeconomic models that feature homothetic industry demand systems. I identify an alternative class of demand systems that yields pass-through in levels and highlight four implications. First, measuring pass-through in percentages can lead to spurious evidence of asymmetry and size dependence. Second, pass-through in levels leads to systematic fluctuations in relative price and markup dispersion that are not associated with changes in allocative efficiency. Third, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data that are at odds with workhorse models. Finally, incorporating pass-through in levels into an input-output model of the U.S. economy better matches the volatility of consumer price inflation and the response of inflation to identified shocks.</jats:p>",
       "doi": "10.1093/qje/qjag014",
       "url": "https://doi.org/10.1093/qje/qjag014"
-    },
-    {
-      "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
-      "authors": "Cristina Arellano, Yan Bai, Gabriel Mihalache",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-02-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article develops a New Keynesian model with sovereign default risk. Inflation is set by forward-looking firms, monetary policy is an interest rate rule, and the fiscal government borrows externally, long-term, with an option to default. In this framework, default risk creates inflation pressures through an expectations channel, and tight monetary policy disincentivizes fiscal overborrowing. The model sheds light on temporary inflation events in emerging-market data: short-lived spikes in inflation, spreads, and domestic policy rates. As spreads rise, firms increase their prices in expectation of higher future inflation and low consumption during default. Monetary policy tightens, which reduces inflation and helps bring spreads down by disciplining government borrowing. These monetary-fiscal interactions imply that delivering the flexible-prices allocation may not be optimal for monetary policy.</jats:p>",
-      "doi": "10.1093/qje/qjag012",
-      "url": "https://doi.org/10.1093/qje/qjag012"
     }
   ]
 }
