@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T02:57:25.567Z",
-  "count": 475,
+  "lastUpdated": "2026-08-26T03:01:02.697Z",
+  "count": 473,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -4731,26 +4731,6 @@
       "abstract": "",
       "doi": "10.1086/739331",
       "url": "https://doi.org/10.1086/739331"
-    },
-    {
-      "title": "Trust and Innovation Within the Firm: Evidence from Matched CEO-Firm Data",
-      "authors": "Kieu-Trang Nguyen",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-02-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article shows that a CEO’s trust enhances innovation within a firm, providing a novel micro-foundation for the well-known trust-growth relationship. I build a new matched CEO-firm-patent data set covering 5,753 CEOs in 3,598 U.S. public firms and 700,000 patents during 2000–2011. I exploit variation in generalized trust across CEO ethnic origins, inferred from their last names using deanonymized historical censuses. Following CEO turnovers, a one standard deviation increase in a CEO’s generalized trust is associated with 6% more future patents and 4%–6% higher average patent quality, driven entirely by higher-quality patents. Text analysis of employee reviews shows that the CEO’s trust enhances a firm’s trust culture. These results are consistent with insights from qualitative interviews suggesting that the CEO's trust and the firm’s trust culture encourage researchers to undertake high-risk explorative research and development. In addition, changes in the CEO’s bilateral trust toward inventors in different countries have comparable effects on inventors’ patenting, controlling for CEO and other fixed effects.</jats:p>",
-      "doi": "10.1093/qje/qjag013",
-      "url": "https://doi.org/10.1093/qje/qjag013"
-    },
-    {
-      "title": "Complete Pass-Through in Levels",
-      "authors": "Kunal Sangani",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-02-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Empirical studies find that the pass-through of input cost changes to prices is incomplete: a 10% increase in costs causes downstream prices to rise less than 10%, even at long horizons. Using microdata from gas stations, food products, and manufacturing industries, I find that incomplete pass-through in percentages often disguises complete pass-through in levels: a $1/unit increase in input costs leads to $1/unit higher downstream prices. Pass-through appears incomplete in percentages due to a gap between prices and costs. Complete pass-through in levels contrasts with workhorse macroeconomic models that feature homothetic industry demand systems. I identify an alternative class of demand systems that yields pass-through in levels and highlight four implications. First, measuring pass-through in percentages can lead to spurious evidence of asymmetry and size dependence. Second, pass-through in levels leads to systematic fluctuations in relative price and markup dispersion that are not associated with changes in allocative efficiency. Third, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data that are at odds with workhorse models. Finally, incorporating pass-through in levels into an input-output model of the U.S. economy better matches the volatility of consumer price inflation and the response of inflation to identified shocks.</jats:p>",
-      "doi": "10.1093/qje/qjag014",
-      "url": "https://doi.org/10.1093/qje/qjag014"
     }
   ]
 }
