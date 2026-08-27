@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-26T03:01:02.697Z",
-  "count": 473,
+  "lastUpdated": "2026-08-27T12:19:27.335Z",
+  "count": 477,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -263,6 +263,36 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
     },
     {
+      "title": "Longevity, Health, and Housing Risk Management in Retirement",
+      "authors": "Pierre‐carl Michaud, Pascal St‐amour",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-25",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Annuities, long‐term care insurance, and reverse mortgages remain puzzlingly unpopular to manage post‐retirement longevity, health, and housing price risks. We use a flexible life‐cycle model structurally estimated with a unique stated‐preference survey experiment of Canadian households to understand why. Key factors include high risk aversion, concern over long‐run risks, strong discounting of valuation in disability states, imperfect housing substitutability, and bequest motives. The remaining disinterest is accounted for by information frictions and inertia. We also document evidence of public insurance crowding out, spousal co‐insurance, and responsiveness to product bundling.</jats:p>",
+      "doi": "10.1111/jofi.70077",
+      "url": "https://doi.org/10.1111/jofi.70077"
+    },
+    {
+      "title": "The Market for ESG Ratings",
+      "authors": "Ehsan Azarmsa, Joel Shapiro",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-08-25",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We present a model of competition between environmental, social, and governance (ESG) raters who acquire information about multiple unrelated categories and sell ratings. Raters specializing in different categories maximize the amount of information transmitted and surplus, and can be an equilibrium outcome. When investors place a high value on ESG performance across multiple categories, the unique equilibrium is for the raters to generalize—splitting their effort among the categories, resulting in less informative ratings. Greenwashing by firms can make generalization the only equilibrium. We also demonstrate that specialization maximizes ratings disagreement, and thus empirical measures of disagreement may be poor measures of surplus.</jats:p>",
+      "doi": "10.1111/jofi.70078",
+      "url": "https://doi.org/10.1111/jofi.70078"
+    },
+    {
+      "title": "Taxes and Investment: Evidence from the “Halloween Massacre” of 2006",
+      "authors": "Matthew Boland, Khin Phyo Hlaing, Petro Lisowsky",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-08-25",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between taxes and business investment using the setting of an unexpected and economically significant federal corporate income tax rate increase in Canada known colloquially as the Halloween Massacre of 2006. This tax increase only applies to firms organized as income trusts, but not corporations. Using a difference‐in‐differences design, we find that investment by income trusts decreases about 0.67% for each 1 percentage point increase in the tax rate, translating into over $10 billion in reduced aggregate investment. In decomposing total investment, our results reveal that capital expenditures exhibit an immediate decrease while there is a delayed decrease in acquisition activity. Our results are concentrated in high‐investment income trusts that are most sensitive to the link between investment and taxes. Our study helps resolve conflicting prior results by providing robust evidence that tax increases have an economically significant and negative causal effect on business investment.</jats:p>",
+      "doi": "10.1111/1475-679x.70084",
+      "url": "https://doi.org/10.1111/1475-679x.70084"
+    },
+    {
       "title": "Debiasing and\n                    t\n                    -Tests for Synthetic Control Inference on Average Causal Effects",
       "authors": "Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu",
       "journal": "Journal of Political Economy",
@@ -358,7 +388,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-08-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the real effects of environmental activist investing. Using plant-chemical-level data, we find that targeted firms reduce their production-related emissions. Air quality improvements in the vicinity of targeted plants suggest potentially significant externalities for local economies. Reductions come from increased abatement expenditures and on-site source reduction initiatives, which negatively affect the financial performance of targeted firms. We rule out alternative explanations, including declines in production and plant closures, and provide evidence that firms respond to the specific demands of activists. Our findings suggest that environmental activism is an effective tool for long-term shareholders to address climate change risks. (JEL G23, G34, M14, Q50)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the real effects of environmental activist investing. Using plant-chemical-level data, we find that targeted firms reduce their production-related emissions. Air quality improvements in the vicinity of targeted plants suggest potentially significant externalities for local economies. Reductions come from increased abatement expenditures and on-site source reduction initiatives, which negatively affect the financial performance of targeted firms. We rule out alternative explanations, including declines in production and plant closures, and provide evidence that firms respond to the specific demands of activists. Our findings suggest that environmental activism is an effective tool for long-term shareholders to address climate change risks.</jats:p>",
       "doi": "10.1093/rfs/hhag073",
       "url": "https://doi.org/10.1093/rfs/hhag073"
     },
@@ -901,6 +931,16 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101938",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101938"
+    },
+    {
+      "title": "The Debt Market Role of Asset Valuation Uncertainty",
+      "authors": "Aleksander A. Aleszczyk, Florin P. Vasvari, Dushyantkumar Vyas",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We collect data on ranges of hypothetical asset liquidation values disclosed in U.S. Bankruptcy Court filings. We use this historical information to construct a firm-specific measure, “RecRisk,” which captures asset recovery risk through the uncertainty surrounding asset valuations in liquidation events. We document that higher RecRisk is associated with smaller syndicated loan amounts as a percentage of available collateral, more and tighter performance covenants, and increased loan spreads for borrowers with high credit risk. High RecRisk borrowers also experience lower secondary loan market prices and reduced liquidity for loans with high credit risk. When borrowers become financially distressed, high RecRisk is further associated with declining loan prices and reduced ownership by Collateralized Loan Obligations, the dominant investors in the leveraged loan market. Overall, our results indicate that loan contract terms and prices reflect recovery risk faced by lenders.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text. The authors can provide the RecRisk measure at the firm-year level upon request.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12; G21; G33.</jats:p>",
+      "doi": "10.2308/tar-2023-0477",
+      "url": "https://doi.org/10.2308/tar-2023-0477"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
