@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-27T12:19:27.335Z",
-  "count": 477,
+  "lastUpdated": "2026-08-28T13:46:22.322Z",
+  "count": 480,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -291,6 +291,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between taxes and business investment using the setting of an unexpected and economically significant federal corporate income tax rate increase in Canada known colloquially as the Halloween Massacre of 2006. This tax increase only applies to firms organized as income trusts, but not corporations. Using a difference‐in‐differences design, we find that investment by income trusts decreases about 0.67% for each 1 percentage point increase in the tax rate, translating into over $10 billion in reduced aggregate investment. In decomposing total investment, our results reveal that capital expenditures exhibit an immediate decrease while there is a delayed decrease in acquisition activity. Our results are concentrated in high‐investment income trusts that are most sensitive to the link between investment and taxes. Our study helps resolve conflicting prior results by providing robust evidence that tax increases have an economically significant and negative causal effect on business investment.</jats:p>",
       "doi": "10.1111/1475-679x.70084",
       "url": "https://doi.org/10.1111/1475-679x.70084"
+    },
+    {
+      "title": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining",
+      "authors": "David A. Green, Ben M. Sand, Iain G. Snoddy, Jeanne Tschopp",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-25",
+      "abstract": "",
+      "doi": "10.1086/742712",
+      "url": "https://doi.org/10.1086/742712"
     },
     {
       "title": "Debiasing and\n                    t\n                    -Tests for Synthetic Control Inference on Average Causal Effects",
@@ -941,6 +951,96 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We collect data on ranges of hypothetical asset liquidation values disclosed in U.S. Bankruptcy Court filings. We use this historical information to construct a firm-specific measure, “RecRisk,” which captures asset recovery risk through the uncertainty surrounding asset valuations in liquidation events. We document that higher RecRisk is associated with smaller syndicated loan amounts as a percentage of available collateral, more and tighter performance covenants, and increased loan spreads for borrowers with high credit risk. High RecRisk borrowers also experience lower secondary loan market prices and reduced liquidity for loans with high credit risk. When borrowers become financially distressed, high RecRisk is further associated with declining loan prices and reduced ownership by Collateralized Loan Obligations, the dominant investors in the leveraged loan market. Overall, our results indicate that loan contract terms and prices reflect recovery risk faced by lenders.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text. The authors can provide the RecRisk measure at the firm-year level upon request.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12; G21; G33.</jats:p>",
       "doi": "10.2308/tar-2023-0477",
       "url": "https://doi.org/10.2308/tar-2023-0477"
+    },
+    {
+      "title": "Scalable Demand and Markups",
+      "authors": "Enghin Atalay, Erika Frost, Alan Sorensen, Christopher Sullivan, Wanjia Zhu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/741641",
+      "url": "https://doi.org/10.1086/741641"
+    },
+    {
+      "title": "Optimal Queue Design",
+      "authors": "Yeon-Koo Che, Olivier Tercieux",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/741622",
+      "url": "https://doi.org/10.1086/741622"
+    },
+    {
+      "title": "Robust Estimation and Inference in Panels with Interactive Fixed Effects",
+      "authors": "Timothy B. Armstrong, Martin Weidner, Andrei Zeleneev",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/741623",
+      "url": "https://doi.org/10.1086/741623"
+    },
+    {
+      "title": "Exchange Rates and Asset Prices in a Global Demand System",
+      "authors": "Ralph S. J. Koijen, Motohiro Yogo",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/741624",
+      "url": "https://doi.org/10.1086/741624"
+    },
+    {
+      "title": "Making a Swap: Network Formation with Increasing Marginal Costs",
+      "authors": "Evan Sadler",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/741274",
+      "url": "https://doi.org/10.1086/741274"
+    },
+    {
+      "title": "Blackwell-Monotone Updating Rules",
+      "authors": "Mark Whitmeyer",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/741272",
+      "url": "https://doi.org/10.1086/741272"
+    },
+    {
+      "title": "Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants",
+      "authors": "Mert Demirer, Ömer Karaduman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/740222",
+      "url": "https://doi.org/10.1086/740222"
+    },
+    {
+      "title": "Sleep: Educational Impact and Habit Formation",
+      "authors": "Osea Giuntella, Silvia Saccardo, Sally Sadoff",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1086/740221",
+      "url": "https://doi.org/10.1086/740221"
+    },
+    {
+      "title": "Does Anti-Tax Avoidance Regulation Curb Industry Concentration?",
+      "authors": "John Gallemore, Martin Jacob, Jesse Marangoni, Christian P. H. Peters",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policymakers claim that combating tax avoidance can help reduce industry concentration by leveling the playing field between industry leaders and their competitors. We test the validity of this claim by using administrative data on industry concentration and exploiting the staggered introduction of anti-tax avoidance regulations across 17 European countries. Although these regulations significantly reduce tax avoidance, we find no statistically or economically meaningful effect on industry concentration. Further tests indicate that our nonresults stem from a genuine lack of effect rather than a lack of statistical power and that our inferences are robust to multiple research designs. The sole exception is in industries with both high levels of leader tax-avoidance advantages and multinational presence, but even in these industries, effect sizes are modest and fall short of regulatory benchmarks. Overall, our findings cast doubt on the idea that broad-based anti-tax avoidance regulations can materially influence industry concentration.</jats:p>\n                  <jats:p>JEL Classifications: D40; H25; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2025-0338",
+      "url": "https://doi.org/10.2308/tar-2025-0338"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
@@ -1911,16 +2011,6 @@
       "abstract": "",
       "doi": "10.1086/742724",
       "url": "https://doi.org/10.1086/742724"
-    },
-    {
-      "title": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining",
-      "authors": "David A. Green, Ben M. Sand, Iain G. Snoddy, Jeanne Tschopp",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742712",
-      "url": "https://doi.org/10.1086/742712"
     },
     {
       "title": "Regulatory Competition in the US Life Insurance Industry",
@@ -3823,16 +3913,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag036"
     },
     {
-      "title": "Scalable Demand and Markups",
-      "authors": "Enghin Atalay, Erika Frost, Alan Sorensen, Christopher Sullivan, Wanjia Zhu",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-03",
-      "abstract": "",
-      "doi": "10.1086/741641",
-      "url": "https://doi.org/10.1086/741641"
-    },
-    {
       "title": "Size, Returns, and Value: Do Private Equity Firms Allocate Capital According to Manager Skill?",
       "authors": "Reiner Braun, Nils Dorau, Tim Jenkinson, Daniel Urban",
       "journal": "Journal of Finance",
@@ -3861,36 +3941,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We model credit competition between a bigtech platform and a bank lending to a merchant under limited commitment and asymmetric information about the merchant’s incentives to default. The platform leverages its control over a marketplace to enforce partial loan repayments, enabling it to serve certain unbanked borrowers. When directly competing with the bank, the platform gains an endogenous screening advantage as borrowers with stronger incentives to default self-select into bank loans to avoid the platform’s enforcement. Whereas the platform improves financial inclusion for unbanked borrowers, social welfare may decline because the bank tightens credit in response to adverse screening.</jats:p>",
       "doi": "10.1093/rfs/hhag033",
       "url": "https://doi.org/10.1093/rfs/hhag033"
-    },
-    {
-      "title": "Optimal Queue Design",
-      "authors": "Yeon-Koo Che, Olivier Tercieux",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-02",
-      "abstract": "",
-      "doi": "10.1086/741622",
-      "url": "https://doi.org/10.1086/741622"
-    },
-    {
-      "title": "Robust Estimation and Inference in Panels with Interactive Fixed Effects",
-      "authors": "Timothy B. Armstrong, Martin Weidner, Andrei Zeleneev",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-02",
-      "abstract": "",
-      "doi": "10.1086/741623",
-      "url": "https://doi.org/10.1086/741623"
-    },
-    {
-      "title": "Exchange Rates and Asset Prices in a Global Demand System",
-      "authors": "Ralph S. J. Koijen, Motohiro Yogo",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-02",
-      "abstract": "",
-      "doi": "10.1086/741624",
-      "url": "https://doi.org/10.1086/741624"
     },
     {
       "title": "Leader‐Follower Dynamics in Shareholder Activism",
@@ -4511,26 +4561,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Investors face reduced incentives to finance technological change that devalues their legacy investments. We formalize this “asset overhang” and apply our framework to the climate-banking nexus. Leveraging (1) firm-level data on green innovation and diffusion and (2) the sets of product and technology market peers, we implement a shift-share design that identifies banks’ credit facilities impacted by green firm activities. We find that green firms imposing an asset overhang across all lenders are 3 to 7 percentage points more likely to report tight credit supply conditions. The presence of legacy-free investors mitigates the asset overhang problem, thereby facilitating technological change.</jats:p>",
       "doi": "10.1093/rfs/hhaf103",
       "url": "https://doi.org/10.1093/rfs/hhaf103"
-    },
-    {
-      "title": "Making a Swap: Network Formation with Increasing Marginal Costs",
-      "authors": "Evan Sadler",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-06",
-      "abstract": "",
-      "doi": "10.1086/741274",
-      "url": "https://doi.org/10.1086/741274"
-    },
-    {
-      "title": "Blackwell-Monotone Updating Rules",
-      "authors": "Mark Whitmeyer",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-03-06",
-      "abstract": "",
-      "doi": "10.1086/741272",
-      "url": "https://doi.org/10.1086/741272"
     },
     {
       "title": "Peer Effects and the Gender Gap in Corporate Leadership: Evidence from MBA Students",
