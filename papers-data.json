@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-28T13:46:22.322Z",
-  "count": 480,
+  "lastUpdated": "2026-08-29T08:39:40.798Z",
+  "count": 495,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -91,6 +91,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104351",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104351"
+    },
+    {
+      "title": "Do proprietary traders provide liquidity?",
+      "authors": "Nittai K. Bergman, Ohad Kadan, Roni Michaely, Pamela C. Moulton",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104325",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104325"
+    },
+    {
+      "title": "Macroprudential regulation and banks’ supply of liquidity services",
+      "authors": "Josef Schroth",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104352",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104352"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -261,6 +281,116 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104328",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104328"
+    },
+    {
+      "title": "Manipulation-Robust Prediction",
+      "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)</jats:p>",
+      "doi": "10.1257/aer.20241087",
+      "url": "https://doi.org/10.1257/aer.20241087"
+    },
+    {
+      "title": "Corporate Tax Cuts, Firm Growth, and Workers' Earnings",
+      "authors": "Patrick J. Kennedy, Christine L. Dobridge, Paul Landefeld, Jacob Mortenson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>We study the effects of the largest corporate income tax cut in US history on firms and workers. To identify causal effects, we use employer-employee matched tax records and event studies comparing similarly sized firms in the same industry that faced divergent tax changes due to their preexisting legal status. Tax cuts cause increases in firms' investment, sales, profits, employment, and payrolls, with earnings gains concentrated among highly paid workers. In the short run, 87 percent of private income gains flow to the top 10 percent of the income distribution. (JEL D22, D31, G31, H25, H32, J23, L25)</jats:p>",
+      "doi": "10.1257/aer.20240404",
+      "url": "https://doi.org/10.1257/aer.20240404"
+    },
+    {
+      "title": "Rationing by Race",
+      "authors": "Manasvini Singh, Atheendar Venkataramani",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)</jats:p>",
+      "doi": "10.1257/aer.20240701",
+      "url": "https://doi.org/10.1257/aer.20240701"
+    },
+    {
+      "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
+      "authors": "Gabriel Kreindler, Arya Gaduh, Tilman Graff, Rema Hanna, Benjamin A. Olken",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)</jats:p>",
+      "doi": "10.1257/aer.20230768",
+      "url": "https://doi.org/10.1257/aer.20230768"
+    },
+    {
+      "title": "Contextually Private Mechanisms",
+      "authors": "Andreas Haupt, Zoë Hitzig",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)</jats:p>",
+      "doi": "10.1257/aer.20240579",
+      "url": "https://doi.org/10.1257/aer.20240579"
+    },
+    {
+      "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+      "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)</jats:p>",
+      "doi": "10.1257/aer.20241001",
+      "url": "https://doi.org/10.1257/aer.20241001"
+    },
+    {
+      "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
+      "authors": "Lawrence F. Katz",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)</jats:p>",
+      "doi": "10.1257/aer.116.9.3197",
+      "url": "https://doi.org/10.1257/aer.116.9.3197"
+    },
+    {
+      "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
+      "authors": "Ethan Ligon",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)</jats:p>",
+      "doi": "10.1257/aer.20240664",
+      "url": "https://doi.org/10.1257/aer.20240664"
+    },
+    {
+      "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
+      "authors": "Amanda Dahlstrand",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)</jats:p>",
+      "doi": "10.1257/aer.20240756",
+      "url": "https://doi.org/10.1257/aer.20240756"
+    },
+    {
+      "title": "The Environmental Bias of Corporate Income Taxation",
+      "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>\n                    We study the relationship between corporate income taxation and carbon dioxide (CO\n                    <jats:sub>2</jats:sub>\n                    ) emissions in the United States. We show CO\n                    <jats:sub>2</jats:sub>\n                    -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)\n                  </jats:p>",
+      "doi": "10.1257/aer.20241765",
+      "url": "https://doi.org/10.1257/aer.20241765"
+    },
+    {
+      "title": "Marriage, Fertility, and Cultural Integration in Italy",
+      "authors": "Alberto Bisin, Giulia Tura",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "<jats:p>We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)</jats:p>",
+      "doi": "10.1257/aer.20241404",
+      "url": "https://doi.org/10.1257/aer.20241404"
     },
     {
       "title": "Longevity, Health, and Housing Risk Management in Retirement",
@@ -933,7 +1063,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0708"
     },
     {
-      "title": "Regulating via Social Media: Deterrence Effects of the SEC’s Use of Twitter",
+      "title": "Regulating via social media: Deterrence effects of the SEC's use of Twitter",
       "authors": "Raphael Duguay, Jinjie Lin, Jake Thomas, Laiyi Yin",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1041,6 +1171,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policymakers claim that combating tax avoidance can help reduce industry concentration by leveling the playing field between industry leaders and their competitors. We test the validity of this claim by using administrative data on industry concentration and exploiting the staggered introduction of anti-tax avoidance regulations across 17 European countries. Although these regulations significantly reduce tax avoidance, we find no statistically or economically meaningful effect on industry concentration. Further tests indicate that our nonresults stem from a genuine lack of effect rather than a lack of statistical power and that our inferences are robust to multiple research designs. The sole exception is in industries with both high levels of leader tax-avoidance advantages and multinational presence, but even in these industries, effect sizes are modest and fall short of regulatory benchmarks. Overall, our findings cast doubt on the idea that broad-based anti-tax avoidance regulations can materially influence industry concentration.</jats:p>\n                  <jats:p>JEL Classifications: D40; H25; M40; M41.</jats:p>",
       "doi": "10.2308/tar-2025-0338",
       "url": "https://doi.org/10.2308/tar-2025-0338"
+    },
+    {
+      "title": "Measurement Error when Estimating Covenant Slack and Violations",
+      "authors": "Scott Dyreng, Elia Ferracuti, Robert Hills, Matthew Kubic",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101937",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101937"
+    },
+    {
+      "title": "An Empirical Investigation of New and Existing Non-GAAP Exclusion Quality Indicators",
+      "authors": "Samuel O. Davidson, Enrique A. Gomez, Frank Heflin, Dana Wallace",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-08-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine commonly used indicators of aggressive non-GAAP exclusions and find that the majority perform poorly at identifying low-quality exclusions in terms of decision usefulness for investors. We propose a new firm-quarter-specific indicator that identifies instances in which GAAP earnings quality is high (i.e., when firms have less need to provide non-GAAP metrics) but managers disclose non-GAAP earnings anyway. Our new indicator is easy to calculate, requires minimal data, and performs far better at identifying low-quality exclusions than indicators used in prior research. Using our indicator, we find instances in which managers exclude earnings components that are decision useful, consistent with regulators’ concerns about the quality of some non-GAAP earnings disclosures. Our results are robust to a variety of specification checks.</jats:p>\n                  <jats:p>Data Availability: Data are derived from a combination of publicly available sources referenced in the article and third-party subscription data bases.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0299",
+      "url": "https://doi.org/10.2308/tar-2023-0299"
     },
     {
       "title": "Markups: A Search-Theoretic Perspective",
@@ -1963,12 +2113,12 @@
       "url": "https://doi.org/10.1093/rfs/hhag013"
     },
     {
-      "title": "Beliefs About the Economy are Excessively Sensitive to Household-Level Shocks: Evidence from Linked Survey and Administrative Data",
+      "title": "Beliefs About the Economy Are Excessively Sensitive to Household-Level Shocks: Evidence from Linked Survey and Administrative Data",
       "authors": "Dmitry Taubinsky, Luigi Butera, Matteo Saccarola, Chen Lian",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-06-18",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how people’s beliefs about the economy covary with household-level events, utilizing a unique link between Danish administrative data and a large-scale survey of consumer expectations. We find that compared to actual inflation, people’s inflation forecasts covary much more strongly (and negatively) with both recently realized household income changes and measures of expected future household income changes. We formally establish that these findings are stark deviations from the Bayesian rational expectations benchmark. Similar results hold for perceptions of past inflation (“backcasts” ), suggesting that imperfect recall is a key mechanism for biased forecasts. Building on this, a series of additional tests, some of which utilize data on adverse health events, suggests that the forecast biases are at least partly due to affect-cued recall. That is, negative (positive) household-level events cue negative (positive) recollections, which lead to pessimistic (optimistic) forecasts.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how people’s beliefs about the economy covary with household-level events, using a unique link between Danish administrative data and a large-scale survey of consumer expectations. We find that compared to actual inflation, people’s inflation forecasts covary much more strongly (and negatively) with both recently realized household income changes and measures of expected future household income changes. We formally establish that these findings are stark deviations from the Bayesian rational expectations benchmark. Similar results hold for perceptions of past inflation (backcasts), suggesting that imperfect recall is a key mechanism for biased forecasts. Building on this, a series of additional tests, some of which use data on adverse health events, suggests that the forecast biases are at least partly due to affect-cued recall. That is, negative (positive) household-level events cue negative (positive) recollections, which lead to pessimistic (optimistic) forecasts.</jats:p>",
       "doi": "10.1093/qje/qjag032",
       "url": "https://doi.org/10.1093/qje/qjag032"
     },
@@ -4593,84 +4743,14 @@
       "url": "https://doi.org/10.1111/1475-679x.70045"
     },
     {
-      "title": "Deep surrogates for finance: With an application to option pricing",
-      "authors": "Hui Chen, Antoine Didisheim, Simon Scheidegger",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-03-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104222",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104222"
-    },
-    {
-      "title": "The secular decline in interest rates and the rise of shadow banks",
-      "authors": "Andrés Sarto, Olivier Wang",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-03-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104228",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104228"
-    },
-    {
-      "title": "The incentives of SPAC sponsors",
-      "authors": "Felix Feng, Tom Nohel, Xuan Tian, Wenyu Wang, Yufeng Wu",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-03-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104220",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104220"
-    },
-    {
-      "title": "Constrained by law: The impact of fiduciary duties on portfolios and prices in US equity markets",
-      "authors": "Stefano Cassella, A. Emanuele Rizzo, Oliver G. Spalt, Leah Zimmerer",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-03-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104227",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104227"
-    },
-    {
-      "title": "Investments that make our homes greener: The role of regulation",
-      "authors": "Nuno Clara, João F. Cocco, S. Lakshmi Naaraayanan, Varun Sharma",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-03-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104236",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104236"
-    },
-    {
-      "title": "Retail option traders and the implied volatility surface",
-      "authors": "Gregory W. Eaton, T. Clifton Green, Brian S. Roseman, Yanbin Wu",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-03-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104238",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
-    },
-    {
-      "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
-      "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
+      "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
+      "authors": "Gordon B. Dahl, Matthew Knepper",
       "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-03-01",
-      "abstract": "<jats:p>We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall,” whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall. (JEL E24, E32, I12, J41, J63, J64)</jats:p>",
-      "doi": "10.1257/aer.20220749",
-      "url": "https://doi.org/10.1257/aer.20220749"
-    },
-    {
-      "title": "Equal Pay for Similar Work",
-      "authors": "Diego Gentile Passaro, Fuhito Kojima, Bobak Pakzad-Hurson",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-03-01",
-      "abstract": "<jats:p>Equal pay laws increasingly require that workers with different group identities doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our models’ predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. (JEL J16, J31, J38, K31, O15)</jats:p>",
-      "doi": "10.1257/aer.20230832",
-      "url": "https://doi.org/10.1257/aer.20230832"
+      "abstract": "<jats:p>Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)</jats:p>",
+      "doi": "10.1257/aer.20221703",
+      "url": "https://doi.org/10.1257/aer.20221703"
     },
     {
       "title": "Immigration, Innovation, and Growth",
@@ -4683,16 +4763,6 @@
       "url": "https://doi.org/10.1257/aer.20211601"
     },
     {
-      "title": "What You Don’t Know May Be Good for You",
-      "authors": "Johannes Hörner, Larry Samuelson",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-03-01",
-      "abstract": "<jats:p>We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert’s and the client’s type. We study the effects of supplying information about otherwise unobservable outcomes, such as “medical report cards,” to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept. (JEL C78, D82, D83)</jats:p>",
-      "doi": "10.1257/aer.20250053",
-      "url": "https://doi.org/10.1257/aer.20250053"
-    },
-    {
       "title": "The Value of Clean Water: Experimental Evidence from Rural India",
       "authors": "Fiona Burlig, Amir Jina, Anant Sudarshan",
       "journal": "American Economic Review",
@@ -4703,16 +4773,6 @@
       "url": "https://doi.org/10.1257/aer.20250278"
     },
     {
-      "title": "Zero-Sum Thinking and the Roots of US Political Differences",
-      "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-03-01",
-      "abstract": "<jats:p>We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement. (JEL C83, D72, D91, H23, J15, J16, Z13)</jats:p>",
-      "doi": "10.1257/aer.20240692",
-      "url": "https://doi.org/10.1257/aer.20240692"
-    },
-    {
       "title": "Sequential Cursed Equilibrium",
       "authors": "Shani Cohen, Shengwu Li",
       "journal": "American Economic Review",
@@ -4721,6 +4781,26 @@
       "abstract": "<jats:p>We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information. (JEL C73, D44, D71, D81, D83, D91)</jats:p>",
       "doi": "10.1257/aer.20230309",
       "url": "https://doi.org/10.1257/aer.20230309"
+    },
+    {
+      "title": "Equal Pay for Similar Work",
+      "authors": "Diego Gentile Passaro, Fuhito Kojima, Bobak Pakzad-Hurson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Equal pay laws increasingly require that workers with different group identities doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our models’ predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. (JEL J16, J31, J38, K31, O15)</jats:p>",
+      "doi": "10.1257/aer.20230832",
+      "url": "https://doi.org/10.1257/aer.20230832"
+    },
+    {
+      "title": "Zero-Sum Thinking and the Roots of US Political Differences",
+      "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement. (JEL C83, D72, D91, H23, J15, J16, Z13)</jats:p>",
+      "doi": "10.1257/aer.20240692",
+      "url": "https://doi.org/10.1257/aer.20240692"
     },
     {
       "title": "Dynamics of the Long-Term Housing Yield: Evidence from Natural Experiments",
@@ -4743,14 +4823,54 @@
       "url": "https://doi.org/10.1257/aer.20241355"
     },
     {
-      "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
-      "authors": "Gordon B. Dahl, Matthew Knepper",
+      "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
+      "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
       "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-03-01",
-      "abstract": "<jats:p>Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)</jats:p>",
-      "doi": "10.1257/aer.20221703",
-      "url": "https://doi.org/10.1257/aer.20221703"
+      "abstract": "<jats:p>We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall,” whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall. (JEL E24, E32, I12, J41, J63, J64)</jats:p>",
+      "doi": "10.1257/aer.20220749",
+      "url": "https://doi.org/10.1257/aer.20220749"
+    },
+    {
+      "title": "What You Don’t Know May Be Good for You",
+      "authors": "Johannes Hörner, Larry Samuelson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert’s and the client’s type. We study the effects of supplying information about otherwise unobservable outcomes, such as “medical report cards,” to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept. (JEL C78, D82, D83)</jats:p>",
+      "doi": "10.1257/aer.20250053",
+      "url": "https://doi.org/10.1257/aer.20250053"
+    },
+    {
+      "title": "Automation and Polarization",
+      "authors": "Daron Acemoglu, Jonas Loebbing",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739330",
+      "url": "https://doi.org/10.1086/739330"
+    },
+    {
+      "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
+      "authors": "Patrick Baylis, Judson Boomhower",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739331",
+      "url": "https://doi.org/10.1086/739331"
+    },
+    {
+      "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
+      "authors": "Zhongjian Lin, Francis Vella",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1086/739329",
+      "url": "https://doi.org/10.1086/739329"
     },
     {
       "title": "The Value of Ratings: Evidence from Their Introduction in Securities Markets",
@@ -4773,34 +4893,64 @@
       "url": "https://doi.org/10.1086/739326"
     },
     {
-      "title": "Endogenous Treatment Models with Social Interactions: An Application to the Impact of Exercise on Self-Esteem",
-      "authors": "Zhongjian Lin, Francis Vella",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
+      "title": "The secular decline in interest rates and the rise of shadow banks",
+      "authors": "Andrés Sarto, Olivier Wang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
       "date": "2026-03-01",
       "abstract": "",
-      "doi": "10.1086/739329",
-      "url": "https://doi.org/10.1086/739329"
+      "doi": "10.1016/j.jfineco.2025.104228",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104228"
     },
     {
-      "title": "Automation and Polarization",
-      "authors": "Daron Acemoglu, Jonas Loebbing",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
+      "title": "Investments that make our homes greener: The role of regulation",
+      "authors": "Nuno Clara, João F. Cocco, S. Lakshmi Naaraayanan, Varun Sharma",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
       "date": "2026-03-01",
       "abstract": "",
-      "doi": "10.1086/739330",
-      "url": "https://doi.org/10.1086/739330"
+      "doi": "10.1016/j.jfineco.2026.104236",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104236"
     },
     {
-      "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
-      "authors": "Patrick Baylis, Judson Boomhower",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
+      "title": "Retail option traders and the implied volatility surface",
+      "authors": "Gregory W. Eaton, T. Clifton Green, Brian S. Roseman, Yanbin Wu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
       "date": "2026-03-01",
       "abstract": "",
-      "doi": "10.1086/739331",
-      "url": "https://doi.org/10.1086/739331"
+      "doi": "10.1016/j.jfineco.2026.104238",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104238"
+    },
+    {
+      "title": "The incentives of SPAC sponsors",
+      "authors": "Felix Feng, Tom Nohel, Xuan Tian, Wenyu Wang, Yufeng Wu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104220",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104220"
+    },
+    {
+      "title": "Constrained by law: The impact of fiduciary duties on portfolios and prices in US equity markets",
+      "authors": "Stefano Cassella, A. Emanuele Rizzo, Oliver G. Spalt, Leah Zimmerer",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104227",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104227"
+    },
+    {
+      "title": "Deep surrogates for finance: With an application to option pricing",
+      "authors": "Hui Chen, Antoine Didisheim, Simon Scheidegger",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-03-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2025.104222",
+      "url": "https://doi.org/10.1016/j.jfineco.2025.104222"
     }
   ]
 }
