@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T07:52:23.732Z",
-  "count": 474,
+  "lastUpdated": "2026-08-31T08:05:38.681Z",
+  "count": 472,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -4721,26 +4721,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This article studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top 10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work-schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
       "doi": "10.1093/qje/qjag015",
       "url": "https://doi.org/10.1093/qje/qjag015"
-    },
-    {
-      "title": "Beyond Old Boys' Clubs: Financial Analysts' Utilization of Professional Connections",
-      "authors": "Mengqiao Du, Rachel Xi Zhang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-03-03",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Women often lack the opportunity to join exclusive social clubs, limiting the benefits they derive from their social networks. We investigate whether, when given the opportunity to interact with the right people in a professional setting, women gain greater advantages from these connections for career performance and advancement compared to men. Using a unique data set that documents when, where, and with whom financial analysts interact at investor conferences, we find that female analysts show greater improvement in earnings forecast accuracy than their male counterparts after interacting with a firm's executives. Further evidence suggests that female analysts overcome homophily in conference interactions with executives and that they sustain their gains, enhancing forecast accuracy for up to three years. In addition, both the capital and labor markets recognize women's superior gains from conference connections. Our findings suggest that women capitalize on professional connections, highlighting the importance of promoting structured networking opportunities for women in professional environments.</jats:p>",
-      "doi": "10.1111/1475-679x.70044",
-      "url": "https://doi.org/10.1111/1475-679x.70044"
-    },
-    {
-      "title": "Real Effects of Subjectivity in Measuring Fair Values",
-      "authors": "Verena Braun, Robert F. Göx, Felix P. Niggemann, Ulrich Schäfer",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-03-02",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines how the subjectivity in measuring fair values of assets without readily observable market prices affects investment efficiency and shareholder value. When fair values are objective measures of asset value, they facilitate efficient investment decisions that align with shareholder interests. In contrast, firms' reliance on subjective valuation inputs causes underinvestment in long‐term projects. If fair values are highly subjective, they may lead firms to favor less profitable short‐term projects with objectively measurable fair values. When project returns are positively correlated, subjectivity in valuing long‐term projects induces overinvestment in short‐term projects with objective fair values. Regardless of these distortions, fair value measurement can add shareholder value. Not measuring fair values altogether leads to underinvestment, which moderately subjective fair values can alleviate.</jats:p>",
-      "doi": "10.1111/1475-679x.70045",
-      "url": "https://doi.org/10.1111/1475-679x.70045"
     }
   ]
 }
