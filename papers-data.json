@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T08:05:38.681Z",
-  "count": 472,
+  "lastUpdated": "2026-09-01T07:14:23.897Z",
+  "count": 484,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -1318,7 +1318,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-07-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper constructs the first global dataset on inter-sectoral capital service expenditures. I use this data to disaggregate capital services and intermediate inputs in a dynamic multi-sector trade model. Steady state allocations and responses to shocks are determined by a capital-augmented global input-output matrix. Two properties of the measured network deliver larger long-run consumption gains from globalization than existing estimates, as well as larger gains in more capital-intensive countries. First, more trade-exposed sectors supply capital to more consumption-influential producers. Second, heterogeneity in the network reallocates sectoral expenditures towards producers with larger declines in capital rental prices. These reallocations raise capital incomes and lower consumption price indices.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article constructs the first global data set on intersectoral capital service expenditures. I use these data to disaggregate capital services and intermediate inputs in a dynamic multisector trade model. Steady-state allocations and responses to shocks are determined by a capital-augmented global input-output matrix. Two properties of the measured network deliver larger long-run consumption gains from globalization than existing estimates, as well as larger gains in more capital-intensive countries. First, more trade-exposed sectors supply capital to more consumption-influential producers. Second, heterogeneity in the network reallocates sectoral expenditures toward producers with larger declines in capital rental prices. These reallocations raise capital incomes and lower consumption price indices.</jats:p>",
       "doi": "10.1093/qje/qjag041",
       "url": "https://doi.org/10.1093/qje/qjag041"
     },
@@ -1378,7 +1378,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-07-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Investors’ return expectations are pivotal in stock markets, but the reasoning behind these expectations is not well understood. This paper explores economic agents’ mental models of what drives returns. We survey the general population, retail investors, financial professionals, and academic experts to investigate how they forecast and explain future returns in scenarios with stale news about future company earnings. We find that investors strongly disagree in their forecasts and reasoning. Most academic experts view markets as efficient. By contrast, most households express a perspective we call “expected earnings reasoning”: they directly equate higher expected earnings with higher expected returns. Professionals are split between market efficiency, mispricing, and expected earnings reasoning. In detailed experiments, we dissect why households adopt expected earnings reasoning. We show that it arises from inattention to how stock-price changes affect investor costs — that is, how much investors must pay to acquire a claim to future cash flows — because the typical format and context of investment problems obscure these cost implications. Our results help connect a series of previously documented anomalies in expectation and trading data and highlight the importance of selective attention and context in shaping reasoning and belief formation.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Investors’ return expectations are pivotal in stock markets, but the reasoning behind these expectations is not well understood. This article explores economic agents’ mental models of what drives returns. We survey the general population, retail investors, financial professionals, and academic experts to investigate how they forecast and explain future returns in scenarios with stale news about future company earnings. We find that investors strongly disagree in their forecasts and reasoning. Most academic experts view markets as efficient. By contrast, most households express a perspective we call “expected earnings reasoning”: they directly equate higher expected earnings with higher expected returns. Professionals are split between market efficiency, mispricing, and expected earnings reasoning. In detailed experiments, we dissect why households adopt expected earnings reasoning. We show that it arises from inattention to how stock price changes affect investor costs—that is, how much investors must pay to acquire a claim to future cash flows—because the typical format and context of investment problems obscure these cost implications. Our results help connect a series of previously documented anomalies in expectation and trading data and highlight the importance of selective attention and context in shaping reasoning and belief formation.</jats:p>",
       "doi": "10.1093/qje/qjag039",
       "url": "https://doi.org/10.1093/qje/qjag039"
     },
@@ -4721,6 +4721,126 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Women continue to be underrepresented in corporate leadership positions. This article studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top 10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work-schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.</jats:p>",
       "doi": "10.1093/qje/qjag015",
       "url": "https://doi.org/10.1093/qje/qjag015"
+    },
+    {
+      "title": "Beyond Old Boys' Clubs: Financial Analysts' Utilization of Professional Connections",
+      "authors": "Mengqiao Du, Rachel Xi Zhang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-03-03",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Women often lack the opportunity to join exclusive social clubs, limiting the benefits they derive from their social networks. We investigate whether, when given the opportunity to interact with the right people in a professional setting, women gain greater advantages from these connections for career performance and advancement compared to men. Using a unique data set that documents when, where, and with whom financial analysts interact at investor conferences, we find that female analysts show greater improvement in earnings forecast accuracy than their male counterparts after interacting with a firm's executives. Further evidence suggests that female analysts overcome homophily in conference interactions with executives and that they sustain their gains, enhancing forecast accuracy for up to three years. In addition, both the capital and labor markets recognize women's superior gains from conference connections. Our findings suggest that women capitalize on professional connections, highlighting the importance of promoting structured networking opportunities for women in professional environments.</jats:p>",
+      "doi": "10.1111/1475-679x.70044",
+      "url": "https://doi.org/10.1111/1475-679x.70044"
+    },
+    {
+      "title": "Real Effects of Subjectivity in Measuring Fair Values",
+      "authors": "Verena Braun, Robert F. Göx, Felix P. Niggemann, Ulrich Schäfer",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-03-02",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines how the subjectivity in measuring fair values of assets without readily observable market prices affects investment efficiency and shareholder value. When fair values are objective measures of asset value, they facilitate efficient investment decisions that align with shareholder interests. In contrast, firms' reliance on subjective valuation inputs causes underinvestment in long‐term projects. If fair values are highly subjective, they may lead firms to favor less profitable short‐term projects with objectively measurable fair values. When project returns are positively correlated, subjectivity in valuing long‐term projects induces overinvestment in short‐term projects with objective fair values. Regardless of these distortions, fair value measurement can add shareholder value. Not measuring fair values altogether leads to underinvestment, which moderately subjective fair values can alleviate.</jats:p>",
+      "doi": "10.1111/1475-679x.70045",
+      "url": "https://doi.org/10.1111/1475-679x.70045"
+    },
+    {
+      "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
+      "authors": "Gordon B. Dahl, Matthew Knepper",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)</jats:p>",
+      "doi": "10.1257/aer.20221703",
+      "url": "https://doi.org/10.1257/aer.20221703"
+    },
+    {
+      "title": "Immigration, Innovation, and Growth",
+      "authors": "Stephen J. Terry, Thomas Chaney, Konrad B. Burchardi, Lisa Tarquinio, Tarek A. Hassan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent. (JEL J15, J22, J31, J61, O31, R11, R23)</jats:p>",
+      "doi": "10.1257/aer.20211601",
+      "url": "https://doi.org/10.1257/aer.20211601"
+    },
+    {
+      "title": "The Value of Clean Water: Experimental Evidence from Rural India",
+      "authors": "Fiona Burlig, Amir Jina, Anant Sudarshan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Over 2 billion people lack clean drinking water. Existing solutions face high costs (piped water) or low demand (point-of-use chlorine). Using a 60,000 household cluster-randomized experiment, we test an alternative approach: decentralized treatment and home delivery of clean water to the rural poor. At low prices, take-up exceeds 90 percent, sustained throughout the experiment. High prices reduce take-up but are privately profitable. We experimentally recover revealed-preference measures of valuation. Willingness-to-pay is several times higher than prior indirect estimates; willingness-to-accept is larger and exceeds marginal cost. Self-reported health measures improve accordingly. On a cost-per-DALY basis, free water delivery regimes appear highly cost effective. (JEL I12, O12, O13, O18, Q25, Q51, Q53)</jats:p>",
+      "doi": "10.1257/aer.20250278",
+      "url": "https://doi.org/10.1257/aer.20250278"
+    },
+    {
+      "title": "Sequential Cursed Equilibrium",
+      "authors": "Shani Cohen, Shengwu Li",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information. (JEL C73, D44, D71, D81, D83, D91)</jats:p>",
+      "doi": "10.1257/aer.20230309",
+      "url": "https://doi.org/10.1257/aer.20230309"
+    },
+    {
+      "title": "Equal Pay for Similar Work",
+      "authors": "Diego Gentile Passaro, Fuhito Kojima, Bobak Pakzad-Hurson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>Equal pay laws increasingly require that workers with different group identities doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our models’ predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. (JEL J16, J31, J38, K31, O15)</jats:p>",
+      "doi": "10.1257/aer.20230832",
+      "url": "https://doi.org/10.1257/aer.20230832"
+    },
+    {
+      "title": "Zero-Sum Thinking and the Roots of US Political Differences",
+      "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement. (JEL C83, D72, D91, H23, J15, J16, Z13)</jats:p>",
+      "doi": "10.1257/aer.20240692",
+      "url": "https://doi.org/10.1257/aer.20240692"
+    },
+    {
+      "title": "Dynamics of the Long-Term Housing Yield: Evidence from Natural Experiments",
+      "authors": "Verónica Bäcker-Peral, Jonathon Hazell, Atif Mian",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>\n                    Each month, a fraction of UK property leases are extended by 90 years or more. We construct a new dataset using thousands of these natural experiments since 2000 and estimate the expected long-term housing yield, y\n                    <jats:sup>*</jats:sup>\n                    . After remaining steady at around 5 percent, y\n                    <jats:sup>*</jats:sup>\n                    starts to decline when the Great Recession hits and reaches a low of 2.7 percent in 2024. The decline is steeper in inelastic markets, while y\n                    <jats:sup>*</jats:sup>\n                    remains higher in regions more exposed to long-run climate risk. Our estimate of y\n                    <jats:sup>*</jats:sup>\n                    is updated in real time using public data. (JEL E32, G12, Q54, R31, R38)\n                  </jats:p>",
+      "doi": "10.1257/aer.20240513",
+      "url": "https://doi.org/10.1257/aer.20240513"
+    },
+    {
+      "title": "The Price of War",
+      "authors": "Jonathan Federle, André Meier, Gernot J. Müller, Willi Mutschler, Moritz Schularick",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We assemble a new dataset spanning 150 years and 60 countries to study the economic toll of war. A war of average intensity is associated with an output drop of close to 10 percent in the war-site economy, while consumer prices rise by approximately 20 percent. The capital stock, total factor productivity, and equity returns all decline sharply. The economic ramifications of war are not confined to the war site. The evidence points to adverse economic outcomes in other belligerent and third-party countries if they are exposed to the war site through trade linkages or share a common border. (JEL D74, E23, E32, F43, F51, N40)</jats:p>",
+      "doi": "10.1257/aer.20241355",
+      "url": "https://doi.org/10.1257/aer.20241355"
+    },
+    {
+      "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
+      "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall,” whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall. (JEL E24, E32, I12, J41, J63, J64)</jats:p>",
+      "doi": "10.1257/aer.20220749",
+      "url": "https://doi.org/10.1257/aer.20220749"
+    },
+    {
+      "title": "What You Don’t Know May Be Good for You",
+      "authors": "Johannes Hörner, Larry Samuelson",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-03-01",
+      "abstract": "<jats:p>We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert’s and the client’s type. We study the effects of supplying information about otherwise unobservable outcomes, such as “medical report cards,” to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept. (JEL C78, D82, D83)</jats:p>",
+      "doi": "10.1257/aer.20250053",
+      "url": "https://doi.org/10.1257/aer.20250053"
     }
   ]
 }
