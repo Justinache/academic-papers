@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-03T06:49:41.587Z",
-  "count": 482,
+  "lastUpdated": "2026-09-04T07:03:49.605Z",
+  "count": 483,
   "papers": [
     {
       "title": "Strategic communication among banks",
@@ -111,6 +111,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104352",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104352"
+    },
+    {
+      "title": "Peer Effects and Rank Concerns in the Classroom",
+      "authors": "Michela M. Tincani",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-03",
+      "abstract": "",
+      "doi": "10.1086/742714",
+      "url": "https://doi.org/10.1086/742714"
+    },
+    {
+      "title": "Stablecoin Runs and the Centralization of Arbitrage",
+      "authors": "Yiming Ma, Yao Zeng, Anthony Lee Zhang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-03",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stablecoins are cryptoassets designed to be pegged to the dollar, but they are backed by imperfectly liquid USD assets. We show that stablecoins feature concentrated arbitrage: the largest issuer, Tether, allows only six agents in an average month to redeem stablecoins for cash. We argue that the issuers’ choice of arbitrage concentration reflects a trade-off: efficient arbitrage improves stablecoin price stability in secondary markets but amplifies run risks by reducing investors’ price impact from selling stablecoins. Our findings imply that policies designed to improve stablecoin price stability may have the unintended consequence of increasing stablecoin run risks. (JEL G01, G23)</jats:p>",
+      "doi": "10.1093/rfs/hhag072",
+      "url": "https://doi.org/10.1093/rfs/hhag072"
+    },
+    {
+      "title": "Mis(sed) Diagnosis: Physician Decision-Making and ADHD",
+      "authors": "Kelli Marquardt",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-02",
+      "abstract": "",
+      "doi": "10.1086/742421",
+      "url": "https://doi.org/10.1086/742421"
     },
     {
       "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -2173,7 +2203,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0427"
     },
     {
-      "title": "Imperfect Expectations in Loan Loss Forecasts",
+      "title": "Imperfect expectations in loan loss forecasts",
       "authors": "Sanjeev Bhojraj, Anya Kleymenova, Miao Liu, Yao Lu, Partha Sengupta",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -2463,16 +2493,6 @@
       "url": "https://doi.org/10.1086/742716"
     },
     {
-      "title": "Peer Effects and Rank Concerns in the Classroom",
-      "authors": "Michela Maria Tincani",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742714",
-      "url": "https://doi.org/10.1086/742714"
-    },
-    {
       "title": "Online Business Models, Digital Ads, and User Welfare",
       "authors": "Daron Acemoglu, Daniel Huttenlocher, Asuman Ozdaglar, James Siderius",
       "journal": "Journal of Political Economy",
@@ -2751,16 +2771,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a dynamic theory of “Partial Equilibrium Thinking” (PET), which micro-founds time-varying return extrapolation: extrapolative beliefs are present at all times, but only sometimes manifest themselves in explosive ways. We formalize the distinction between normal times shocks and “displacement shocks,” and study their interaction with extrapolative beliefs. In normal times, PET generates constant extrapolation and momentum. After a displacement shock that increases uncertainty, PET leads to stronger and time-varying extrapolation, triggering bubbles and endogenous crashes. Our theory sheds light on both market dynamics in normal times and Kindleberger’s narrative of bubbles within a unified framework.</jats:p>",
       "doi": "10.1093/rfs/hhag053",
       "url": "https://doi.org/10.1093/rfs/hhag053"
-    },
-    {
-      "title": "Mis(sed) Diagnosis: Physician Decision Making and ADHD",
-      "authors": "Kelli Marquardt",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-02",
-      "abstract": "",
-      "doi": "10.1086/742421",
-      "url": "https://doi.org/10.1086/742421"
     },
     {
       "title": "The Real Effect of Sociopolitical Racial/Ethnic Animus: Mutual Fund Manager Performance during AAPI Hate",
