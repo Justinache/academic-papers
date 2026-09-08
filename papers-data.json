@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-07T07:01:01.502Z",
-  "count": 487,
+  "lastUpdated": "2026-09-08T06:56:55.004Z",
+  "count": 488,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -163,6 +163,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104353"
     },
     {
+      "title": "The value of trademarks",
+      "authors": "Pranav Desai, Ekaterina Gavrilova, Rui C. Silva, Margarida Soares",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104358",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104358"
+    },
+    {
       "title": "Strategic communication among banks",
       "authors": "Christian Bittner, Falko Fecht, Melissa Pala, Farzad Saidi",
       "journal": "Journal of Financial Economics",
@@ -301,6 +311,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax–a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various Census reports, including those on “Wealth, Debt, and Taxation”), in which the Census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade, and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid-1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.</jats:p>",
       "doi": "10.1093/qje/qjag038",
       "url": "https://doi.org/10.1093/qje/qjag038"
+    },
+    {
+      "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+      "authors": "Thomas R. Covert, Ryan Kellogg",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-04",
+      "abstract": "",
+      "doi": "10.1086/742713",
+      "url": "https://doi.org/10.1086/742713"
     },
     {
       "title": "Peer Effects and Rank Concerns in the Classroom",
@@ -2651,16 +2671,6 @@
       "abstract": "",
       "doi": "10.1086/742710",
       "url": "https://doi.org/10.1086/742710"
-    },
-    {
-      "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
-      "authors": "Thomas R Covert, Ryan Kellogg",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742713",
-      "url": "https://doi.org/10.1086/742713"
     },
     {
       "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
