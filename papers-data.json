@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-09T07:02:20.675Z",
-  "count": 488,
+  "lastUpdated": "2026-09-10T07:02:23.826Z",
+  "count": 494,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -173,6 +173,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104358"
     },
     {
+      "title": "AI and perception biases in investments: An experimental study",
+      "authors": "Anastassia Fedyk, Ali Kakhbod, Peiyao Li, Ulrike Malmendier",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104350",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104350"
+    },
+    {
+      "title": "Great Recession babies: How are startups shaped by macro conditions at birth?",
+      "authors": "Daniel Bias, Alexander Ljungqvist",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104354",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104354"
+    },
+    {
       "title": "Strategic communication among banks",
       "authors": "Christian Bittner, Falko Fecht, Melissa Pala, Farzad Saidi",
       "journal": "Journal of Financial Economics",
@@ -301,6 +321,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Fairness Across the World",
+      "authors": "Ingvild Almås, Alexander W Cappelen, Erik Ø Sørensen, Bertil Tungodden",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-09-07",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper provides the first comprehensive global evidence on people’s fairness and efficiency preferences, beliefs about the sources of inequality and the efficiency cost of redistribution, and policy attitudes toward redistribution. Using a globally harmonized consequential experiment with more than 65,000 individuals across 60 countries, we show that the source of inequality plays a substantially larger role for inequality acceptance than the efficiency cost of redistribution. At the global level, implemented inequality increases by 85 percent when inequality is caused by merit rather than luck, compared to a 14 percent increase when redistribution entails a 50 percent efficiency cost. We document substantial heterogeneity in fairness views and beliefs both within and across societies. The meritocratic fairness view is most prominent in many richer Western societies, while libertarian and egalitarian fairness views are widespread in many other parts of the world. Globally, people are more likely to believe that inequality reflects luck rather than merit, while beliefs in large efficiency costs of redistribution are relatively weak. Fairness preferences and beliefs are strongly associated with redistribution attitudes and actual redistribution through taxes and transfers across countries. Our findings illustrate how the interaction between fairness views and beliefs may shape redistribution across societies, highlighting the importance of jointly understanding preferences and beliefs in the political economy of redistribution.</jats:p>",
+      "doi": "10.1093/qje/qjag044",
+      "url": "https://doi.org/10.1093/qje/qjag044"
     },
     {
       "title": "Wealth and Property Taxation in the United States",
@@ -651,6 +681,36 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Academic freedom is often equated with protection from political and economic interference. Authoritative definitions are broader. They combine protection from external interference, peer-based evaluation, and institutional arrangements for scholarly self-governance. Drawing on Honneth’s (2014) theory of democratic institutions, this paper develops the second and third elements and integrates all three within a recognition-theoretical framework that reconceptualizes academic freedom as social freedom. Using accounting as a case, we reconstruct two transformations that shape the discipline today: the theory revolution of the 1960s, which consolidated peer-based epistemic recognition, and the journal ranking revolution of the 1990s, which reorganized recognition around performance metrics and publication hierarchies. We show that academic freedom can be hollowed out from within without being formally revoked and argue that a discipline weakened from within is less able to resist external threats. Defending academic freedom requires attention to architectures of recognition through which scholarly worth and truth are organized.</jats:p>\n                  <jats:p>JEL Classifications: M41.</jats:p>",
       "doi": "10.2308/tar-2025-0350",
       "url": "https://doi.org/10.2308/tar-2025-0350"
+    },
+    {
+      "title": "Exchange-Traded Fund Flows and Valuation",
+      "authors": "Yuan Zou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The past two decades have witnessed dramatic growth in passive investing via exchange-traded funds (ETFs). To the extent that ETF flows reflect nonfundamental investor demand, large ETF flows may push the prices of the underlying stocks away from their fundamental values. Consistent with this conjecture, I first find that ETF flows chase past fund performance, suggesting that ETF flows contain a systematic nonfundamental demand component. I then document that ETF flow-induced trading is associated with contemporaneous stock price increases, followed by return reversals. Accounting-based valuation tests show that ETF flow-induced trading is negatively associated with value-to-price (V/P) ratios, consistent with overvaluation. The effect strengthens for specialized ETFs and stocks with high short-selling constraints. Finally, firms with high ETF flow-induced trading behave in ways typically associated with perceived overvaluation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G14; G32; G40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0303",
+      "url": "https://doi.org/10.2308/tar-2023-0303"
+    },
+    {
+      "title": "Subjective Performance Evaluation in the Presence of a Third Party",
+      "authors": "Jan Bouwens, Christian Hofmann, Peter Kroos, Christopher Lechner",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that favoritism biases subjective evaluations and that the presence of a third party can mitigate this bias. Using archival data from professional ski jumping, we find that, controlling for objective performance, judges favor athletes of their own nationality and athletes who have a compatriot on the panel. We predict and provide evidence that in-person observation by an audience is associated with lower levels of favoritism compared with third-party observation via mediated communication. We contribute to the accounting literature by highlighting how in-person observation by a third party can reduce the likelihood that favoritism biases subjective evaluations.</jats:p>\n                  <jats:p>Data availability: The data used in this study are publicly available from open-access sources.</jats:p>\n                  <jats:p>JEL Classifications: D91; M40; M51; L83; Z20.</jats:p>",
+      "doi": "10.2308/tar-2024-0091",
+      "url": "https://doi.org/10.2308/tar-2024-0091"
+    },
+    {
+      "title": "Regulating Financial Advice: Evidence from the Municipal Bond Market",
+      "authors": "Jacquelyn Gillette, Gabriel Pündrich, Ari Yezegel",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the 2016 Municipal Advisor Regulatory Reform, which professionalized municipal advisors by imposing standards of conduct and minimum competency requirements, affected advisory firms and issuers. Using a difference-in-differences (DiD) research design, we find that the reform improved the quality of financial advice provided by independent municipal advisory firms relative to dealer firms. Specifically, independent municipal advisors assemble higher-quality financing teams and ensure greater financial disclosure compliance and timeliness in the post-reform period. These improvements provide tangible economic benefits to issuers through lower bond issuance costs and smaller underwriter fees. Finally, we document that independent advisory firms gain market share and charge higher fees relative to dealer firms after the reform. Overall, our study provides novel evidence linking the professionalization of financial intermediaries to improvements in the quality of advice, financial transparency, and issuer borrowing costs.</jats:p>\n                  <jats:p>Data Availability: Data are available from the commercial and public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G10; G18; G24; G28; M40; M48.</jats:p>",
+      "doi": "10.2308/tar-2024-0006",
+      "url": "https://doi.org/10.2308/tar-2024-0006"
     },
     {
       "title": "Who Values Democracy?",
@@ -1978,7 +2038,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Generative artificial intelligence (AI) is increasingly consuming and producing huge amounts of data. We propose a social learning model of AI, emphasizing a data-AI feedback loop: data quality affects AI productivity, which influences AI adoption and, consequently, the composition (AI versus human-generated) and quality of future data. Calibrated to evidence on synthetic training loops, the model predicts hump-shaped labor dynamics—short-term displacement that partially reverses as data quality deteriorates. A Grossman–Stiglitz-style externality emerges: AI adopters free-ride on the human-generated actions that supply the novel information on which AI itself relies. In a competitive market, AI should be taxed to correct the data-quality externality; a concentrated AI industry overcorrects, making a subsidy optimal. (JEL O33, D62, D83, J24)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Generative artificial intelligence (AI) is increasingly consuming and producing huge amounts of data. We propose a social learning model of AI, emphasizing a data-AI feedback loop: data quality affects AI productivity, which influences AI adoption and, consequently, the composition (AI versus human-generated) and quality of future data. Calibrated to evidence on synthetic training loops, the model predicts hump-shaped labor dynamics—short-term displacement that partially reverses as data quality deteriorates. A Grossman–Stiglitz-style externality emerges: AI adopters free-ride on the human-generated actions that supply the novel information on which AI itself relies. In a competitive market, AI should be taxed to correct the data-quality externality; a concentrated AI industry overcorrects, making a subsidy optimal.</jats:p>",
       "doi": "10.1093/rfs/hhag064",
       "url": "https://doi.org/10.1093/rfs/hhag064"
     },
