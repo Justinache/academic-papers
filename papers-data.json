@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11T07:01:43.209Z",
-  "count": 494,
+  "lastUpdated": "2026-09-12T06:52:26.296Z",
+  "count": 501,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -193,6 +193,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104354"
     },
     {
+      "title": "True liquidity and fundamental prices: U.S. tick size pilot",
+      "authors": "Rohit Allena, Tarun Chordia",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104362",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104362"
+    },
+    {
       "title": "Strategic communication among banks",
       "authors": "Christian Bittner, Falko Fecht, Melissa Pala, Farzad Saidi",
       "journal": "Journal of Financial Economics",
@@ -323,6 +333,56 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
     },
     {
+      "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
+      "authors": "Nick Buchholz, Matthew Shum, Haiqing Xu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-11",
+      "abstract": "",
+      "doi": "10.1086/744012",
+      "url": "https://doi.org/10.1086/744012"
+    },
+    {
+      "title": "Behavioral Attenuation",
+      "authors": "Benjamin Enke, Thomas Graeber, Ryan Oprea, Jeffrey Yang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-11",
+      "abstract": "",
+      "doi": "10.1086/744015",
+      "url": "https://doi.org/10.1086/744015"
+    },
+    {
+      "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+      "authors": "Barbara Biasi, Chao Fu, John Stromme",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-11",
+      "abstract": "",
+      "doi": "10.1086/744049",
+      "url": "https://doi.org/10.1086/744049"
+    },
+    {
+      "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
+      "authors": "Shmuel San",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-11",
+      "abstract": "",
+      "doi": "10.1086/744016",
+      "url": "https://doi.org/10.1086/744016"
+    },
+    {
+      "title": "Corporate Financial Constraints, Minimum Wage Policies, and Employment",
+      "authors": "Alona Bilokha, Iftekhar Hasan, Stefano Manfredonia, Ronald W Masulis",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-11",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how corporate financial constraints shape firms’ employment responses to minimum wage policies. Exploiting the federal minimum wage increase during the financial crisis and variation in firms’ debt maturity structures at the crisis onset, we find that financially constrained firms significantly reduce employment. To assess external validity, we analyze staggered state-level minimum wage increases over time. Consistent with the crisis evidence, employment declines in establishments of constrained firms, whereas unconstrained firms expand in areas with a larger supply of minimum-wage workers and higher turnover. Our results highlight the central role of financial constraints in mediating labor policy effects.</jats:p>",
+      "doi": "10.1093/rfs/hhag075",
+      "url": "https://doi.org/10.1093/rfs/hhag075"
+    },
+    {
       "title": "Fairness Across the World",
       "authors": "Ingvild Almås, Alexander W Cappelen, Erik Ø Sørensen, Bertil Tungodden",
       "journal": "Quarterly Journal of Economics",
@@ -368,7 +428,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-09-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stablecoins are cryptoassets designed to be pegged to the dollar, but they are backed by imperfectly liquid USD assets. We show that stablecoins feature concentrated arbitrage: the largest issuer, Tether, allows only six agents in an average month to redeem stablecoins for cash. We argue that the issuers’ choice of arbitrage concentration reflects a trade-off: efficient arbitrage improves stablecoin price stability in secondary markets but amplifies run risks by reducing investors’ price impact from selling stablecoins. Our findings imply that policies designed to improve stablecoin price stability may have the unintended consequence of increasing stablecoin run risks. (JEL G01, G23)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stablecoins are cryptoassets designed to be pegged to the dollar, but they are backed by imperfectly liquid USD assets. We show that stablecoins feature concentrated arbitrage: the largest issuer, Tether, allows only six agents in an average month to redeem stablecoins for cash. We argue that the issuers’ choice of arbitrage concentration reflects a trade-off: efficient arbitrage improves stablecoin price stability in secondary markets but amplifies run risks by reducing investors’ price impact from selling stablecoins. Our findings imply that policies designed to improve stablecoin price stability may have the unintended consequence of increasing stablecoin run risks.</jats:p>",
       "doi": "10.1093/rfs/hhag072",
       "url": "https://doi.org/10.1093/rfs/hhag072"
     },
@@ -711,6 +771,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the 2016 Municipal Advisor Regulatory Reform, which professionalized municipal advisors by imposing standards of conduct and minimum competency requirements, affected advisory firms and issuers. Using a difference-in-differences (DiD) research design, we find that the reform improved the quality of financial advice provided by independent municipal advisory firms relative to dealer firms. Specifically, independent municipal advisors assemble higher-quality financing teams and ensure greater financial disclosure compliance and timeliness in the post-reform period. These improvements provide tangible economic benefits to issuers through lower bond issuance costs and smaller underwriter fees. Finally, we document that independent advisory firms gain market share and charge higher fees relative to dealer firms after the reform. Overall, our study provides novel evidence linking the professionalization of financial intermediaries to improvements in the quality of advice, financial transparency, and issuer borrowing costs.</jats:p>\n                  <jats:p>Data Availability: Data are available from the commercial and public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G10; G18; G24; G28; M40; M48.</jats:p>",
       "doi": "10.2308/tar-2024-0006",
       "url": "https://doi.org/10.2308/tar-2024-0006"
+    },
+    {
+      "title": "Stay In Your Own Lane: Navigating the Challenges of Upward Knowledge Sharing in Hierarchical Audit Teams",
+      "authors": "Tina D. Carpenter, Margaret H. Christ, Miranda T. Hugie",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Digitalization is transforming the audit profession. Apprenticeship norms prescribe that knowledge flows down from supervisors to subordinates, but digitalization increasingly positions junior auditors as experts in emerging technology. Consequently, supervisors can learn from subordinates. This reversal challenges long-standing apprenticeship expectations, yet little is known about how it unfolds or the tensions it creates. Against this backdrop, we examine tensions that can arise when subordinate auditors share their knowledge with supervisors. Drawing on 51 semistructured interviews and guided by theory, we identify four recurring roadblocks to upward knowledge sharing: junior auditors' status motives, “same as last year” routines, status insecurity among immediate supervisors, and defensiveness when juniors cross perceived knowledge “lanes.” We also find a rare, countervailing pathway: the emergence of informal champions who legitimize junior auditors' contributions. Our study deepens understanding of how digitalization transforms team learning in audits and shows how historical structures and norms evolve under new conditions.</jats:p>\n                  <jats:p>Data Availability: Data were obtained from interviews.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42; M51.</jats:p>",
+      "doi": "10.2308/tar-2024-0518",
+      "url": "https://doi.org/10.2308/tar-2024-0518"
     },
     {
       "title": "Who Values Democracy?",
