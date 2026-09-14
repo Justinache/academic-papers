@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T07:11:00.354Z",
-  "count": 501,
+  "lastUpdated": "2026-09-14T07:32:21.254Z",
+  "count": 500,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -5001,16 +5001,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.”</jats:p>",
       "doi": "10.1093/rfs/hhag022",
       "url": "https://doi.org/10.1093/rfs/hhag022"
-    },
-    {
-      "title": "Asset Overhang and Technological Change",
-      "authors": "Hans Degryse, Tarik Roukny, Joris Tielens",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Investors face reduced incentives to finance technological change that devalues their legacy investments. We formalize this “asset overhang” and apply our framework to the climate-banking nexus. Leveraging (1) firm-level data on green innovation and diffusion and (2) the sets of product and technology market peers, we implement a shift-share design that identifies banks’ credit facilities impacted by green firm activities. We find that green firms imposing an asset overhang across all lenders are 3 to 7 percentage points more likely to report tight credit supply conditions. The presence of legacy-free investors mitigates the asset overhang problem, thereby facilitating technological change.</jats:p>",
-      "doi": "10.1093/rfs/hhaf103",
-      "url": "https://doi.org/10.1093/rfs/hhaf103"
     }
   ]
 }
