@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-15T07:09:20.313Z",
-  "count": 500,
+  "lastUpdated": "2026-09-16T07:13:51.994Z",
+  "count": 498,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -331,6 +331,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Regulatory Competition in the US Life Insurance Industry",
+      "authors": "Johnny Tang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-15",
+      "abstract": "",
+      "doi": "10.1086/742725",
+      "url": "https://doi.org/10.1086/742725"
     },
     {
       "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
@@ -2783,16 +2793,6 @@
       "url": "https://doi.org/10.1086/742724"
     },
     {
-      "title": "Regulatory Competition in the US Life Insurance Industry",
-      "authors": "Johnny Tang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742725",
-      "url": "https://doi.org/10.1086/742725"
-    },
-    {
       "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
       "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
       "journal": "Journal of Political Economy",
@@ -4981,26 +4981,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We estimate the indirect costs of corporate bankruptcy associated with lost customers. In incentivized experiments, randomly informing consumers about a firm's Chapter 11 reorganization lowers their willingness to pay for the firm's products by 17% to 28%. Consumers worry that bankruptcy could reduce product quality or prevent future interactions with the bankrupt firm. On average, 38% of consumers are aware of major bankruptcies. Using our experiments to estimate a structural model, we show that these indirect costs of bankruptcy amount to 12% to 15% of a firm's value. We show that these costs are unlikely to arise before bankruptcy.</jats:p>",
       "doi": "10.1111/jofi.70030",
       "url": "https://doi.org/10.1111/jofi.70030"
-    },
-    {
-      "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
-      "authors": "Sangmin S. Oh, Ishita Sen, Ana‐maria Tenekedjieva",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-03-16",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Homeowners insurance is central to managing the rising losses from climate‐related disasters. We show that insurance premiums are subject to starkly different regulations across states, creating persistent cross‐subsidies and price distortions. We employ states' regulatory rules in an instrumental variable estimation and a border discontinuity design to show insurers do not adjust rates in highly regulated states and compensate by raising rates in less regulated states. Rates and risks diverge in the long run, distorting cross‐state risk‐sharing and increasing insurer exits from highly regulated states. We argue these patterns stem from the interactions between rate regulation and insurers' financing constraints.</jats:p>",
-      "doi": "10.1111/jofi.70029",
-      "url": "https://doi.org/10.1111/jofi.70029"
-    },
-    {
-      "title": "Machine Learning and the Implementable Efficient Frontier",
-      "authors": "Theis Ingerslev Jensen, Bryan Kelly, Semyon Malamud, Lasse Heje Pedersen",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-15",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.”</jats:p>",
-      "doi": "10.1093/rfs/hhag022",
-      "url": "https://doi.org/10.1093/rfs/hhag022"
     }
   ]
 }
