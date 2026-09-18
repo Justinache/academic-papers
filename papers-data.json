@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T07:09:16.883Z",
+  "lastUpdated": "2026-09-18T07:04:29.932Z",
   "count": 499,
   "papers": [
     {
@@ -331,6 +331,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
+      "authors": "Ian Ball, Deniz Kattwinkel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-17",
+      "abstract": "",
+      "doi": "10.1086/742716",
+      "url": "https://doi.org/10.1086/742716"
     },
     {
       "title": "Attention to the Macroeconomy",
@@ -878,7 +888,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-08-31",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper proposes a new channel through which long-term interest rates transmit to credit spreads. When life insurers carry negative duration gaps, higher rates reduce their liabilities more than assets. Rate increases therefore boost equity and risk-bearing capacity, lowering equilibrium credit spreads. Empirically, I test this channel with bond-level yields and a maturity-based discontinuity in bond ownership. Insurers’ trades confirm the mechanism: after rates rise, insurers shift portfolios towards riskier, high-yield bonds. As rates increase, bonds more heavily held by life insurers experience greater spread reductions. The results show that institutional duration mismatch shapes credit spreads and corporate financing conditions. (JEL G12, G22, G23, E50)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper proposes a new channel through which long-term interest rates transmit to credit spreads. When life insurers carry negative duration gaps, higher rates reduce their liabilities more than assets. Rate increases therefore boost equity and risk-bearing capacity, lowering equilibrium credit spreads. Empirically, I test this channel with bond-level yields and a maturity-based discontinuity in bond ownership. Insurers’ trades confirm the mechanism: after rates rise, insurers shift portfolios towards riskier, high-yield bonds. As rates increase, bonds more heavily held by life insurers experience greater spread reductions. The results show that institutional duration mismatch shapes credit spreads and corporate financing conditions.</jats:p>",
       "doi": "10.1093/rfs/hhag079",
       "url": "https://doi.org/10.1093/rfs/hhag079"
     },
@@ -1038,7 +1048,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-08-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Increasing personal bankruptcy protection raises consumers’ desire to borrow and lenders’ cost of extending credit; the impact on equilibrium borrowing is ambiguous. Using bankruptcy protection changes between 1999 and 2005 across U.S. states, we find that borrowers respond to greater protection by increasing their unsecured debt. Border county estimates suggest that local economic conditions do not drive these results. Borrowers pay more for protection through higher interest rates, yet delinquency is unaffected. Our results indicate that rising borrower demand outstripped decreasing supply. Increased protections did not reduce the aggregate level of household debt but affected the composition of borrowing. (JEL G00, G33, G51, D14, D18, K35, R2)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Increasing personal bankruptcy protection raises consumers’ desire to borrow and lenders’ cost of extending credit; the impact on equilibrium borrowing is ambiguous. Using bankruptcy protection changes between 1999 and 2005 across U.S. states, we find that borrowers respond to greater protection by increasing their unsecured debt. Border county estimates suggest that local economic conditions do not drive these results. Borrowers pay more for protection through higher interest rates, yet delinquency is unaffected. Our results indicate that rising borrower demand outstripped decreasing supply. Increased protections did not reduce the aggregate level of household debt but affected the composition of borrowing.</jats:p>",
       "doi": "10.1093/rfs/hhag076",
       "url": "https://doi.org/10.1093/rfs/hhag076"
     },
@@ -2811,16 +2821,6 @@
       "abstract": "",
       "doi": "10.1086/742710",
       "url": "https://doi.org/10.1086/742710"
-    },
-    {
-      "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
-      "authors": "Ian Schofield Ball, Deniz Kattwinkel",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742716",
-      "url": "https://doi.org/10.1086/742716"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
