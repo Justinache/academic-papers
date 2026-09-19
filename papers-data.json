@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T07:04:29.932Z",
-  "count": 499,
+  "lastUpdated": "2026-09-19T07:03:43.620Z",
+  "count": 504,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -331,6 +331,56 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+      "authors": "Juliano Assunção, Lars Peter Hansen, Todd Munson, José A. Scheinkman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-18",
+      "abstract": "",
+      "doi": "10.1086/744117",
+      "url": "https://doi.org/10.1086/744117"
+    },
+    {
+      "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+      "authors": "Mert Demirer, Diego Jiménez-Hernández, Dean Li, Sida Peng",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-18",
+      "abstract": "",
+      "doi": "10.1086/744118",
+      "url": "https://doi.org/10.1086/744118"
+    },
+    {
+      "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+      "authors": "Eric Richert",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-18",
+      "abstract": "",
+      "doi": "10.1086/744119",
+      "url": "https://doi.org/10.1086/744119"
+    },
+    {
+      "title": "The Coherence Side of Rationality Theory and Evidence from Firm Plans",
+      "authors": "Pamela Giustinelli, Stefano Rossi",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-18",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using the Duke Survey data on firms’ internal plans, we show that over 80% of Chief Financial Officer (CFO) forecasts align closely with simple heuristics taught in MBA textbooks. We introduce forecast coherence—internal consistency across forecasts of jointly determined variables—as a benchmark for evaluating these heuristics. Nearly half of CFOs issue forecasts closely aligned with incoherent heuristics. Such forecasts are associated with predictable reversals in forecast errors, lower firm performance, and underinvestment. We develop a parsimonious model illustrating how reliance on restricted forecasting heuristics can generate incoherence and resource misallocation within firms, consistent with our evidence (JEL D84, D22, L2, M2, G32)</jats:p>",
+      "doi": "10.1093/rfs/hhag086",
+      "url": "https://doi.org/10.1093/rfs/hhag086"
+    },
+    {
+      "title": "Optimal Time-Consistent Debt Policies",
+      "authors": "Andrey Malenko, Anton Tsoy",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-18",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study a dynamic trade-off model where shareholders can freely adjust debt but lack commitment to future debt policies. A debt policy is time-consistent if shareholders prefer it to deviating and losing credibility ex post. We characterize the optimal time-consistent policy in a class. It includes a stable regime, where shareholders actively manage liabilities to maintain the target interest coverage ratio, and a distress regime triggered by large negative shocks, where shareholders temporarily abandon the target. This policy has realistic properties and bridges the gap between the static trade-off theory of debt and theory based on the leverage ratchet effect. (JEL G32, C73)</jats:p>",
+      "doi": "10.1093/rfs/hhag083",
+      "url": "https://doi.org/10.1093/rfs/hhag083"
     },
     {
       "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
@@ -2083,7 +2133,7 @@
       "url": "https://doi.org/10.1111/jofi.70071"
     },
     {
-      "title": "Sovereign Default and the Decline in Interest Rates*",
+      "title": "Sovereign Default and the Decline in Interest Rates",
       "authors": "Max Miller, James D Paron, Jessica A Wachter",
       "journal": "Review of Financial Studies",
       "field": "Finance",
