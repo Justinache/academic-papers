@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T07:37:03.380Z",
-  "count": 506,
+  "lastUpdated": "2026-09-22T07:19:19.504Z",
+  "count": 509,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -351,6 +351,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Bringing Work Home: Flexible Work Arrangements as Gateway Jobs for Women in West Bengal",
+      "authors": "Lisa Ho, Suhani Jalota, Anahita Karandikar",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-09-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>There is a large latent workforce in developing countries that consists of hundreds of millions of women who prefer to have paid work and yet are out of the labor force. Often, available job opportunities are incompatible with traditional gender roles that encourage women to stay at home. In a randomized experiment with 1,670 households, we partner with a jobs platform to offer short-term data work to women who are out of the labor force. We find three main results. First, flexible work-from-home jobs are highly effective at bringing women into paid work. Job flexibility more than triples take-up from 15% for an office job to 48% for a job that women can do from home while multitasking with childcare. Second, these jobs can act as a stepping stone to less flexible work. Trying paid work from home increases take-up of less flexible jobs two to three months later among women without previous work experience. “Gateway jobs” are especially important for women from more traditional households: their labor supply is more likely to be marginal to flexibility, and in turn, work experience shifts their attitudes to become less traditional. Third, from the labor demand side, remote work comes with trade-offs in worker performance. Working from the office increases accuracy by 3% and speed by 18%. However, these performance drawbacks of work-from-home arrangements may be outweighed by the increase in available workers.</jats:p>",
+      "doi": "10.1093/qje/qjag045",
+      "url": "https://doi.org/10.1093/qje/qjag045"
+    },
+    {
+      "title": "Corporate Bond Multipliers: Substitutes Matter",
+      "authors": "Manav Chaudhary, Julie Zhiyu Fu, Jian Li",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Many economic questions require estimating the price effect of demand shifts (multipliers) in the bond market. Corporate bonds have salient characteristics that distinguish between close and distant substitutes. We show that accounting for heterogeneous substitutability between bonds is critical for correctly estimating multipliers. We find that security-level multipliers are very small. In fact, an order of magnitude smaller than the estimate ignoring heterogeneous substitutability. Nonetheless, portfolio multipliers are substantially larger and monotonically increase with the aggregation level. Furthermore, we find that the multiplier is larger for high-yield bonds, longer-maturity bonds, and bonds with greater arbitrage risks.</jats:p>",
+      "doi": "10.1093/rfs/hhag082",
+      "url": "https://doi.org/10.1093/rfs/hhag082"
+    },
+    {
+      "title": "Adverse Selection and the Government Intervention Trap",
+      "authors": "Fenghua Song, Anjan Thakor",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a dynamic setting, high-quality firms may tolerate current adverse selection when raising financing because they expect future opportunities to profitably acquire assets from failed lower-quality firms. But search frictions in asset trading impede efficiency, inviting government intervention. Anticipation of such intervention affects ex ante adverse selection and project investment because it reduces buyers’ ex post trading profits. Depending on parameter values, this anticipation can have either pernicious or salutary effects. The pernicious effect reduces participation by high-quality firms, worsens adverse selection, and depresses project investment, potentially triggering investment-enhancing government assistance (an “intervention trap”). The salutary effect mitigates adverse selection and increases project investment.</jats:p>",
+      "doi": "10.1093/rfs/hhag081",
+      "url": "https://doi.org/10.1093/rfs/hhag081"
     },
     {
       "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
