@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T07:19:19.504Z",
+  "lastUpdated": "2026-09-23T07:20:15.582Z",
   "count": 509,
   "papers": [
     {
@@ -361,6 +361,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>There is a large latent workforce in developing countries that consists of hundreds of millions of women who prefer to have paid work and yet are out of the labor force. Often, available job opportunities are incompatible with traditional gender roles that encourage women to stay at home. In a randomized experiment with 1,670 households, we partner with a jobs platform to offer short-term data work to women who are out of the labor force. We find three main results. First, flexible work-from-home jobs are highly effective at bringing women into paid work. Job flexibility more than triples take-up from 15% for an office job to 48% for a job that women can do from home while multitasking with childcare. Second, these jobs can act as a stepping stone to less flexible work. Trying paid work from home increases take-up of less flexible jobs two to three months later among women without previous work experience. “Gateway jobs” are especially important for women from more traditional households: their labor supply is more likely to be marginal to flexibility, and in turn, work experience shifts their attitudes to become less traditional. Third, from the labor demand side, remote work comes with trade-offs in worker performance. Working from the office increases accuracy by 3% and speed by 18%. However, these performance drawbacks of work-from-home arrangements may be outweighed by the increase in available workers.</jats:p>",
       "doi": "10.1093/qje/qjag045",
       "url": "https://doi.org/10.1093/qje/qjag045"
+    },
+    {
+      "title": "When Is It Fairer to Allocate Resources for Training to Lower Performing Versus Higher Performing Employees?",
+      "authors": "Eric W. Chan, Mackenzie K. Feinberg, Martin Wiernsperger",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-09-20",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Professional development and training are essential for organizational growth and success, but resource constraints often force managers into a dilemma: Should they train their lower performing or higher performing employees? While lower performers with greater skill gaps can benefit more from training than higher performers, managers must also consider employees’ fairness concerns. Using an interactive experiment, we predict and find that how employees react to their manager's allocation of training resources depends on the prevailing fairness norms in the work environment. When egalitarian norms dominate, such as when employees have little control over their job tasks, lower performers take the receipt of resources for training for granted and react negatively when the manager allocates those resources to higher performers instead. In contrast, when meritocratic norms dominate, such as when employees have more control over their job tasks, higher performers react more negatively than lower performers to not receiving training resources. Additional experiments suggest that these fairness‐norm–dependent reactions are most pronounced under tournament incentives and may disappear under individual performance‐based pay. Overall, our study highlights the importance for managers to consider both employee productivity and the prevailing fairness norms of the work environment when allocating scarce training resources.</jats:p>",
+      "doi": "10.1111/1475-679x.70085",
+      "url": "https://doi.org/10.1111/1475-679x.70085"
     },
     {
       "title": "Corporate Bond Multipliers: Substitutes Matter",
@@ -913,6 +923,26 @@
       "url": "https://doi.org/10.2308/tar-2024-0518"
     },
     {
+      "title": "Related Exposures to Distressed Borrowers and Bank Lending",
+      "authors": "Sumit Agarwal, Ricardo Correa, Bernardo Morais, Jessica Roldán, Claudia Ruiz-Ortega",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104376",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104376"
+    },
+    {
+      "title": "Debt and Assets",
+      "authors": "Efraim Benmelech, Nitish Kumar, Raghuram Rajan",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104375",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104375"
+    },
+    {
       "title": "Who Values Democracy?",
       "authors": "Max Miller",
       "journal": "Journal of Political Economy",
@@ -1013,7 +1043,7 @@
       "url": "https://doi.org/10.1111/jofi.70078"
     },
     {
-      "title": "Taxes and Investment: Evidence from the “Halloween Massacre” of 2006",
+      "title": "Taxes and Investment: Evidence from the “Halloween Massacre” of 2006",
       "authors": "Matthew Boland, Khin Phyo Hlaing, Petro Lisowsky",
       "journal": "Journal of Accounting Research",
       "field": "Accounting",
@@ -4504,7 +4534,7 @@
     },
     {
       "title": "What Drives Momentum and Reversal? Evidence from Day and Night Signals",
-      "authors": "Yashar H. Barardehi, Vincent Bogousslavsky, Dmitriy Muravyev",
+      "authors": "Yashar H Barardehi, Vincent Bogousslavsky, Dmitriy Muravyev",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-04-07",
@@ -5061,36 +5091,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find widespread evidence that firms avoid overtime payments by strategically assigning “managerial” titles. Exploiting the exemption threshold under the Fair Labor Standards Act (FLSA), we find managerial titles increase almost fivefold just above the overtime pay cutoff, including suspect listings, such as “Director of First Impressions” for a role equivalent to “Front-Desk Clerk.” Avoidance is higher when firms have more bargaining power and are financially constrained. It is also more common in occupations with volatile demand and unpredictable worker scheduling. Patterns align with litigation and Department of Labor enforcement. Firms avoid roughly 13.5% in compensation costs, hiring strategic “managers.”</jats:p>",
       "doi": "10.1093/rfs/hhag016",
       "url": "https://doi.org/10.1093/rfs/hhag016"
-    },
-    {
-      "title": "Technology Sophistication Across Establishments",
-      "authors": "Xavier Cirera, Diego Comin, Marcio Cruz",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-03-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study technology sophistication using a novel approach that measures the sophistication of the most advanced (MAX) and the most widely used (MOST) technologies in key business functions within establishments. Using data from over 21,000 establishments across 15 countries, we find that establishments generally underutilize the most sophisticated technologies available in a business function. These MAX-MOST gaps are persistent and strongly associated with productivity both across establishments and countries. At the establishment level, there is substantial variation in both MAX and MOST, with MOST showing a more skewed distribution. MAX and MOST follow different life cycle patterns in low-income countries and among small establishments, and they exhibit different associations with several establishment characteristics and performance indicators. This evidence underscores the different nature of the technology upgrading processes that drive MAX and MOST.</jats:p>",
-      "doi": "10.1093/qje/qjag018",
-      "url": "https://doi.org/10.1093/qje/qjag018"
-    },
-    {
-      "title": "Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs",
-      "authors": "Virginia Minni",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-03-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do managers matter for firm performance? This article provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data cover 200,000 white-collar workers and 30,000 managers over 11 years in 100 countries. I identify good managers by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers and generate large and persistent gains in workers’ career progression and productivity. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.</jats:p>",
-      "doi": "10.1093/qje/qjag017",
-      "url": "https://doi.org/10.1093/qje/qjag017"
-    },
-    {
-      "title": "Consumer Choice and Corporate Bankruptcy",
-      "authors": "Samuel Antill, Megan Hunter",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-03-23",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We estimate the indirect costs of corporate bankruptcy associated with lost customers. In incentivized experiments, randomly informing consumers about a firm's Chapter 11 reorganization lowers their willingness to pay for the firm's products by 17% to 28%. Consumers worry that bankruptcy could reduce product quality or prevent future interactions with the bankrupt firm. On average, 38% of consumers are aware of major bankruptcies. Using our experiments to estimate a structural model, we show that these indirect costs of bankruptcy amount to 12% to 15% of a firm's value. We show that these costs are unlikely to arise before bankruptcy.</jats:p>",
-      "doi": "10.1111/jofi.70030",
-      "url": "https://doi.org/10.1111/jofi.70030"
     }
   ]
 }
