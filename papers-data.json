@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T07:20:15.582Z",
-  "count": 509,
+  "lastUpdated": "2026-09-24T07:13:27.650Z",
+  "count": 512,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -351,6 +351,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Silence to Solidarity: How Communication about a Minority Affects Discrimination",
+      "authors": "Duncan Webb",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-22",
+      "abstract": "",
+      "doi": "10.1086/742724",
+      "url": "https://doi.org/10.1086/742724"
+    },
+    {
+      "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+      "authors": "Priit Jeenas",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-22",
+      "abstract": "",
+      "doi": "10.1086/744130",
+      "url": "https://doi.org/10.1086/744130"
+    },
+    {
+      "title": "Justice Good as Random?",
+      "authors": "Niklas Hüther, Kristoph Kleiner",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-09-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The random assignment of judges promotes fairness and underpins causal identification across the social sciences. Analyzing Chapter 11 bankruptcies, we find sophisticated parties “judge‐shop”: relative to secured hedge fund creditors, cases involving unsecured hedge fund creditors and equity holders are assigned judges with lower past conversion rates and higher unsecured recovery rates. Experienced legal counsel similarly influences assignment. Because judges are not assigned consecutive large cases, knowledgeable parties can judge‐shop by timing the filing date. We develop a method to measure the resulting bias and demonstrate the need for controls and bounded instrumental variable specifications in judge/examiner designs.</jats:p>",
+      "doi": "10.1111/jofi.70081",
+      "url": "https://doi.org/10.1111/jofi.70081"
     },
     {
       "title": "Bringing Work Home: Flexible Work Arrangements as Gateway Jobs for Women in West Bengal",
@@ -941,6 +971,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104375",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104375"
+    },
+    {
+      "title": "Navigating New Accounting Standards: Implications for Firms and Their Auditors",
+      "authors": "Will Anding",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101952",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101952"
     },
     {
       "title": "Who Values Democracy?",
@@ -2931,16 +2971,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher‐quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.</jats:p>",
       "doi": "10.1111/1475-679x.70072",
       "url": "https://doi.org/10.1111/1475-679x.70072"
-    },
-    {
-      "title": "Silence to Solidarity: How Communication About a Minority Affects Discrimination",
-      "authors": "Duncan Webb",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742724",
-      "url": "https://doi.org/10.1086/742724"
     },
     {
       "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
@@ -5063,16 +5093,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag026"
     },
     {
-      "title": "Risk Managers in Banks",
-      "authors": "Matthias Efing, Patrick Kampkötter, Vincent Maurin",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Some bank regulators require that performance bonuses for risk managers (RMs) and for employees in front offices (FOs) be linked to distinct performance metrics, as correlated pay incentives could lead RMs to rubber-stamp risky investments. We theoretically show that a positive correlation between FOs and RMs is optimal for banks, but can be socially excessive in leveraged institutions. Using data from German bank employees, we show empirically that incentive pay is indeed positively correlated between RMs and FOs. Consistent with our predictions, bonus correlations are higher in banks with higher leverage and weaker performance during the Great Financial Crisis.</jats:p>",
-      "doi": "10.1093/rfs/hhag012",
-      "url": "https://doi.org/10.1093/rfs/hhag012"
-    },
-    {
       "title": "Debt Maturity Management",
       "authors": "Yunzhi Hu, Felipe Varas, Chao Ying",
       "journal": "Review of Financial Studies",
@@ -5091,6 +5111,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find widespread evidence that firms avoid overtime payments by strategically assigning “managerial” titles. Exploiting the exemption threshold under the Fair Labor Standards Act (FLSA), we find managerial titles increase almost fivefold just above the overtime pay cutoff, including suspect listings, such as “Director of First Impressions” for a role equivalent to “Front-Desk Clerk.” Avoidance is higher when firms have more bargaining power and are financially constrained. It is also more common in occupations with volatile demand and unpredictable worker scheduling. Patterns align with litigation and Department of Labor enforcement. Firms avoid roughly 13.5% in compensation costs, hiring strategic “managers.”</jats:p>",
       "doi": "10.1093/rfs/hhag016",
       "url": "https://doi.org/10.1093/rfs/hhag016"
+    },
+    {
+      "title": "Risk Managers in Banks",
+      "authors": "Matthias Efing, Patrick Kampkötter, Vincent Maurin",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-03-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Some bank regulators require that performance bonuses for risk managers (RMs) and for employees in front offices (FOs) be linked to distinct performance metrics, as correlated pay incentives could lead RMs to rubber-stamp risky investments. We theoretically show that a positive correlation between FOs and RMs is optimal for banks, but can be socially excessive in leveraged institutions. Using data from German bank employees, we show empirically that incentive pay is indeed positively correlated between RMs and FOs. Consistent with our predictions, bonus correlations are higher in banks with higher leverage and weaker performance during the Great Financial Crisis.</jats:p>",
+      "doi": "10.1093/rfs/hhag012",
+      "url": "https://doi.org/10.1093/rfs/hhag012"
     }
   ]
 }
