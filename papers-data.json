@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T07:09:10.983Z",
-  "count": 513,
+  "lastUpdated": "2026-09-26T07:03:56.624Z",
+  "count": 512,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -361,6 +361,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104356",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
+    },
+    {
+      "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
+      "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-25",
+      "abstract": "",
+      "doi": "10.1086/742710",
+      "url": "https://doi.org/10.1086/742710"
     },
     {
       "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
@@ -1021,6 +1031,36 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101950",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101950"
+    },
+    {
+      "title": "Financial Statement Audits of Private Firms and IRS Enforcement Outcomes",
+      "authors": "Michele S. Mullaney, Bridget Stomberg, Brian Williams",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using IRS tax return data for private C corporations, we examine the relation between GAAP audits and IRS enforcement outcomes. Among IRS-audited tax returns, we find that those with audited GAAP financial statements have fewer and smaller proposed deficiencies. These effects persist after controlling for tax preparers. Furthermore, we estimate that the explanatory power of audited GAAP financial statements is comparable to that of external debtholders. Audited GAAP financial statements are also associated with a higher likelihood of unagreed proposed deficiencies, more detailed tax return disclosures, and fewer IRS audit hours, all of which are consistent with more defensible tax positions. Tax returns with audited GAAP financial statements exhibit greater initial voluntary compliance and generate smaller proposed deficiencies per IRS audit hour. These results inform private firms as they weigh the costs and benefits of financial statement audits and the IRS as it allocates enforcement resources.</jats:p>\n                  <jats:p>Data Availability: The IRS provided confidential tax information to Michele S. Mullaney pursuant to an agreement under the Intergovernmental Personnel Act of 1970 through the Statistics of Income Division’s Joint Statistical Research Program.</jats:p>\n                  <jats:p>JEL Classifications: H25; H26; M41; M42; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0662",
+      "url": "https://doi.org/10.2308/tar-2023-0662"
+    },
+    {
+      "title": "Option Value of Auditing: Evidence from Post-Audit Career Advancement",
+      "authors": "Jingwen Yang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies the career trajectories of individuals who exit auditing. Using individual-level employment data, I document that ex-auditors transition into a range of positions, especially in accounting and finance, and that ex-auditors who transition into accounting or finance roles are more likely to be promoted than peers in the same roles without an auditing background. These results suggest that auditing experience is not only associated with varied career options but also with advancement in those options. These promotion advantages are more pronounced for ex-auditors who obtained relevant industry or regional exposure through auditing, who were affiliated with Big N audit firms or with audit offices with greater market share or task complexity, who have three to five years of audit tenure, or who transitioned into positions with greater skill overlap with auditing. Together, this paper provides large-sample descriptive evidence that sheds light on the option value of auditing.</jats:p>\n                  <jats:p>Data Availability: Data are available from the commercial data providers identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: J24; J62; M42.</jats:p>",
+      "doi": "10.2308/tar-2024-0371",
+      "url": "https://doi.org/10.2308/tar-2024-0371"
+    },
+    {
+      "title": "Auditor-Employed Tax Experts and Audit Quality",
+      "authors": "Andrew M. Bauer, Miguel Minutti-Meza, Saad Siddiqui, Aleksandra B. Zimmerman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using PCAOB data, we examine variation in auditor-employed tax experts’ involvement to assist the audit team. Tax expert hours average 5 percent of total audit hours and are positively associated with several proxies for the complexity of tax estimates. Greater tax expert involvement correlates with a higher detection rate of tax-related internal control material weaknesses (ICMWs) and a greater frequency of subsequent tax-related restatements. However, earlier tax expert involvement is associated with fewer ICMWs, although it is not significantly associated with subsequent restatements. Overall, our findings provide new evidence on how the timing and intensity of tax expert involvement relate to audit outcomes. Although involving tax experts is a typical response to auditing complex estimates, their involvement alone does not fully mitigate restatement risk. Importantly, timely coordination between the audit team and tax experts plays a critical role in ensuring high audit quality.</jats:p>\n                  <jats:p>Data Availability: Audit engagement data from the PCAOB are proprietary; other data are from public sources.</jats:p>\n                  <jats:p>JEL Classifications: M4.</jats:p>",
+      "doi": "10.2308/tar-2023-0495",
+      "url": "https://doi.org/10.2308/tar-2023-0495"
     },
     {
       "title": "Who Values Democracy?",
@@ -3011,16 +3051,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher‐quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.</jats:p>",
       "doi": "10.1111/1475-679x.70072",
       "url": "https://doi.org/10.1111/1475-679x.70072"
-    },
-    {
-      "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
-      "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742710",
-      "url": "https://doi.org/10.1086/742710"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -5091,46 +5121,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock prices aggregate investor information about investment opportunities and reflect managerial performance. These dual roles may be in tension: when prices are more informative about investment opportunities, they may be less effective at incentivizing managerial effort. This tradeoff has novel consequences. Lower information costs can lead to both more efficient investment but lower firm value. The principal may strictly prefer to delegate investment to a manager who has no informational advantage and makes ex-post inefficient choices. Investment in diversifying and (ex-ante) negative NPV projects mitigate agency problems. Finally, standard measures of price efficiency provide an incomplete picture of firm value.</jats:p>",
       "doi": "10.1093/rfs/hhag008",
       "url": "https://doi.org/10.1093/rfs/hhag008"
-    },
-    {
-      "title": "The Broader Role of Venture Capital Due Diligence",
-      "authors": "Juanita González-Uribe, Robyn Klingler-Vidra, Su Wang, Xiang Yin",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Analyzing approximately 2,000 applicants to a U.K. seed fund, this study examines how venture capital (VC) due diligence affects startup outcomes independent of funding decisions. Leveraging random reviewer assignment, we find that due diligence increases 2-year growth but lowers continuation rates among nonfunded applicants, reflecting a dynamic of accelerated scaling or exit. Evidence points to a learning mechanism: due diligence exposes founders to advanced website technologies, prompting capability building in digital skills. Firms selected for due diligence adopt these technologies, even before raising external capital. The findings highlight VC due diligence as a formative process influencing startups beyond the funded few.</jats:p>",
-      "doi": "10.1093/rfs/hhag014",
-      "url": "https://doi.org/10.1093/rfs/hhag014"
-    },
-    {
-      "title": "The Covenant-Defeasance Option in Corporate Bonds",
-      "authors": "Carsten Bienz, Zsuzsanna Fluck, Karin S Thorburn",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Corporate bonds include restrictive covenants that may prevent firms from pursuing valuable growth opportunities ex post and are virtually impossible to renegotiate. We study a common but little-known contractual provision—the defeasance option—which allows issuers to immediately remove all covenants without retiring the bond. Our theoretical model predicts, and our empirical analysis confirms, that defeasance inclusion is more likely when covenants are numerous and issuers face financial constraints, uncertainty, and growth opportunities. We also show that investors require lower yields when defeasance is included in noncallable bonds, and higher yields in fixed-price callable bonds, where it raises call risk.</jats:p>",
-      "doi": "10.1093/rfs/hhag027",
-      "url": "https://doi.org/10.1093/rfs/hhag027"
-    },
-    {
-      "title": "How Financial Markets Create Superstars",
-      "authors": "Spyros Terovitis, Vladimir Vladimirov",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>By aggregating information into stock prices, financial markets help guide the allocation of resources. We show that speculators without information about firms’ fundamentals can exploit this role of prices and profit from inflating firm valuations. Uninformed speculation is profitable because high valuations attract employees, business partners, and investors, creating value at targeted firms at the cost of diverting resources from better firms. Both large and small speculators, without pre-existing stock positions, can profit from uninformed speculation, particularly when targeting firms with moderate Q, operating in “normal” (neither hot nor cold) markets, and using performance pay or equity to attract stakeholders.</jats:p>",
-      "doi": "10.1093/rfs/hhag015",
-      "url": "https://doi.org/10.1093/rfs/hhag015"
-    },
-    {
-      "title": "Excess Commitment in R&D",
-      "authors": "Marius Guenzel, Tong Liu",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We document that firms exhibit “excess” commitment to R&amp;D projects and examine its consequences for innovation outcomes. Using detailed data on pharmaceutical firms’ clinical trial projects, we find that trial delays, empirically uncorrelated with multiple project-quality measures, substantially reduce firms’ subsequent project-termination propensity. This result remains robust when we use variation in clinical trial site congestion to instrument for unexpected delays. Excess commitment intensifies when CEO compensation has greater stock-price sensitivity and the CEO is responsible for the project’s initiation. Our findings have broader implications: delay-driven commitment reduces new drug project initiations, with further evidence suggesting efficiency losses for firms.</jats:p>",
-      "doi": "10.1093/rfs/hhag026",
-      "url": "https://doi.org/10.1093/rfs/hhag026"
     }
   ]
 }
