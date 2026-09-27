@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T07:03:56.624Z",
+  "lastUpdated": "2026-09-27T07:34:50.905Z",
   "count": 512,
   "papers": [
     {
@@ -391,6 +391,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We highlight the role of duration and exchange rate risks on portfolio flows by using a unique and comprehensive database of U.S. investor flows into emerging market government bonds denominated in local currency. Borrowing long-term mitigates rollover risk but amplifies valuation changes that further interact with currency movements. Our analysis highlights the double-edged nature of long-term borrowing and draws attention to market stress dynamics due to strategic complementarities among mutual fund investors.</jats:p>",
       "doi": "10.1093/rfs/hhag088",
       "url": "https://doi.org/10.1093/rfs/hhag088"
+    },
+    {
+      "title": "Universal Portfolio Shrinkage",
+      "authors": "Bryan Kelly, Semyon Malamud, Mo Pourmohammadi, Fabio Trojani",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-09-24",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a nonlinear covariance shrinkage method for building optimal portfolios. Our universal portfolio shrinkage approximator (UPSA) is built from closed-form basis portfolios, is cheap to implement, and improves on existing shrinkage methods. Rather than uniformly penalizing all principal components of returns or discarding low-variance ones, UPSA instead reweights components to explicitly optimize expected out-of-sample portfolio performance. In empirical applications using a large cross-section of anomaly factors, it delivers robust improvements over alternative shrinkage methods in the literature.</jats:p>",
+      "doi": "10.1093/rfs/hhag084",
+      "url": "https://doi.org/10.1093/rfs/hhag084"
     },
     {
       "title": "Silence to Solidarity: How Communication about a Minority Affects Discrimination",
@@ -1013,7 +1023,7 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104375"
     },
     {
-      "title": "Navigating New Accounting Standards: Implications for Firms and Their Auditors",
+      "title": "Navigating new accounting standards: Implications for firms and their auditors",
       "authors": "Will Anding",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -5101,16 +5111,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Government-provided flood insurance contracts have strict coverage limits, leaving some households underinsured against flood risk. This paper exploits these strict coverage limits as well as staggered flood map updates to show that mortgage lenders screen for uninsurable flood risk by requiring lower loan-to-value ratios at origination. This credit rationing leads delinquency rates to equalize inside and outside of flood zones, and shifts the composition of mortgage borrowers in flood zones toward richer and higher credit quality individuals. I conclude that lenders reduce credit supply when they retain residual uninsured exposures to flood risk, which has distributional consequences for flood zones.</jats:p>",
       "doi": "10.1093/rfs/hhag030",
       "url": "https://doi.org/10.1093/rfs/hhag030"
-    },
-    {
-      "title": "The Effects of Gender Integration on Men: Evidence from the U.S. Military",
-      "authors": "Kyle Greenberg, Melanie Wasserman, E Anna Weber",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-03-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do men negatively respond when women first enter an occupation? We answer this question by studying the end of one of the final explicit occupational barriers to women in the United States: in 2016, the U.S. military opened all positions to women, including historically male-only combat occupations. We exploit the staggered integration of women into combat units to estimate the causal effects of the introduction of female colleagues on men’s job performance, behavior, and perceptions of workplace quality, using monthly administrative personnel records and rich survey responses. We find that integrating women into previously all-male units does not negatively affect men’s performance or behavioral outcomes, including retention, promotions, demotions, separations for misconduct, criminal investigations, and medical conditions. Most of our results are precise enough to rule out small detrimental effects. However, there is a wedge between men’s perceptions and performance. The integration of women causes a negative shift in male soldiers’ perceptions of workplace quality. The decline is driven by units integrated with female officers, likely arising from female officers increasing men’s awareness of workplace problems or from men’s dissatisfaction from working with women in positions of authority—even though men in such units show some performance gains. If male-dominated workplaces are reluctant to incorporate women due to expectations that men will become less productive, our paper provides evidence to weigh against that notion.</jats:p>",
-      "doi": "10.1093/qje/qjag016",
-      "url": "https://doi.org/10.1093/qje/qjag016"
     },
     {
       "title": "Incentivizing Effort and Informing Investment: The Dual Role of Stock Prices",
