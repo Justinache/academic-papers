@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-27T07:34:50.905Z",
-  "count": 512,
+  "lastUpdated": "2026-09-28T08:13:38.169Z",
+  "count": 514,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -233,6 +233,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104357"
     },
     {
+      "title": "Debt and assets",
+      "authors": "Efraim Benmelech, Nitish Kumar, Raghuram Rajan",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104375",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104375"
+    },
+    {
+      "title": "What can macro-active bond funds tell us about monetary policy change?",
+      "authors": "Claire Yurong Hong, Jun Pan, Shiwen Tian",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104378",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104378"
+    },
+    {
       "title": "Strategic communication among banks",
       "authors": "Christian Bittner, Falko Fecht, Melissa Pala, Farzad Saidi",
       "journal": "Journal of Financial Economics",
@@ -363,6 +383,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
     },
     {
+      "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+      "authors": "Elizabeth Setren",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-09-26",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts to relatively wealthier and predominantly White suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.</jats:p>",
+      "doi": "10.1093/qje/qjag043",
+      "url": "https://doi.org/10.1093/qje/qjag043"
+    },
+    {
       "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
       "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
       "journal": "Journal of Political Economy",
@@ -371,6 +401,16 @@
       "abstract": "",
       "doi": "10.1086/742710",
       "url": "https://doi.org/10.1086/742710"
+    },
+    {
+      "title": "How Does Wage Inequality Affect the Labor Movement?",
+      "authors": "Barbara Biasi, Zoë Cullen, Julia Gilman, Nina Roussille",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-09-25",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.</jats:p>",
+      "doi": "10.1093/qje/qjag046",
+      "url": "https://doi.org/10.1093/qje/qjag046"
     },
     {
       "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
@@ -1011,16 +1051,6 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104376",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104376"
-    },
-    {
-      "title": "Debt and Assets",
-      "authors": "Efraim Benmelech, Nitish Kumar, Raghuram Rajan",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-09-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104375",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104375"
     },
     {
       "title": "Navigating new accounting standards: Implications for firms and their auditors",
@@ -5111,16 +5141,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Government-provided flood insurance contracts have strict coverage limits, leaving some households underinsured against flood risk. This paper exploits these strict coverage limits as well as staggered flood map updates to show that mortgage lenders screen for uninsurable flood risk by requiring lower loan-to-value ratios at origination. This credit rationing leads delinquency rates to equalize inside and outside of flood zones, and shifts the composition of mortgage borrowers in flood zones toward richer and higher credit quality individuals. I conclude that lenders reduce credit supply when they retain residual uninsured exposures to flood risk, which has distributional consequences for flood zones.</jats:p>",
       "doi": "10.1093/rfs/hhag030",
       "url": "https://doi.org/10.1093/rfs/hhag030"
-    },
-    {
-      "title": "Incentivizing Effort and Informing Investment: The Dual Role of Stock Prices",
-      "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock prices aggregate investor information about investment opportunities and reflect managerial performance. These dual roles may be in tension: when prices are more informative about investment opportunities, they may be less effective at incentivizing managerial effort. This tradeoff has novel consequences. Lower information costs can lead to both more efficient investment but lower firm value. The principal may strictly prefer to delegate investment to a manager who has no informational advantage and makes ex-post inefficient choices. Investment in diversifying and (ex-ante) negative NPV projects mitigate agency problems. Finally, standard measures of price efficiency provide an incomplete picture of firm value.</jats:p>",
-      "doi": "10.1093/rfs/hhag008",
-      "url": "https://doi.org/10.1093/rfs/hhag008"
     }
   ]
 }
