@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T08:13:38.169Z",
+  "lastUpdated": "2026-09-29T07:53:47.979Z",
   "count": 514,
   "papers": [
     {
@@ -383,6 +383,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
     },
     {
+      "title": "An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts",
+      "authors": "Christopher J. Palmer",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-09-28",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I develop a control function methodology robust to endogenous or mismeasured regressors in hazard models. Applying the estimator to the subprime mortgage crisis, I quantify what caused the foreclosure rate to triple across the 2003 to 2007 subprime cohorts. To identify the elasticity of default to housing prices, I use various home price instruments including historical variation in home price cyclicality. Loose credit played a significant role in the crisis, but much of the increase in defaults across cohorts was caused by price declines unrelated to lending standards, with a 10% price decline increasing subprime mortgage default rates by 50%.</jats:p>",
+      "doi": "10.1111/jofi.70088",
+      "url": "https://doi.org/10.1111/jofi.70088"
+    },
+    {
+      "title": "Partisanship, Information, and Punishment for Misconduct at Work",
+      "authors": "Vivek Pandey, Joanna S. Wu, Yuanzhe Zhang",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-09-28",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether firms apply partisan standards when responding to employee financial misconduct. Using detailed individual‐level data on financial advisers, we find that advisers who are in the political minority at their firm (political minority advisers) are no different from their colleagues at the same firm and time in the incidence and severity of misconduct, yet following misconduct, they are significantly more likely to depart—a pattern we term “partisan punishment standards.” This pattern is especially pronounced at firms with lower internal information quality (IIQ), proxied with (1) lower external reporting quality (for public firms only), (2) private firms (relative to public firms), and (3) not hiring an independent public accountant to create an internal control report (for both public and private firms). We also document “partisan reporting standards”: Firms are more likely to publicly disclose misconduct by political minority advisers while remaining relatively silent in other cases. Firms that exhibit partisan punishment practices subsequently experience slower growth.</jats:p>",
+      "doi": "10.1111/1475-679x.70089",
+      "url": "https://doi.org/10.1111/1475-679x.70089"
+    },
+    {
       "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
       "authors": "Elizabeth Setren",
       "journal": "Quarterly Journal of Economics",
@@ -658,7 +678,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-09-04",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax–a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various Census reports, including those on “Wealth, Debt, and Taxation”), in which the Census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade, and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid-1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax—a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various census reports, including those on “Wealth, Debt, and Taxation”), in which the census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid-1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.</jats:p>",
       "doi": "10.1093/qje/qjag038",
       "url": "https://doi.org/10.1093/qje/qjag038"
     },
@@ -697,7 +717,7 @@
       "authors": "Kelli Marquardt",
       "journal": "Journal of Political Economy",
       "field": "Economics",
-      "date": "2026-09-02",
+      "date": "2026-09-01",
       "abstract": "",
       "doi": "10.1086/742421",
       "url": "https://doi.org/10.1086/742421"
@@ -1103,6 +1123,76 @@
       "url": "https://doi.org/10.2308/tar-2023-0495"
     },
     {
+      "title": "Debiasing and\n                    t\n                    -Tests for Synthetic Control Inference on Average Causal Effects",
+      "authors": "Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742424",
+      "url": "https://doi.org/10.1086/742424"
+    },
+    {
+      "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
+      "authors": "Tan Gan, Nicholas Wu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742434",
+      "url": "https://doi.org/10.1086/742434"
+    },
+    {
+      "title": "The Effect of Education Policy on Crime: An Intergenerational            Perspective",
+      "authors": "Ulrika Ahrsjö, Costas Meghir, Mårten Palme, Marieke Schnabel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742423",
+      "url": "https://doi.org/10.1086/742423"
+    },
+    {
+      "title": "Rent Guarantee Insurance",
+      "authors": "Boaz Abramson, Stijn Van Nieuwerburgh",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742422",
+      "url": "https://doi.org/10.1086/742422"
+    },
+    {
+      "title": "Markups: A Search-Theoretic Perspective",
+      "authors": "Guido Menzio",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742420",
+      "url": "https://doi.org/10.1086/742420"
+    },
+    {
+      "title": "Optimal Tests Following Sequential Experiments",
+      "authors": "Karun Adusumilli",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742418",
+      "url": "https://doi.org/10.1086/742418"
+    },
+    {
+      "title": "Illiquid Lemon Markets and the Macroeconomy",
+      "authors": "Aimé Bierdel, Andres Drenik, Juan Herreño, Pablo Ottonello",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-01",
+      "abstract": "",
+      "doi": "10.1086/742435",
+      "url": "https://doi.org/10.1086/742435"
+    },
+    {
       "title": "Who Values Democracy?",
       "authors": "Max Miller",
       "journal": "Journal of Political Economy",
@@ -1223,16 +1313,6 @@
       "url": "https://doi.org/10.1086/742712"
     },
     {
-      "title": "Debiasing and\n                    t\n                    -Tests for Synthetic Control Inference on Average Causal Effects",
-      "authors": "Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-21",
-      "abstract": "",
-      "doi": "10.1086/742424",
-      "url": "https://doi.org/10.1086/742424"
-    },
-    {
       "title": "The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance",
       "authors": "Marina Gertsberg",
       "journal": "Journal of Finance",
@@ -1323,16 +1403,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag073"
     },
     {
-      "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
-      "authors": "Tan Gan, Nicholas Wu",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-13",
-      "abstract": "",
-      "doi": "10.1086/742434",
-      "url": "https://doi.org/10.1086/742434"
-    },
-    {
       "title": "Personal Bankruptcy Protection and Household Debt",
       "authors": "Felipe Severino, Meta Brown, Rajashri Chakrabarti",
       "journal": "Review of Financial Studies",
@@ -1351,26 +1421,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do impact investors seek impact, or merely “impact wash”? We provide systematic evidence on the nonfinancial determinants of impact investing. Impact investors focus on firms aligned with the priorities of the federal government and disproportionately invest in economically disadvantaged regions. While we find high levels of coinvestment between impact and traditional investors, we also show that impact investors influence the strategies of their traditional coinvestors, are more likely to fund firms in nascent industries, and invest countercyclically. Finally, we characterize investment heterogeneity based on a novel classification of impact investment theses, with a focus on climate, environment, and jobs and equity.</jats:p>",
       "doi": "10.1093/rfs/hhag074",
       "url": "https://doi.org/10.1093/rfs/hhag074"
-    },
-    {
-      "title": "The Effect of Education Policy on Crime: An Intergenerational            Perspective",
-      "authors": "Ulrika Ahrsjö, Costas Meghir, Mårten Palme, Marieke Schnabel",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-10",
-      "abstract": "",
-      "doi": "10.1086/742423",
-      "url": "https://doi.org/10.1086/742423"
-    },
-    {
-      "title": "Rent Guarantee Insurance",
-      "authors": "Boaz Abramson, Stijn Van Nieuwerburgh",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-10",
-      "abstract": "",
-      "doi": "10.1086/742422",
-      "url": "https://doi.org/10.1086/742422"
     },
     {
       "title": "Sequential Search for Corporate Bonds",
@@ -1398,7 +1448,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-08-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study worker noncompete clauses in a large field experiment with two finance firms. Across ~14,000 job offers to freelance recruiters on short-term contracts, we randomize wages and the presence, salience, and duration of noncompetes (all contracts also included a nondisclosure agreement). Removing a noncompete increases mobility between competing employers by 36–52% and raises workers’ total earnings from the two firms by 12–17%. We find no evidence—rejecting even small effects—that removing noncompetes generates secret leakage. We also find no evidence that workers choose noncompete jobs for higher pay. Many workers appear unaware of noncompetes before firms’ post-employment communication. The results align with a model of inattention and uncertainty about enforcement.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study worker noncompete clauses in a large field experiment with two finance firms. Across ~14,000 job offers to freelance recruiters on short-term contracts, we randomize wages and the presence, salience, and duration of noncompetes (all contracts also included a nondisclosure agreement). Removing a noncompete increases mobility between competing employers by 36%–52% and raises workers’ total earnings from the two firms by 12%–17%. We find no evidence—rejecting even small effects—that removing noncompetes generates secret leakage. We also find no evidence that workers choose noncompete jobs for higher pay. Many workers appear unaware of noncompetes before firms’ post-employment communication. The results align with a model of inattention and uncertainty about enforcement.</jats:p>",
       "doi": "10.1093/qje/qjag040",
       "url": "https://doi.org/10.1093/qje/qjag040"
     },
@@ -1983,16 +2033,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0299"
     },
     {
-      "title": "Markups: A Search-Theoretic Perspective",
-      "authors": "Guido Menzio",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/742420",
-      "url": "https://doi.org/10.1086/742420"
-    },
-    {
       "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
       "authors": "David Card, Eric Chyn, Laura Giuliano",
       "journal": "Journal of Political Economy",
@@ -2243,16 +2283,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0727"
     },
     {
-      "title": "Optimal Tests Following Sequential Experiments",
-      "authors": "Karun Adusumilli",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-29",
-      "abstract": "",
-      "doi": "10.1086/742418",
-      "url": "https://doi.org/10.1086/742418"
-    },
-    {
       "title": "Learning by Investing: Entrepreneurial Spillovers from Venture Capital",
       "authors": "Josh Lerner, Jinlin Li, Tong Liu",
       "journal": "Review of Financial Studies",
@@ -2301,16 +2331,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Banks adjust loan spreads after observing natural disasters linked to climate change. We isolate this updating process by identifying loans to borrowers at risk of, but not directly affected by, such disasters. Loan spreads for these borrowers spike in both primary and secondary markets, while no such updating occurs for non–climate‐related disasters. Evidence suggests a heightened perceived credit risk, which nonetheless cannot fully explain the increase in rates. Taken altogether, increased spreads are explained primarily by salience bias, as they are short‐lived and amplified by media attention. This salience impacts financial decisions at bank‐dependent firms.</jats:p>",
       "doi": "10.1111/jofi.70066",
       "url": "https://doi.org/10.1111/jofi.70066"
-    },
-    {
-      "title": "Illiquid Lemon Markets and the Macroeconomy",
-      "authors": "Aimé Bierdel, Andres Drenik, Juan Herreño, Pablo Ottonello",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-27",
-      "abstract": "",
-      "doi": "10.1086/742435",
-      "url": "https://doi.org/10.1086/742435"
     },
     {
       "title": "Pension Liquidity Risk",
@@ -5121,26 +5141,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using supervisory data on the loan portfolios of large U.S. banks, we document that these banks specialize by concentrating their lending disproportionately in a few industries. This specialization is consistent with banks having industry‐specific knowledge, reflected in reduced risk of loan defaults, lower aggregate charge‐offs, and higher propensity to lend to opaque firms in the preferred industry. Banks attract high‐quality borrowers by offering generous loan terms in their specialized industry, especially to borrowers with alternative options. Banks focus on their preferred industry in times of instability and relatively lower Tier 1 capital as well as after surges in deposits.</jats:p>",
       "doi": "10.1111/jofi.70032",
       "url": "https://doi.org/10.1111/jofi.70032"
-    },
-    {
-      "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
-      "authors": "Zhongchen Hu",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Flooding is among the costliest natural disasters in many countries. To protect collateral, many mortgage borrowers in the United States are legally required to maintain flood insurance. However, lax enforcement leads to frequent policy lapses. This paper shows that lenders provide credit contingent on borrowers’ insurance incentives. Exploiting exogenous premium rises ($266 annually) that disincentivize insurance take-up, I find mortgage denial rates dramatically increase by 0.49–0.81 pp. By comparison, lowering income by $266 has an effect of only 0.01 pp. Mortgage applicants’ composition remains unchanged, refuting demand-side explanations. Evidence suggests lenders internalize ex-post monitoring costs into ex-ante credit restrictions.</jats:p>",
-      "doi": "10.1093/rfs/hhag031",
-      "url": "https://doi.org/10.1093/rfs/hhag031"
-    },
-    {
-      "title": "Who Bears Flood Risk? Evidence from Mortgage Markets in Florida",
-      "authors": "Parinitha Sastry",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Government-provided flood insurance contracts have strict coverage limits, leaving some households underinsured against flood risk. This paper exploits these strict coverage limits as well as staggered flood map updates to show that mortgage lenders screen for uninsurable flood risk by requiring lower loan-to-value ratios at origination. This credit rationing leads delinquency rates to equalize inside and outside of flood zones, and shifts the composition of mortgage borrowers in flood zones toward richer and higher credit quality individuals. I conclude that lenders reduce credit supply when they retain residual uninsured exposures to flood risk, which has distributional consequences for flood zones.</jats:p>",
-      "doi": "10.1093/rfs/hhag030",
-      "url": "https://doi.org/10.1093/rfs/hhag030"
     }
   ]
 }
