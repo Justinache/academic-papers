@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-29T07:53:47.979Z",
-  "count": 514,
+  "lastUpdated": "2026-09-30T07:58:09.166Z",
+  "count": 512,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -5121,26 +5121,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop a unified theory of blockholder governance and the voting premium in a setting without takeovers or controlling shareholders. A voting premium emerges when a minority blockholder can influence shareholder composition by accumulating\nvotes and buying shares from dissenting shareholders. Our theory reconciles conflicting empirical findings by showing that standard measures of the voting premium often misrepresent the true value of voting rights, increased conflicts between the blockholder and small shareholders do not necessarily raise the voting premium, and the voting premium can even turn negative when small shareholders free‐ride on the blockholder's trades.</jats:p>",
       "doi": "10.1111/jofi.70037",
       "url": "https://doi.org/10.1111/jofi.70037"
-    },
-    {
-      "title": "Beliefs and Portfolios: Causal Evidence",
-      "authors": "Johannes Beutel, Michael Weber",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We causally test alternative theories of expectation formation. Using a randomized information experiment we show overreaction is a key feature of individuals’ return expectations, and individuals’ response to the price-earnings ratio is opposite of academic consensus. Our evidence is inconsistent with standard models of expectation formation, but subjective mental models that deviate from objective benchmarks can jointly explain the updating behavior in the experiment, the link between individuals’ prior perceptions and expectations, and the heterogeneity of updating. Conditional on their beliefs, individuals’ sensitivity of equity shares in a hypothetical portfolio choice experiment is consistent with the standard Merton model.</jats:p>",
-      "doi": "10.1093/rfs/hhag011",
-      "url": "https://doi.org/10.1093/rfs/hhag011"
-    },
-    {
-      "title": "Specialization in Banking",
-      "authors": "Kristian Blickle, Cecilia Parlatore, Anthony Saunders",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-03-29",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using supervisory data on the loan portfolios of large U.S. banks, we document that these banks specialize by concentrating their lending disproportionately in a few industries. This specialization is consistent with banks having industry‐specific knowledge, reflected in reduced risk of loan defaults, lower aggregate charge‐offs, and higher propensity to lend to opaque firms in the preferred industry. Banks attract high‐quality borrowers by offering generous loan terms in their specialized industry, especially to borrowers with alternative options. Banks focus on their preferred industry in times of instability and relatively lower Tier 1 capital as well as after surges in deposits.</jats:p>",
-      "doi": "10.1111/jofi.70032",
-      "url": "https://doi.org/10.1111/jofi.70032"
     }
   ]
 }
