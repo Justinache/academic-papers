@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T07:58:09.166Z",
+  "lastUpdated": "2026-10-01T08:19:23.908Z",
   "count": 512,
   "papers": [
     {
@@ -383,6 +383,86 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104356"
     },
     {
+      "title": "Online Business Models, Digital Ads, and User Welfare",
+      "authors": "Daron Acemoglu, Daniel Huttenlocher, Asuman Ozdaglar, James Siderius",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-09-30",
+      "abstract": "",
+      "doi": "10.1086/742715",
+      "url": "https://doi.org/10.1086/742715"
+    },
+    {
+      "title": "The Origin of Risk",
+      "authors": "Alexandr Kopytov, Mathieu Taschereau-Dumouchel, Zebang Xu",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-09-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.</jats:p>",
+      "doi": "10.1093/qje/qjag048",
+      "url": "https://doi.org/10.1093/qje/qjag048"
+    },
+    {
+      "title": "Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers",
+      "authors": "Carlo Altavilla, Miguel Boucinha, Martina Jasova, José‐luis Peydró, Frank Smets",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-09-30",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set of multi‐country credit registers and an institutional change from national to supranational supervision, we show that supranational banking supervision can increase credit supply while mitigating excessive risk‐taking. Supranational supervision increases credit supply only in financially stressed countries while reducing the credit supply to the riskiest (zombie) firms. These improved lending effects stem from weaker national institutions, differential national supervisory incentives, lower national supervisory abilities, and weaker national insolvency laws. Moreover, improved access to external finance from wholesale and bond markets as well as lower risk‐weighted assets allow supranationally supervised banks to expand the supply of credit. Overall, despite some supranational supervisory arbitrage, supranational supervision decreases firm‐level credit to the riskiest firms while increasing firm‐level credit availability in stressed countries without reducing it in nonstressed countries.</jats:p>",
+      "doi": "10.1111/jofi.70091",
+      "url": "https://doi.org/10.1111/jofi.70091"
+    },
+    {
+      "title": "Mind the App: Mobile Access to Financial Information and Consumer Behavior",
+      "authors": "Yaron Levi, Shlomo Benartzi",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-09-30",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study whether easier monitoring of personal finances affects consumer spending. We use transaction data from an account aggregation company to study consumers who installed the mobile app after using the same service on a personal computer for several months. We utilize the staggered release of the apps on different devices (iPhone, iPad, and Android) to identify a causal effect conditional on adoption of the mobile app. Consumers decrease their discretionary spending following the installation of the mobile app. The decrease is larger during evening hours and among individuals with lower proxies of self‐control, patterns consistent with a monitoring/self‐regulation channel and with benchmark models of costly self‐control.</jats:p>",
+      "doi": "10.1111/jofi.70087",
+      "url": "https://doi.org/10.1111/jofi.70087"
+    },
+    {
+      "title": "The Politicization of Social Responsibility",
+      "authors": "Todd A. Gormley, Manish Jha, Meng Wang",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-09-30",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Institutional investors are less likely to support shareholder proposals on environmental and social issues for firms headquartered in Republican‐led states. The decline in support has become more pronounced in recent years, aligning with politicians emphasizing companies’ social responsibility efforts, and among firms receiving state‐level subsidies and tax breaks. Investor support also varies with shifts in state leadership, dropping by 12 percentage points in the same state when Republicans are in control instead of Democrats. The findings indicate that institutional investors prioritize maximizing shareholder value and that politicians can influence investor votes by altering the value implications of shareholder proposals.</jats:p>",
+      "doi": "10.1111/jofi.70093",
+      "url": "https://doi.org/10.1111/jofi.70093"
+    },
+    {
+      "title": "The Real Channel for Nominal Bond‐Stock Puzzles",
+      "authors": "Mikhail Chernov, Lars A. Lochstoer, Dongho Song",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-09-30",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We document that the nature of aggregate consumption dynamics changes when the bond‐stock correlation switches sign. We identify three regimes in a real‐time, sequential learning framework: two highly persistent regimes where permanent or transitory consumption shocks are more dominant, and a largely transitory disaster regime. We study the implications for asset prices. The transition from the second to the first regime in the late 1990s makes the correlation between equities and real bonds switch from positive to negative as in the data, providing an explanation from the perspective of real consumption dynamics. The findings extend to the international setting.</jats:p>",
+      "doi": "10.1111/jofi.70092",
+      "url": "https://doi.org/10.1111/jofi.70092"
+    },
+    {
+      "title": "Mimicking Regulatory Peers",
+      "authors": "Minjae Kim",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-09-30",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Bank regulators use peer information for bank evaluations and publicly disclose this information. This study investigates whether the regulatory use and disclosure of peer information induce herding behavior in banks' regulatory capital ratios. I examine this question using a 2004 peer group reform that introduced class‐of peer groups for newly chartered banks, grouping them exclusively with their cohorts, while established banks continued to be compared with similar‐sized banks. The results show that, post‐reform, banks exhibit heightened herding behavior in their regulatory capital ratios. Depending on their relative capital position, banks either become more sensitive to changes in the peer group average or converge toward it. Additionally, I find that under‐capitalized banks adjust loan portfolios to manage their capital ratios, and this gap‐closing behavior is associated with worse subsequent loan quality, higher bank failure rates during the financial crisis, and, at the bank holding company level, larger systemic‐risk contributions. These findings highlight significant implications of regulatory disclosure for bank behavior and stability.</jats:p>",
+      "doi": "10.1111/1475-679x.70086",
+      "url": "https://doi.org/10.1111/1475-679x.70086"
+    },
+    {
+      "title": "Book Value Risk Management of Banks: Limited Hedging, HTM Accounting, and Rising Interest Rates",
+      "authors": "João Granja, Erica Xuewei Jiang, Gregor Matvos, Tomasz Piskorski, Amit Seru",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-09-29",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We document that as interest rates rose in 2022, banks largely left long‐duration assets exposed to interest rate risk while shielding the accounting value of their balance sheets. Call report and Securities and Exchange Commission (SEC) data show that only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged only a small share of their portfolios. Rather than hedge market‐value risk, banks relied on held‐to‐maturity (HTM) accounting to shield book capital, reclassifying about $700 billion of securities as HTM during the tightening period, more than twice the amount reclassified beforehand. Cross‐sectionally, banks with lower capitalization, more fragile uninsured funding, and greater long‐duration asset exposure were less likely to expand hedging during tightening and more likely to rely on HTM accounting. More vulnerable banks, especially those overseen by less stringent state regulators, were also more likely to shift into HTM. We develop a stylized model showing how higher interest rate risk, through its effects on bank solvency, run risk, and regulatory capital, shapes banks’ incentives to hedge, recapitalize, or rely on HTM accounting. While HTM accounting can help well‐capitalized banks avoid excessively tight capital constraints, it can also weaken hedging incentives among weaker, moderately capitalized banks by allowing them to window‐dress capital ratios while remaining exposed to runs. Our evidence suggests that this latter channel dominated during the tightening episode. Incorporating deposit franchise value into regulatory capital without accounting for run risk may further weaken the effectiveness of capital regulation. These findings carry important implications for regulatory capital accounting and bank risk‐management practices.</jats:p>",
+      "doi": "10.1111/1475-679x.70090",
+      "url": "https://doi.org/10.1111/1475-679x.70090"
+    },
+    {
       "title": "An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts",
       "authors": "Christopher J. Palmer",
       "journal": "Journal of Finance",
@@ -403,12 +483,12 @@
       "url": "https://doi.org/10.1111/1475-679x.70089"
     },
     {
-      "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+      "title": "BUSING TO OPPORTUNITY? THE IMPACTS OF THE METCO VOLUNTARY SCHOOL DESEGREGATION PROGRAM ON URBAN STUDENTS OF COLOR",
       "authors": "Elizabeth Setren",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-09-26",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts to relatively wealthier and predominantly White suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts, to relatively wealthier and predominantly white suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher-achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower-performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.</jats:p>",
       "doi": "10.1093/qje/qjag043",
       "url": "https://doi.org/10.1093/qje/qjag043"
     },
@@ -663,12 +743,12 @@
       "url": "https://doi.org/10.1093/rfs/hhag075"
     },
     {
-      "title": "Fairness Across the World",
+      "title": "FAIRNESS ACROSS THE WORLD",
       "authors": "Ingvild Almås, Alexander W Cappelen, Erik Ø Sørensen, Bertil Tungodden",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-09-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper provides the first comprehensive global evidence on people’s fairness and efficiency preferences, beliefs about the sources of inequality and the efficiency cost of redistribution, and policy attitudes toward redistribution. Using a globally harmonized consequential experiment with more than 65,000 individuals across 60 countries, we show that the source of inequality plays a substantially larger role for inequality acceptance than the efficiency cost of redistribution. At the global level, implemented inequality increases by 85 percent when inequality is caused by merit rather than luck, compared to a 14 percent increase when redistribution entails a 50 percent efficiency cost. We document substantial heterogeneity in fairness views and beliefs both within and across societies. The meritocratic fairness view is most prominent in many richer Western societies, while libertarian and egalitarian fairness views are widespread in many other parts of the world. Globally, people are more likely to believe that inequality reflects luck rather than merit, while beliefs in large efficiency costs of redistribution are relatively weak. Fairness preferences and beliefs are strongly associated with redistribution attitudes and actual redistribution through taxes and transfers across countries. Our findings illustrate how the interaction between fairness views and beliefs may shape redistribution across societies, highlighting the importance of jointly understanding preferences and beliefs in the political economy of redistribution.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article provides the first comprehensive global evidence on people’s fairness and efficiency preferences, beliefs about the sources of inequality and the efficiency cost of redistribution, and policy attitudes toward redistribution. Using a globally harmonized consequential experiment with more than 65,000 individuals across 60 countries, we show that the source of inequality plays a substantially larger role for inequality acceptance than the efficiency cost of redistribution. At the global level, implemented inequality increases by 85% when inequality is caused by merit rather than luck, compared with a 14% increase when redistribution entails a 50% efficiency cost. We document substantial heterogeneity in fairness views and beliefs within and across societies. The meritocratic fairness view is most prominent in many richer Western societies, while libertarian and egalitarian fairness views are widespread in many other parts of the world. Globally, people are more likely to believe that inequality reflects luck rather than merit, while beliefs in large efficiency costs of redistribution are relatively weak. Fairness preferences and beliefs are strongly associated with redistribution attitudes and actual redistribution through taxes and transfers across countries. Our findings illustrate how the interaction between fairness views and beliefs may shape redistribution across societies, highlighting the importance of jointly understanding preferences and beliefs in the political economy of redistribution.</jats:p>",
       "doi": "10.1093/qje/qjag044",
       "url": "https://doi.org/10.1093/qje/qjag044"
     },
@@ -1191,6 +1271,36 @@
       "abstract": "",
       "doi": "10.1086/742435",
       "url": "https://doi.org/10.1086/742435"
+    },
+    {
+      "title": "The Issuance and Design of Sustainability-Linked Loans",
+      "authors": "Aleksander A. Aleszczyk, Maria Loumioti, George Serafeim",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We explore the contract design of sustainability-linked loans (SLLs), a rapidly growing form of ESG-labeled debt that ties loan pricing to firms’ sustainability performance. Using a global SLL sample issued between 2017 and 2023, we examine whether SLLs are structured to discipline borrowers with weak ESG performance through stringent sustainability-linked provisions. We find no association between borrower ESG performance and the rigor of SLL provisions, suggesting that SLLs are generally not designed as incentive contracts. Instead, SLL contract design aligns more closely with ESG branding and credit-product-expansion motives: borrowers leverage SLLs to enhance legitimacy and visibility and to attract additional capital, whereas lenders can convey their ESG commitment, cater to investor demand for ESG-labeled debt, and expand their credit product offering. Overall, our evidence suggests that SLLs function primarily as symbolic labels rather than credible mechanisms for driving meaningful improvements in firms’ sustainability outcomes.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M14; M41; G21; G32; Q56.</jats:p>",
+      "doi": "10.2308/tar-2024-0791",
+      "url": "https://doi.org/10.2308/tar-2024-0791"
+    },
+    {
+      "title": "CEO Tax Lock-In and Share Pledging",
+      "authors": "Jonathan Underwood, Benjamin P. Yost",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study how CEOs’ personal tax incentives shape their share pledging decisions and firms’ restrictions on the practice. Pledging shares entails using company stock as collateral for personal loans, enabling executives to obtain liquidity without making a taxable sale of appreciated shares. Using pledging data from 2006 to 2024, we find a robust positive relation between CEOs’ unrealized capital gains tax liabilities, or tax burdens, and share pledging. This relation is weaker when interest rates are high, consistent with CEOs’ trading off tax benefits against borrowing costs. After Institutional Shareholder Services discouraged share pledging in 2012, firms with high-tax-burden CEOs were slower to adopt antipledging policies and, when they did adopt, chose less restrictive policies. Firms that adopted strong antipledging policies subsequently increased CEO cash pay and stock awards. Our evidence suggests that share pledging helps executives manage personal tax lock-in and that firms consider this benefit when restricting pledging.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public and subscription sources identified in the text, subject to applicable data-use restrictions.</jats:p>\n                  <jats:p>JEL Classifications: G30; H24; J33; M52.</jats:p>",
+      "doi": "10.2308/tar-2025-0006",
+      "url": "https://doi.org/10.2308/tar-2025-0006"
+    },
+    {
+      "title": "The Nonproduction of an Accounting Standard: Climate Change, Emissions Trading, and Legitimacy Shielding",
+      "authors": "Jonathan Tweedie, Marian Konstantin Gatzweiler, Matteo Ronzani, Max Baker",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-09-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the work of the International Accounting Standards Board (IASB) on accounting for carbon emission allowances. Despite commencing work in 2002, no accounting standard or guidance has been put in place to date. To understand how a standard-setter defends its legitimacy while not settling this important financial accounting issue, we conduct a qualitative case study of over two decades of archival materials. We investigate nonproduction of a standard as a means for the IASB to protect legitimacy in circumstances where standardization would leave it open to controversy and resistance. Building on institutional research on communication, we show how nonproduction unfolds through four communicative patterns: commitment signaling, equivocal messaging, conveying complexity, and downplaying urgency. Our study provides new insights into how standard-setters navigate difficult-to-settle accounting issues of wide public concern. It also shows how communication shields standard-setters’ legitimacy by prolonging stakeholder engagement and postponing closure on a contentious accounting issue.</jats:p>",
+      "doi": "10.2308/tar-2025-0166",
+      "url": "https://doi.org/10.2308/tar-2025-0166"
     },
     {
       "title": "Who Values Democracy?",
@@ -3113,16 +3223,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70072"
     },
     {
-      "title": "Online Business Models, Digital Ads, and User Welfare",
-      "authors": "Daron Acemoglu, Daniel Huttenlocher, Asuman Ozdaglar, James Siderius",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-06-15",
-      "abstract": "",
-      "doi": "10.1086/742715",
-      "url": "https://doi.org/10.1086/742715"
-    },
-    {
       "title": "The Variance Premium and Seasonal Momentum in Option Returns",
       "authors": "Steven L Heston, Christopher S Jones, Mehdi Khorram, Shuaiqi Li, Haitao Mo",
       "journal": "Review of Financial Studies",
@@ -4753,216 +4853,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70049"
     },
     {
-      "title": "Learning by lending securities",
-      "authors": "George C. Nurisso",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104237",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104237"
-    },
-    {
-      "title": "Housing affordability and parental income support: The role of mortgage co-signing",
-      "authors": "Jason Allen, Kyra Carmichael, Robert Clark, Shaoteng Li, Nicolas Vincent",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104239",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104239"
-    },
-    {
-      "title": "Picking partners: Manager selection in private markets",
-      "authors": "Amit Goyal, Sunil Wahal, M. Deniz Yavuz",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104250",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104250"
-    },
-    {
-      "title": "Hurdle rate buffers and bargaining power in asset acquisition",
-      "authors": "John W. Barry, Bruce I. Carlin, Alan D. Crane, John R. Graham",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104240",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104240"
-    },
-    {
-      "title": "Hidden alpha",
-      "authors": "Manuel Ammann, Alexander Cochardt, Lauren Cohen, Stephan Heller",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2025.104225",
-      "url": "https://doi.org/10.1016/j.jfineco.2025.104225"
-    },
-    {
-      "title": "Committing to trade: A theory of intermediation",
-      "authors": "Francesco Sannino",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104249",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104249"
-    },
-    {
-      "title": "Duration-based stock valuation: Reassessing stock market performance and volatility",
-      "authors": "Jules H. van Binsbergen",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104248",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104248"
-    },
-    {
-      "title": "How do income-driven repayment plans benefit student debt borrowers?",
-      "authors": "Sylvain Catherine, Mehran Ebrahimian, Constantine Yannelis",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104253",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104253"
-    },
-    {
-      "title": "Editorial data",
-      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101875",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101875"
-    },
-    {
-      "title": "On the economics of accounting and contracting in firms",
-      "authors": "Ray Ball",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101858",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101858"
-    },
-    {
-      "title": "Carbon accounting quality: Measurement and the role of assurance",
-      "authors": "Brandon Gipper, Fiona Sequeira, Shawn X. Shi",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101849",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101849"
-    },
-    {
-      "title": "Paying your fair share: Perceived fairness and tax compliance",
-      "authors": "Brad Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101838",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101838"
-    },
-    {
-      "title": "Does taxpayer assistance encourage entrepreneurship?",
-      "authors": "Daphne M. Armstrong, Stephen Glaeser",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101839",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101839"
-    },
-    {
-      "title": "News management, moral hazard, and the properties of earnings, prices, and compensation",
-      "authors": "Jonathan Bonham",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101835",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101835"
-    },
-    {
-      "title": "Supply chain shocks and firm productivity: The role of reporting quality",
-      "authors": "Philip G. Berger, Rimmy E. Tomy",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101833",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101833"
-    },
-    {
-      "title": "Critical audit matters and internal control quality: The disciplining role of CAM reporting",
-      "authors": "Carol Callaway Dee, Bing Luo, Elaine Wang, Jing Zhang",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101834",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101834"
-    },
-    {
-      "title": "Do auditors understand the implications of ESG issues for their audits? Evidence from financially material negative ESG incidents",
-      "authors": "Daniel Aobdia, Aaron Yoon",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101831",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101831"
-    },
-    {
-      "title": "Tax administration quality and foreign investment in developing countries: Evidence from participation in tax inspectors without borders",
-      "authors": "Duke Ferguson, Trent J. Krupa, Rick C. Laux",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101832",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
-    },
-    {
-      "title": "Market Power and Capital Constraints",
-      "authors": "Milena Wittwer, Jason Allen",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "<jats:p>We explore how traders’ equity capitalization influences asset prices in a framework that accounts for market power. In our model, traders with capital constraints engage in transactions in an imperfectly competitive market. We demonstrate that looser capital constraints elevate both asset prices and price impact, the latter diminishing market liquidity. Using Canadian Treasury auction data, we illustrate how to apply our model to quantify these effects. We estimate the shadow costs of capital constraints by leveraging a temporary policy exemption during 2020–2021. We show that while these constraints are only infrequently binding, their relative impact when activated can be sizable. (JEL E63, G12, G14, G23, G41, L13)</jats:p>",
-      "doi": "10.1257/aer.20231202",
-      "url": "https://doi.org/10.1257/aer.20231202"
-    },
-    {
-      "title": "A Long and a Short Leg Make for a Wobbly Equilibrium",
-      "authors": "Nicolae Gârleanu, Stavros Panageas, Geoffery Zheng",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "<jats:p>We provide a model to explain how the interaction between the spot and lending markets for stocks can lead to abrupt changes in short selling activity. Furthermore, rational short sellers may choose to abandon the market even as mispricing widens. We document empirically that the dynamics of short selling are fat tailed and subject to abrupt changes, especially for the stocks that the model identifies as susceptible to such dynamics. (JEL G11, G12, G14, G41)</jats:p>",
-      "doi": "10.1257/aer.20211548",
-      "url": "https://doi.org/10.1257/aer.20211548"
-    },
-    {
-      "title": "Negative Control Falsification Tests for Instrumental Variable Designs",
-      "authors": "Oren Danieli, Daniel Nevo, Itai Walk, Bar Weinstein, Dan Zeltzer",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "<jats:p>The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)</jats:p>",
-      "doi": "10.1257/aer.20240636",
-      "url": "https://doi.org/10.1257/aer.20240636"
-    },
-    {
       "title": "Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan",
       "authors": "Shan Aman-Rana, Clement Minaudier",
       "journal": "American Economic Review",
@@ -4971,26 +4861,6 @@
       "abstract": "<jats:p>Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)</jats:p>",
       "doi": "10.1257/aer.20240880",
       "url": "https://doi.org/10.1257/aer.20240880"
-    },
-    {
-      "title": "Similarity of Information and Collective Action",
-      "authors": "Deepal Basak, Joyee Deb, Aditya Kuvalekar",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "<jats:p>We study a canonical collective action game with incomplete information. Individuals attempt to coordinate to achieve a shared goal, while also facing a temptation to free-ride. More similar information can help them coordinate, but it can also exacerbate free-riding. Our main result shows that more similar information facilitates (impedes) achieving the common goal when it is sufficiently challenging (easy). We apply this insight to show why less powerful authoritarian governments may face larger protests if they restrict press freedom, when committee diversity is beneficial in costly voting, and when a more diverse community contributes more to public good provision. (JEL C71, D71, D72, D81, D82, D83, H41)</jats:p>",
-      "doi": "10.1257/aer.20241056",
-      "url": "https://doi.org/10.1257/aer.20241056"
-    },
-    {
-      "title": "Making Bricks from Straw: Resources and Productivity in Health Care",
-      "authors": "Edward N. Okeke",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "<jats:p>Why do health facilities in developing countries do so poorly? This paper examines the role of financial constraints. I describe an experiment in which we surprised health workers in randomly selected public health clinics in Nigeria with a ₦600,000 grant paid out in installments over one year. Its administration was left entirely to health workers. The award led to large productivity gains. Using expenditure data combined with novel textual data, I provide an explanation for these effects. I show the award increased investments in physical and human capital, led to lower prices for patients, and inspired health workers to do better. (JEL D24, G31, H75, I11, J24, J31, O15)</jats:p>",
-      "doi": "10.1257/aer.20241459",
-      "url": "https://doi.org/10.1257/aer.20241459"
     },
     {
       "title": "Abundance from Abroad: Migrant Income and Long-Run Economic Development",
@@ -5003,24 +4873,14 @@
       "url": "https://doi.org/10.1257/aer.20241465"
     },
     {
-      "title": "Games on Multiplex Networks",
-      "authors": "Yves Zenou, Junjie Zhou",
+      "title": "A Long and a Short Leg Make for a Wobbly Equilibrium",
+      "authors": "Nicolae Gârleanu, Stavros Panageas, Geoffery Zheng",
       "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-04-01",
-      "abstract": "<jats:p>We develop a simple multilayer network model in which agents allocate effort across layers with heterogeneous structures, subject to an aggregate effort constraint. Incentives are shaped by agents’ network positions within each layer, and equilibrium behavior reflects both within- and cross-layer interactions. We analyze how shocks propagate through the network and characterize optimal targeting interventions. Our results show that effective policy design must account for effort allocation across layers. We also demonstrate that predictions from monolayer models can diverge sharply from those of multilayer models, underscoring the importance of accounting for network complexity in both empirical and policy analyses. (JEL C70, D78, D82, D85, H41, Z13)</jats:p>",
-      "doi": "10.1257/aer.20240763",
-      "url": "https://doi.org/10.1257/aer.20240763"
-    },
-    {
-      "title": "Robust Misspecified Models",
-      "authors": "Cuimin Ba",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "<jats:p>This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: The model’s asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model—including the true model—despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models. (JEL C11, C52, D11, L82)</jats:p>",
-      "doi": "10.1257/aer.20240246",
-      "url": "https://doi.org/10.1257/aer.20240246"
+      "abstract": "<jats:p>We provide a model to explain how the interaction between the spot and lending markets for stocks can lead to abrupt changes in short selling activity. Furthermore, rational short sellers may choose to abandon the market even as mispricing widens. We document empirically that the dynamics of short selling are fat tailed and subject to abrupt changes, especially for the stocks that the model identifies as susceptible to such dynamics. (JEL G11, G12, G14, G41)</jats:p>",
+      "doi": "10.1257/aer.20211548",
+      "url": "https://doi.org/10.1257/aer.20211548"
     },
     {
       "title": "Real Credit Cycles",
@@ -5033,6 +4893,66 @@
       "url": "https://doi.org/10.1257/aer.20211820"
     },
     {
+      "title": "Robust Misspecified Models",
+      "authors": "Cuimin Ba",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: The model’s asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model—including the true model—despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models. (JEL C11, C52, D11, L82)</jats:p>",
+      "doi": "10.1257/aer.20240246",
+      "url": "https://doi.org/10.1257/aer.20240246"
+    },
+    {
+      "title": "Making Bricks from Straw: Resources and Productivity in Health Care",
+      "authors": "Edward N. Okeke",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>Why do health facilities in developing countries do so poorly? This paper examines the role of financial constraints. I describe an experiment in which we surprised health workers in randomly selected public health clinics in Nigeria with a ₦600,000 grant paid out in installments over one year. Its administration was left entirely to health workers. The award led to large productivity gains. Using expenditure data combined with novel textual data, I provide an explanation for these effects. I show the award increased investments in physical and human capital, led to lower prices for patients, and inspired health workers to do better. (JEL D24, G31, H75, I11, J24, J31, O15)</jats:p>",
+      "doi": "10.1257/aer.20241459",
+      "url": "https://doi.org/10.1257/aer.20241459"
+    },
+    {
+      "title": "Games on Multiplex Networks",
+      "authors": "Yves Zenou, Junjie Zhou",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We develop a simple multilayer network model in which agents allocate effort across layers with heterogeneous structures, subject to an aggregate effort constraint. Incentives are shaped by agents’ network positions within each layer, and equilibrium behavior reflects both within- and cross-layer interactions. We analyze how shocks propagate through the network and characterize optimal targeting interventions. Our results show that effective policy design must account for effort allocation across layers. We also demonstrate that predictions from monolayer models can diverge sharply from those of multilayer models, underscoring the importance of accounting for network complexity in both empirical and policy analyses. (JEL C70, D78, D82, D85, H41, Z13)</jats:p>",
+      "doi": "10.1257/aer.20240763",
+      "url": "https://doi.org/10.1257/aer.20240763"
+    },
+    {
+      "title": "Similarity of Information and Collective Action",
+      "authors": "Deepal Basak, Joyee Deb, Aditya Kuvalekar",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We study a canonical collective action game with incomplete information. Individuals attempt to coordinate to achieve a shared goal, while also facing a temptation to free-ride. More similar information can help them coordinate, but it can also exacerbate free-riding. Our main result shows that more similar information facilitates (impedes) achieving the common goal when it is sufficiently challenging (easy). We apply this insight to show why less powerful authoritarian governments may face larger protests if they restrict press freedom, when committee diversity is beneficial in costly voting, and when a more diverse community contributes more to public good provision. (JEL C71, D71, D72, D81, D82, D83, H41)</jats:p>",
+      "doi": "10.1257/aer.20241056",
+      "url": "https://doi.org/10.1257/aer.20241056"
+    },
+    {
+      "title": "Negative Control Falsification Tests for Instrumental Variable Designs",
+      "authors": "Oren Danieli, Daniel Nevo, Itai Walk, Bar Weinstein, Dan Zeltzer",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)</jats:p>",
+      "doi": "10.1257/aer.20240636",
+      "url": "https://doi.org/10.1257/aer.20240636"
+    },
+    {
+      "title": "Market Power and Capital Constraints",
+      "authors": "Milena Wittwer, Jason Allen",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "<jats:p>We explore how traders’ equity capitalization influences asset prices in a framework that accounts for market power. In our model, traders with capital constraints engage in transactions in an imperfectly competitive market. We demonstrate that looser capital constraints elevate both asset prices and price impact, the latter diminishing market liquidity. Using Canadian Treasury auction data, we illustrate how to apply our model to quantify these effects. We estimate the shadow costs of capital constraints by leveraging a temporary policy exemption during 2020–2021. We show that while these constraints are only infrequently binding, their relative impact when activated can be sizable. (JEL E63, G12, G14, G23, G41, L13)</jats:p>",
+      "doi": "10.1257/aer.20231202",
+      "url": "https://doi.org/10.1257/aer.20231202"
+    },
+    {
       "title": "“Compensate the Losers?” Economic Policy and the Origins of U.S. Partisan Realignment",
       "authors": "Ilyana Kuziemko, Nicolas Longuet-Marx, Suresh Naidu",
       "journal": "Quarterly Journal of Economics",
@@ -5043,16 +4963,6 @@
       "url": "https://doi.org/10.1093/qje/qjag019"
     },
     {
-      "title": "Corporate M&As and Labor Market Concentration: Efficiency Gains or Power Grabs?",
-      "authors": "David Cicero, Mo Shen, Jaideep Shenoy",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-04-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mergers of firms that share labor markets increase labor market concentration which can lead to labor efficiency gains and/or create labor market power for the merged firms. Using a novel measure based on establishment‐level employment data, we find that merger‐induced increases in labor market concentration explain value creation in a sample of completed U.S. public firm mergers from 1991 to 2016. Analysis of the stock market reactions of rival, supplier, and customer firms, as well as firm‐ and establishment‐level real effects in the merging firms, supports a labor efficiency explanation of these merger gains.</jats:p>",
-      "doi": "10.1111/jofi.70035",
-      "url": "https://doi.org/10.1111/jofi.70035"
-    },
-    {
       "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in US History",
       "authors": "Max Posch, Jonathan Schulz, Joseph Henrich",
       "journal": "Journal of Political Economy",
@@ -5061,6 +4971,16 @@
       "abstract": "",
       "doi": "10.1086/739323",
       "url": "https://doi.org/10.1086/739323"
+    },
+    {
+      "title": "Efficiency and Redistribution in Environmental Policy: An Equilibrium Analysis of Agricultural Supply Chains",
+      "authors": "Tomás Domínguez-Iino",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1086/739325",
+      "url": "https://doi.org/10.1086/739325"
     },
     {
       "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
@@ -5093,34 +5013,114 @@
       "url": "https://doi.org/10.1086/739332"
     },
     {
-      "title": "Efficiency and Redistribution in Environmental Policy: An Equilibrium Analysis of Agricultural Supply Chains",
-      "authors": "Tomás Domínguez-Iino",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-04-01",
-      "abstract": "",
-      "doi": "10.1086/739325",
-      "url": "https://doi.org/10.1086/739325"
-    },
-    {
-      "title": "Bond Convenience Yields in the Eurozone Currency Union",
-      "authors": "Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z Xiaolan",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-03-31",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a monetary union, the risk-free rate cannot adjust to country-level fiscal positions, leaving only default spreads and convenience yields to respond. Empirically, we find that convenience yields explain a large share of the variation in eurozone (EZ) sovereign bond yields. EZ sovereign bonds earn larger convenience yields when their governments run larger surpluses. Since convenience yields generate substantial seigniorage revenue from debt issuance, our estimates imply economically large fiscal costs from low convenience yields for peripheral countries in the EZ.</jats:p>",
-      "doi": "10.1093/rfs/hhag018",
-      "url": "https://doi.org/10.1093/rfs/hhag018"
-    },
-    {
-      "title": "The Voting Premium",
-      "authors": "Doron Levit, Nadya Malenko, Ernst Maug",
+      "title": "Corporate M&As and Labor Market Concentration: Efficiency Gains or Power Grabs?",
+      "authors": "David Cicero, Mo Shen, Jaideep Shenoy",
       "journal": "Journal of Finance",
       "field": "Finance",
-      "date": "2026-03-30",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop a unified theory of blockholder governance and the voting premium in a setting without takeovers or controlling shareholders. A voting premium emerges when a minority blockholder can influence shareholder composition by accumulating\nvotes and buying shares from dissenting shareholders. Our theory reconciles conflicting empirical findings by showing that standard measures of the voting premium often misrepresent the true value of voting rights, increased conflicts between the blockholder and small shareholders do not necessarily raise the voting premium, and the voting premium can even turn negative when small shareholders free‐ride on the blockholder's trades.</jats:p>",
-      "doi": "10.1111/jofi.70037",
-      "url": "https://doi.org/10.1111/jofi.70037"
+      "date": "2026-04-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mergers of firms that share labor markets increase labor market concentration which can lead to labor efficiency gains and/or create labor market power for the merged firms. Using a novel measure based on establishment‐level employment data, we find that merger‐induced increases in labor market concentration explain value creation in a sample of completed U.S. public firm mergers from 1991 to 2016. Analysis of the stock market reactions of rival, supplier, and customer firms, as well as firm‐ and establishment‐level real effects in the merging firms, supports a labor efficiency explanation of these merger gains.</jats:p>",
+      "doi": "10.1111/jofi.70035",
+      "url": "https://doi.org/10.1111/jofi.70035"
+    },
+    {
+      "title": "Do auditors understand the implications of ESG issues for their audits? Evidence from financially material negative ESG incidents",
+      "authors": "Daniel Aobdia, Aaron Yoon",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101831",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101831"
+    },
+    {
+      "title": "Tax administration quality and foreign investment in developing countries: Evidence from participation in tax inspectors without borders",
+      "authors": "Duke Ferguson, Trent J. Krupa, Rick C. Laux",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101832",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101832"
+    },
+    {
+      "title": "Does taxpayer assistance encourage entrepreneurship?",
+      "authors": "Daphne M. Armstrong, Stephen Glaeser",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101839",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101839"
+    },
+    {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101875",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101875"
+    },
+    {
+      "title": "Supply chain shocks and firm productivity: The role of reporting quality",
+      "authors": "Philip G. Berger, Rimmy E. Tomy",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101833",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101833"
+    },
+    {
+      "title": "Carbon accounting quality: Measurement and the role of assurance",
+      "authors": "Brandon Gipper, Fiona Sequeira, Shawn X. Shi",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101849",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101849"
+    },
+    {
+      "title": "Paying your fair share: Perceived fairness and tax compliance",
+      "authors": "Brad Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101838",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101838"
+    },
+    {
+      "title": "Critical audit matters and internal control quality: The disciplining role of CAM reporting",
+      "authors": "Carol Callaway Dee, Bing Luo, Elaine Wang, Jing Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101834",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101834"
+    },
+    {
+      "title": "News management, moral hazard, and the properties of earnings, prices, and compensation",
+      "authors": "Jonathan Bonham",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101835",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101835"
+    },
+    {
+      "title": "On the economics of accounting and contracting in firms",
+      "authors": "Ray Ball",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-04-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101858",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101858"
     }
   ]
 }
