@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-02T07:58:16.367Z",
-  "count": 493,
+  "lastUpdated": "2026-10-03T07:35:43.450Z",
+  "count": 492,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -261,6 +261,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104376",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104376"
+    },
+    {
+      "title": "Climate regulatory risks and corporate bonds",
+      "authors": "Lee Seltzer, Laura T. Starks, Qifei Zhu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104363",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104363"
     },
     {
       "title": "Strategic communication among banks",
@@ -4893,16 +4903,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag036"
     },
     {
-      "title": "Size, Returns, and Value: Do Private Equity Firms Allocate Capital According to Manager Skill?",
-      "authors": "Reiner Braun, Nils Dorau, Tim Jenkinson, Daniel Urban",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-04-03",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set linking private equity (PE) deals to individual managers, we document evidence of manager skill in terms of generating net present value (NPV), a performance measure that captures both scale and returns. PE firms have strong economic incentives to raise larger funds and execute larger deals. While relative returns decline with scale, NPV persists and even increases. Skilled managers are entrusted with more capital and achieve better career outcomes, and approximately 40% of NPV is attributable to internal capital allocation decisions. These findings highlight the role of PE firms in creating value through performance‐based capital deployment.</jats:p>",
-      "doi": "10.1111/jofi.70036",
-      "url": "https://doi.org/10.1111/jofi.70036"
-    },
-    {
       "title": "Who Clears the Market When Passive Investors Trade?",
       "authors": "Marco Sammon, John J Shim",
       "journal": "Review of Financial Studies",
@@ -4921,16 +4921,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We model credit competition between a bigtech platform and a bank lending to a merchant under limited commitment and asymmetric information about the merchant’s incentives to default. The platform leverages its control over a marketplace to enforce partial loan repayments, enabling it to serve certain unbanked borrowers. When directly competing with the bank, the platform gains an endogenous screening advantage as borrowers with stronger incentives to default self-select into bank loans to avoid the platform’s enforcement. Whereas the platform improves financial inclusion for unbanked borrowers, social welfare may decline because the bank tightens credit in response to adverse screening.</jats:p>",
       "doi": "10.1093/rfs/hhag033",
       "url": "https://doi.org/10.1093/rfs/hhag033"
-    },
-    {
-      "title": "Leader‐Follower Dynamics in Shareholder Activism",
-      "authors": "Doruk Cetemen, Gonzalo Cisternas, Aaron Kolb, S. Viswanathan",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-04-02",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We propose a theory of coordination and influence among blockholders. Privately informed activists time their trades in sequence to lower acquisition costs, prompting a strategic use of order flows: leader activists create trading gains for their followers, ultimately influencing their willingness to bear greater value‐enhancing intervention costs. Through this channel, informed trades can exhibit predictability, in sharp contrast with Kyle (1985,\n                    <jats:italic>Econometrica</jats:italic>\n                    53, 1315–1335). We explain how this novel predictability shapes free‐rider problems affecting governance, and how it produces price abnormalities analogous to those documented empirically. We also uncover how private information interdependence can be a key catalyst for the mechanism studied.\n                  </jats:p>",
-      "doi": "10.1111/jofi.70033",
-      "url": "https://doi.org/10.1111/jofi.70033"
     }
   ]
 }
