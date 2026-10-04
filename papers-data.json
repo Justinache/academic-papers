@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T07:35:43.450Z",
-  "count": 492,
+  "lastUpdated": "2026-10-04T07:46:36.910Z",
+  "count": 490,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -4901,26 +4901,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how intraday and overnight components of past returns predict future stock returns from 1926 to 2019. Portfolios formed on past intraday returns display momentum without long-term reversal, whereas portfolios formed on past overnight returns display no momentum. We link this asymmetric day-night pattern to the fact that most trading occurs intraday, which has remained stable over time. Evidence from international stock markets, intraday intervals, and analyst expectations suggests that investors underreact to private information revealed through trading. This underreaction mechanism is most consistent with Hong and Stein’s (1999) theory of momentum.</jats:p>",
       "doi": "10.1093/rfs/hhag036",
       "url": "https://doi.org/10.1093/rfs/hhag036"
-    },
-    {
-      "title": "Who Clears the Market When Passive Investors Trade?",
-      "authors": "Marco Sammon, John J Shim",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We find that firms are the primary sellers who clear the market for index fund buying, providing shares at a nearly one-for-one rate. Most demand-side institutions trade in the same direction as index funds rather than accommodating passive demand. We use two instruments for index fund demand and show that firms causally respond to exogenous passive demand, with prices serving as the coordinating mechanism. Firms satisfy passive demand mostly through nonprimary market issuance, for example, through employee stock-based compensation. Our results suggest that passive investing has systematically supplied capital to firms by enabling equity issuance over the last two decades.</jats:p>",
-      "doi": "10.1093/rfs/hhag032",
-      "url": "https://doi.org/10.1093/rfs/hhag032"
-    },
-    {
-      "title": "Borrowing from a Bigtech Platform",
-      "authors": "Jian Li, Stefano Pegoraro",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-03",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We model credit competition between a bigtech platform and a bank lending to a merchant under limited commitment and asymmetric information about the merchant’s incentives to default. The platform leverages its control over a marketplace to enforce partial loan repayments, enabling it to serve certain unbanked borrowers. When directly competing with the bank, the platform gains an endogenous screening advantage as borrowers with stronger incentives to default self-select into bank loans to avoid the platform’s enforcement. Whereas the platform improves financial inclusion for unbanked borrowers, social welfare may decline because the bank tightens credit in response to adverse screening.</jats:p>",
-      "doi": "10.1093/rfs/hhag033",
-      "url": "https://doi.org/10.1093/rfs/hhag033"
     }
   ]
 }
