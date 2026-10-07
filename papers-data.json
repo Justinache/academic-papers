@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-06T08:33:10.622Z",
-  "count": 490,
+  "lastUpdated": "2026-10-07T08:10:53.517Z",
+  "count": 497,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -273,6 +273,46 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104363"
     },
     {
+      "title": "Chronologically consistent large language models",
+      "authors": "Songrun He, Linying Lv, Asaf Manela, Jimmy Wu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104374",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104374"
+    },
+    {
+      "title": "The decline of branch banking",
+      "authors": "Rajesh P. Narayanan, Dimuthu Ratnadiwakara, Philip E. Strahan",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104383",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104383"
+    },
+    {
+      "title": "Directing the Labor Market: Shared Directors and Employee Flows",
+      "authors": "Taylor A Begley, Peter Haslag, Daniel Weagley",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-10-06",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using résumé data on over 20 million U.S. workers, we find that the flow of employees between a pair of firms sharply drops by about 20% during periods in which the firms share a board director. This relationship is stronger in settings where firms have greater potential gains from limiting worker mobility and is most pronounced for higher-skilled employees. Moreover, we find more connected firms have lower rates of internal promotion and no improvements in employee satisfaction. The evidence is consistent with shared directors serving as a mechanism for labor market coordination. (JEL G34, G38, J42, J62, J08, K21, K31, M50)</jats:p>",
+      "doi": "10.1093/rfs/hhag090",
+      "url": "https://doi.org/10.1093/rfs/hhag090"
+    },
+    {
+      "title": "Central Bank Economic Transparency and Managerial Learning",
+      "authors": "Oliver Binz, Elia Ferracuti, Gary Lind",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-10-06",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)</jats:p>",
+      "doi": "10.1093/rfs/hhag089",
+      "url": "https://doi.org/10.1093/rfs/hhag089"
+    },
+    {
       "title": "Strategic communication among banks",
       "authors": "Christian Bittner, Falko Fecht, Melissa Pala, Farzad Saidi",
       "journal": "Journal of Financial Economics",
@@ -501,6 +541,36 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>People may fail to recall and use information they already know when making decisions. We empirically investigate whether such “retrieval failures” distort consumption-smoothing behavior among Zambian farmers, who derive their income from one annual harvest and spend it over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for undersaving. To improve recall, we randomize an intervention that prompts people to think through their future expenses associatively in categories—without providing any external information or guidance. Treated individuals increase “remembered” expenses by 36%–60%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, six weeks after the intervention, treated households hold 15% higher savings. They subsequently enter the hungry season—the final months of the year when consumption typically declines sharply—with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year’s crop revenue. We replicate the intervention’s effect on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.</jats:p>",
       "doi": "10.1093/qje/qjag035",
       "url": "https://doi.org/10.1093/qje/qjag035"
+    },
+    {
+      "title": "Managerial delegation within firms and peer information environment",
+      "authors": "Jalal Sani",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101951",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101951"
+    },
+    {
+      "title": "Do Commercial Property Taxes Affect Business Microlocation Decisions?",
+      "authors": "Brayden D. Bulloch, Fabio B. Gaertner, Jeffrey L. Hoopes",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Do commercial property taxes affect business microlocation decisions? Using precise geolocations for 2.8 million U.S. establishments, we employ a spatial discontinuity density design, comparing for-profit establishments to nonprofits, which are generally exempt from property taxes. Relative to nonprofit establishments, for-profit establishments disproportionately locate on the low-tax side of county borders. This effect strengthens with the size of the tax differential. At borders with differentials in the top decile (quartile), we estimate a 6–7 (5–6) percent shift in establishment location toward the low-tax side over a 10-km band. Businesses move from as far as 10 km away on the high-tax side but concentrate within 1 km on the low-tax side. Firms trade off tax savings with customer access: low-foot-traffic establishments respond more to tax differentials than high-foot-traffic ones. A survey of U.S. mayors finds that perceptions of property taxes’ importance for business location rise with cross-border tax differentials.</jats:p>\n                  <jats:p>Data Availability: Survey data are available upon request. All other data were obtained from publicly and commercially available sources described in the manuscript.</jats:p>\n                  <jats:p>JEL Classifications: H25; H71; H73; R32.</jats:p>",
+      "doi": "10.2308/tar-2025-0248",
+      "url": "https://doi.org/10.2308/tar-2025-0248"
+    },
+    {
+      "title": "Unwinding Loan Prospecting Pressure through Renegotiation: The Role of Loan Officer Changes in Debt Contracting",
+      "authors": "Jessie Cheong, Jung Koo Kang, Regina Wittenberg-Moerman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the impact of loan officer changes on debt contract design. Loan officers face pressure to originate new loans, incentivizing them to offer loan terms that are more favorable than warranted by borrowers’ creditworthiness. Because a loan officer who replaces the originating loan officer is not subject to this loan prospecting pressure, we predict that she reverses the favorable discretion exercised at loan origination. Consistent with this prediction, we find that the first renegotiation following the replacement of the originating loan officer is associated with more unfavorable renegotiation outcomes. This effect is more pronounced when loan prospecting pressure at loan origination is greater—when the originating loan officer is less experienced, when the lead arranger faces tight performance benchmarks or lower income growth, and when credit market competition is more intense. Overall, we provide novel insights into how loan officer changes restore contracting efficiency through renegotiations.</jats:p>\n                  <jats:p>Data Availability: Syndicated loan data are from DealScan; borrower financial data are from Compustat and CRSP; bank financial data are from the Call Report and Compustat; loan agreements are from Morningstar, FactSet, and SEC filings; analyst data are from I/B/E/S; credit rating data are from S&amp;P Global Ratings and the Mergent Fixed Income Securities Database (FISD); media coverage data are from RavenPack; covenant violation data are from Nini, Smith, and Sufi (2012); and loan officer employment histories were hand collected from LinkedIn.</jats:p>\n                  <jats:p>JEL Classifications: G21; G30; G32; J24.</jats:p>",
+      "doi": "10.2308/tar-2025-0120",
+      "url": "https://doi.org/10.2308/tar-2025-0120"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -4883,16 +4953,6 @@
       "url": "https://doi.org/10.1111/jofi.70034"
     },
     {
-      "title": "Generative AI in Financial Reporting",
-      "authors": "Elizabeth Blankespoor, Ed Dehaan, Qianqian Li",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Generative artificial intelligence (GAI) will likely alter many aspects of the financial reporting process and spawn a deep stream of academic research. We take an early step by examining the extent to which firms have begun using GAI in one important part of the reporting process: writing disclosures. We begin by evaluating a commercial tool's ability to detect GAI writing in disclosures, and we find that it reliably identifies even very small amounts of GAI usage in realistic samples. We then examine firms’ actual earnings press releases, conference call prepared remarks, risk factors, MD&amp;As, and IPO filings through 2024 and find statistically significant GAI usage in all five disclosure types, with up to 4.5% of new text written by GAI in 2024. Usage is predictably higher in the cross‐section, and filings with higher GAI have systematically different linguistic properties. Our study provides early insights into the use and effects of GAI in financial reporting, and it motivates future research in this evolving area.</jats:p>",
-      "doi": "10.1111/1475-679x.70050",
-      "url": "https://doi.org/10.1111/1475-679x.70050"
-    },
-    {
       "title": "What Drives Momentum and Reversal? Evidence from Day and Night Signals",
       "authors": "Yashar H Barardehi, Vincent Bogousslavsky, Dmitriy Muravyev",
       "journal": "Review of Financial Studies",
@@ -4901,6 +4961,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how intraday and overnight components of past returns predict future stock returns from 1926 to 2019. Portfolios formed on past intraday returns display momentum without long-term reversal, whereas portfolios formed on past overnight returns display no momentum. We link this asymmetric day-night pattern to the fact that most trading occurs intraday, which has remained stable over time. Evidence from international stock markets, intraday intervals, and analyst expectations suggests that investors underreact to private information revealed through trading. This underreaction mechanism is most consistent with Hong and Stein’s (1999) theory of momentum.</jats:p>",
       "doi": "10.1093/rfs/hhag036",
       "url": "https://doi.org/10.1093/rfs/hhag036"
+    },
+    {
+      "title": "Generative AI in Financial Reporting",
+      "authors": "Elizabeth Blankespoor, Ed Dehaan, Qianqian Li",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Generative artificial intelligence (GAI) will likely alter many aspects of the financial reporting process and spawn a deep stream of academic research. We take an early step by examining the extent to which firms have begun using GAI in one important part of the reporting process: writing disclosures. We begin by evaluating a commercial tool's ability to detect GAI writing in disclosures, and we find that it reliably identifies even very small amounts of GAI usage in realistic samples. We then examine firms’ actual earnings press releases, conference call prepared remarks, risk factors, MD&amp;As, and IPO filings through 2024 and find statistically significant GAI usage in all five disclosure types, with up to 4.5% of new text written by GAI in 2024. Usage is predictably higher in the cross‐section, and filings with higher GAI have systematically different linguistic properties. Our study provides early insights into the use and effects of GAI in financial reporting, and it motivates future research in this evolving area.</jats:p>",
+      "doi": "10.1111/1475-679x.70050",
+      "url": "https://doi.org/10.1111/1475-679x.70050"
     }
   ]
 }
