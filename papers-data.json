@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-07T08:10:53.517Z",
-  "count": 497,
+  "lastUpdated": "2026-10-08T08:24:23.056Z",
+  "count": 494,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -571,6 +571,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the impact of loan officer changes on debt contract design. Loan officers face pressure to originate new loans, incentivizing them to offer loan terms that are more favorable than warranted by borrowers’ creditworthiness. Because a loan officer who replaces the originating loan officer is not subject to this loan prospecting pressure, we predict that she reverses the favorable discretion exercised at loan origination. Consistent with this prediction, we find that the first renegotiation following the replacement of the originating loan officer is associated with more unfavorable renegotiation outcomes. This effect is more pronounced when loan prospecting pressure at loan origination is greater—when the originating loan officer is less experienced, when the lead arranger faces tight performance benchmarks or lower income growth, and when credit market competition is more intense. Overall, we provide novel insights into how loan officer changes restore contracting efficiency through renegotiations.</jats:p>\n                  <jats:p>Data Availability: Syndicated loan data are from DealScan; borrower financial data are from Compustat and CRSP; bank financial data are from the Call Report and Compustat; loan agreements are from Morningstar, FactSet, and SEC filings; analyst data are from I/B/E/S; credit rating data are from S&amp;P Global Ratings and the Mergent Fixed Income Securities Database (FISD); media coverage data are from RavenPack; covenant violation data are from Nini, Smith, and Sufi (2012); and loan officer employment histories were hand collected from LinkedIn.</jats:p>\n                  <jats:p>JEL Classifications: G21; G30; G32; J24.</jats:p>",
       "doi": "10.2308/tar-2025-0120",
       "url": "https://doi.org/10.2308/tar-2025-0120"
+    },
+    {
+      "title": "Tax-Related Key Audit Matters and Changes in Multinational Income Shifting",
+      "authors": "Christof Beuselinck, Nathan C. Goldman, Jochen Pierk, Cinthia Valle Ruiz",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Key audit matters (KAMs) increase the salience of uncertainty surrounding the underlying accounts. We examine KAMs related to uncertain tax positions (UTPs), which highlight potential concerns to external stakeholders about uncertain tax planning activities such as multinational income shifting. Increased scrutiny may reduce the expected benefits of these strategies and discourage firms from pursuing them. Using KAM disclosures in the expanded audit reports, we find that group-level KAM disclosures are associated with a decline in multinational income shifting when the KAMs relate to UTPs. This relation is stronger when firms are financially unconstrained, when the institutional environment features strong tax enforcement, and when KAMs highlight specific risk statements and auditors provide explicit assurance. Overall, our findings reveal a novel and potentially unintended real effect of expanded audit reports: the salience of tax-related KAM disclosures influences multinational tax planning, highlighting broader consequences of this regulatory intervention.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: H25; H26; H40.</jats:p>",
+      "doi": "10.2308/tar-2024-0168",
+      "url": "https://doi.org/10.2308/tar-2024-0168"
+    },
+    {
+      "title": "The Effect of Global Intangible Low-Taxed Income Tax on U.S. Multinational Companies’ Cross-Border Tangible Investments",
+      "authors": "Jingjing Huang, Benjamin Osswald, Ryan J. Wilson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The Global Intangible Low-Taxed Income (GILTI) provision, enacted under the 2017 U.S. tax reform, aimed to deter profit shifting by U.S. multinational corporations (MNCs) but has raised concerns about unintended incentives to shift tangible investments abroad. Using an ex ante identification strategy based on public financial statements, we document that an average MNC increases foreign tangible investment by approximately $256.2 million relative to 2017 levels to minimize GILTI tax. Although this finding could raise concerns that firms are reducing domestic tangible investment for foreign expansion, we find no significant decline in domestic tangible investment. Furthermore, we find GILTI firms increase both foreign and domestic innovation, including capital-intensive technologies. The positive domestic innovation spillovers support the intended effect of the U.S. tax reform in boosting domestic economic growth. Our evidence reveals how international tax provisions, though aimed at curbing profit shifting, can simultaneously create unintended incentives.</jats:p>\n                  <jats:p>JEL Classifications: M41; H25; H26.</jats:p>",
+      "doi": "10.2308/tar-2024-0158",
+      "url": "https://doi.org/10.2308/tar-2024-0158"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -4921,56 +4941,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We classify the race of over 160,000 U.S. founders and investors and study the venture capital (VC) funding gap for Black entrepreneurs. Only 3.1% of VC‐funded startups are Black‐owned, and they raise half as much VC funding as others. We attribute much of this gap to Black founders having fewer traditional success markers, like patents or entrepreneurial experience. This disparity also affects matching: Black VC partners invest more in Black founders, and these investments have higher successful exit rates. We attribute this outperformance to lower information asymmetries due to network overlap and “screening discrimination,” whereby Black VCs better differentiate among Black founders.</jats:p>",
       "doi": "10.1111/jofi.70039",
       "url": "https://doi.org/10.1111/jofi.70039"
-    },
-    {
-      "title": "Monitoring Quality of Mafia‐Connected Accountants",
-      "authors": "Pietro A. Bianchi, Jere R. Francis, Antonio Marra, Nicola Pecchiari",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate the monitoring quality of accountants with ties to the Mafia in their role as auditors for “clean” firms—those with no known ties to organized crime. Using a proprietary government database, we identify Italian firms with alleged ties to the Mafia through their executives, directors, or shareholders. We define “suspect accountants” as those who serve as auditors for these Mafia‐connected firms, acknowledging their potential associations with criminal entities. We predict and find evidence that “clean” clients (treatment group) monitored by suspect accountants are more likely to engage in earnings management practices that reduce taxable income, compared with a control sample of “clean” firms monitored by accountants with no known Mafia ties (control group). Our findings suggest that accountants with ties to the Mafia act as low‐quality monitors in the “clean” economy.</jats:p>",
-      "doi": "10.1111/1475-679x.70055",
-      "url": "https://doi.org/10.1111/1475-679x.70055"
-    },
-    {
-      "title": "How Stock Market Participants Use Generative Artificial Intelligence: Evidence from User‐Platform Interaction Data",
-      "authors": "Frank Ecker, Xitong Li, Yilan Li, Fan Wu",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper provides descriptive evidence on how stock market participants use Generative Artificial Intelligence (GenAI) to process investment‐related information. Using a data set of 1.7 million stock‐related queries from one of China's largest GenAI platforms during the first half of 2024, we document that user queries address a wide range of topics and tasks and vary systematically with usage intensity and financial sophistication. Query activity increases around corporate disclosure events, but these increases largely track contemporaneous media coverage. We also find evidence consistent with a substitution between the informativeness of voluntary managerial disclosures and investors' reliance on GenAI. Continued platform engagement more likely follows answers that are concise and contain directionally accurate trading signals. Over time, users' subsequent queries increasingly reflect the specificity and financial terminology present in earlier GenAI answers. At the market level, GenAI usage is associated with higher measures of informed trading and lower liquidity, while aggregated sentiment in GenAI‐generated answers correlates with same‐day abnormal returns, particularly when user feedback is positive. Overall, our findings offer insights into early‐stage GenAI adoption by retail investors and inform discussions on how GenAI shapes information processing in financial markets.</jats:p>",
-      "doi": "10.1111/1475-679x.70051",
-      "url": "https://doi.org/10.1111/1475-679x.70051"
-    },
-    {
-      "title": "Deposit Franchise Runs",
-      "authors": "Itamar Drechsler, Alexi Savov, Philipp Schnabl, Olivier Wang",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-04-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The deposit franchise is valuable because banks pay below‐market deposit rates. However, if depositors leave, its value vanishes. This can trigger runs by uninsured depositors, even if banks hold fully liquid assets. Because the franchise value increases with interest rates, runs are more harmful, and hence likelier, when rates are high. Banks can deter runs by shortening asset duration, but this risks insolvency if rates fall. Avoiding both runs and insolvency requires capital covering the potential loss of the uninsured deposit franchise. We estimate deposit franchise values and use them to identify vulnerable banks during the 2023 regional bank crisis.</jats:p>",
-      "doi": "10.1111/jofi.70034",
-      "url": "https://doi.org/10.1111/jofi.70034"
-    },
-    {
-      "title": "What Drives Momentum and Reversal? Evidence from Day and Night Signals",
-      "authors": "Yashar H Barardehi, Vincent Bogousslavsky, Dmitriy Muravyev",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how intraday and overnight components of past returns predict future stock returns from 1926 to 2019. Portfolios formed on past intraday returns display momentum without long-term reversal, whereas portfolios formed on past overnight returns display no momentum. We link this asymmetric day-night pattern to the fact that most trading occurs intraday, which has remained stable over time. Evidence from international stock markets, intraday intervals, and analyst expectations suggests that investors underreact to private information revealed through trading. This underreaction mechanism is most consistent with Hong and Stein’s (1999) theory of momentum.</jats:p>",
-      "doi": "10.1093/rfs/hhag036",
-      "url": "https://doi.org/10.1093/rfs/hhag036"
-    },
-    {
-      "title": "Generative AI in Financial Reporting",
-      "authors": "Elizabeth Blankespoor, Ed Dehaan, Qianqian Li",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Generative artificial intelligence (GAI) will likely alter many aspects of the financial reporting process and spawn a deep stream of academic research. We take an early step by examining the extent to which firms have begun using GAI in one important part of the reporting process: writing disclosures. We begin by evaluating a commercial tool's ability to detect GAI writing in disclosures, and we find that it reliably identifies even very small amounts of GAI usage in realistic samples. We then examine firms’ actual earnings press releases, conference call prepared remarks, risk factors, MD&amp;As, and IPO filings through 2024 and find statistically significant GAI usage in all five disclosure types, with up to 4.5% of new text written by GAI in 2024. Usage is predictably higher in the cross‐section, and filings with higher GAI have systematically different linguistic properties. Our study provides early insights into the use and effects of GAI in financial reporting, and it motivates future research in this evolving area.</jats:p>",
-      "doi": "10.1111/1475-679x.70050",
-      "url": "https://doi.org/10.1111/1475-679x.70050"
     }
   ]
 }
