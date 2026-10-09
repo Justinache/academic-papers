@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T08:24:23.056Z",
-  "count": 494,
+  "lastUpdated": "2026-10-09T08:29:30.188Z",
+  "count": 502,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -291,6 +291,66 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104383",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104383"
+    },
+    {
+      "title": "Generative AI and Firm Values",
+      "authors": "Andrea L. Eisfeldt, Gregor Schubert, Miao Ben Zhang, Bledi Taska",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of\n                    <jats:italic>firms' workforce exposures</jats:italic>\n                    to Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70089",
+      "url": "https://doi.org/10.1111/jofi.70089"
+    },
+    {
+      "title": "The Financial Premium",
+      "authors": "Jens Dick‐nielsen, Peter Feldhütter, David Lando",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.</jats:p>",
+      "doi": "10.1111/jofi.70084",
+      "url": "https://doi.org/10.1111/jofi.70084"
+    },
+    {
+      "title": "Feedback and Contagion through Distressed Competition",
+      "authors": "Hui Chen, Winston Wei Dou, Hongye Guo, Yan Ji",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-08",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long‐term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability‐leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.</jats:p>",
+      "doi": "10.1111/jofi.70080",
+      "url": "https://doi.org/10.1111/jofi.70080"
+    },
+    {
+      "title": "When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective",
+      "authors": "Viral V. Acharya, Toomas Laarits",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.</jats:p>",
+      "doi": "10.1111/jofi.70085",
+      "url": "https://doi.org/10.1111/jofi.70085"
+    },
+    {
+      "title": "Targeted Philanthropy: Evidence from M&As",
+      "authors": "Cara Vansteenkiste",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I show how firms optimize the allocation of charitable funds around investments that require external stakeholder support, such as mergers and acquisitions. Acquirers increase donations to target‐related charities before making a takeover offer, but scale funds back after withdrawing from a deal. Firms redistribute funds from nontakeover‐related areas to target insider–affiliated charities, employee communities, and counties with a regulatory presence. Targeted donations that encourage blockholder reciprocity and employee commitment are associated with better deal performance through decreased merger premiums and lower integration costs. Overall, the results highlight firms’ use of philanthropy to manage stakeholder relations in takeover decisions.</jats:p>",
+      "doi": "10.1111/jofi.70090",
+      "url": "https://doi.org/10.1111/jofi.70090"
+    },
+    {
+      "title": "Flow‐Driven ESG Returns",
+      "authors": "Philippe Van Der Beck",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-07",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I show that the recent returns to environmental, social, and governance (ESG) investing are strongly driven by price impact from flows toward ESG portfolios. Using data on trades, I estimate the market's ability to accommodate ESG flows, which is given by the elasticity of substitution between ESG and other stocks. I show that every dollar flowing toward a representative ESG portfolio increases the market value of ESG stocks by $0.8. The growing institutional flows into the ESG portfolio are the main driver of ESG returns and have caused an annual flow‐driven return of 1.9%. In the absence of flows, ESG stocks would not have outperformed the market from 2012 to 2023.</jats:p>",
+      "doi": "10.1111/jofi.70083",
+      "url": "https://doi.org/10.1111/jofi.70083"
     },
     {
       "title": "Directing the Labor Market: Shared Directors and Employee Flows",
@@ -591,6 +651,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The Global Intangible Low-Taxed Income (GILTI) provision, enacted under the 2017 U.S. tax reform, aimed to deter profit shifting by U.S. multinational corporations (MNCs) but has raised concerns about unintended incentives to shift tangible investments abroad. Using an ex ante identification strategy based on public financial statements, we document that an average MNC increases foreign tangible investment by approximately $256.2 million relative to 2017 levels to minimize GILTI tax. Although this finding could raise concerns that firms are reducing domestic tangible investment for foreign expansion, we find no significant decline in domestic tangible investment. Furthermore, we find GILTI firms increase both foreign and domestic innovation, including capital-intensive technologies. The positive domestic innovation spillovers support the intended effect of the U.S. tax reform in boosting domestic economic growth. Our evidence reveals how international tax provisions, though aimed at curbing profit shifting, can simultaneously create unintended incentives.</jats:p>\n                  <jats:p>JEL Classifications: M41; H25; H26.</jats:p>",
       "doi": "10.2308/tar-2024-0158",
       "url": "https://doi.org/10.2308/tar-2024-0158"
+    },
+    {
+      "title": "Macroeconomic implications of accounting standards",
+      "authors": "Hyun Hwang, Eunhee Kim, Volker Laux",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101953",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101953"
+    },
+    {
+      "title": "From Text to Beta: Macroeconomic Disclosures and Firm-Level Systematic Risk",
+      "authors": "Cameron Holstead, Alon Kalay, Gil Sadka, Federico Siano",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using news text from The Wall Street Journal and macroeconomic disclosures in 10-K filings, we address the challenge of characterizing both time-varying aggregate risks and firm-level risk exposures. We develop a disclosure-based measure of systematic risk that (1) reveals salient macro risks in each period, (2) provides a text-based estimate of earnings exposure to these risks, and (3) explains the cross-section of stock returns. We also show that macro disclosures are pervasive across the annual report, grow over time, vary with the business cycle, and exhibit within-firm variation, consistent with the time-varying nature of systematic risk exposure. Overall, disclosures yield transparent and economically interpretable estimates of firm-level systematic risk.</jats:p>\n                  <jats:p>Data Availability: Data are obtained from SEC filings, Bureau of Economic Analysis, The Wall Street Journal, Compustat, CRSP, I/B/E/S.</jats:p>\n                  <jats:p>JEL Classifications: E31; E32; G11; G12; M21; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0833",
+      "url": "https://doi.org/10.2308/tar-2024-0833"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
