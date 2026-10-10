@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T08:29:30.188Z",
+  "lastUpdated": "2026-10-10T08:07:10.849Z",
   "count": 502,
   "papers": [
     {
@@ -671,6 +671,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using news text from The Wall Street Journal and macroeconomic disclosures in 10-K filings, we address the challenge of characterizing both time-varying aggregate risks and firm-level risk exposures. We develop a disclosure-based measure of systematic risk that (1) reveals salient macro risks in each period, (2) provides a text-based estimate of earnings exposure to these risks, and (3) explains the cross-section of stock returns. We also show that macro disclosures are pervasive across the annual report, grow over time, vary with the business cycle, and exhibit within-firm variation, consistent with the time-varying nature of systematic risk exposure. Overall, disclosures yield transparent and economically interpretable estimates of firm-level systematic risk.</jats:p>\n                  <jats:p>Data Availability: Data are obtained from SEC filings, Bureau of Economic Analysis, The Wall Street Journal, Compustat, CRSP, I/B/E/S.</jats:p>\n                  <jats:p>JEL Classifications: E31; E32; G11; G12; M21; M41.</jats:p>",
       "doi": "10.2308/tar-2024-0833",
       "url": "https://doi.org/10.2308/tar-2024-0833"
+    },
+    {
+      "title": "Social Media Toxicity and Capital Markets",
+      "authors": "Elizabeth Blankespoor, Jedson Pinto, Kirti Sinha",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper asks about the existence, determinants, and implications of toxic content in financial social media. Using machine learning algorithms to measure toxicity in Seeking Alpha articles and comments, we find measurable toxicity concentrated primarily in user-generated comments rather than articles. Comment toxicity is greater for firms with more investor attention or uncertainty. We document three key results about toxicity in capital markets. First, toxicity displays a feedback loop in platform participation: past toxicity is associated with more future toxic contributors for a given firm. Second, firms receiving more toxic comments have greater retail trading volume but less informative retail trades, especially when comments disagree. Third, toxicity is associated with slower price discovery around earnings announcements. Our findings suggest that financial social media toxicity relates to both user behavior and market outcomes and raise important considerations for platform governance in financial markets.</jats:p>\n                  <jats:p>Data Availability: The Seeking Alpha articles and comments used in this study were obtained directly from Seeking Alpha under a data-sharing arrangement and are proprietary; we are not permitted to redistribute them. These data may be requested from Seeking Alpha. Compustat, Execucomp, CRSP, and New York Stock Exchange (NYSE) Trade and Quote (TAQ) data are available through Wharton Research Data Services (WRDS) to subscribing institutions.</jats:p>\n                  <jats:p>JEL Classifications: G14; G41; D83; D91.</jats:p>",
+      "doi": "10.2308/tar-2024-0017",
+      "url": "https://doi.org/10.2308/tar-2024-0017"
+    },
+    {
+      "title": "Building Better Information: Reporting Technology, Internal Information Frictions, and Investment Efficiency",
+      "authors": "Philip G. Berger, Feng Li, Lisa Yao Liu, M. H. Franco Wong",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We assess how firms use spending on reporting infrastructure to improve managerial reporting quality (MRQ) and whether doing so improves investment efficiency. Using the Sarbanes-Oxley Act’s internal control provisions (SOX 404) as a shock to MRQ demand, we find that treated firms increase reporting infrastructure spending, including for information technology and communications. We next examine variation across segments in the benefits and costs of improving reporting infrastructure. Segments increase spending more when facing larger internal moral hazard frictions and when they are less likely to have voluntarily improved MRQ before SOX (including segments insulated from competition, facing difficulty obtaining enterprise resource planning (ERP) systems, or lacking internal control personnel). Finally, we find that treated firms improve investment efficiency post-SOX 404, with larger gains among firms with higher spending on reporting infrastructure. Our findings indicate that regulatory mandates can improve investment efficiency by inducing reporting infrastructure improvements that enhance MRQ.</jats:p>\n                  <jats:p>JEL Classifications: D83; G15; G18; G38; L15; M41; M42.</jats:p>",
+      "doi": "10.2308/tar-2023-0595",
+      "url": "https://doi.org/10.2308/tar-2023-0595"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -5001,26 +5021,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.</jats:p>",
       "doi": "10.1093/qje/qjag020",
       "url": "https://doi.org/10.1093/qje/qjag020"
-    },
-    {
-      "title": "Codification, Technology Absorption, and the Globalization of the Industrial Revolution",
-      "authors": "Réka Juhász, Shogo Sakabe, David E Weinstein",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-04-10",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article examines the global adoption of technology in the late nineteenth century. We construct several novel data sets to test the idea that the codification of technical knowledge in the vernacular was necessary for countries to absorb the technologies of the first Industrial Revolution. We find that comparative advantage shifted to industries that could benefit from these technologies in countries and colonies with access to codified technical knowledge, but not in other regions. Using the rapid and unprecedented codification of technical knowledge in Meiji Japan as a natural experiment, we show that this pattern emerged only after the Japanese government codified vast amounts of technical knowledge. Our findings shed new light on the frictions associated with technological diffusion and offer a novel explanation for why Meiji Japan was unique among non-Western countries in successfully industrializing during the first wave of globalization.</jats:p>",
-      "doi": "10.1093/qje/qjag021",
-      "url": "https://doi.org/10.1093/qje/qjag021"
-    },
-    {
-      "title": "Funding Black High‐Growth Startups",
-      "authors": "Lisa D. Cook, Matt Marx, Emmanuel Yimfor",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-04-09",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We classify the race of over 160,000 U.S. founders and investors and study the venture capital (VC) funding gap for Black entrepreneurs. Only 3.1% of VC‐funded startups are Black‐owned, and they raise half as much VC funding as others. We attribute much of this gap to Black founders having fewer traditional success markers, like patents or entrepreneurial experience. This disparity also affects matching: Black VC partners invest more in Black founders, and these investments have higher successful exit rates. We attribute this outperformance to lower information asymmetries due to network overlap and “screening discrimination,” whereby Black VCs better differentiate among Black founders.</jats:p>",
-      "doi": "10.1111/jofi.70039",
-      "url": "https://doi.org/10.1111/jofi.70039"
     }
   ]
 }
