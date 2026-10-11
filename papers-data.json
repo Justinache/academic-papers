@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T08:07:10.849Z",
-  "count": 502,
+  "lastUpdated": "2026-10-11T08:15:42.236Z",
+  "count": 501,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -5011,16 +5011,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how public information, such as proxy advice, affects shareholder voting and, thus, corporate decision-making. We find that while public information improves the voting decisions of uninformed shareholders, it also induces privately informed shareholders to exit rather than to exercise their voice (vote). As a result, public information impairs information aggregation by voting but improves information aggregation by trading. Overall, public information can undermine corporate decision-making. Furthermore, slightly more precise public information can lead to a discontinuous reduction in firm value. Our results give rise to new empirical predictions and have implications for regulation.</jats:p>",
       "doi": "10.1093/rfs/hhag035",
       "url": "https://doi.org/10.1093/rfs/hhag035"
-    },
-    {
-      "title": "Collusion with Optimal Information Disclosure",
-      "authors": "Takuo Sugaya, Alexander Wolitzky",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-04-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.</jats:p>",
-      "doi": "10.1093/qje/qjag020",
-      "url": "https://doi.org/10.1093/qje/qjag020"
     }
   ]
 }
