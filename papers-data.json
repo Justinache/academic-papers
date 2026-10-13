@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T08:35:33.607Z",
+  "lastUpdated": "2026-10-13T08:55:02.450Z",
   "count": 501,
   "papers": [
     {
@@ -291,6 +291,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104383",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104383"
+    },
+    {
+      "title": "The effect of the mandatory disclosure of corporate tax returns on reporting bias",
+      "authors": "Eric J. Allen, Henry L. Friedman, Aydin Uysal",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-10-11",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>How do investor reactions to the mandatory disclosure of firm tax information influence managers' reporting choices? To answer this question, we build a structural model of reporting bias, which we test with a unique data set of Turkish firms that have been mandated to publicly disclose their tax returns since 2009. We find that both book and tax income numbers are informative to investors. Structural estimates are consistent with disclosure of the tax report reducing both market incentives to manage book earnings and investor uncertainty about underlying firm value. Tax disclosure is associated with higher reported tax income, though the increase is not statistically significant. Counterfactual estimates suggest that book‐tax‐conformity could change financial and tax reporting biases, but lead to a lower quality information environment relative to the separate disclosure of book and tax reports.</jats:p>",
+      "doi": "10.1111/1475-679x.70087",
+      "url": "https://doi.org/10.1111/1475-679x.70087"
     },
     {
       "title": "Generative AI and Firm Values",
@@ -793,7 +803,7 @@
       "url": "https://doi.org/10.1111/1475-679x.70089"
     },
     {
-      "title": "BUSING TO OPPORTUNITY? THE IMPACTS OF THE METCO VOLUNTARY SCHOOL DESEGREGATION PROGRAM ON URBAN STUDENTS OF COLOR",
+      "title": "Busing to Opportunity? The Impacts of the Metco Voluntary School Desegregation Program on Urban Students of Color",
       "authors": "Elizabeth Setren",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
@@ -1053,7 +1063,7 @@
       "url": "https://doi.org/10.1093/rfs/hhag075"
     },
     {
-      "title": "FAIRNESS ACROSS THE WORLD",
+      "title": "Fairness Across the World",
       "authors": "Ingvild Almås, Alexander W Cappelen, Erik Ø Sørensen, Bertil Tungodden",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
@@ -5001,16 +5011,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite the potential of algorithms to improve judgment quality, recent research suggests that individuals may be averse to algorithmic use. We experimentally examine whether and how managers’ use of an algorithm-advised performance rating is influenced by rating valence and the decision rights managers have to adjust the algorithm. We find that managers are less willing to use an algorithm to evaluate subordinate performance when it advises a low, rather than high, rating. We further show that when the algorithm-advised rating is low, allowing managers to adjust how the algorithm computes the rating, compared with adjusting the rating itself or not allowing any adjustment, increases algorithmic use. Further analyses show this effect to be consistent with managers’ increased understanding of an algorithm when involved in its computation. Our findings inform organizations’ implementation of performance evaluation algorithms by showing how rating valence and decision rights jointly influence managers’ use of the algorithms.</jats:p>",
       "doi": "10.2308/tar-2023-0610",
       "url": "https://doi.org/10.2308/tar-2023-0610"
-    },
-    {
-      "title": "Voting and Trading on Public Information",
-      "authors": "Markus Parlasca, Paul Voss",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how public information, such as proxy advice, affects shareholder voting and, thus, corporate decision-making. We find that while public information improves the voting decisions of uninformed shareholders, it also induces privately informed shareholders to exit rather than to exercise their voice (vote). As a result, public information impairs information aggregation by voting but improves information aggregation by trading. Overall, public information can undermine corporate decision-making. Furthermore, slightly more precise public information can lead to a discontinuous reduction in firm value. Our results give rise to new empirical predictions and have implications for regulation.</jats:p>",
-      "doi": "10.1093/rfs/hhag035",
-      "url": "https://doi.org/10.1093/rfs/hhag035"
     }
   ]
 }
