@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T08:55:02.450Z",
-  "count": 501,
+  "lastUpdated": "2026-10-14T07:07:51.380Z",
+  "count": 507,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -291,6 +291,66 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104383",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104383"
+    },
+    {
+      "title": "Heterogeneous beliefs, asset prices, and business cycles",
+      "authors": "Saki Bigio, Dejanir Silva, Eduardo Zilberman",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104382",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104382"
+    },
+    {
+      "title": "Charitable capital allocation: Evidence from private foundations",
+      "authors": "Zhongjin (Gene) Lu, Steven Malliaris",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104377",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104377"
+    },
+    {
+      "title": "The Demand for Mobility: Evidence from an Experiment with Uber Riders",
+      "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-13",
+      "abstract": "",
+      "doi": "10.1086/743387",
+      "url": "https://doi.org/10.1086/743387"
+    },
+    {
+      "title": "Firm Heterogeneity and the Impact of Immigration: Evidence from German Establishments",
+      "authors": "Agostina Brinatti, Nicolas Morales",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-13",
+      "abstract": "",
+      "doi": "10.1086/744485",
+      "url": "https://doi.org/10.1086/744485"
+    },
+    {
+      "title": "Buying Data from Consumers: The Impact of Monitoring in U.S. Auto Insurance",
+      "authors": "Yizhou Jin, Shoshana Vasserman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-13",
+      "abstract": "",
+      "doi": "10.1086/744482",
+      "url": "https://doi.org/10.1086/744482"
+    },
+    {
+      "title": "Unintended Regulatory Spillovers: The Impact of Bank Regulatory Oversight on Environmental Enforcement",
+      "authors": "John Gallemore, Vincent Giese",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-10-13",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We explore whether bank regulatory oversight affects the ability of environmental enforcement to reduce industrial emissions. A major objective of environmental enforcement is to reduce industrial emissions by encouraging firms to employ greener production processes and technologies. However, such changes often require external financing obtained from banks, and prior research shows that regulatory oversight of banks can affect bank lending. We find that, on average, the reduction in air pollution in response to county‐level environmental enforcement is attenuated in counties exposed to increased bank regulatory oversight, as measured by severe enforcement actions. Furthermore, we show that the negative impact of bank regulatory oversight on small business lending to affected counties is the likely mechanism behind this on‐average effect. However, when bank regulatory oversight targets banks with stronger capitalization, we find that the negative effect of bank regulatory oversight on environmental enforcement is mitigated. Collectively, our findings suggest that bank regulation has a nuanced effect on the extent to which environmental enforcement reduces emissions, indicating that one regulator's mission can impact the objectives of another.</jats:p>",
+      "doi": "10.1111/1475-679x.70088",
+      "url": "https://doi.org/10.1111/1475-679x.70088"
     },
     {
       "title": "The effect of the mandatory disclosure of corporate tax returns on reporting bias",
@@ -701,6 +761,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We assess how firms use spending on reporting infrastructure to improve managerial reporting quality (MRQ) and whether doing so improves investment efficiency. Using the Sarbanes-Oxley Act’s internal control provisions (SOX 404) as a shock to MRQ demand, we find that treated firms increase reporting infrastructure spending, including for information technology and communications. We next examine variation across segments in the benefits and costs of improving reporting infrastructure. Segments increase spending more when facing larger internal moral hazard frictions and when they are less likely to have voluntarily improved MRQ before SOX (including segments insulated from competition, facing difficulty obtaining enterprise resource planning (ERP) systems, or lacking internal control personnel). Finally, we find that treated firms improve investment efficiency post-SOX 404, with larger gains among firms with higher spending on reporting infrastructure. Our findings indicate that regulatory mandates can improve investment efficiency by inducing reporting infrastructure improvements that enhance MRQ.</jats:p>\n                  <jats:p>JEL Classifications: D83; G15; G18; G38; L15; M41; M42.</jats:p>",
       "doi": "10.2308/tar-2023-0595",
       "url": "https://doi.org/10.2308/tar-2023-0595"
+    },
+    {
+      "title": "Determinants and Consequences of Auditors’ Consultations with the National Office",
+      "authors": "Matthew G. Sherwood, Miguel Minutti-Meza, Aleksandra B. Zimmerman",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Audit teams may consult with their firm’s national office to obtain specialized expertise, satisfy regulatory and quality control requirements, and demonstrate due professional care. We describe the consultation process based on PCAOB standards, firm methodologies, and auditor interviews. We explain different types of consultations and highlight differences in the determinants and usefulness of mandatory versus voluntary consultations. Using PCAOB inspection data, we show that formal consultations are largely predictable based on engagement characteristics and, on average, are not associated with audit quality. However, two subsets of formal consultations that focus on accounting issues and occur earlier in the engagement process are associated with greater regulatory compliance and higher audit quality. Hence, an increasing reliance on all types of consultations does not automatically translate into higher audit quality. Collectively, our findings deepen our understanding of auditors’ use of national office consultations and their implications for audit practice.</jats:p>\n                  <jats:p>Data Availability: Audit engagement data from the PCAOB are proprietary; other data are from public sources.</jats:p>\n                  <jats:p>JEL Classification: M4.</jats:p>",
+      "doi": "10.2308/tar-2024-0348",
+      "url": "https://doi.org/10.2308/tar-2024-0348"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -2451,16 +2521,6 @@
       "abstract": "",
       "doi": "10.1086/743389",
       "url": "https://doi.org/10.1086/743389"
-    },
-    {
-      "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
-      "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743387",
-      "url": "https://doi.org/10.1086/743387"
     },
     {
       "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
