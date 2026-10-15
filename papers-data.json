@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T07:07:51.380Z",
-  "count": 507,
+  "lastUpdated": "2026-10-15T06:56:44.321Z",
+  "count": 508,
   "papers": [
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -313,6 +313,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104377"
     },
     {
+      "title": "Externalities of Responsible Investments",
+      "authors": "Michele Bisceglia, Alessio Piccolo, Jan Schneemeier",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-14",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop a model to study the efficiency of socially responsible investing (SRI) as a mechanism to control firms' externalities. When SRI is not too popular, responsible investors favor strategies that lead to a concentration of SRI in a subset of firms in the economy. This concentration can mitigate coordination issues in adopting green technologies, but it can also crowd out the green investments of excluded firms and increase the price of green products. In equilibrium, responsible investors continue to favor concentration even as SRI becomes more popular, and concentrate the most when concentration is least desirable.</jats:p>",
+      "doi": "10.1111/jofi.70082",
+      "url": "https://doi.org/10.1111/jofi.70082"
+    },
+    {
       "title": "The Demand for Mobility: Evidence from an Experiment with Uber Riders",
       "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
       "journal": "Journal of Political Economy",
@@ -424,11 +434,11 @@
     },
     {
       "title": "Directing the Labor Market: Shared Directors and Employee Flows",
-      "authors": "Taylor A Begley, Peter Haslag, Daniel Weagley",
+      "authors": "Taylor Begley, Peter Haslag, Daniel Weagley",
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-10-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using résumé data on over 20 million U.S. workers, we find that the flow of employees between a pair of firms sharply drops by about 20% during periods in which the firms share a board director. This relationship is stronger in settings where firms have greater potential gains from limiting worker mobility and is most pronounced for higher-skilled employees. Moreover, we find more connected firms have lower rates of internal promotion and no improvements in employee satisfaction. The evidence is consistent with shared directors serving as a mechanism for labor market coordination. (JEL G34, G38, J42, J62, J08, K21, K31, M50)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using résumé data on over 20 million U.S. workers, we find that the flow of employees between a pair of firms sharply drops by about 20% during periods in which the firms share a board director. This relationship is stronger in settings where firms have greater potential gains from limiting worker mobility and is most pronounced for higher-skilled employees. Moreover, we find more connected firms have lower rates of internal promotion and no improvements in employee satisfaction. The evidence is consistent with shared directors serving as a mechanism for labor market coordination.</jats:p>",
       "doi": "10.1093/rfs/hhag090",
       "url": "https://doi.org/10.1093/rfs/hhag090"
     },
