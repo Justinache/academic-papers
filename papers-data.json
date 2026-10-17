@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T06:45:02.636Z",
+  "lastUpdated": "2026-10-17T06:33:59.624Z",
   "count": 491,
   "papers": [
     {
@@ -811,6 +811,26 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101955",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101955"
+    },
+    {
+      "title": "The Good Idea Dilemma",
+      "authors": "Eti Einhorn, Nisan Langberg, Tsahi Versano",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101954",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101954"
+    },
+    {
+      "title": "Beyond Greenwashing: Environmental Commitments and Gas Flaring in the African Oil Sector",
+      "authors": "Samuel Chang, Hans B. Christensen, Andrew McKinley",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Corporations make substantial progress toward their Zero Routine Flaring commitments globally, particularly in Africa where preexisting environmental standards are weak. Moreover, committers’ flaring reductions on the continent are driven primarily by operational improvements rather than offloading assets and are concentrated among committers facing greater stakeholder pressure. Although flaring is higher for assets continuously operated by, awarded to, or divested to noncommitters, corporate actions to uphold commitments are associated with a conservatively estimated 10 percent net reduction in flaring in Africa without a corresponding reduction in oil production or local economic activity in extraction communities. Our findings suggest that environmental commitments are backed by corporate policies akin to establishing a uniform cost of pollution across the firm’s global operations and therefore may alleviate the problems posed by globally fragmented regulation.</jats:p>\n                  <jats:p>Data Availability: All data except for Enverus oil and gas are publicly available. Enverus is available for purchase on a subscription basis.</jats:p>\n                  <jats:p>JEL Classifications: F18; K23; K32; L71; M14; M48; N57; O13; Q35; Q52; Q53; Q56.</jats:p>",
+      "doi": "10.2308/tar-2025-0361",
+      "url": "https://doi.org/10.2308/tar-2025-0361"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -4891,26 +4911,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that scale in active equity portfolios is understated by at least 65&amp;#x00025; because the majority of mutual funds have &amp;#x0201C;twin&amp;#x0201D; institutional vehicles (IVs) managed under the same strategies. Omitting these IVs can severely skew crucial estimates in asset management research: by including IV assets, diminishing returns to scale of active investments is significantly reduced, and dollar value added of active strategies is more substantial and persistent than previously suggested. We further show that IV assets meaningfully influence managers&amp;#x02019; portfolio decisions. In addition, these measurement issues apply to common flow measures and extend to passive funds and bond funds.</jats:p>",
       "doi": "10.1093/rfs/hhag037",
       "url": "https://doi.org/10.1093/rfs/hhag037"
-    },
-    {
-      "title": "Mutual Fund Clienteles",
-      "authors": "Daniel Fricke, Stephan Jank, Hannes Wilke",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a unique data set on the ownership composition of euro area equity funds, we find substantial differences in the flow-performance sensitivity across mutual fund clienteles. Households, followed by insurers, display the weakest sensitivity, whereas investment funds—as investors in mutual funds—exhibit the strongest sensitivity. Crucially, these behavioral differences hold within the same fund-quarter, ruling out heterogeneity across funds as a potential driver. We relate these clientele effects to monitoring incentives and balance sheet constraints. Lastly, we find that households respond more strongly to poor performance when surrounded by more performance-sensitive investors, indicating strategic interactions in investor flows.</jats:p>",
-      "doi": "10.1093/rfs/hhag019",
-      "url": "https://doi.org/10.1093/rfs/hhag019"
-    },
-    {
-      "title": "New Frontiers in Household Finance",
-      "authors": "Francisco Gomes, Michael Haliassos, Tarun Ramadorai",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present and discuss the papers in this special issue. We use the themes that these papers study to illustrate interesting new directions that are being pursued in the household finance literature and highlight open questions on which more work is needed.</jats:p>",
-      "doi": "10.1093/rfs/hhag029",
-      "url": "https://doi.org/10.1093/rfs/hhag029"
     }
   ]
 }
