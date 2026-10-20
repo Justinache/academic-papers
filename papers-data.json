@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-10-19T07:19:03.524Z",
-  "count": 493,
+  "lastUpdated": "2026-10-20T07:11:15.786Z",
+  "count": 499,
   "papers": [
+    {
+      "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
+      "authors": "Seongjin Park, Arkodipta Sarkar, Nishant Vats",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104387",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104387"
+    },
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
       "authors": "Henry Friedman, Andrew G. Sutherland, Felix W. Vetter",
@@ -323,6 +333,16 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
     },
     {
+      "title": "Optimal Information and Security Design",
+      "authors": "Nicolas Inostroza, Anton Tsoy",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-10-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal. (JEL D82, D86, G32)</jats:p>",
+      "doi": "10.1093/rfs/hhag093",
+      "url": "https://doi.org/10.1093/rfs/hhag093"
+    },
+    {
       "title": "Closing Ranks: Organized Labor and Immigration",
       "authors": "Carlo Medici",
       "journal": "Journal of Political Economy",
@@ -478,7 +498,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-10-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency.</jats:p>",
       "doi": "10.1093/rfs/hhag089",
       "url": "https://doi.org/10.1093/rfs/hhag089"
     },
@@ -851,6 +871,46 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Corporations make substantial progress toward their Zero Routine Flaring commitments globally, particularly in Africa where preexisting environmental standards are weak. Moreover, committers’ flaring reductions on the continent are driven primarily by operational improvements rather than offloading assets and are concentrated among committers facing greater stakeholder pressure. Although flaring is higher for assets continuously operated by, awarded to, or divested to noncommitters, corporate actions to uphold commitments are associated with a conservatively estimated 10 percent net reduction in flaring in Africa without a corresponding reduction in oil production or local economic activity in extraction communities. Our findings suggest that environmental commitments are backed by corporate policies akin to establishing a uniform cost of pollution across the firm’s global operations and therefore may alleviate the problems posed by globally fragmented regulation.</jats:p>\n                  <jats:p>Data Availability: All data except for Enverus oil and gas are publicly available. Enverus is available for purchase on a subscription basis.</jats:p>\n                  <jats:p>JEL Classifications: F18; K23; K32; L71; M14; M48; N57; O13; Q35; Q52; Q53; Q56.</jats:p>",
       "doi": "10.2308/tar-2025-0361",
       "url": "https://doi.org/10.2308/tar-2025-0361"
+    },
+    {
+      "title": "Does Free Speech Law Contribute to Corporate Social Responsibility Behavior? Empirical Evidence",
+      "authors": "Paul A. Griffin, Hyun Hong, Boochun Jung, S. Katie Moon, Jiwoo Ryou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>People’s right to free speech can have profound effects on how firms discharge their social and environmental responsibilities. We examine these effects by analyzing the impact of the staggered enactment of anti-SLAPP free speech laws across U.S. states on firms’ corporate social responsibility (CSR) behavior. We theorize that, following the enactment of anti-SLAPP laws, firms enhance their CSR activities as an economically effective means to counter negative publicity from stakeholders. Supporting this idea, we find that firm CSR activity increases after the enactment of anti-SLAPP laws, accompanied by an increase in stakeholder criticism of firms’ social and environmental practices. Further, we observe an increase in the level of CSR disclosure. The link between anti-SLAPP law enactment and subsequent CSR engagement is stronger in states with more comprehensive anti-SLAPP protections than in those with weaker protections.</jats:p>\n                  <jats:p>Data Availability: From public sources identified in the study. Some may require a subscription.</jats:p>\n                  <jats:p>JEL Classifications: A13; D80; K15; K22; L21; M14; O32.</jats:p>",
+      "doi": "10.2308/tar-2023-0659",
+      "url": "https://doi.org/10.2308/tar-2023-0659"
+    },
+    {
+      "title": "Productivity versus Efficiency: The Effect of Incentive Focus on Target Setting in Participative Budgets",
+      "authors": "Jake Andrassy, Jason L. Brown, Timothy Mallon, Ashley K. Sauciuc",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Firms typically design incentive systems to motivate employees and advance firm objectives, including productivity (i.e., maximizing output) and efficiency (i.e., minimizing input). However, there remains little empirical research on the potential psychological effects of adopting a productivity versus efficiency focus on employee risk perceptions and decision-making. To address this important gap, we examine how these different incentive foci affect employee target setting under participative budgets. We predict and find that employees perceive efficiency incentives as riskier than productivity incentives, leading to lower target setting. Moreover, consistent with our theory, this effect disappears in the absence of outcome uncertainty. We also find employees are less likely to achieve their target and have higher error rates under efficiency incentives, despite setting easier targets. Overall, our findings suggest that efficiency incentives, relative to productivity incentives, can have detrimental effects on target setting and subsequent performance in participative budgeting settings.</jats:p>\n                  <jats:p>Data Availability: Contact the authors.</jats:p>\n                  <jats:p>JEL Classifications: M41; M52; J33.</jats:p>",
+      "doi": "10.2308/tar-2025-0493",
+      "url": "https://doi.org/10.2308/tar-2025-0493"
+    },
+    {
+      "title": "Internal Control over Financial Reporting and Mortgage Fraud",
+      "authors": "Yiwei Dou, Danye Wang, Xi Wu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mortgage fraud was a leading force behind the 2008 financial crisis. We measure the fraudulent income overstatement at the bank-ZIP Code-year level as the difference in the local growth between reported income in mortgage applications and the income based on IRS data. We find that overstated income is positively associated with banks’ internal control weaknesses over financial reporting and negatively associated with subsequent remediation of such weaknesses. The associations are concentrated among banks that integrate their accounting and operation processes, as proxied by the adoption of an Enterprise Resource Planning system. Finally, using the removal of internal control provisions in the Federal Deposit Insurance Corporation Improvement Act in 2005 as a shock to internal control quality, we find that affected banks experience increased income overstatement on mortgage applications.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from the public and proprietary sources identified in the article. Access to proprietary data is subject to the relevant providers’ licensing restrictions.</jats:p>\n                  <jats:p>JEL Classifications: G01; G21; G28; G51; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0214",
+      "url": "https://doi.org/10.2308/tar-2024-0214"
+    },
+    {
+      "title": "How Black Accounting Faculty Exercise Agency to Navigate Career Advancement within Institutional Structures",
+      "authors": "Michelle K. Harding, Jennifer R. Joe, Kerri-Ann Sanderson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines how tenured BAF experience and navigate institutional structures while advancing their careers. Leveraging a qualitative approach, we find BAF encounter recurring forms of marginalization embedded in organizational structures that lead to social identity threats that destabilize their identities as scholars and teachers. BAF respond to these threats by employing agentic and self-preserving coping responses designed to affirm identity and negotiate career advancement. Although coping responses can be effective on an individual level, they do not transform institutional structures and can provoke pushback that reinscribes marginalization. The findings unsettle common assumptions that effort in conditions marked by objectivity and neutrality drives career advancement and highlight the institutional structures and invisible labor that BAF navigate to achieve career advancement. We fill the void in the literature examining how career advancement unfolds within racialized conditions of academic institutions and advance research on minoritized group status in accounting academia.</jats:p>",
+      "doi": "10.2308/tar-2024-0836",
+      "url": "https://doi.org/10.2308/tar-2024-0836"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -4913,16 +4973,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag038"
     },
     {
-      "title": "The Impact of Financial Reporting Mandates on Labor Unions",
-      "authors": "Qingkai Dong, Anthony Le",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-20",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Labor unions in the United States are subject to financial reporting mandates. This study examines how these mandates affect unions and their members. Using several regulation‐based empirical designs, we document that more granular reporting requirements adversely affect unions' election outcomes. Supplemental analyses suggest that these findings are consistent with the strategic use of unions' disclosed information by parties such as employers and their consultants. We find mixed evidence on whether the mandates materially improve oversight of unions. Lastly, we find that the mandate reduces employees' average pay without clear benefits for employers, aside from reallocating investment from labor to capital. Collectively, our results suggest that more fine‐grained financial reporting requirements impose costs on unions and weaken their ability to represent employees, resulting in worse employment outcomes.</jats:p>",
-      "doi": "10.1111/1475-679x.70056",
-      "url": "https://doi.org/10.1111/1475-679x.70056"
-    },
-    {
       "title": "Remeasuring Scale in Active Management",
       "authors": "Shiyang Huang, Xu Lu, Yang Song, Hong Xiang",
       "journal": "Review of Financial Studies",
@@ -4931,6 +4981,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that scale in active equity portfolios is understated by at least 65&amp;#x00025; because the majority of mutual funds have &amp;#x0201C;twin&amp;#x0201D; institutional vehicles (IVs) managed under the same strategies. Omitting these IVs can severely skew crucial estimates in asset management research: by including IV assets, diminishing returns to scale of active investments is significantly reduced, and dollar value added of active strategies is more substantial and persistent than previously suggested. We further show that IV assets meaningfully influence managers&amp;#x02019; portfolio decisions. In addition, these measurement issues apply to common flow measures and extend to passive funds and bond funds.</jats:p>",
       "doi": "10.1093/rfs/hhag037",
       "url": "https://doi.org/10.1093/rfs/hhag037"
+    },
+    {
+      "title": "The Impact of Financial Reporting Mandates on Labor Unions",
+      "authors": "Qingkai Dong, Anthony Le",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-04-20",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Labor unions in the United States are subject to financial reporting mandates. This study examines how these mandates affect unions and their members. Using several regulation‐based empirical designs, we document that more granular reporting requirements adversely affect unions' election outcomes. Supplemental analyses suggest that these findings are consistent with the strategic use of unions' disclosed information by parties such as employers and their consultants. We find mixed evidence on whether the mandates materially improve oversight of unions. Lastly, we find that the mandate reduces employees' average pay without clear benefits for employers, aside from reallocating investment from labor to capital. Collectively, our results suggest that more fine‐grained financial reporting requirements impose costs on unions and weaken their ability to represent employees, resulting in worse employment outcomes.</jats:p>",
+      "doi": "10.1111/1475-679x.70056",
+      "url": "https://doi.org/10.1111/1475-679x.70056"
     }
   ]
 }
