@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T07:11:15.786Z",
-  "count": 499,
+  "lastUpdated": "2026-10-21T07:04:17.513Z",
+  "count": 503,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -333,6 +333,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
     },
     {
+      "title": "Implementing an Optimal Tax Plan with Short Term Debt",
+      "authors": "Wei Jiang, Thomas Sargent, Neng Wan",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-20",
+      "abstract": "",
+      "doi": "10.1086/744576",
+      "url": "https://doi.org/10.1086/744576"
+    },
+    {
+      "title": "Welfare and the Act of Choosing",
+      "authors": "B. Douglas Berhneim, Kristy Kim, Dmitry Taubinsky",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-20",
+      "abstract": "",
+      "doi": "10.1086/744577",
+      "url": "https://doi.org/10.1086/744577"
+    },
+    {
       "title": "Optimal Information and Security Design",
       "authors": "Nicolas Inostroza, Anton Tsoy",
       "journal": "Review of Financial Studies",
@@ -341,6 +361,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal. (JEL D82, D86, G32)</jats:p>",
       "doi": "10.1093/rfs/hhag093",
       "url": "https://doi.org/10.1093/rfs/hhag093"
+    },
+    {
+      "title": "How Private Equity Fuels Nonbank Lending",
+      "authors": "Sharjil Haque, Simon Mayer, Teng Wang",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-10-19",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We demonstrate how private equity (PE) promotes nonbank lending by substituting for bank monitoring. Relative to non-PE-backed loans, PE-backed loans exhibit lower bank monitoring, smaller loan shares retained by lead banks, and larger shares held by nonbanks. The substitution is strongest when sponsors have greater incentives to engage with portfolio firms, is not associated with weaker loan performance, and persists during borrower distress. Our findings suggest that PE sponsors’ active engagement—through monitoring and support in distress—reduces banks’ need for monitoring and information production, enabling them to retain less skin in the game and sell loans to nonbanks.</jats:p>",
+      "doi": "10.1093/rfs/hhag092",
+      "url": "https://doi.org/10.1093/rfs/hhag092"
     },
     {
       "title": "Closing Ranks: Organized Labor and Immigration",
@@ -911,6 +941,36 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines how tenured BAF experience and navigate institutional structures while advancing their careers. Leveraging a qualitative approach, we find BAF encounter recurring forms of marginalization embedded in organizational structures that lead to social identity threats that destabilize their identities as scholars and teachers. BAF respond to these threats by employing agentic and self-preserving coping responses designed to affirm identity and negotiate career advancement. Although coping responses can be effective on an individual level, they do not transform institutional structures and can provoke pushback that reinscribes marginalization. The findings unsettle common assumptions that effort in conditions marked by objectivity and neutrality drives career advancement and highlight the institutional structures and invisible labor that BAF navigate to achieve career advancement. We fill the void in the literature examining how career advancement unfolds within racialized conditions of academic institutions and advance research on minoritized group status in accounting academia.</jats:p>",
       "doi": "10.2308/tar-2024-0836",
       "url": "https://doi.org/10.2308/tar-2024-0836"
+    },
+    {
+      "title": "Unaffiliated Component Auditors and Audit Fee Models: The Case of Lowballing",
+      "authors": "Angela Pettinicchio, Peter F. Pope, Alessandra Scimeca",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101956",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101956"
+    },
+    {
+      "title": "Balancing Act: How Unaffiliated Analysts Navigate Private Information Disadvantages",
+      "authors": "Leila Peyravan, Brian Rountree, Konduru Sivaramakrishnan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using analyst-lender affiliation in syndicated loans as a proxy for differential access to private information, we examine how unaffiliated analysts respond to this disadvantage. We find that unaffiliated analysts are more likely to herd toward affiliated analysts following loan origination, leading to improved forecast accuracy but weaker market reactions, consistent with reduced information content. In addition, herding analysts improve their forecast accuracy for other firms in their portfolios relative to nonherding analysts, suggesting a reallocation of effort. To capture information acquisition directly, we analyze IP address data from SEC EDGAR log files and find that unaffiliated analysts increase search activity, driven primarily by those not designated as herding. Although herding behavior wanes after the first year post-loan, elevated EDGAR searches persist for three years. Overall, our study provides novel evidence on how selective access to private information influences analysts’ competitive behavior.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the text, subject to the terms and conditions of those sources.</jats:p>\n                  <jats:p>JEL Classifications: G24; G14; G29.</jats:p>",
+      "doi": "10.2308/tar-2025-0183",
+      "url": "https://doi.org/10.2308/tar-2025-0183"
+    },
+    {
+      "title": "IPOs and Foreign Tax Structures",
+      "authors": "Christine L. Dobridge, Rebecca Lester, Andrew Whitten",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Does going public affect the amount and type of corporate international tax planning? Using a panel of U.S. corporate tax return data from 2004 to 2018, we show that IPO completion is associated with the rapid implementation of multinational foreign tax structures. Specifically, within three years after filing for an IPO, firms (1) expand their presence in low-tax jurisdictions, (2) enter into cross-border agreements that accompany intangible asset transfers to foreign subsidiaries, and (3) increase the likelihood and level of foreign related-party income-shifting payments. Effects are strongest among firms with strong capital market pressure to hit post-IPO earnings targets, firms with high R&amp;D spending pre-IPO, and firms with limited ability to use net operating loss carryforwards. We contribute to the nascent literature studying tax implications of IPOs by documenting the types and timing of specific tax strategies that enable public firms to remain lightly taxed in the post-IPO period.</jats:p>\n                  <jats:p>JEL Classifications: F23; H25; H26.</jats:p>",
+      "doi": "10.2308/tar-2024-0048",
+      "url": "https://doi.org/10.2308/tar-2024-0048"
     },
     {
       "title": "Online Business Models, Digital Ads, and User Welfare",
@@ -4943,16 +5003,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70061"
     },
     {
-      "title": "Dynamics of Asset Demands with Confidence Heterogeneity",
-      "authors": "Adrian Buss, Raman Uppal, Grigory Vilkov",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-21",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>To understand the dynamics of investors’ asset demands, we develop a general-equilibrium model driven by a single latent variable: heterogeneity in investors’ confidence about mean endowment growth. The model predicts persistent heterogeneity in asset demands and concentrated portfolios. Consistent with the data, limited confidence reduces investors’ demand elasticities and makes stock prices excessively volatile—driven by latent demand rather than observable characteristics. The underlying economic mechanisms are driven primarily by investors’ desire to hedge changes in future beliefs instead of current disagreement. Finally, consistent with survey data, investors’ expectations correlate positively with past returns and negatively with future returns.</jats:p>",
-      "doi": "10.1093/rfs/hhag041",
-      "url": "https://doi.org/10.1093/rfs/hhag041"
-    },
-    {
       "title": "Machine Forecast Disagreement",
       "authors": "Turan G Bali, Bryan T Kelly, Mathis Mörke, Jamil Rahman",
       "journal": "Review of Financial Studies",
@@ -4973,24 +5023,14 @@
       "url": "https://doi.org/10.1093/rfs/hhag038"
     },
     {
-      "title": "Remeasuring Scale in Active Management",
-      "authors": "Shiyang Huang, Xu Lu, Yang Song, Hong Xiang",
+      "title": "Dynamics of Asset Demands with Confidence Heterogeneity",
+      "authors": "Adrian Buss, Raman Uppal, Grigory Vilkov",
       "journal": "Review of Financial Studies",
       "field": "Finance",
-      "date": "2026-04-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that scale in active equity portfolios is understated by at least 65&amp;#x00025; because the majority of mutual funds have &amp;#x0201C;twin&amp;#x0201D; institutional vehicles (IVs) managed under the same strategies. Omitting these IVs can severely skew crucial estimates in asset management research: by including IV assets, diminishing returns to scale of active investments is significantly reduced, and dollar value added of active strategies is more substantial and persistent than previously suggested. We further show that IV assets meaningfully influence managers&amp;#x02019; portfolio decisions. In addition, these measurement issues apply to common flow measures and extend to passive funds and bond funds.</jats:p>",
-      "doi": "10.1093/rfs/hhag037",
-      "url": "https://doi.org/10.1093/rfs/hhag037"
-    },
-    {
-      "title": "The Impact of Financial Reporting Mandates on Labor Unions",
-      "authors": "Qingkai Dong, Anthony Le",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-20",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Labor unions in the United States are subject to financial reporting mandates. This study examines how these mandates affect unions and their members. Using several regulation‐based empirical designs, we document that more granular reporting requirements adversely affect unions' election outcomes. Supplemental analyses suggest that these findings are consistent with the strategic use of unions' disclosed information by parties such as employers and their consultants. We find mixed evidence on whether the mandates materially improve oversight of unions. Lastly, we find that the mandate reduces employees' average pay without clear benefits for employers, aside from reallocating investment from labor to capital. Collectively, our results suggest that more fine‐grained financial reporting requirements impose costs on unions and weaken their ability to represent employees, resulting in worse employment outcomes.</jats:p>",
-      "doi": "10.1111/1475-679x.70056",
-      "url": "https://doi.org/10.1111/1475-679x.70056"
+      "date": "2026-04-21",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>To understand the dynamics of investors’ asset demands, we develop a general-equilibrium model driven by a single latent variable: heterogeneity in investors’ confidence about mean endowment growth. The model predicts persistent heterogeneity in asset demands and concentrated portfolios. Consistent with the data, limited confidence reduces investors’ demand elasticities and makes stock prices excessively volatile—driven by latent demand rather than observable characteristics. The underlying economic mechanisms are driven primarily by investors’ desire to hedge changes in future beliefs instead of current disagreement. Finally, consistent with survey data, investors’ expectations correlate positively with past returns and negatively with future returns.</jats:p>",
+      "doi": "10.1093/rfs/hhag041",
+      "url": "https://doi.org/10.1093/rfs/hhag041"
     }
   ]
 }
