@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T07:05:16.385Z",
-  "count": 500,
+  "lastUpdated": "2026-10-23T06:58:37.987Z",
+  "count": 503,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104387",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104387"
+    },
+    {
+      "title": "Do long-term yields help to estimate short-term risk premia?",
+      "authors": "Andrea Berardi, Roger Brown, Stephen M. Schaefer",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104386",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104386"
     },
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -331,6 +341,46 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104379",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
+    },
+    {
+      "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
+      "authors": "David Card, Eric Chyn, Laura Giuliano",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-22",
+      "abstract": "",
+      "doi": "10.1086/743389",
+      "url": "https://doi.org/10.1086/743389"
+    },
+    {
+      "title": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk, and Moral Hazard",
+      "authors": "Jonathan Gruber, Adam Solomon",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-10-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Intensifying climate change makes protection against natural disaster risk – either through ex ante insurance or ex post aid – a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 51%, comparable to the level of subsidization before the recent reform.</jats:p>",
+      "doi": "10.1093/qje/qjag051",
+      "url": "https://doi.org/10.1093/qje/qjag051"
+    },
+    {
+      "title": "How New Products Enter Markets: Social Networks, Consumer Imports, and Retailer Learning",
+      "authors": "David Argente, Esteban Méndez, Diana Van Patten",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-10-22",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how new varieties enter markets and become locally available. We provide causal evidence of demand externalities that operate in two steps. First, information about new varieties diffuses directly through real-world social ties among consumers. Second, early purchases generate an indirect spillover to firms: local retailers learn from “pioneer” consumers which new varieties are most likely to succeed and adjust their product offerings accordingly. We study this process in the context of direct-to-consumer imports. Using customs records on individuals’ purchases matched to population-wide social networks, international migrant links, and retailer catchment areas, we document economically meaningful demand externalities. Product-specific expenditure shocks abroad transmit through migrant networks and shift which varieties consumers purchase. Leveraging these shocks as a plausibly exogenous source of local demand variation, we show strong peer effects: prior purchases by close neighbors, coworkers, or friends increase an individual’s likelihood of purchasing the same variety, especially for premium and visible goods. We leverage this result to identify an indirect spillover from consumers to firms: retailers are more likely to add a variety to their assortment when it becomes popular among consumers in their catchment area. Combining the instrument with linked consumer–retailer data and a self-conducted retailer survey, we show that this response reflects learning about latent demand for varieties not yet stocked locally. Together, social diffusion and retailer learning generate demand multipliers that reshape local product availability and expand access to global variety.</jats:p>",
+      "doi": "10.1093/qje/qjag052",
+      "url": "https://doi.org/10.1093/qje/qjag052"
+    },
+    {
+      "title": "Excess Movement in Option‐Implied Beliefs",
+      "authors": "Ned Augenblick, Eben Lazarus",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-22",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We derive bounds on the rational variation in option‐implied beliefs about market returns. While risk preferences distort option‐implied (or\n                    <jats:italic>risk‐neutral</jats:italic>\n                    ) beliefs away from subjective beliefs, one can nonetheless bound risk‐neutral belief movement under a general assumption on the stochastic discount factor. The resulting test requires no knowledge of the objective distribution and allows significantly more flexibility in discount rates than standard volatility tests. Implementing our test empirically using index options, we find that there is so much movement in risk‐neutral beliefs that the bounds are routinely violated. Our results imply significant excess index‐price volatility.\n                  </jats:p>",
+      "doi": "10.1111/jofi.70086",
+      "url": "https://doi.org/10.1111/jofi.70086"
     },
     {
       "title": "Implementing an Optimal Tax Plan with Short Term Debt",
@@ -977,10 +1027,100 @@
       "authors": "Daron Acemoglu, Daniel Huttenlocher, Asuman Ozdaglar, James Siderius",
       "journal": "Journal of Political Economy",
       "field": "Economics",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "abstract": "",
       "doi": "10.1086/742715",
       "url": "https://doi.org/10.1086/742715"
+    },
+    {
+      "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
+      "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742710",
+      "url": "https://doi.org/10.1086/742710"
+    },
+    {
+      "title": "Silence to Solidarity: How Communication about a Minority Affects Discrimination",
+      "authors": "Duncan Webb",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742724",
+      "url": "https://doi.org/10.1086/742724"
+    },
+    {
+      "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
+      "authors": "Ian Ball, Deniz Kattwinkel",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742716",
+      "url": "https://doi.org/10.1086/742716"
+    },
+    {
+      "title": "Regulatory Competition in the US Life Insurance Industry",
+      "authors": "Johnny Tang",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742725",
+      "url": "https://doi.org/10.1086/742725"
+    },
+    {
+      "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+      "authors": "Thomas R. Covert, Ryan Kellogg",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742713",
+      "url": "https://doi.org/10.1086/742713"
+    },
+    {
+      "title": "Peer Effects and Rank Concerns in the Classroom",
+      "authors": "Michela M. Tincani",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742714",
+      "url": "https://doi.org/10.1086/742714"
+    },
+    {
+      "title": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining",
+      "authors": "David A. Green, Ben M. Sand, Iain G. Snoddy, Jeanne Tschopp",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1086/742712",
+      "url": "https://doi.org/10.1086/742712"
+    },
+    {
+      "title": "Enabling Employee Adaptability to Change: The Joint Effect of Compensation Contract and Process Accountability",
+      "authors": "Marte Abts, Martine Cools, Sabra Khajehnejad, Alexandra Van den Abbeele",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Organizations increasingly operate in uncertain environments, requiring employees to revise task strategies to remain effective. We examine how pay for performance (PFP) influences adaptive performance following unanticipated change and argue that process accountability moderates this effect. Although PFP increases effort, it hinders adaptation by reinforcing persistence with an existing task strategy. Process accountability channels PFP-induced motivation into deeper strategic deliberation, enabling adaptation. We test our predictions in an experiment manipulating compensation (PFP versus flat wage) and process accountability (absent, reflection-only, and present), with participants in the reflection-only condition privately reflecting on their decision-making to isolate the social-evaluative component. Results show that PFP, relative to a flat wage, decreases adaptive performance when process accountability is absent, has no significant effect under reflection-only, and increases it when process accountability is present. Additional analyses suggest that strategic deliberation partially explains this effect. The findings underscore pairing PFP with process accountability to foster adaptation.</jats:p>\n                  <jats:p>Data Availability: Data are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: D91; M21; M41; M52.</jats:p>",
+      "doi": "10.2308/tar-2024-0576",
+      "url": "https://doi.org/10.2308/tar-2024-0576"
+    },
+    {
+      "title": "Capital Market Pressure and Racial Inequality in Labor Violations",
+      "authors": "Seth S. Carnahan, Sarah E. McVay, MaryJane R. Rabier",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Managers can boost reported earnings to meet capital market expectations by pursuing aggressive cost-minimization strategies that violate labor laws, such as pressuring frontline employees to forgo safety protocols or work off the clock. We investigate whether labor law violations, which benefit the firm at the expense of employees, fall disproportionately on nonwhite frontline employees. Across similar locations (e.g., stores or plants) within the same firm, we predict and find that locations with a higher share of nonwhite frontline employees are more likely to experience a labor law violation. This racial inequality in labor violations is especially pronounced in settings more prone to racial discrimination and during periods of acute capital market pressure to meet earnings benchmarks, providing insight into the mechanisms underlying the observed disparity. Our evidence suggests that capital market pressure is associated not only with labor violations but also with racial inequality in exposure to those violations.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text.</jats:p>",
+      "doi": "10.2308/tar-2024-0063",
+      "url": "https://doi.org/10.2308/tar-2024-0063"
     },
     {
       "title": "The Origin of Risk",
@@ -1083,16 +1223,6 @@
       "url": "https://doi.org/10.1093/qje/qjag043"
     },
     {
-      "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
-      "authors": "Greg Buchak, Gregor Matvos, Tomasz Piskorski, Amit Seru",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-09-25",
-      "abstract": "",
-      "doi": "10.1086/742710",
-      "url": "https://doi.org/10.1086/742710"
-    },
-    {
       "title": "How Does Wage Inequality Affect the Labor Movement?",
       "authors": "Barbara Biasi, Zoë Cullen, Julia Gilman, Nina Roussille",
       "journal": "Quarterly Journal of Economics",
@@ -1131,16 +1261,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a nonlinear covariance shrinkage method for building optimal portfolios. Our universal portfolio shrinkage approximator (UPSA) is built from closed-form basis portfolios, is cheap to implement, and improves on existing shrinkage methods. Rather than uniformly penalizing all principal components of returns or discarding low-variance ones, UPSA instead reweights components to explicitly optimize expected out-of-sample portfolio performance. In empirical applications using a large cross-section of anomaly factors, it delivers robust improvements over alternative shrinkage methods in the literature.</jats:p>",
       "doi": "10.1093/rfs/hhag084",
       "url": "https://doi.org/10.1093/rfs/hhag084"
-    },
-    {
-      "title": "Silence to Solidarity: How Communication about a Minority Affects Discrimination",
-      "authors": "Duncan Webb",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-09-22",
-      "abstract": "",
-      "doi": "10.1086/742724",
-      "url": "https://doi.org/10.1086/742724"
     },
     {
       "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
@@ -1253,16 +1373,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag083"
     },
     {
-      "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
-      "authors": "Ian Ball, Deniz Kattwinkel",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-09-17",
-      "abstract": "",
-      "doi": "10.1086/742716",
-      "url": "https://doi.org/10.1086/742716"
-    },
-    {
       "title": "Attention to the Macroeconomy",
       "authors": "Sebastian Link, Andreas Peichl, Oliver Pfäuti, Christopher Roth, Johannes Wohlfart",
       "journal": "Quarterly Journal of Economics",
@@ -1271,16 +1381,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure which economic topics are top of mind using quarterly German household and firm panels from 2020 to 2024, a period that spans the post-pandemic inflation surge and the subsequent disinflation. With these data, we study potential determinants and consequences of having inflation top of mind. In line with goal-directed attention, the likelihood that inflation is top of mind rises with proxies for its true payoff relevance. At the same time, prior experiences predict whether respondents have inflation and energy prices top of mind conditional on a large set of controls for payoff relevance, and this relationship strengthens when the environment becomes more inflationary. Having inflation top of mind predicts stronger increases in information acquisition and inflation expectations over the shock period. At odds with goal-optimality, having inflation top of mind is associated with expectations further away from multiple ex-ante benchmarks. Finally, both key determinants of having inflation top of mind—payoff relevance and prior experiences—are associated with stronger shifts of expectations away from these benchmarks over the shock period.</jats:p>",
       "doi": "10.1093/qje/qjag047",
       "url": "https://doi.org/10.1093/qje/qjag047"
-    },
-    {
-      "title": "Regulatory Competition in the US Life Insurance Industry",
-      "authors": "Johnny Tang",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-09-15",
-      "abstract": "",
-      "doi": "10.1086/742725",
-      "url": "https://doi.org/10.1086/742725"
     },
     {
       "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
@@ -1351,26 +1451,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax—a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various census reports, including those on “Wealth, Debt, and Taxation”), in which the census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid-1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.</jats:p>",
       "doi": "10.1093/qje/qjag038",
       "url": "https://doi.org/10.1093/qje/qjag038"
-    },
-    {
-      "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
-      "authors": "Thomas R. Covert, Ryan Kellogg",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-09-04",
-      "abstract": "",
-      "doi": "10.1086/742713",
-      "url": "https://doi.org/10.1086/742713"
-    },
-    {
-      "title": "Peer Effects and Rank Concerns in the Classroom",
-      "authors": "Michela M. Tincani",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-09-03",
-      "abstract": "",
-      "doi": "10.1086/742714",
-      "url": "https://doi.org/10.1086/742714"
     },
     {
       "title": "Stablecoin Runs and the Centralization of Arbitrage",
@@ -1981,16 +2061,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between taxes and business investment using the setting of an unexpected and economically significant federal corporate income tax rate increase in Canada known colloquially as the Halloween Massacre of 2006. This tax increase only applies to firms organized as income trusts, but not corporations. Using a difference‐in‐differences design, we find that investment by income trusts decreases about 0.67% for each 1 percentage point increase in the tax rate, translating into over $10 billion in reduced aggregate investment. In decomposing total investment, our results reveal that capital expenditures exhibit an immediate decrease while there is a delayed decrease in acquisition activity. Our results are concentrated in high‐investment income trusts that are most sensitive to the link between investment and taxes. Our study helps resolve conflicting prior results by providing robust evidence that tax increases have an economically significant and negative causal effect on business investment.</jats:p>",
       "doi": "10.1111/1475-679x.70084",
       "url": "https://doi.org/10.1111/1475-679x.70084"
-    },
-    {
-      "title": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining",
-      "authors": "David A. Green, Ben M. Sand, Iain G. Snoddy, Jeanne Tschopp",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-25",
-      "abstract": "",
-      "doi": "10.1086/742712",
-      "url": "https://doi.org/10.1086/742712"
     },
     {
       "title": "The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance",
@@ -2711,16 +2781,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine commonly used indicators of aggressive non-GAAP exclusions and find that the majority perform poorly at identifying low-quality exclusions in terms of decision usefulness for investors. We propose a new firm-quarter-specific indicator that identifies instances in which GAAP earnings quality is high (i.e., when firms have less need to provide non-GAAP metrics) but managers disclose non-GAAP earnings anyway. Our new indicator is easy to calculate, requires minimal data, and performs far better at identifying low-quality exclusions than indicators used in prior research. Using our indicator, we find instances in which managers exclude earnings components that are decision useful, consistent with regulators’ concerns about the quality of some non-GAAP earnings disclosures. Our results are robust to a variety of specification checks.</jats:p>\n                  <jats:p>Data Availability: Data are derived from a combination of publicly available sources referenced in the article and third-party subscription data bases.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0299",
       "url": "https://doi.org/10.2308/tar-2023-0299"
-    },
-    {
-      "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
-      "authors": "David Card, Eric Chyn, Laura Giuliano",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743389",
-      "url": "https://doi.org/10.1086/743389"
     },
     {
       "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
@@ -4971,36 +5031,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how terminated correspondent banking relationships affect international trade. Drawing on firm-level export data from emerging Europe, we show that when local banks lose access to correspondent services, their corporate clients, especially small- and medium-sized enterprises, experience significant export declines. Firms only partially offset lost exports with higher domestic sales, resulting in lower total revenues and employment. Other firms cease operations entirely. These firm-level impacts aggregate to lower product-level exports from countries more exposed to correspondent bank retrenchment.</jats:p>",
       "doi": "10.1093/rfs/hhag045",
       "url": "https://doi.org/10.1093/rfs/hhag045"
-    },
-    {
-      "title": "The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market",
-      "authors": "Falk Bräuning, Hillary Stein",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-22",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using confidential microdata, we show that shocks to primary dealers’ constraints have significant effects on the U.S. Treasury securities market. We consider two types of constraints: the supplementary leverage ratio and trading desk value-at-risk constraints. In response to tighter constraints, dealers reduce their Treasury positions, triggering a reduction in aggregate turnover and an increase in dealer intermediation margin. Impaired intermediation also amplifies the yield response to net demand shifts and weakens Treasury auction outcomes. Our estimates suggest that the (shadow) cost of dealer constraints is as high as 9% of dealers’ profit margins.</jats:p>",
-      "doi": "10.1093/rfs/hhag043",
-      "url": "https://doi.org/10.1093/rfs/hhag043"
-    },
-    {
-      "title": "Generative AI in Capital Markets: Information Production, Dissemination, and Processing",
-      "authors": "Sean Shun Cao, Wilbur Xinyuan Chen, Guang Ma, Suraj Srinivasan",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We synthesize evidence from six papers presented at the 2025\n                    <jats:italic>Journal of Accounting Research</jats:italic>\n                    Conference on how generative artificial intelligence (GenAI) is reshaping capital‐market information flows. Our discussion is organized around an economic framework with three layers: information production by firms and accounting professionals, information dissemination through intermediaries, and information processing by investors. Across these layers, the conference papers show that GenAI can lower preparation costs, improve intermediary productivity, and reduce investors’ processing costs. At the same time, they point to a common constraint: whether GenAI improves the information environment depends critically on information verification costs. We also highlight gaps in current evidence and outline future research opportunities within and across the three layers.\n                  </jats:p>",
-      "doi": "10.1111/1475-679x.70061",
-      "url": "https://doi.org/10.1111/1475-679x.70061"
-    },
-    {
-      "title": "AI Democratization and Trading Inequality",
-      "authors": "Anne Yanru Chang, Xi Dong, Xiumin Martin, Changyun Zhou",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We are among the first to investigate how Generative AI (GenAI) shapes investors' trading activities. Using an AI‐sentiment measure extracted from earnings‐call transcripts to proxy for textual signals, we find notable shifts in trading behaviors around earnings calls. Before the wide deployment of ChatGPT, short selling was aligned with AI‐sentiment, whereas retail trading was not. However, following ChatGPT's deployment, the alignment of retail traders with AI‐sentiment significantly increases, while the alignment of short sellers weakens, albeit insignificantly. Stocks with higher information processing costs exhibit a more pronounced increase in retail trading alignment, scenarios where retail investors are likely to benefit more from AI. Using retail‐AI alignment as a proxy for the extent to which retail investors trade based on AI signals, we show that information asymmetry declines and retail investors' trading profitability improves, whereas short sale profitability declines in high retail‐AI alignment stocks. Exogenous outages reduce the alignment between retail trading and AI‐sentiment, allowing us to draw causal inferences. Collectively, this study suggests that AI is a promising technology for narrowing the information gap in the trading of complex textual financial disclosures between investor classes with clear disparities in the ability to process public disclosures.</jats:p>",
-      "doi": "10.1111/1475-679x.70063",
-      "url": "https://doi.org/10.1111/1475-679x.70063"
     }
   ]
 }
