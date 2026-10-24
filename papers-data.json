@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T06:58:37.987Z",
-  "count": 503,
+  "lastUpdated": "2026-10-24T06:54:11.080Z",
+  "count": 504,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -341,6 +341,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104379",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
+    },
+    {
+      "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+      "authors": "Rodrigo Adão, Costas Arkolakis, Sharat Ganapati",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-23",
+      "abstract": "",
+      "doi": "10.1086/743331",
+      "url": "https://doi.org/10.1086/743331"
+    },
+    {
+      "title": "The Rise of Alternatives",
+      "authors": "Juliane Begenau, Pauline Liang, Emil Siriwardane",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-10-23",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data. (JEL G11, G23, G41, H75)</jats:p>",
+      "doi": "10.1093/rfs/hhag091",
+      "url": "https://doi.org/10.1093/rfs/hhag091"
     },
     {
       "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
@@ -2781,16 +2801,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine commonly used indicators of aggressive non-GAAP exclusions and find that the majority perform poorly at identifying low-quality exclusions in terms of decision usefulness for investors. We propose a new firm-quarter-specific indicator that identifies instances in which GAAP earnings quality is high (i.e., when firms have less need to provide non-GAAP metrics) but managers disclose non-GAAP earnings anyway. Our new indicator is easy to calculate, requires minimal data, and performs far better at identifying low-quality exclusions than indicators used in prior research. Using our indicator, we find instances in which managers exclude earnings components that are decision useful, consistent with regulators’ concerns about the quality of some non-GAAP earnings disclosures. Our results are robust to a variety of specification checks.</jats:p>\n                  <jats:p>Data Availability: Data are derived from a combination of publicly available sources referenced in the article and third-party subscription data bases.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0299",
       "url": "https://doi.org/10.2308/tar-2023-0299"
-    },
-    {
-      "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
-      "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743331",
-      "url": "https://doi.org/10.1086/743331"
     },
     {
       "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
