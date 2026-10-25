@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T06:54:11.080Z",
-  "count": 504,
+  "lastUpdated": "2026-10-25T07:18:24.247Z",
+  "count": 502,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -953,7 +953,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101955"
     },
     {
-      "title": "The Good Idea Dilemma",
+      "title": "The good idea dilemma",
       "authors": "Eti Einhorn, Nisan Langberg, Tsahi Versano",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -5021,26 +5021,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on unconscious thought theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners’ evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less‐experienced auditors’ ability to recognize income‐decreasing patterns of bias. In contrast, more‐experienced auditors respond similarly to both incoming‐increasing and income‐decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals’ ability to recognize subtle patterns of bias that they might otherwise overlook.</jats:p>",
       "doi": "10.1111/1475-679x.70062",
       "url": "https://doi.org/10.1111/1475-679x.70062"
-    },
-    {
-      "title": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
-      "authors": "Elio Nimier-David, David Sraer, David Thesmar",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-04-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pretax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that at the firm level, mandated profit-sharing (i) increases the labor share by 1.8 percentage points, (ii) reduces the profit share by 1.4 percentage points, and (iii) has small to nonexistent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.</jats:p>",
-      "doi": "10.1093/qje/qjag022",
-      "url": "https://doi.org/10.1093/qje/qjag022"
-    },
-    {
-      "title": "Broken Relationships: Derisking by Correspondent Banks and International Trade",
-      "authors": "Lea Borchert, Ralph De Haas, Karolin Kirschenmann, Alison Schultz",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-24",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how terminated correspondent banking relationships affect international trade. Drawing on firm-level export data from emerging Europe, we show that when local banks lose access to correspondent services, their corporate clients, especially small- and medium-sized enterprises, experience significant export declines. Firms only partially offset lost exports with higher domestic sales, resulting in lower total revenues and employment. Other firms cease operations entirely. These firm-level impacts aggregate to lower product-level exports from countries more exposed to correspondent bank retrenchment.</jats:p>",
-      "doi": "10.1093/rfs/hhag045",
-      "url": "https://doi.org/10.1093/rfs/hhag045"
     }
   ]
 }
