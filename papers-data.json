@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T07:25:36.680Z",
+  "lastUpdated": "2026-10-27T07:19:19.890Z",
   "count": 502,
   "papers": [
     {
@@ -21,6 +21,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104386",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104386"
+    },
+    {
+      "title": "The effect of prime brokers’ balance sheet constraints on hedge fund performance: Evidence from the GSIB surcharge",
+      "authors": "Yueting Jiang, Yiwen Shen",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104399",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104399"
     },
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -4991,16 +5001,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We use granular data from an investment firm and a credible identification strategy to estimate the effect of financial advisors' incentives on client investments. Exploiting a natural experiment triggered by the 2018 implementation of Markets in Financial Instruments Directive II (MiFID II), we find that clients' investments respond strongly to changes in advisor incentives. Advisors react through multiple mechanisms: (i) inducing existing clients to bring in new money, (ii) channeling it to high‐incentive funds, and (iii) attracting more new clients. We also find that the MiFID II reform generated more balanced incentives, which translated into higher portfolio efficiency through lower average fees and stronger portfolio diversification.</jats:p>",
       "doi": "10.1111/jofi.70041",
       "url": "https://doi.org/10.1111/jofi.70041"
-    },
-    {
-      "title": "Smokestacks and the Swamp",
-      "authors": "Emilio Bisetti, Stefan Lewellen, Arkodipta Sarkar, Xiao Zhao",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-27",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine whether politicians affect local firms’ industrial pollution, and whether such effects are transmitted through plant-level networks to affect pollution in other regions. We first document that close Democrat wins in U.S. congressional races are associated with lower emissions and higher abatement at the plant level, especially when politicians have strong pro-environmental preferences. We also find evidence of reallocation: firms shift emissions away from areas represented by Democrats. However, reallocation is imperfect: firm-level costs are higher and market-to-book ratios lower if firms’ representation is more Democratic. Lower pollution-related illnesses around plants in Democratic districts suggest pass-through effects on local communities.</jats:p>",
-      "doi": "10.1093/rfs/hhag039",
-      "url": "https://doi.org/10.1093/rfs/hhag039"
     },
     {
       "title": "Do Investors Value Auditor Involvement in Non‐GAAP Reporting?",
