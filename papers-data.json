@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27T07:19:19.890Z",
-  "count": 502,
+  "lastUpdated": "2026-10-28T07:54:35.311Z",
+  "count": 500,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -953,7 +953,7 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101949"
     },
     {
-      "title": "Video-Based Deception Detection and Financial Fraud",
+      "title": "Video-based deception detection and financial fraud",
       "authors": "Binglei Duan, Danqi Hu, Hai Lu",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
@@ -1023,8 +1023,8 @@
       "url": "https://doi.org/10.2308/tar-2024-0836"
     },
     {
-      "title": "Unaffiliated Component Auditors and Audit Fee Models: The Case of Lowballing",
-      "authors": "Angela Pettinicchio, Peter F. Pope, Alessandra Scimeca",
+      "title": "Unaffiliated component auditors and audit fee models: The case of lowballing",
+      "authors": "Angela K. Pettinicchio, Peter F. Pope, Alessandra Scimeca",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
       "date": "2026-10-01",
@@ -1151,6 +1151,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Managers can boost reported earnings to meet capital market expectations by pursuing aggressive cost-minimization strategies that violate labor laws, such as pressuring frontline employees to forgo safety protocols or work off the clock. We investigate whether labor law violations, which benefit the firm at the expense of employees, fall disproportionately on nonwhite frontline employees. Across similar locations (e.g., stores or plants) within the same firm, we predict and find that locations with a higher share of nonwhite frontline employees are more likely to experience a labor law violation. This racial inequality in labor violations is especially pronounced in settings more prone to racial discrimination and during periods of acute capital market pressure to meet earnings benchmarks, providing insight into the mechanisms underlying the observed disparity. Our evidence suggests that capital market pressure is associated not only with labor violations but also with racial inequality in exposure to those violations.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text.</jats:p>",
       "doi": "10.2308/tar-2024-0063",
       "url": "https://doi.org/10.2308/tar-2024-0063"
+    },
+    {
+      "title": "Diversification versus Consumption Motives for Early Exercise of Employee Stock Options",
+      "authors": "Kevin J. Murphy, Marshall Vance",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101957",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101957"
     },
     {
       "title": "The Origin of Risk",
@@ -4991,36 +5001,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A key question for studying business dynamism is whether the costs of regulatory compliance fall homogeneously on small and large businesses. Using comprehensive establishment-level occupational microdata and occupation task information, we quantify a firm’s compliance costs as the share of wage bill for performing regulatory compliance tasks (RegIndex). We reveal an inverted-U relationship between firms’ RegIndex and their size: On average, RegIndex for mid-sized firms with around 500 employees is about 47% greater than that of the smallest firms and 18% greater than that of the largest firms. We further develop a shift-share methodology to disentangle the influence of regulatory requirements and enforcement on driving firms’ compliance costs.</jats:p>",
       "doi": "10.1093/rfs/hhag046",
       "url": "https://doi.org/10.1093/rfs/hhag046"
-    },
-    {
-      "title": "The Effect of Advisors' Incentives on Clients' Investments",
-      "authors": "Diego Battiston, Jordi Blanes I Vidal, Rafael Hortala‐vallve, Dong Lou",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-04-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We use granular data from an investment firm and a credible identification strategy to estimate the effect of financial advisors' incentives on client investments. Exploiting a natural experiment triggered by the 2018 implementation of Markets in Financial Instruments Directive II (MiFID II), we find that clients' investments respond strongly to changes in advisor incentives. Advisors react through multiple mechanisms: (i) inducing existing clients to bring in new money, (ii) channeling it to high‐incentive funds, and (iii) attracting more new clients. We also find that the MiFID II reform generated more balanced incentives, which translated into higher portfolio efficiency through lower average fees and stronger portfolio diversification.</jats:p>",
-      "doi": "10.1111/jofi.70041",
-      "url": "https://doi.org/10.1111/jofi.70041"
-    },
-    {
-      "title": "Do Investors Value Auditor Involvement in Non‐GAAP Reporting?",
-      "authors": "Phillip T. Lamoreaux, Lauren Matkaluk, Amy G. Sheneman",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines investors’ perceptions of auditor involvement in non‐GAAP reporting as captured by non‐GAAP disclosures in 10‐K filings. We find that firm‐years with auditor involvement in non‐GAAP reporting have higher CARs, lower bid–ask spreads, lower stock volatility, and lower abnormal trading volume on 10‐K filing dates. To sharpen identification of auditor involvement, we hand‐collect non‐GAAP measures and reconciliations for S&amp;P 500 firms and identify which exclusions reconcile directly to the audited financial statements. As the percentage of exclusions that reconcile directly to the audited financial statements increases, bid–ask spreads and stock volatility on 10‐K filing dates decrease. We find that the results are not driven by strategic reporting or managers’ responses to perceived litigation risk. This study provides new insights into non‐GAAP disclosures outside of earnings announcements, which have been largely ignored in prior literature. Collectively, our results suggest investors value auditor involvement in non‐GAAP reporting and inform policymakers and standard setters considering the usefulness of assurance over non‐GAAP measures.</jats:p>",
-      "doi": "10.1111/1475-679x.70064",
-      "url": "https://doi.org/10.1111/1475-679x.70064"
-    },
-    {
-      "title": "Using Unconscious Thought to Improve Evaluations of Complex Accounting Estimates",
-      "authors": "Blake Holman, Benjamin P. Commerford, Finn Kinserdal",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-04-27",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on unconscious thought theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners’ evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less‐experienced auditors’ ability to recognize income‐decreasing patterns of bias. In contrast, more‐experienced auditors respond similarly to both incoming‐increasing and income‐decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals’ ability to recognize subtle patterns of bias that they might otherwise overlook.</jats:p>",
-      "doi": "10.1111/1475-679x.70062",
-      "url": "https://doi.org/10.1111/1475-679x.70062"
     }
   ]
 }
