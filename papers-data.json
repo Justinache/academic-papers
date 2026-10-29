@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28T07:54:35.311Z",
-  "count": 500,
+  "lastUpdated": "2026-10-29T07:59:16.191Z",
+  "count": 499,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -4991,16 +4991,6 @@
       "abstract": "",
       "doi": "10.1086/739828",
       "url": "https://doi.org/10.1086/739828"
-    },
-    {
-      "title": "The Cost of Regulatory Compliance in the United States",
-      "authors": "Francesco Trebbi, Miao Ben Zhang, Michael Simkovic",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-04-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A key question for studying business dynamism is whether the costs of regulatory compliance fall homogeneously on small and large businesses. Using comprehensive establishment-level occupational microdata and occupation task information, we quantify a firm’s compliance costs as the share of wage bill for performing regulatory compliance tasks (RegIndex). We reveal an inverted-U relationship between firms’ RegIndex and their size: On average, RegIndex for mid-sized firms with around 500 employees is about 47% greater than that of the smallest firms and 18% greater than that of the largest firms. We further develop a shift-share methodology to disentangle the influence of regulatory requirements and enforcement on driving firms’ compliance costs.</jats:p>",
-      "doi": "10.1093/rfs/hhag046",
-      "url": "https://doi.org/10.1093/rfs/hhag046"
     }
   ]
 }
