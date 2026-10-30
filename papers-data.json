@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T07:59:16.191Z",
-  "count": 499,
+  "lastUpdated": "2026-10-30T08:03:42.180Z",
+  "count": 505,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -353,6 +353,46 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
     },
     {
+      "title": "Political Parties as Drivers of US Polarization: 1927–2018",
+      "authors": "Nathan Canen, Chad Kendall, Francesco Trebbi",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-29",
+      "abstract": "",
+      "doi": "10.1086/743333",
+      "url": "https://doi.org/10.1086/743333"
+    },
+    {
+      "title": "Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results",
+      "authors": "Christoph Huber, Felix Holzmeister, Magnus Johannesson, Christian König‐kersting, Anna Dreber, Jürgen Huber, Michael Kirchler",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-29",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Experimental asset markets provide a controlled approach to studying financial markets. We attempt to replicate 17 key results from four prominent studies, collecting new data from 166 markets with 1,544 participants. Only three of the 14 original results reported as statistically significant were successfully replicated. We fail to replicate findings on emotions, self‐control, and gender differences in bubble formation but confirm that experience reduces bubbles and cognitive skills explain trading success. Our study demonstrates the importance of replications in enhancing the credibility of scientific results in this field.</jats:p>",
+      "doi": "10.1111/jofi.70100",
+      "url": "https://doi.org/10.1111/jofi.70100"
+    },
+    {
+      "title": "Correlated Demand Shocks and Asset Pricing",
+      "authors": "Byungwook Kim",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-10-28",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment. (JEL G1, G2)</jats:p>",
+      "doi": "10.1093/rfs/hhag094",
+      "url": "https://doi.org/10.1093/rfs/hhag094"
+    },
+    {
+      "title": "Safe Spaces: Shelters or Tribes?",
+      "authors": "Jean Tirole",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-27",
+      "abstract": "",
+      "doi": "10.1086/743388",
+      "url": "https://doi.org/10.1086/743388"
+    },
+    {
       "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
       "authors": "Rodrigo Adão, Costas Arkolakis, Sharat Ganapati",
       "journal": "Journal of Political Economy",
@@ -368,7 +408,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-10-23",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data. (JEL G11, G23, G41, H75)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data.</jats:p>",
       "doi": "10.1093/rfs/hhag091",
       "url": "https://doi.org/10.1093/rfs/hhag091"
     },
@@ -438,7 +478,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-10-19",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal. (JEL D82, D86, G32)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal.</jats:p>",
       "doi": "10.1093/rfs/hhag093",
       "url": "https://doi.org/10.1093/rfs/hhag093"
     },
@@ -1161,6 +1201,46 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101957",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101957"
+    },
+    {
+      "title": "Audit Quality and Audit Partner Ownership of Non-Audit Businesses: Evidence from China",
+      "authors": "Clive S. Lennox, Zanyue Qi, Xi Wu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether audit partners’ ownership stakes in affiliated non-audit businesses are related to audit quality. We argue that non-audit ownership is a relatively sharp measure of auditor-client economic bonding, which can impair auditor independence. Using a unique setting in China where we observe partners’ equity stakes in both audit and non-audit businesses, we find that audit adjustments are significantly smaller when engagement partners hold larger ownership stakes in non-audit businesses. Audit adjustments are further reduced when the entire audit partnership holds greater ownership in affiliated non-audit businesses, suggesting that non-audit ownership matters at the audit firm level as well. Additional analyses suggest that these results are driven by impaired independence, rather than partner distraction or endogenous partner-client matching. Our study informs ongoing policy debates on the structuring of audit and non-audit businesses as well as the investments of non-audit entities in accounting practices.</jats:p>\n                  <jats:p>Data Availability: The authors have nondisclosure and confidentiality agreements for their use of proprietary data, which were provided to the authors for independent academic research only. Nonproprietary data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42; M48; M52.</jats:p>",
+      "doi": "10.2308/tar-2025-0720",
+      "url": "https://doi.org/10.2308/tar-2025-0720"
+    },
+    {
+      "title": "Sales-Based CEO Incentives and Their Effect Across the Supply Chain",
+      "authors": "Jen Choi",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine how the use of sales performance measures in CEO incentive contracts affects the operations of a firm and its suppliers. A growing number of firms are evaluating and compensating their CEOs based on sales performance. However, because sales performance measures are narrow measures that do not incentivize cost control, they can influence operational decisions that affect not only the firm but also its suppliers. I show that the use of sales performance measures in CEO bonus contracts is associated with inventory fluctuations that increase the bullwhip effect, a phenomenon in which a firm exhibits greater volatility in production than in demand, thereby increasing the order volatility faced by its suppliers. Instrumental variable tests using the firm’s network connections through compensation consultants mitigate concerns that the results are driven by omitted factors. Collectively, my findings illuminate spillover effects of CEO incentive contracts on economically linked firms.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M10; M12; M40; M41; M52.</jats:p>",
+      "doi": "10.2308/tar-2024-0591",
+      "url": "https://doi.org/10.2308/tar-2024-0591"
+    },
+    {
+      "title": "The Signaling Role of Seemingly Myopic Investment Behavior",
+      "authors": "Cyrus Aghamolla, Vivian W. Fang, Renhui Fu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper analytically and empirically investigates managerial investment responses to negative shocks in firm value. In the model, managers are privately informed about the shocks’ persistence, and those facing transitory shocks strategically underinvest to boost earnings and signal financial strength to investors. The model also predicts counter-signaling: firms with strong fundamentals do not need to cut investment to convey strength. We exploit the 2003 mutual fund trading scandal as a plausibly exogenous source of price pressure. Consistent with signaling, we find that firms with greater tainted-fund ownership are more likely to meet or narrowly beat analyst forecasts by cutting R&amp;D, and that this behavior is associated with more favorable earnings announcement returns and better long-run performance. Consistent with counter-signaling, these firms are less likely to cut R&amp;D when they beat analyst forecasts by a wide margin. Cross-sectional tests also support the model’s comparative statics.</jats:p>\n                  <jats:p>Data Availability: All data used in the study are publicly available from the sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: C73; D82; G23; G31; G34.</jats:p>",
+      "doi": "10.2308/tar-2024-0559",
+      "url": "https://doi.org/10.2308/tar-2024-0559"
+    },
+    {
+      "title": "Analysts’ Perspectives on Climate Change: An Examination of Analyst Reports",
+      "authors": "Jesse Chan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I explore the nature of analysts’ climate-related discussion in their reports. Focusing on industries most exposed to climate change, I find very few reports (less than 2 percent) and a minority of analysts (less than 11 percent) discuss climate-related topics. Analysts concentrate climate-related discussion among utilities, mostly discussing renewable energy and regulatory issues. These discussions exhibit no significant association with short-term earnings forecasts and a weak association with more pessimistic long-term growth forecast revisions. Climate-related discussion is also associated with more optimistic target prices when analysts do not issue long-term growth forecasts, suggesting the development of a long-term perspective correlates with views on climate-related issues. Discussions of solar-, emissions-, and automotive-related topics are associated with this greater target price optimism. These findings highlight how analysts’ climate-related discussion relates to long-term expectations and concentrates among highly exposed firms.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text. A detailed listing of how each large language model (LLM) classified each climate-related report, a document describing the details of this listing, a firm-year summary of climate-related discussion and subtopical classifications, and a description document of this firm-year summary are available upon request.</jats:p>\n                  <jats:p>JEL Classifications: Q56; G24; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0105",
+      "url": "https://doi.org/10.2308/tar-2023-0105"
     },
     {
       "title": "The Origin of Risk",
@@ -2823,16 +2903,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0299"
     },
     {
-      "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
-      "authors": "Nathan Canen, Chad Kendall, Francesco Trebbi",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743333",
-      "url": "https://doi.org/10.1086/743333"
-    },
-    {
       "title": "A Theory of  Redistribution and Public Good Provision Under Non-Democracy",
       "authors": "Nicola Persico",
       "journal": "Journal of Political Economy",
@@ -2841,16 +2911,6 @@
       "abstract": "",
       "doi": "10.1086/743332",
       "url": "https://doi.org/10.1086/743332"
-    },
-    {
-      "title": "Safe Spaces: Shelters or Tribes?",
-      "authors": "Jean Tirole",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743388",
-      "url": "https://doi.org/10.1086/743388"
     },
     {
       "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
