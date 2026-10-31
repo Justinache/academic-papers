@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-30T08:03:42.180Z",
-  "count": 505,
+  "lastUpdated": "2026-10-31T08:00:13.444Z",
+  "count": 492,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -31,6 +31,36 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104399",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104399"
+    },
+    {
+      "title": "Are direct lenders more like banks or arm’s-length investors?",
+      "authors": "Young Soo Jang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104397",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104397"
+    },
+    {
+      "title": "Innovation booms, easy financing, and human capital accumulation",
+      "authors": "Johan Hombert, Adrien Matray",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104381",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104381"
+    },
+    {
+      "title": "Decoupling voting and cash flow rights",
+      "authors": "Andre Speit, Paul Voss, András Danis",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104388",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104388"
     },
     {
       "title": "Technological investment and accounting: A demand-side perspective on labor markets and enrollments",
@@ -351,6 +381,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104379",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
+    },
+    {
+      "title": "A Theory of Redistribution and Public Good Provision under Nondemocracy",
+      "authors": "Nicola Persico",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-10-30",
+      "abstract": "",
+      "doi": "10.1086/743332",
+      "url": "https://doi.org/10.1086/743332"
+    },
+    {
+      "title": "The Evolution of the Market for Corporate Control",
+      "authors": "Mike Burkart, Samuel Lee, Paul Voss",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-10-30",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problems through intermediated transactions.</jats:p>",
+      "doi": "10.1111/jofi.70099",
+      "url": "https://doi.org/10.1111/jofi.70099"
     },
     {
       "title": "Political Parties as Drivers of US Polarization: 1927–2018",
@@ -2903,16 +2953,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0299"
     },
     {
-      "title": "A Theory of  Redistribution and Public Good Provision Under Non-Democracy",
-      "authors": "Nicola Persico",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743332",
-      "url": "https://doi.org/10.1086/743332"
-    },
-    {
       "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
       "authors": "Thomas Wollmann",
       "journal": "Journal of Political Economy",
@@ -4773,226 +4813,6 @@
       "url": "https://doi.org/10.1111/1475-679x.70053"
     },
     {
-      "title": "Which investors drive anomaly returns and how?",
-      "authors": "Yizhang Li, Stanislav Sokolinski, Andrea Tamoni",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104257",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104257"
-    },
-    {
-      "title": "Partial homeownership: A quantitative analysis",
-      "authors": "Eirik Eylands Brandsaas, Jens Soerlie Kvaerner",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104256",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104256"
-    },
-    {
-      "title": "Liquidity characteristics of market anomalies and institutional trading",
-      "authors": "Charles Cao, Bing Liang, Tong Yao, Andrew Zhang",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104254",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104254"
-    },
-    {
-      "title": "Intervening against the Fed",
-      "authors": "Alexander Rodnyansky, Yannick Timmer, Naoki Yago",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104265",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104265"
-    },
-    {
-      "title": "Innovation spillovers across U.S. tech clusters",
-      "authors": "Xavier Giroud, Ernest Liu, Holger Mueller",
-      "journal": "Journal of Financial Economics",
-      "field": "Finance",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jfineco.2026.104264",
-      "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
-    },
-    {
-      "title": "Editorial data",
-      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101886",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101886"
-    },
-    {
-      "title": "Social media livestreaming: Investor information or persuasion?",
-      "authors": "Ed deHaan, Allen H. Huang, Srijith Kannan, Lu Qiu",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101861",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101861"
-    },
-    {
-      "title": "Political costs and strategic corporate communication",
-      "authors": "Christine Cuny, Jungbae Kim, Mihir N. Mehta",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2026.101860",
-      "url": "https://doi.org/10.1016/j.jacceco.2026.101860"
-    },
-    {
-      "title": "Seasonal variation in cash flows and the timing role of accruals",
-      "authors": "Martin Kapons, David Veenman",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101854",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101854"
-    },
-    {
-      "title": "SEC scrutiny and corporate risk-taking",
-      "authors": "David P. Weber, Nina Xu, Kangkang Zhang",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101855",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101855"
-    },
-    {
-      "title": "Weak capital, weak provisions—Credit risk provisioning under IFRS 9",
-      "authors": "Markus Behn, Cyril Couaillier",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101856",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
-    },
-    {
-      "title": "The spillover effect of public firm audit regulation on private firm auditing: Evidence from common partners",
-      "authors": "Lisa Yao Liu, Lijing Tong",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101857",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101857"
-    },
-    {
-      "title": "Earnings targets, strategic patent sales, and patent trolls",
-      "authors": "Jinhwan Kim, Kristen Valentine",
-      "journal": "Journal of Accounting and Economics",
-      "field": "Accounting",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1016/j.jacceco.2025.101853",
-      "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
-    },
-    {
-      "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
-      "authors": "Daniel Aronoff, Will Rafey",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>We introduce an empirical framework for valuing markets in environmental offsets. Using newly collected data on wetland conservation and offsets, we apply this framework to evaluate a set of decentralized markets in Florida, where land developers purchase offsets from long-lived producers who restore wetlands over time. We find offsets led to substantial private gains from trade, creating $2.4 billion of net surplus from 1995 to 2020 relative to direct conservation. Offset trading also generated new hydrological externalities. A locally differentiated Pigouvian tax would have prevented $1.6 billion of new flood damage while preserving more than two-thirds of the private gains from trade. (JEL D47, D62, H23, Q24, Q54, Q57, R14)</jats:p>",
-      "doi": "10.1257/aer.20231016",
-      "url": "https://doi.org/10.1257/aer.20231016"
-    },
-    {
-      "title": "The Effect of Field Training Officers on Police Use of Force",
-      "authors": "Chandon Adger, Matthew B. Ross, CarlyWill Sloan",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>The influence of on-the-job training and supervisors, especially in high-stakes settings like policing, is poorly understood. Examining a central behavior in the debate surrounding police reform, we investigate the impact of a field training officer (FTO) on a recruit’s use of force. Leveraging a setting with conditional as-good-as-random assignment, we demonstrate a causal link between FTO and recruit use of force. A 1 standard deviation increase in FTO force propensity leads to a 14 to 18 percent rise in recruit force, persisting for at least two years. This underscores field training’s impact and reveals a promising avenue for reform. (JEL D91, J24, J45, K42, M53)</jats:p>",
-      "doi": "10.1257/aer.20240785",
-      "url": "https://doi.org/10.1257/aer.20240785"
-    },
-    {
-      "title": "Production and Financial Networks in Interplay",
-      "authors": "Kenan Huremović, Gabriel Jiménez, Enrique Moral-Benito, José-Luis Peydró, Fernando Vega-Redondo",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)</jats:p>",
-      "doi": "10.1257/aer.20201088",
-      "url": "https://doi.org/10.1257/aer.20201088"
-    },
-    {
-      "title": "Labor Market Competition and the Assimilation of Immigrants",
-      "authors": "Christoph Albert, Albrecht Glitz, Joan Llull",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>This paper shows that the wage assimilation of immigrants is the result of the intricate interplay between individual skill accumulation and dynamic labor market equilibrium effects. When immigrants and natives are imperfect substitutes, rising immigrant inflows widen the wage gap between them. Using a production function framework in which workers supply both general and host-country-specific skills, we show that this labor market competition channel explains about one-fifth of the large increase in the average immigrant–native wage gap across arrival cohorts in the United States since the 1960s. The results further reveal substantial heterogeneity across different groups of immigrants. (JEL J22, J23, J24, J31, J61, K37, O33)</jats:p>",
-      "doi": "10.1257/aer.20220865",
-      "url": "https://doi.org/10.1257/aer.20220865"
-    },
-    {
-      "title": "Internal versus Institutional Barriers to Gender Equality: Evidence from British Politics",
-      "authors": "Noor Kumar, Uyseok Lee, Matt Lowe, Olaitan Ogunnote",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>Weekly lotteries determine which politicians ask the UK prime minister a question in front of a male-dominated, noisy chamber. Lottery winners receive 4 percent higher vote margin in the next election, but women are 12 percent less likely to submit questions than same-cohort men. The gender gap does not close with lottery-induced experience asking a question, but it closes after a format change, with questions asked to a smaller, quieter audience. The switch differentially draws in women with quieter voices. Our findings support institutional change, rather than experience, as a response to gender gaps in adversarial settings like the UK Parliament. (JEL D44, D72, J16)</jats:p>",
-      "doi": "10.1257/aer.20241127",
-      "url": "https://doi.org/10.1257/aer.20241127"
-    },
-    {
-      "title": "Efficiency Criteria, Income Taxation, and Heterogeneous Elasticities",
-      "authors": "John Sturm Becko, André Sztutman",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>A common interpretation of Pareto-efficient policies is that, for some cardinal utility representations of preferences, they maximize utilitarian welfare. We show in the context of income taxation that such cardinalizations are often extreme, requiring unbounded curvature of utility with respect to consumption. Taxes can be justified as utilitarian without these extreme cardinalizations if and only if revenues are decreasing and concave in a class of narrowly targeted tax cuts. We reformulate this condition as a sufficient-statistics test. The test fails whenever elasticities of taxable income are too heterogeneous within some income level, as we argue is empirically likely. (JEL D81, H21, H23, H24, J22, J31)</jats:p>",
-      "doi": "10.1257/aer.20240919",
-      "url": "https://doi.org/10.1257/aer.20240919"
-    },
-    {
-      "title": "The Gender Pay Gap: Micro Sources and Macro Consequences",
-      "authors": "Iacopo Morchio, Christian Moser",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>Using linked employer-employee data from Brazil, we document a significant gender pay gap, which is largely attributed to women working at lower-paying employers. To interpret this fact, we develop an equilibrium search model with endogenous firm pay, amenities, and hiring. We provide a constructive proof of identification of all model parameters. The estimated model suggests that amenities are important for both men and women, and that compensating differentials account for half of the gender pay gap. Equal treatment policies partly close gender gaps but are not output- or welfare-improving. (JEL E24, J16, J23, J31, J32, M51, O15)</jats:p>",
-      "doi": "10.1257/aer.20231107",
-      "url": "https://doi.org/10.1257/aer.20231107"
-    },
-    {
-      "title": "Effects of Parental Death on Labor Market Outcomes",
-      "authors": "Mathias Fjællegaard Jensen, Ning Zhang",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>We use Danish administrative data to examine the effects of parental death on labor market outcomes. Leveraging the timing of sudden, first parental deaths and a matched-control difference-in-differences strategy, we find that men’s earnings decline by 2 percent, while women’s earnings decline by 3 percent following a parental death. Both women and men experience mental health deterioration, leading to increased use of psychological assistance and prescriptions for mental health conditions and opioids. Women with young children experience a comparatively larger earnings decline (around 4 percent) likely due to the loss of informal childcare. (JEL D91, I12, J13, J16, J31)</jats:p>",
-      "doi": "10.1257/aer.20240432",
-      "url": "https://doi.org/10.1257/aer.20240432"
-    },
-    {
-      "title": "The Attention-Information Trade-Off",
-      "authors": "Marta Serra-Garcia",
-      "journal": "American Economic Review",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "<jats:p>How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals’ incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information. (JEL C91, D83, D91)</jats:p>",
-      "doi": "10.1257/aer.20240850",
-      "url": "https://doi.org/10.1257/aer.20240850"
-    },
-    {
       "title": "Algorithm Design: A           Fairness-Accuracy Frontier",
       "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
       "journal": "Journal of Political Economy",
@@ -5001,26 +4821,6 @@
       "abstract": "",
       "doi": "10.1086/739826",
       "url": "https://doi.org/10.1086/739826"
-    },
-    {
-      "title": "A Model of Social Duties",
-      "authors": "Tore Ellingsen, Erik Mohlin",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739834",
-      "url": "https://doi.org/10.1086/739834"
-    },
-    {
-      "title": "Private Private Information",
-      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739833",
-      "url": "https://doi.org/10.1086/739833"
     },
     {
       "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
@@ -5033,6 +4833,26 @@
       "url": "https://doi.org/10.1086/739827"
     },
     {
+      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
+      "authors": "Rong Hai, James Heckman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739828",
+      "url": "https://doi.org/10.1086/739828"
+    },
+    {
+      "title": "Private Private Information",
+      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1086/739833",
+      "url": "https://doi.org/10.1086/739833"
+    },
+    {
       "title": "US Public Debt and Safe Asset Market Power",
       "authors": "Jason Choi, Rishabh Kirpalani, Diego J. Perez",
       "journal": "Journal of Political Economy",
@@ -5043,14 +4863,64 @@
       "url": "https://doi.org/10.1086/739824"
     },
     {
-      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
-      "authors": "Rong Hai, James Heckman",
+      "title": "A Model of Social Duties",
+      "authors": "Tore Ellingsen, Erik Mohlin",
       "journal": "Journal of Political Economy",
       "field": "Economics",
       "date": "2026-05-01",
       "abstract": "",
-      "doi": "10.1086/739828",
-      "url": "https://doi.org/10.1086/739828"
+      "doi": "10.1086/739834",
+      "url": "https://doi.org/10.1086/739834"
+    },
+    {
+      "title": "Which investors drive anomaly returns and how?",
+      "authors": "Yizhang Li, Stanislav Sokolinski, Andrea Tamoni",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104257",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104257"
+    },
+    {
+      "title": "Intervening against the Fed",
+      "authors": "Alexander Rodnyansky, Yannick Timmer, Naoki Yago",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104265",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104265"
+    },
+    {
+      "title": "Liquidity characteristics of market anomalies and institutional trading",
+      "authors": "Charles Cao, Bing Liang, Tong Yao, Andrew Zhang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104254",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104254"
+    },
+    {
+      "title": "Innovation spillovers across U.S. tech clusters",
+      "authors": "Xavier Giroud, Ernest Liu, Holger Mueller",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104264",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104264"
+    },
+    {
+      "title": "Partial homeownership: A quantitative analysis",
+      "authors": "Eirik Eylands Brandsaas, Jens Soerlie Kvaerner",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104256",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104256"
     }
   ]
 }
