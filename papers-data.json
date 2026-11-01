@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T08:00:13.444Z",
-  "count": 492,
+  "lastUpdated": "2026-11-01T08:42:18.601Z",
+  "count": 514,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -383,6 +383,106 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104379"
     },
     {
+      "title": "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau",
+      "authors": "Eric Chyn, Kareem Haggag, Bryan A. Stuart",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)</jats:p>",
+      "doi": "10.1257/aer.20241561",
+      "url": "https://doi.org/10.1257/aer.20241561"
+    },
+    {
+      "title": "Reproducible Aggregation of Sample-Split Statistics",
+      "authors": "David M. Ritzwoller, Joseph P. Romano",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>Statistical inference is often simplified by sample splitting. This simplification comes at the cost of the introduction of randomness not native to the data. We propose a simple procedure for sequentially aggregating statistics constructed with multiple splits of the same sample. The user specifies a bound and a nominal error rate. If the procedure is implemented twice on the same data, the nominal error rate approximates the chance that the results differ by more than the bound. We illustrate the application of the procedure to several widely applied econometric methods. (JEL C20, C30, C52)</jats:p>",
+      "doi": "10.1257/aer.20231651",
+      "url": "https://doi.org/10.1257/aer.20231651"
+    },
+    {
+      "title": "Durables and the Marginal Propensity to Spend",
+      "authors": "Nathan Zorzi, Martin Beraja",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>Durables represent a large share of households' marginal propensity to spend (MPX). We develop a quantitative model of spending that takes durables into account and matches a rich set of empirical regularities simultaneously. Scaling the response of nondurables provides a poor approximation of the MPX on durables when it comes to its distribution in the population, its persistence over time, and its cyclicality. As an application, we study how the MPX varies with the size of stimulus checks and find that it declines more slowly compared to a model of purely nondurable spending. (JEL D11, E21, E32, E62, G51)</jats:p>",
+      "doi": "10.1257/aer.20240666",
+      "url": "https://doi.org/10.1257/aer.20240666"
+    },
+    {
+      "title": "The Returns to Government R&D: Evidence from US Appropriations Shocks",
+      "authors": "Andrew J. Fieldhouse, Karel Mertens",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>Based on a narrative classification of all significant postwar changes in R&amp;D appropriations for five major federal agencies, we find that an increase in nondefense R&amp;D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&amp;D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&amp;D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&amp;D. (JEL D24, E23, H50, O31, O33, O38)</jats:p>",
+      "doi": "10.1257/aer.20231684",
+      "url": "https://doi.org/10.1257/aer.20231684"
+    },
+    {
+      "title": "The Inflation Attention Threshold and Inflation Surges",
+      "authors": "Oliver Pfäuti",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>The recent inflation surge brought inflation back on people's minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation's co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)</jats:p>",
+      "doi": "10.1257/aer.20250051",
+      "url": "https://doi.org/10.1257/aer.20250051"
+    },
+    {
+      "title": "Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan",
+      "authors": "Clare Balboni, Johannes Boehm, Mazhar Waseem",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms' learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)</jats:p>",
+      "doi": "10.1257/aer.20241027",
+      "url": "https://doi.org/10.1257/aer.20241027"
+    },
+    {
+      "title": "Residential Segregation and Unequal Access to Local Public Services in India: Evidence from 1.5 Million Neighborhoods",
+      "authors": "Sam Asher, Kritarth Jha, Paul Novosad, Anjali Adukia, Brandon Tan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>We study residential segregation and access to public services across 1.5 million urban and rural neighborhoods in India. Muslim and Scheduled Caste segregation in India is high by global standards and only slightly lower than Black-White segregation in the United States. Within cities, public facilities and infrastructure are systematically less available in Muslim and Scheduled Caste neighborhoods. Nearly all regressive allocation is across neighborhoods within cities—at the most informal and least studied form of government. These inequalities are not visible in the aggregate data typically used for research and policy. (JEL H76, J15, O15, O17, O18, R23)</jats:p>",
+      "doi": "10.1257/aer.20240179",
+      "url": "https://doi.org/10.1257/aer.20240179"
+    },
+    {
+      "title": "The Unequal Economic Consequences of Carbon Pricing",
+      "authors": "Diego R. Känzig",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)</jats:p>",
+      "doi": "10.1257/aer.20230448",
+      "url": "https://doi.org/10.1257/aer.20230448"
+    },
+    {
+      "title": "Union Bargaining Power and the Amenity-Wage Trade-Off",
+      "authors": "Lorenzo Lagos",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)</jats:p>",
+      "doi": "10.1257/aer.20240766",
+      "url": "https://doi.org/10.1257/aer.20240766"
+    },
+    {
+      "title": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
+      "authors": "Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Francesco Zanetti",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-11-01",
+      "abstract": "<jats:p>We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)</jats:p>",
+      "doi": "10.1257/aer.20250081",
+      "url": "https://doi.org/10.1257/aer.20250081"
+    },
+    {
       "title": "A Theory of Redistribution and Public Good Provision under Nondemocracy",
       "authors": "Nicola Persico",
       "journal": "Journal of Political Economy",
@@ -401,6 +501,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problems through intermediated transactions.</jats:p>",
       "doi": "10.1111/jofi.70099",
       "url": "https://doi.org/10.1111/jofi.70099"
+    },
+    {
+      "title": "The Effects of School Phone Bans: National Evidence from Lockable Pouches",
+      "authors": "Hunt Allcott, Jason Baron, Thomas Dee, Angela L Duckworth, Matthew Gentzkow, Brian Jacob",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-10-30",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Schools across the U.S. have sharply restricted student use of phones during the school day. We evaluate one type of restriction—lockable phone pouches—using nationwide data combining a large-scale teacher survey, GPS pings, standardized test scores, and school administrative records, along with sales records from the largest pouch provider. Using a staggered difference-in-differences design, we find that pouch adoption substantially reduces phone use as measured by GPS pings and teacher reports. In the first year after adoption, disciplinary incidents increase, and we find suggestive evidence that student subjective well-being falls, consistent with short-term disruption. However, disciplinary effects fade, while the estimated effects on well-being appear to recover and become positive in later years. For academic achievement, average effects on test scores are consistently close to zero. High schools see modest positive effects, particularly in math, while middle schools see small negative effects. We find little evidence of effects on school attendance and no clear evidence of improvements in self-reported classroom attention or perceived online bullying.</jats:p>",
+      "doi": "10.1093/qje/qjag050",
+      "url": "https://doi.org/10.1093/qje/qjag050"
     },
     {
       "title": "Political Parties as Drivers of US Polarization: 1927–2018",
@@ -1398,7 +1508,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-09-25",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article provides evidence on how wage inequality among workers affects the labor movement, drawing on three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, among workers, those with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, among union organizers, those facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.</jats:p>",
       "doi": "10.1093/qje/qjag046",
       "url": "https://doi.org/10.1093/qje/qjag046"
     },
@@ -4813,64 +4923,94 @@
       "url": "https://doi.org/10.1111/1475-679x.70053"
     },
     {
-      "title": "Algorithm Design: A           Fairness-Accuracy Frontier",
-      "authors": "Annie Liang, Jay Lu, Xiaosheng Mu, Kyohei Okumura",
-      "journal": "Journal of Political Economy",
+      "title": "The Gender Pay Gap: Micro Sources and Macro Consequences",
+      "authors": "Iacopo Morchio, Christian Moser",
+      "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739826",
-      "url": "https://doi.org/10.1086/739826"
+      "abstract": "<jats:p>Using linked employer-employee data from Brazil, we document a significant gender pay gap, which is largely attributed to women working at lower-paying employers. To interpret this fact, we develop an equilibrium search model with endogenous firm pay, amenities, and hiring. We provide a constructive proof of identification of all model parameters. The estimated model suggests that amenities are important for both men and women, and that compensating differentials account for half of the gender pay gap. Equal treatment policies partly close gender gaps but are not output- or welfare-improving. (JEL E24, J16, J23, J31, J32, M51, O15)</jats:p>",
+      "doi": "10.1257/aer.20231107",
+      "url": "https://doi.org/10.1257/aer.20231107"
     },
     {
-      "title": "Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry",
-      "authors": "Nicholas Vreugdenhil",
-      "journal": "Journal of Political Economy",
+      "title": "The Attention-Information Trade-Off",
+      "authors": "Marta Serra-Garcia",
+      "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739827",
-      "url": "https://doi.org/10.1086/739827"
+      "abstract": "<jats:p>How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals’ incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information. (JEL C91, D83, D91)</jats:p>",
+      "doi": "10.1257/aer.20240850",
+      "url": "https://doi.org/10.1257/aer.20240850"
     },
     {
-      "title": "The Causal Effects of Youth Cigarette Addiction and Education",
-      "authors": "Rong Hai, James Heckman",
-      "journal": "Journal of Political Economy",
+      "title": "Effects of Parental Death on Labor Market Outcomes",
+      "authors": "Mathias Fjællegaard Jensen, Ning Zhang",
+      "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739828",
-      "url": "https://doi.org/10.1086/739828"
+      "abstract": "<jats:p>We use Danish administrative data to examine the effects of parental death on labor market outcomes. Leveraging the timing of sudden, first parental deaths and a matched-control difference-in-differences strategy, we find that men’s earnings decline by 2 percent, while women’s earnings decline by 3 percent following a parental death. Both women and men experience mental health deterioration, leading to increased use of psychological assistance and prescriptions for mental health conditions and opioids. Women with young children experience a comparatively larger earnings decline (around 4 percent) likely due to the loss of informal childcare. (JEL D91, I12, J13, J16, J31)</jats:p>",
+      "doi": "10.1257/aer.20240432",
+      "url": "https://doi.org/10.1257/aer.20240432"
     },
     {
-      "title": "Private Private Information",
-      "authors": "Kevin He, Fedor Sandomirskiy, Omer Tamuz",
-      "journal": "Journal of Political Economy",
+      "title": "Production and Financial Networks in Interplay",
+      "authors": "Kenan Huremović, Gabriel Jiménez, Enrique Moral-Benito, José-Luis Peydró, Fernando Vega-Redondo",
+      "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739833",
-      "url": "https://doi.org/10.1086/739833"
+      "abstract": "<jats:p>We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)</jats:p>",
+      "doi": "10.1257/aer.20201088",
+      "url": "https://doi.org/10.1257/aer.20201088"
     },
     {
-      "title": "US Public Debt and Safe Asset Market Power",
-      "authors": "Jason Choi, Rishabh Kirpalani, Diego J. Perez",
-      "journal": "Journal of Political Economy",
+      "title": "Internal versus Institutional Barriers to Gender Equality: Evidence from British Politics",
+      "authors": "Noor Kumar, Uyseok Lee, Matt Lowe, Olaitan Ogunnote",
+      "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739824",
-      "url": "https://doi.org/10.1086/739824"
+      "abstract": "<jats:p>Weekly lotteries determine which politicians ask the UK prime minister a question in front of a male-dominated, noisy chamber. Lottery winners receive 4 percent higher vote margin in the next election, but women are 12 percent less likely to submit questions than same-cohort men. The gender gap does not close with lottery-induced experience asking a question, but it closes after a format change, with questions asked to a smaller, quieter audience. The switch differentially draws in women with quieter voices. Our findings support institutional change, rather than experience, as a response to gender gaps in adversarial settings like the UK Parliament. (JEL D44, D72, J16)</jats:p>",
+      "doi": "10.1257/aer.20241127",
+      "url": "https://doi.org/10.1257/aer.20241127"
     },
     {
-      "title": "A Model of Social Duties",
-      "authors": "Tore Ellingsen, Erik Mohlin",
-      "journal": "Journal of Political Economy",
+      "title": "Labor Market Competition and the Assimilation of Immigrants",
+      "authors": "Christoph Albert, Albrecht Glitz, Joan Llull",
+      "journal": "American Economic Review",
       "field": "Economics",
       "date": "2026-05-01",
-      "abstract": "",
-      "doi": "10.1086/739834",
-      "url": "https://doi.org/10.1086/739834"
+      "abstract": "<jats:p>This paper shows that the wage assimilation of immigrants is the result of the intricate interplay between individual skill accumulation and dynamic labor market equilibrium effects. When immigrants and natives are imperfect substitutes, rising immigrant inflows widen the wage gap between them. Using a production function framework in which workers supply both general and host-country-specific skills, we show that this labor market competition channel explains about one-fifth of the large increase in the average immigrant–native wage gap across arrival cohorts in the United States since the 1960s. The results further reveal substantial heterogeneity across different groups of immigrants. (JEL J22, J23, J24, J31, J61, K37, O33)</jats:p>",
+      "doi": "10.1257/aer.20220865",
+      "url": "https://doi.org/10.1257/aer.20220865"
+    },
+    {
+      "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+      "authors": "Daniel Aronoff, Will Rafey",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>We introduce an empirical framework for valuing markets in environmental offsets. Using newly collected data on wetland conservation and offsets, we apply this framework to evaluate a set of decentralized markets in Florida, where land developers purchase offsets from long-lived producers who restore wetlands over time. We find offsets led to substantial private gains from trade, creating $2.4 billion of net surplus from 1995 to 2020 relative to direct conservation. Offset trading also generated new hydrological externalities. A locally differentiated Pigouvian tax would have prevented $1.6 billion of new flood damage while preserving more than two-thirds of the private gains from trade. (JEL D47, D62, H23, Q24, Q54, Q57, R14)</jats:p>",
+      "doi": "10.1257/aer.20231016",
+      "url": "https://doi.org/10.1257/aer.20231016"
+    },
+    {
+      "title": "The Effect of Field Training Officers on Police Use of Force",
+      "authors": "Chandon Adger, Matthew B. Ross, CarlyWill Sloan",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>The influence of on-the-job training and supervisors, especially in high-stakes settings like policing, is poorly understood. Examining a central behavior in the debate surrounding police reform, we investigate the impact of a field training officer (FTO) on a recruit’s use of force. Leveraging a setting with conditional as-good-as-random assignment, we demonstrate a causal link between FTO and recruit use of force. A 1 standard deviation increase in FTO force propensity leads to a 14 to 18 percent rise in recruit force, persisting for at least two years. This underscores field training’s impact and reveals a promising avenue for reform. (JEL D91, J24, J45, K42, M53)</jats:p>",
+      "doi": "10.1257/aer.20240785",
+      "url": "https://doi.org/10.1257/aer.20240785"
+    },
+    {
+      "title": "Efficiency Criteria, Income Taxation, and Heterogeneous Elasticities",
+      "authors": "John Sturm Becko, André Sztutman",
+      "journal": "American Economic Review",
+      "field": "Economics",
+      "date": "2026-05-01",
+      "abstract": "<jats:p>A common interpretation of Pareto-efficient policies is that, for some cardinal utility representations of preferences, they maximize utilitarian welfare. We show in the context of income taxation that such cardinalizations are often extreme, requiring unbounded curvature of utility with respect to consumption. Taxes can be justified as utilitarian without these extreme cardinalizations if and only if revenues are decreasing and concave in a class of narrowly targeted tax cuts. We reformulate this condition as a sufficient-statistics test. The test fails whenever elasticities of taxable income are too heterogeneous within some income level, as we argue is empirically likely. (JEL D81, H21, H23, H24, J22, J31)</jats:p>",
+      "doi": "10.1257/aer.20240919",
+      "url": "https://doi.org/10.1257/aer.20240919"
     },
     {
       "title": "Which investors drive anomaly returns and how?",
@@ -4921,6 +5061,86 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104256",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104256"
+    },
+    {
+      "title": "SEC scrutiny and corporate risk-taking",
+      "authors": "David P. Weber, Nina Xu, Kangkang Zhang",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101855",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101855"
+    },
+    {
+      "title": "Earnings targets, strategic patent sales, and patent trolls",
+      "authors": "Jinhwan Kim, Kristen Valentine",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101853",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101853"
+    },
+    {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101886",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101886"
+    },
+    {
+      "title": "The spillover effect of public firm audit regulation on private firm auditing: Evidence from common partners",
+      "authors": "Lisa Yao Liu, Lijing Tong",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101857",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101857"
+    },
+    {
+      "title": "Social media livestreaming: Investor information or persuasion?",
+      "authors": "Ed deHaan, Allen H. Huang, Srijith Kannan, Lu Qiu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101861",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101861"
+    },
+    {
+      "title": "Seasonal variation in cash flows and the timing role of accruals",
+      "authors": "Martin Kapons, David Veenman",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101854",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101854"
+    },
+    {
+      "title": "Political costs and strategic corporate communication",
+      "authors": "Christine Cuny, Jungbae Kim, Mihir N. Mehta",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101860",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101860"
+    },
+    {
+      "title": "Weak capital, weak provisions—Credit risk provisioning under IFRS 9",
+      "authors": "Markus Behn, Cyril Couaillier",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-05-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2025.101856",
+      "url": "https://doi.org/10.1016/j.jacceco.2025.101856"
     }
   ]
 }
