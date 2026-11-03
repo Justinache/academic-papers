@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T08:51:54.203Z",
-  "count": 492,
+  "lastUpdated": "2026-11-03T08:59:53.138Z",
+  "count": 490,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -731,6 +731,176 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>How do investor reactions to the mandatory disclosure of firm tax information influence managers' reporting choices? To answer this question, we build a structural model of reporting bias, which we test with a unique data set of Turkish firms that have been mandated to publicly disclose their tax returns since 2009. We find that both book and tax income numbers are informative to investors. Structural estimates are consistent with disclosure of the tax report reducing both market incentives to manage book earnings and investor uncertainty about underlying firm value. Tax disclosure is associated with higher reported tax income, though the increase is not statistically significant. Counterfactual estimates suggest that book‐tax‐conformity could change financial and tax reporting biases, but lead to a lower quality information environment relative to the separate disclosure of book and tax reports.</jats:p>",
       "doi": "10.1111/1475-679x.70087",
       "url": "https://doi.org/10.1111/1475-679x.70087"
+    },
+    {
+      "title": "Managerial Accountants and Investment Efficiency",
+      "authors": "Michael Iselin, Jacob Ott, Youli Zou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study explores the relation between a firm’s employment of managerial accountants and the efficiency of its investment decisions. To investigate this, we track the yearly employment levels of managerial accountants within firms and find a positive association with investment efficiency. This positive association persists after controlling for financial accountants and multiple measures of financial reporting quality, suggesting the effect operates through improved internal information. Cross-sectional tests show that the relation is concentrated in firms with greater internal information asymmetry and more complex overhead cost allocation. A staggered difference-in-differences (DiD) design exploiting state implementation of the 150 credit hour CPA rule further alleviates endogeneity concerns. Our study contributes to the investment efficiency literature and highlights an important benefit of employing managerial accountants. The findings are particularly relevant, given the recent shortage of accounting professionals.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources and third-party data providers.</jats:p>\n                  <jats:p>JEL Classifications: M41; M51; J21; G31.</jats:p>",
+      "doi": "10.2308/tar-2023-0699",
+      "url": "https://doi.org/10.2308/tar-2023-0699"
+    },
+    {
+      "title": "The Market Disciplinary Effect of Asset Write-Off: Theory and Empirical Evidence from Goodwill Impairment",
+      "authors": "Yi Jiang, Yupeng Lin, Wenjie Xue",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the effect of subsequent write-off tests on myopic managers’ investment decisions. Write-off tests discipline overinvestment when the likelihood of adverse events is high but can otherwise cause more severe underinvestment. Hence, tightening impairment stringency improves firm value when the likelihood of adverse events is high but destroys firm value when that likelihood is low. With intermediate levels of likelihood, firm value is hump-shaped in impairment stringency. To test the theory, we exploit an increase in goodwill impairment stringency following goodwill-related restatements by peer firms audited by the same auditor office, and we adopt a stacked difference-in-differences (DiD) design to control for any generic effects of peer restatements. Firms facing more stringent goodwill impairment reduce M&amp;As relative to other types of investment, as well as in absolute amounts. The valuation of treated firms improves only during periods of high recession expectations or when facing high distress risk.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: D82; G31; G34; M41; M42.</jats:p>",
+      "doi": "10.2308/tar-2022-0526",
+      "url": "https://doi.org/10.2308/tar-2022-0526"
+    },
+    {
+      "title": "Benefits of Bank-Collateralized Loan Obligation Relationships: Evidence from Bankruptcy and Restructuring Outcomes of Collateralized Loan Obligation-Held Loans",
+      "authors": "Yupeng Lin, Dushyantkumar Vyas, Wanrong Xu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite persistent academic and regulatory concerns, collateralized loan obligations (CLOs) have consistently demonstrated resiliency over the past two decades. We document that firms whose loans are acquired by CLOs are less likely to experience adverse credit events within 12 months of inclusion in the CLO portfolio, particularly when CLOs maintain institutional-level relationships with originating banks (through repeated transactions) or when individual-level relationships exist (as evidenced by personnel flows between originating banks and CLOs). The effects of these relationships are more pronounced when banks likely possess superior private information about borrowers. Furthermore, conditional upon filing for bankruptcy, borrowers whose loans are held by CLOs with institutional- or individual-level relationships are more likely to successfully reorganize under Chapter 11. Collectively, our findings highlight the dual information channels, both institutional and personnel based, that mitigate information frictions in the leveraged loan market.</jats:p>\n                  <jats:p>Data Availability: Data are available from commercial sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12.</jats:p>",
+      "doi": "10.2308/tar-2024-0758",
+      "url": "https://doi.org/10.2308/tar-2024-0758"
+    },
+    {
+      "title": "When Companies Choose Their Reporting Standards: Evidence on SASB Adoption and Associated Outcomes",
+      "authors": "Khrystyna Bochkay, Seungju Choi, Jeffrey Hales",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine companies’ voluntary adoption of sustainability disclosure standards developed by the Sustainability Accounting Standards Board (SASB). Specifically, we study which company characteristics help explain the use of SASB standards and examine whether voluntary use is associated with sustainability-related activities and market outcomes. We find that peer behavior, sustainability-focused institutional ownership, company size, and existing sustainability reporting practices are key determinants associated with SASB adoption. Moreover, SASB adoption appears to be a highly persistent disclosure choice. It is significantly associated with better sustainability performance, such as lower sustainability violations, greenhouse gas emissions, and pollution levels, particularly when the SASB standards identify those issues as financially material for the company's industry. Finally, SASB adoption is associated with more extensive sustainability disclosure and greater price informativeness, consistent with investors getting additional firm-specific information from SASB-based reporting.</jats:p>\n                  <jats:p>JEL Classifications: M41; M14; G32; Q56.</jats:p>",
+      "doi": "10.2308/tar-2023-0485",
+      "url": "https://doi.org/10.2308/tar-2023-0485"
+    },
+    {
+      "title": "Social Tax 'Discontent and Individual Tax Avoidance",
+      "authors": "Andrew Belnap, Kevin R. Standridge, Jacob R. Thornock, Braden Williams",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between exposure to social tax discontent—public expressions of frustration about others’ tax avoidance on social media—and individual tax avoidance. Economic and psychological theories predict bidirectional effects: discontent may reduce avoidance by inducing internal sanctions (e.g., shame and guilt) or increase avoidance by normalizing noncompliance through perceived prevalence. Using a novel, large-scale measure of tax discontent derived from geolocated Twitter data and a language classification model, we find that increases in social tax discontent are associated with reductions in estimated tax avoidance. The effect is stronger among high-income groups, in response to tweets targeting wealthy individuals, and in areas with higher political engagement and social media activity. Our results reinforce the importance of taxpayers’ social and behavioral motivations and suggest that jurisdictions’ efforts to manage taxpayer beliefs and leverage social norms can act as a complementary tool to traditional enforcement.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are derived from public and third-party sources described in the text: the IRS Statistics of Income, the U.S. Bureau of Labor Statistics (BLS) Quarterly Census of Employment and Wages, the Bureau of Economic Analysis, Google Trends, and the National Neighborhood Data Archive. Twitter/X data were collected via the Twitter Application Programming Interface (API) under its academic-access terms and are subject to Twitter’s/X’s terms of use; they cannot be redistributed by the authors, but the collection and classification procedures are described in Section IV.</jats:p>\n                  <jats:p>JEL Classifications: H26; H24; Z13; D91.</jats:p>",
+      "doi": "10.2308/tar-2023-0689",
+      "url": "https://doi.org/10.2308/tar-2023-0689"
+    },
+    {
+      "title": "Circuitousness in Disclosure Narratives",
+      "authors": "Nicholas Guest, Jiawen Yan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines circuitousness, which reflects related information being spread throughout a narrative as opposed to being grouped together. Circuitousness in the MD&amp;A is higher for underperforming firms facing an imminent recovery, a difficult scenario for managers to describe and reconcile. Such firms’ disclosures are accompanied by heightened information processing activity, such as EDGAR downloads and analyst forecast revisions. Additionally, initial return reactions are faster but incomplete, consistent with recoveries and the ensuing circuitousness increasing processing costs that delay price discovery. Changes in institutional ownership are concentrated among quasi-indexers, who rely on public disclosure but rebalance only gradually. Circuitousness is incrementally and more consistently predictive than other textual characteristics that are related but are typically associated with obfuscation, such as the Fog index and repetition. Overall, circuitousness in financial disclosure signals that a turnaround is imminent and corresponds to more costly information processing.</jats:p>\n                  <jats:p>JEL Classifications: D83; D84; G14; G30; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2023-0731",
+      "url": "https://doi.org/10.2308/tar-2023-0731"
+    },
+    {
+      "title": "Domestic Product Market Impacts of Politically Motivated Foreign Tariffs",
+      "authors": "Carlyle S. Burd, Duke Ferguson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how foreign non-income tax shocks affect U.S. product markets. Our setting is the politically motivated tariffs on U.S. whiskey exports levied during the 2018 trade war, which created an exogenous negative foreign demand shock for domestic producers. Using a difference-in-differences design we show that, on average, U.S. whiskey producers decrease U.S. product prices and thus increase domestic sales volume following the export tariffs. However, we find evidence of strategic pricing, as producers increase prices of locally produced products in primary production states (Kentucky and Tennessee) and more significantly decrease prices in states where whiskey consumption is less popular. Further, we show that U.S. whiskey producers implement smaller product price decreases in states with greater tariff-related media exposure and reduce advertising spending nationwide but not in Kentucky and Tennessee. Taken together, these findings provide timely evidence regarding how foreign trade restrictions impact the U.S. product market and consumer outcomes.</jats:p>\n                  <jats:p>Data Availability: NielsenIQ Retail Scanner Data are available through the Kilts Center for Marketing at the University of Chicago Booth School of Business (http://research.chicagobooth.edu/nielsen). Kantar Advertising Insights data are available by subscription. GDELT data are available at https://www.gdeltproject.org/.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41; F10; F13; F14.</jats:p>",
+      "doi": "10.2308/tar-2024-0708",
+      "url": "https://doi.org/10.2308/tar-2024-0708"
+    },
+    {
+      "title": "The Debt Market Role of Asset Valuation Uncertainty",
+      "authors": "Aleksander A. Aleszczyk, Florin P. Vasvari, Dushyantkumar Vyas",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We collect data on ranges of hypothetical asset liquidation values disclosed in U.S. Bankruptcy Court filings. We use this historical information to construct a firm-specific measure, “RecRisk,” which captures asset recovery risk through the uncertainty surrounding asset valuations in liquidation events. We document that higher RecRisk is associated with smaller syndicated loan amounts as a percentage of available collateral, more and tighter performance covenants, and increased loan spreads for borrowers with high credit risk. High RecRisk borrowers also experience lower secondary loan market prices and reduced liquidity for loans with high credit risk. When borrowers become financially distressed, high RecRisk is further associated with declining loan prices and reduced ownership by Collateralized Loan Obligations, the dominant investors in the leveraged loan market. Overall, our results indicate that loan contract terms and prices reflect recovery risk faced by lenders.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text. The authors can provide the RecRisk measure at the firm-year level upon request.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12; G21; G33.</jats:p>",
+      "doi": "10.2308/tar-2023-0477",
+      "url": "https://doi.org/10.2308/tar-2023-0477"
+    },
+    {
+      "title": "Does Anti-Tax Avoidance Regulation Curb Industry Concentration?",
+      "authors": "John Gallemore, Martin Jacob, Jesse Marangoni, Christian P. H. Peters",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policymakers claim that combating tax avoidance can help reduce industry concentration by leveling the playing field between industry leaders and their competitors. We test the validity of this claim by using administrative data on industry concentration and exploiting the staggered introduction of anti-tax avoidance regulations across 17 European countries. Although these regulations significantly reduce tax avoidance, we find no statistically or economically meaningful effect on industry concentration. Further tests indicate that our nonresults stem from a genuine lack of effect rather than a lack of statistical power and that our inferences are robust to multiple research designs. The sole exception is in industries with both high levels of leader tax-avoidance advantages and multinational presence, but even in these industries, effect sizes are modest and fall short of regulatory benchmarks. Overall, our findings cast doubt on the idea that broad-based anti-tax avoidance regulations can materially influence industry concentration.</jats:p>\n                  <jats:p>JEL Classifications: D40; H25; M40; M41.</jats:p>",
+      "doi": "10.2308/tar-2025-0338",
+      "url": "https://doi.org/10.2308/tar-2025-0338"
+    },
+    {
+      "title": "A New Wave of Talent: Big 4 Response to New Partner Qualification Requirements in China",
+      "authors": "Pietro A. Bianchi, Lin Liao, Miguel Minutti-Meza, Yini Wang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the Big 4 responded to evolving partner qualification requirements in China. By 2017, at least 80 percent of the Big 4 partners were required to hold CICPA qualifications, a requirement that did not apply to local firms. Using data from a 14-year window around the reform, we document that the Big 4 expanded their partnership and primarily complied through internal promotion of locally licensed auditors, often into junior signing roles and serving new clients. Our analyses of audit outcomes yield mixed and time-varying evidence: although we observe relative increases in restatements in selected periods, the triangulated evidence does not suggest a pervasive deterioration in audit quality. However, we find a decline in the Big 4’s market share and audit fee premium. Overall, our findings shed light on how regulatory interventions targeting auditor qualifications reshape audit firms and market competition.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M4; M40; M41; M42; M49.</jats:p>",
+      "doi": "10.2308/tar-2024-0095",
+      "url": "https://doi.org/10.2308/tar-2024-0095"
+    },
+    {
+      "title": "Inequality Grows in Silence: The Impact of Newspaper Closures on CEO-Worker Pay Disparity",
+      "authors": "Jie Chen, Yang Gao, Cheng Zeng",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Addressing income inequality is crucial for ensuring equitable and prosperous societies. This study examines the impact of the local press on intrafirm pay disparity. By using recently mandated disclosures of CEO-worker pay ratios and analyzing the staggered shutdown of local newspapers, we find that within-firm pay disparity increases by 8.2 percent following local newspaper closures. Further analysis suggests that this post-closure increase in pay disparity ratio is unlikely to be driven by either CEO compensation or worker pay alone or underlying economic conditions but instead reflects reduced concerns over reputational damage. Overall, our findings are consistent with local newspapers’ playing an important role in disseminating CEO-worker pay ratios and amplifying their reputational effects, thereby shaping and monitoring within-firm pay disparity.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G38; J31; M12; L82.</jats:p>",
+      "doi": "10.2308/tar-2025-0068",
+      "url": "https://doi.org/10.2308/tar-2025-0068"
+    },
+    {
+      "title": "Auditing in the Digital Age: Determinants and Consequences of Technology Investment",
+      "authors": "Hyun Hwang, Eunhee Kim, Minlei Ye",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Technological advances are reshaping the business landscape, yet their use in financial reporting has been slow. We develop a model in which auditors and companies make technology investment decisions and examine their impact on audit fees and outcomes. Our analysis shows that auditors and companies may fail to invest in mutually beneficial technology that would enhance audit quality, resulting in coordination failure. We also demonstrate how legal liability, client business risk, and auditor pricing power affect the conditions under which such coordination failure occurs. Furthermore, technology investments can either increase or decrease audit fees. When companies can choose among projects with varying risk levels, technology investments can increase audit failure risk while improving welfare by enabling them to pursue riskier but more profitable projects. Our results provide a rationale for regulatory intervention to facilitate technology investments in the financial reporting environment and offer empirical predictions.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42; M48.</jats:p>",
+      "doi": "10.2308/tar-2024-0427",
+      "url": "https://doi.org/10.2308/tar-2024-0427"
+    },
+    {
+      "title": "Government-Brokerage Analysts and Market Stabilization: Evidence from China",
+      "authors": "Sheng Cao, Xianjie He, Charles C. Y. Wang, Huifang Yin",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Government-controlled brokerage analysts serve as a market stabilization tool in China. Examining the 2005–2019 period, we show these analysts issue relatively more optimistic—yet less accurate and timely—forecasts during market rescue periods, supporting stock prices. During market booms, they issue comparatively pessimistic but more accurate and timely forecasts, tempering excessive optimism. These patterns are stronger for large firms and state-owned enterprises, and at the most government-influenced brokerages. Markets appear to respond to these forecasts: stocks with greater government-brokerage coverage experience higher liquidity during downturns but lower liquidity during hot markets, with corresponding post-earnings price adjustments. Our findings match Brunnermeier, Sockin, and Xiong’s (2022) theoretical predictions: state interventions can erode information efficiency under intensive intervention while maintaining it under moderate intervention. Collectively, these results underscore that analysts can serve a dual role—as information providers and policy instruments shaping market expectations and stability—in a coordinated economy.</jats:p>\n                  <jats:p>Data Availability: The data used in this study were obtained from the China Stock Market &amp; Accounting Research (CSMAR) database under a commercial license and cannot be redistributed by the authors. Researchers can obtain equivalent data through institutional access to CSMAR.</jats:p>\n                  <jats:p>JEL Classifications: G14; G24; G28; O16.</jats:p>",
+      "doi": "10.2308/tar-2019-0605",
+      "url": "https://doi.org/10.2308/tar-2019-0605"
+    },
+    {
+      "title": "The Evolving Make-or-Buy Decision: Strategic Concurrent Sourcing and Capacity Choice",
+      "authors": "Anil Arya, Ram N. V. Ramanan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The once binary make-or-buy choice in firms’ sourcing has evolved in recent years into what is often a make-and-buy decision where the same input is both produced internally and procured externally. This paper presents a novel explanation for concurrent sourcing, one rooted in firms’ strategic positioning and intrinsically tied to their capacity choices. In our setting, a firm that chooses solely to make internally maximizes cost savings but prices away efficiency gains via intense retail competition. A firm that chooses solely to buy externally tempers competitive tendencies but finds input prices excessive. By choosing concurrent sourcing, a firm keeps average costs low (relying on external supply sparingly) while also credibly committing to reining in aggressive retail pricing due to the modestly higher marginal costs associated with outsourcing. This optimal middle ground is achieved by the firm strategically limiting its installed capacity.</jats:p>\n                  <jats:p>JEL Classifications: D43; L13; L23; M41.</jats:p>",
+      "doi": "10.2308/tar-2025-0280",
+      "url": "https://doi.org/10.2308/tar-2025-0280"
+    },
+    {
+      "title": "Tax-Induced Shifts in Risk-Taking Incentives and Executive Compensation Design",
+      "authors": "Jennifer L. Blouin, Thomas R. Kubick, John R. Robinson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Theory suggests that changes in corporate tax rates can alter the dispersion of after-tax project payoffs, thereby altering the exposure of firm-level risk transmitted to executives through compensation. Using state tax changes, we observe firms shifting away from option-based compensation following state corporate tax rate increases. This result is concentrated in compensation contracts that lack relative performance evaluation (RPE) features, which filter common shocks to performance and influence the type of risk executives are incentivized to take. We also find that firms are more likely to initiate RPE shortly after a state tax rate increase and that firms that adjusted compensation through reductions in equity risk incentives or used RPE were less likely to experience a subsequent increase in systematic risk following a state tax rate increase. Overall, our findings provide novel insight into how taxes can influence CEO compensation design and the transmission of firm-level risk to executives.</jats:p>\n                  <jats:p>Data Availability: Data are obtained from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G32; H32; J33; J41; L25.</jats:p>",
+      "doi": "10.2308/tar-2023-0226",
+      "url": "https://doi.org/10.2308/tar-2023-0226"
+    },
+    {
+      "title": "Employee-Level Real Activities Management, Employee Performance, and Managerial Target Setting",
+      "authors": "Markus C. Arnold, Kai A. Bauch, Eric W. Chan",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates how real activities management (RAM) by employees to meet internal targets set by managers affects their performance, and how managers’ awareness of employees’ opportunity to engage in RAM moderates this effect. Using two experiments, we predict and find that when managers are unaware of employees’ RAM opportunity, employees who face miscalibrated targets use RAM to restore their own incentives to work hard, resulting in increased employee performance. Counter to conventional wisdom, we also predict and find that making managers aware of employees’ RAM opportunity hurts employee performance. Such managers overestimate employees’ RAM and adjust targets aggressively such that they become more difficult to achieve, leading to lower employee motivation and less trusting employee-manager relations. Overall, our findings show that the opportunity to engage in RAM can have the indirect benefits of motivating higher employee performance, but increasing managers’ awareness of this has negative performance and relational effects.</jats:p>\n                  <jats:p>Data Availability: The data and research instrument are available from the authors upon request.</jats:p>\n                  <jats:p>JEL Classifications: D91; M10; M40.</jats:p>",
+      "doi": "10.2308/tar-2024-0166",
+      "url": "https://doi.org/10.2308/tar-2024-0166"
+    },
+    {
+      "title": "The Consequences of Regulating Ownership for Profitable Tax-Exempt Organizations",
+      "authors": "Brian D. Cadman, Elena S. Patel",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-10-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Many tax-exempt hospitals generate substantial profits. At the same time, regulations governing tax-exempt status prohibit these organizations from issuing equity or operating for the benefit of private owners, leaving managers with unusual discretion over retained resources. This combination makes them especially prone to agency problems. Because hospitals play a central role in the U.S. economy, the costs of weak governance extend beyond the sector itself. We find that tax-exempt hospitals spend more on administrative wages and capital investments than comparable taxable hospitals. At the same time, weaker financial performance accompanies greater mission-related activity. A novel, hand-collected measure of additional state-level oversight reveals that stronger oversight disciplines finances without crowding out mission-related activity.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are derived from publicly available sources. Hospital financial and operational data are from the Centers for Medicare and Medicaid Services’ Hospital Cost Report Information System (HCRIS). County-level demographic data are from the Area Resource File maintained by the U.S. Department of Health and Human Services. Hospital market definitions are from the Dartmouth Atlas of Health Care. The hand-collected measure of state-level oversight (the O-Score) is described in the manuscript and appendices.</jats:p>\n                  <jats:p>JEL Classifications: M12; G30; G34; I18; J30.</jats:p>",
+      "doi": "10.2308/tar-2023-0208",
+      "url": "https://doi.org/10.2308/tar-2023-0208"
     },
     {
       "title": "Generative AI and Firm Values",
@@ -2823,16 +2993,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101933"
     },
     {
-      "title": "Managerial Accountants and Investment Efficiency",
-      "authors": "Michael Iselin, Jacob Ott, Youli Zou",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study explores the relation between a firm’s employment of managerial accountants and the efficiency of its investment decisions. To investigate this, we track the yearly employment levels of managerial accountants within firms and find a positive association with investment efficiency. This positive association persists after controlling for financial accountants and multiple measures of financial reporting quality, suggesting the effect operates through improved internal information. Cross-sectional tests show that the relation is concentrated in firms with greater internal information asymmetry and more complex overhead cost allocation. A staggered difference-in-differences (DiD) design exploiting state implementation of the 150 credit hour CPA rule further alleviates endogeneity concerns. Our study contributes to the investment efficiency literature and highlights an important benefit of employing managerial accountants. The findings are particularly relevant, given the recent shortage of accounting professionals.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources and third-party data providers.</jats:p>\n                  <jats:p>JEL Classifications: M41; M51; J21; G31.</jats:p>",
-      "doi": "10.2308/tar-2023-0699",
-      "url": "https://doi.org/10.2308/tar-2023-0699"
-    },
-    {
       "title": "Knowledge is power: A field experiment in the Chinese and US stock markets",
       "authors": "Sonia Man-Lai Wong, Yuan Xue, Bohui Zhang, Xiaofeng Zhao",
       "journal": "Journal of Accounting and Economics",
@@ -2853,46 +3013,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101934"
     },
     {
-      "title": "The Market Disciplinary Effect of Asset Write-Off: Theory and Empirical Evidence from Goodwill Impairment",
-      "authors": "Yi Jiang, Yupeng Lin, Wenjie Xue",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the effect of subsequent write-off tests on myopic managers’ investment decisions. Write-off tests discipline overinvestment when the likelihood of adverse events is high but can otherwise cause more severe underinvestment. Hence, tightening impairment stringency improves firm value when the likelihood of adverse events is high but destroys firm value when that likelihood is low. With intermediate levels of likelihood, firm value is hump-shaped in impairment stringency. To test the theory, we exploit an increase in goodwill impairment stringency following goodwill-related restatements by peer firms audited by the same auditor office, and we adopt a stacked difference-in-differences (DiD) design to control for any generic effects of peer restatements. Firms facing more stringent goodwill impairment reduce M&amp;As relative to other types of investment, as well as in absolute amounts. The valuation of treated firms improves only during periods of high recession expectations or when facing high distress risk.</jats:p>\n                  <jats:p>Data Availability: Data are available from sources identified in the text.</jats:p>\n                  <jats:p>JEL Classifications: D82; G31; G34; M41; M42.</jats:p>",
-      "doi": "10.2308/tar-2022-0526",
-      "url": "https://doi.org/10.2308/tar-2022-0526"
-    },
-    {
-      "title": "Benefits of Bank-Collateralized Loan Obligation Relationships: Evidence from Bankruptcy and Restructuring Outcomes of Collateralized Loan Obligation-Held Loans",
-      "authors": "Yupeng Lin, Dushyantkumar Vyas, Wanrong Xu",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Despite persistent academic and regulatory concerns, collateralized loan obligations (CLOs) have consistently demonstrated resiliency over the past two decades. We document that firms whose loans are acquired by CLOs are less likely to experience adverse credit events within 12 months of inclusion in the CLO portfolio, particularly when CLOs maintain institutional-level relationships with originating banks (through repeated transactions) or when individual-level relationships exist (as evidenced by personnel flows between originating banks and CLOs). The effects of these relationships are more pronounced when banks likely possess superior private information about borrowers. Furthermore, conditional upon filing for bankruptcy, borrowers whose loans are held by CLOs with institutional- or individual-level relationships are more likely to successfully reorganize under Chapter 11. Collectively, our findings highlight the dual information channels, both institutional and personnel based, that mitigate information frictions in the leveraged loan market.</jats:p>\n                  <jats:p>Data Availability: Data are available from commercial sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12.</jats:p>",
-      "doi": "10.2308/tar-2024-0758",
-      "url": "https://doi.org/10.2308/tar-2024-0758"
-    },
-    {
-      "title": "When Companies Choose Their Reporting Standards: Evidence on SASB Adoption and Associated Outcomes",
-      "authors": "Khrystyna Bochkay, Seungju Choi, Jeffrey Hales",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine companies’ voluntary adoption of sustainability disclosure standards developed by the Sustainability Accounting Standards Board (SASB). Specifically, we study which company characteristics help explain the use of SASB standards and examine whether voluntary use is associated with sustainability-related activities and market outcomes. We find that peer behavior, sustainability-focused institutional ownership, company size, and existing sustainability reporting practices are key determinants associated with SASB adoption. Moreover, SASB adoption appears to be a highly persistent disclosure choice. It is significantly associated with better sustainability performance, such as lower sustainability violations, greenhouse gas emissions, and pollution levels, particularly when the SASB standards identify those issues as financially material for the company's industry. Finally, SASB adoption is associated with more extensive sustainability disclosure and greater price informativeness, consistent with investors getting additional firm-specific information from SASB-based reporting.</jats:p>\n                  <jats:p>JEL Classifications: M41; M14; G32; Q56.</jats:p>",
-      "doi": "10.2308/tar-2023-0485",
-      "url": "https://doi.org/10.2308/tar-2023-0485"
-    },
-    {
-      "title": "Social Tax Discontent and Individual Tax Avoidance",
-      "authors": "Andrew Belnap, Kevin R. Standridge, Jacob R. Thornock, Braden Williams",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the relation between exposure to social tax discontent—public expressions of frustration about others’ tax avoidance on social media—and individual tax avoidance. Economic and psychological theories predict bidirectional effects: discontent may reduce avoidance by inducing internal sanctions (e.g., shame and guilt) or increase avoidance by normalizing noncompliance through perceived prevalence. Using a novel, large-scale measure of tax discontent derived from geolocated Twitter data and a language classification model, we find that increases in social tax discontent are associated with reductions in estimated tax avoidance. The effect is stronger among high-income groups, in response to tweets targeting wealthy individuals, and in areas with higher political engagement and social media activity. Our results reinforce the importance of taxpayers’ social and behavioral motivations and suggest that jurisdictions’ efforts to manage taxpayer beliefs and leverage social norms can act as a complementary tool to traditional enforcement.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are derived from public and third-party sources described in the text: the IRS Statistics of Income, the U.S. Bureau of Labor Statistics (BLS) Quarterly Census of Employment and Wages, the Bureau of Economic Analysis, Google Trends, and the National Neighborhood Data Archive. Twitter/X data were collected via the Twitter Application Programming Interface (API) under its academic-access terms and are subject to Twitter’s/X’s terms of use; they cannot be redistributed by the authors, but the collection and classification procedures are described in Section IV.</jats:p>\n                  <jats:p>JEL Classifications: H26; H24; Z13; D91.</jats:p>",
-      "doi": "10.2308/tar-2023-0689",
-      "url": "https://doi.org/10.2308/tar-2023-0689"
-    },
-    {
       "title": "What drives banks’ overreaction to loan loss information? Discussion of imperfect expectations in loan loss forecasts",
       "authors": "Scott Liao, Brent A. Schmidt",
       "journal": "Journal of Accounting and Economics",
@@ -2901,16 +3021,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101936",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101936"
-    },
-    {
-      "title": "Circuitousness in Disclosure Narratives",
-      "authors": "Nicholas Guest, Jiawen Yan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper examines circuitousness, which reflects related information being spread throughout a narrative as opposed to being grouped together. Circuitousness in the MD&amp;A is higher for underperforming firms facing an imminent recovery, a difficult scenario for managers to describe and reconcile. Such firms’ disclosures are accompanied by heightened information processing activity, such as EDGAR downloads and analyst forecast revisions. Additionally, initial return reactions are faster but incomplete, consistent with recoveries and the ensuing circuitousness increasing processing costs that delay price discovery. Changes in institutional ownership are concentrated among quasi-indexers, who rely on public disclosure but rebalance only gradually. Circuitousness is incrementally and more consistently predictive than other textual characteristics that are related but are typically associated with obfuscation, such as the Fog index and repetition. Overall, circuitousness in financial disclosure signals that a turnaround is imminent and corresponds to more costly information processing.</jats:p>\n                  <jats:p>JEL Classifications: D83; D84; G14; G30; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2023-0731",
-      "url": "https://doi.org/10.2308/tar-2023-0731"
     },
     {
       "title": "Broker In-House ESG Research",
@@ -2923,16 +3033,6 @@
       "url": "https://doi.org/10.2308/tar-2023-0401"
     },
     {
-      "title": "Domestic Product Market Impacts of Politically Motivated Foreign Tariffs",
-      "authors": "Carlyle S. Burd, Duke Ferguson",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how foreign non-income tax shocks affect U.S. product markets. Our setting is the politically motivated tariffs on U.S. whiskey exports levied during the 2018 trade war, which created an exogenous negative foreign demand shock for domestic producers. Using a difference-in-differences design we show that, on average, U.S. whiskey producers decrease U.S. product prices and thus increase domestic sales volume following the export tariffs. However, we find evidence of strategic pricing, as producers increase prices of locally produced products in primary production states (Kentucky and Tennessee) and more significantly decrease prices in states where whiskey consumption is less popular. Further, we show that U.S. whiskey producers implement smaller product price decreases in states with greater tariff-related media exposure and reduce advertising spending nationwide but not in Kentucky and Tennessee. Taken together, these findings provide timely evidence regarding how foreign trade restrictions impact the U.S. product market and consumer outcomes.</jats:p>\n                  <jats:p>Data Availability: NielsenIQ Retail Scanner Data are available through the Kilts Center for Marketing at the University of Chicago Booth School of Business (http://research.chicagobooth.edu/nielsen). Kantar Advertising Insights data are available by subscription. GDELT data are available at https://www.gdeltproject.org/.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41; F10; F13; F14.</jats:p>",
-      "doi": "10.2308/tar-2024-0708",
-      "url": "https://doi.org/10.2308/tar-2024-0708"
-    },
-    {
       "title": "Regulating via social media: Deterrence effects of the SEC's use of Twitter",
       "authors": "Raphael Duguay, Jinjie Lin, Jake Thomas, Laiyi Yin",
       "journal": "Journal of Accounting and Economics",
@@ -2941,16 +3041,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101938",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101938"
-    },
-    {
-      "title": "The Debt Market Role of Asset Valuation Uncertainty",
-      "authors": "Aleksander A. Aleszczyk, Florin P. Vasvari, Dushyantkumar Vyas",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We collect data on ranges of hypothetical asset liquidation values disclosed in U.S. Bankruptcy Court filings. We use this historical information to construct a firm-specific measure, “RecRisk,” which captures asset recovery risk through the uncertainty surrounding asset valuations in liquidation events. We document that higher RecRisk is associated with smaller syndicated loan amounts as a percentage of available collateral, more and tighter performance covenants, and increased loan spreads for borrowers with high credit risk. High RecRisk borrowers also experience lower secondary loan market prices and reduced liquidity for loans with high credit risk. When borrowers become financially distressed, high RecRisk is further associated with declining loan prices and reduced ownership by Collateralized Loan Obligations, the dominant investors in the leveraged loan market. Overall, our results indicate that loan contract terms and prices reflect recovery risk faced by lenders.</jats:p>\n                  <jats:p>Data Availability: Data are available from the sources cited in the text. The authors can provide the RecRisk measure at the firm-year level upon request.</jats:p>\n                  <jats:p>JEL Classifications: M41; G32; G34; G12; G21; G33.</jats:p>",
-      "doi": "10.2308/tar-2023-0477",
-      "url": "https://doi.org/10.2308/tar-2023-0477"
     },
     {
       "title": "Scalable Demand and Markups",
@@ -3031,16 +3121,6 @@
       "abstract": "",
       "doi": "10.1086/740221",
       "url": "https://doi.org/10.1086/740221"
-    },
-    {
-      "title": "Does Anti-Tax Avoidance Regulation Curb Industry Concentration?",
-      "authors": "John Gallemore, Martin Jacob, Jesse Marangoni, Christian P. H. Peters",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-08-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Policymakers claim that combating tax avoidance can help reduce industry concentration by leveling the playing field between industry leaders and their competitors. We test the validity of this claim by using administrative data on industry concentration and exploiting the staggered introduction of anti-tax avoidance regulations across 17 European countries. Although these regulations significantly reduce tax avoidance, we find no statistically or economically meaningful effect on industry concentration. Further tests indicate that our nonresults stem from a genuine lack of effect rather than a lack of statistical power and that our inferences are robust to multiple research designs. The sole exception is in industries with both high levels of leader tax-avoidance advantages and multinational presence, but even in these industries, effect sizes are modest and fall short of regulatory benchmarks. Overall, our findings cast doubt on the idea that broad-based anti-tax avoidance regulations can materially influence industry concentration.</jats:p>\n                  <jats:p>JEL Classifications: D40; H25; M40; M41.</jats:p>",
-      "doi": "10.2308/tar-2025-0338",
-      "url": "https://doi.org/10.2308/tar-2025-0338"
     },
     {
       "title": "Measurement error when estimating covenant slack and violations",
@@ -3793,16 +3873,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101913"
     },
     {
-      "title": "A New Wave of Talent: Big 4 Response to New Partner Qualification Requirements in China",
-      "authors": "Pietro A. Bianchi, Lin Liao, Miguel Minutti-Meza, Yini Wang",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how the Big 4 responded to evolving partner qualification requirements in China. By 2017, at least 80 percent of the Big 4 partners were required to hold CICPA qualifications, a requirement that did not apply to local firms. Using data from a 14-year window around the reform, we document that the Big 4 expanded their partnership and primarily complied through internal promotion of locally licensed auditors, often into junior signing roles and serving new clients. Our analyses of audit outcomes yield mixed and time-varying evidence: although we observe relative increases in restatements in selected periods, the triangulated evidence does not suggest a pervasive deterioration in audit quality. However, we find a decline in the Big 4’s market share and audit fee premium. Overall, our findings shed light on how regulatory interventions targeting auditor qualifications reshape audit firms and market competition.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M4; M40; M41; M42; M49.</jats:p>",
-      "doi": "10.2308/tar-2024-0095",
-      "url": "https://doi.org/10.2308/tar-2024-0095"
-    },
-    {
       "title": "Auditing smart contracts",
       "authors": "Wayne Landsman, Evgeny Lyandres, Edward Maydew, Daniel Rabetti, Che Zhang",
       "journal": "Journal of Accounting and Economics",
@@ -3813,16 +3883,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101911"
     },
     {
-      "title": "Inequality Grows in Silence: The Impact of Newspaper Closures on CEO-Worker Pay Disparity",
-      "authors": "Jie Chen, Yang Gao, Cheng Zeng",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Addressing income inequality is crucial for ensuring equitable and prosperous societies. This study examines the impact of the local press on intrafirm pay disparity. By using recently mandated disclosures of CEO-worker pay ratios and analyzing the staggered shutdown of local newspapers, we find that within-firm pay disparity increases by 8.2 percent following local newspaper closures. Further analysis suggests that this post-closure increase in pay disparity ratio is unlikely to be driven by either CEO compensation or worker pay alone or underlying economic conditions but instead reflects reduced concerns over reputational damage. Overall, our findings are consistent with local newspapers’ playing an important role in disseminating CEO-worker pay ratios and amplifying their reputational effects, thereby shaping and monitoring within-firm pay disparity.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G38; J31; M12; L82.</jats:p>",
-      "doi": "10.2308/tar-2025-0068",
-      "url": "https://doi.org/10.2308/tar-2025-0068"
-    },
-    {
       "title": "The sound of uncertainty: Examining managerial acoustic uncertainty in conference calls",
       "authors": "Daniela De la Parra, John Gallemore",
       "journal": "Journal of Accounting and Economics",
@@ -3831,16 +3891,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101914",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101914"
-    },
-    {
-      "title": "Auditing in the Digital Age: Determinants and Consequences of Technology Investment",
-      "authors": "Hyun Hwang, Eunhee Kim, Minlei Ye",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Technological advances are reshaping the business landscape, yet their use in financial reporting has been slow. We develop a model in which auditors and companies make technology investment decisions and examine their impact on audit fees and outcomes. Our analysis shows that auditors and companies may fail to invest in mutually beneficial technology that would enhance audit quality, resulting in coordination failure. We also demonstrate how legal liability, client business risk, and auditor pricing power affect the conditions under which such coordination failure occurs. Furthermore, technology investments can either increase or decrease audit fees. When companies can choose among projects with varying risk levels, technology investments can increase audit failure risk while improving welfare by enabling them to pursue riskier but more profitable projects. Our results provide a rationale for regulatory intervention to facilitate technology investments in the financial reporting environment and offer empirical predictions.</jats:p>\n                  <jats:p>JEL Classifications: M41; M42; M48.</jats:p>",
-      "doi": "10.2308/tar-2024-0427",
-      "url": "https://doi.org/10.2308/tar-2024-0427"
     },
     {
       "title": "Imperfect expectations in loan loss forecasts",
@@ -3883,16 +3933,6 @@
       "url": "https://doi.org/10.1016/j.jacceco.2026.101928"
     },
     {
-      "title": "Government-Brokerage Analysts and Market Stabilization: Evidence from China",
-      "authors": "Sheng Cao, Xianjie He, Charles C. Y. Wang, Huifang Yin",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Government-controlled brokerage analysts serve as a market stabilization tool in China. Examining the 2005–2019 period, we show these analysts issue relatively more optimistic—yet less accurate and timely—forecasts during market rescue periods, supporting stock prices. During market booms, they issue comparatively pessimistic but more accurate and timely forecasts, tempering excessive optimism. These patterns are stronger for large firms and state-owned enterprises, and at the most government-influenced brokerages. Markets appear to respond to these forecasts: stocks with greater government-brokerage coverage experience higher liquidity during downturns but lower liquidity during hot markets, with corresponding post-earnings price adjustments. Our findings match Brunnermeier, Sockin, and Xiong’s (2022) theoretical predictions: state interventions can erode information efficiency under intensive intervention while maintaining it under moderate intervention. Collectively, these results underscore that analysts can serve a dual role—as information providers and policy instruments shaping market expectations and stability—in a coordinated economy.</jats:p>\n                  <jats:p>Data Availability: The data used in this study were obtained from the China Stock Market &amp; Accounting Research (CSMAR) database under a commercial license and cannot be redistributed by the authors. Researchers can obtain equivalent data through institutional access to CSMAR.</jats:p>\n                  <jats:p>JEL Classifications: G14; G24; G28; O16.</jats:p>",
-      "doi": "10.2308/tar-2019-0605",
-      "url": "https://doi.org/10.2308/tar-2019-0605"
-    },
-    {
       "title": "Auditor independence and human capital: Complements, not substitutes",
       "authors": "Joshua T. White",
       "journal": "Journal of Accounting and Economics",
@@ -3911,16 +3951,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101925",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101925"
-    },
-    {
-      "title": "The Evolving Make-or-Buy Decision: Strategic Concurrent Sourcing and Capacity Choice",
-      "authors": "Anil Arya, Ram N. V. Ramanan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The once binary make-or-buy choice in firms’ sourcing has evolved in recent years into what is often a make-and-buy decision where the same input is both produced internally and procured externally. This paper presents a novel explanation for concurrent sourcing, one rooted in firms’ strategic positioning and intrinsically tied to their capacity choices. In our setting, a firm that chooses solely to make internally maximizes cost savings but prices away efficiency gains via intense retail competition. A firm that chooses solely to buy externally tempers competitive tendencies but finds input prices excessive. By choosing concurrent sourcing, a firm keeps average costs low (relying on external supply sparingly) while also credibly committing to reining in aggressive retail pricing due to the modestly higher marginal costs associated with outsourcing. This optimal middle ground is achieved by the firm strategically limiting its installed capacity.</jats:p>\n                  <jats:p>JEL Classifications: D43; L13; L23; M41.</jats:p>",
-      "doi": "10.2308/tar-2025-0280",
-      "url": "https://doi.org/10.2308/tar-2025-0280"
     },
     {
       "title": "Insider trading after the 2022 Rule 10b5-1 amendment",
@@ -3951,36 +3981,6 @@
       "abstract": "",
       "doi": "10.1016/j.jacceco.2026.101927",
       "url": "https://doi.org/10.1016/j.jacceco.2026.101927"
-    },
-    {
-      "title": "Tax-Induced Shifts in Risk-Taking Incentives and Executive Compensation Design",
-      "authors": "Jennifer L. Blouin, Thomas R. Kubick, John R. Robinson",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Theory suggests that changes in corporate tax rates can alter the dispersion of after-tax project payoffs, thereby altering the exposure of firm-level risk transmitted to executives through compensation. Using state tax changes, we observe firms shifting away from option-based compensation following state corporate tax rate increases. This result is concentrated in compensation contracts that lack relative performance evaluation (RPE) features, which filter common shocks to performance and influence the type of risk executives are incentivized to take. We also find that firms are more likely to initiate RPE shortly after a state tax rate increase and that firms that adjusted compensation through reductions in equity risk incentives or used RPE were less likely to experience a subsequent increase in systematic risk following a state tax rate increase. Overall, our findings provide novel insight into how taxes can influence CEO compensation design and the transmission of firm-level risk to executives.</jats:p>\n                  <jats:p>Data Availability: Data are obtained from public sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G32; H32; J33; J41; L25.</jats:p>",
-      "doi": "10.2308/tar-2023-0226",
-      "url": "https://doi.org/10.2308/tar-2023-0226"
-    },
-    {
-      "title": "Employee-Level Real Activities Management, Employee Performance, and Managerial Target Setting",
-      "authors": "Markus C. Arnold, Kai A. Bauch, Eric W. Chan",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates how real activities management (RAM) by employees to meet internal targets set by managers affects their performance, and how managers’ awareness of employees’ opportunity to engage in RAM moderates this effect. Using two experiments, we predict and find that when managers are unaware of employees’ RAM opportunity, employees who face miscalibrated targets use RAM to restore their own incentives to work hard, resulting in increased employee performance. Counter to conventional wisdom, we also predict and find that making managers aware of employees’ RAM opportunity hurts employee performance. Such managers overestimate employees’ RAM and adjust targets aggressively such that they become more difficult to achieve, leading to lower employee motivation and less trusting employee-manager relations. Overall, our findings show that the opportunity to engage in RAM can have the indirect benefits of motivating higher employee performance, but increasing managers’ awareness of this has negative performance and relational effects.</jats:p>\n                  <jats:p>Data Availability: The data and research instrument are available from the authors upon request.</jats:p>\n                  <jats:p>JEL Classifications: D91; M10; M40.</jats:p>",
-      "doi": "10.2308/tar-2024-0166",
-      "url": "https://doi.org/10.2308/tar-2024-0166"
-    },
-    {
-      "title": "The Consequences of Regulating Ownership for Profitable Tax-Exempt Organizations",
-      "authors": "Brian D. Cadman, Elena S. Patel",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-07-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Many tax-exempt hospitals generate substantial profits. At the same time, regulations governing tax-exempt status prohibit these organizations from issuing equity or operating for the benefit of private owners, leaving managers with unusual discretion over retained resources. This combination makes them especially prone to agency problems. Because hospitals play a central role in the U.S. economy, the costs of weak governance extend beyond the sector itself. We find that tax-exempt hospitals spend more on administrative wages and capital investments than comparable taxable hospitals. At the same time, weaker financial performance accompanies greater mission-related activity. A novel, hand-collected measure of additional state-level oversight reveals that stronger oversight disciplines finances without crowding out mission-related activity.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are derived from publicly available sources. Hospital financial and operational data are from the Centers for Medicare and Medicaid Services’ Hospital Cost Report Information System (HCRIS). County-level demographic data are from the Area Resource File maintained by the U.S. Department of Health and Human Services. Hospital market definitions are from the Dartmouth Atlas of Health Care. The hand-collected measure of state-level oversight (the O-Score) is described in the manuscript and appendices.</jats:p>\n                  <jats:p>JEL Classifications: M12; G30; G34; I18; J30.</jats:p>",
-      "doi": "10.2308/tar-2023-0208",
-      "url": "https://doi.org/10.2308/tar-2023-0208"
     },
     {
       "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
@@ -4901,26 +4901,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the economic consequences of anti‐loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&amp;A) declining by 18%, driven by loss‐making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti‐loss trafficking rules is related to decreased (increased) industry productivity, especially in R&amp;D‐intensive industries that are more prone to loss‐making. Finally, tighter anti‐loss trafficking rules are associated with lower deal synergies and risk‐taking. All effects concentrate in strict regimes.</jats:p>",
       "doi": "10.1111/1475-679x.70070",
       "url": "https://doi.org/10.1111/1475-679x.70070"
-    },
-    {
-      "title": "A Tale of Two Market Disciplines: How Does Bank Financial Misconduct Affect Peer Banks in the Local Deposit Market",
-      "authors": "Ya Kang, Yupeng Lin, Yang Qiu",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-05-03",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    This study examines the spillover effect of bank financial misconduct on the uninsured deposits of peer banks within local markets. We first validate that misconduct banks experience an increase in deposit spreads and a corresponding outflow of deposits following the misconduct. We then show local peer banks exhibit divergent deposit responses, contingent on how misconduct is perceived by information recipients in different economic contexts. During normal periods, depositors receiving a negative signal about bank misconduct reallocate their funds from misconduct banks to local peers, a\n                    <jats:italic>local reallocation effect</jats:italic>\n                    that decreases deposit spreads and increases deposit inflows for peer banks. Cross‐sectional analysis further reveals that this local reallocation effect is more pronounced for financially sophisticated depositors, amplified when peer banks have strong fundamentals, but attenuated when misconduct banks are financially sound. During financial crisis periods, however, bank misconduct leads to withdrawals from both misconduct banks and their peer banks, a\n                    <jats:italic>local contagion effect</jats:italic>\n                    whereby local peer banks face increased deposit spreads and deposit outflows following the misconduct.\n                  </jats:p>",
-      "doi": "10.1111/1475-679x.70069",
-      "url": "https://doi.org/10.1111/1475-679x.70069"
-    },
-    {
-      "title": "Generative AI Use by Capital Market Information Intermediaries: Evidence from Seeking Alpha",
-      "authors": "Mark T. Bradshaw, Chenyang Ma, Benjamin P. Yost, Yuan Zou",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-05-03",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the use of generative AI for firm‐specific financial analysis on the Seeking Alpha platform. After the initial launch of ChatGPT in November 2022, the share of AI‐generated articles rose sharply to 13.5% of all articles, then declined in late 2023 after Seeking Alpha equated the use of AI to plagiarism and announced a prohibition on its use. We organize our study around two questions: (1) Does AI use increase author productivity? and (2) does AI use have capital market consequences and ultimately affect the informational landscape? We find that authors who adopt AI become more productive, publishing more articles and covering more new firms than non‐adopters. Findings on AI article informativeness are more nuanced. On average, AI articles are less informative than human‐written articles, eliciting smaller trading volume and abnormal return responses. However, AI use leads to increased firm coverage and in turn to improved liquidity and faster price discovery. Our findings suggest that, while AI‐generated articles are currently perceived as less informative than human‐written articles, their comparatively low cost enables increased firm coverage and thereby improves the overall informational landscape.</jats:p>",
-      "doi": "10.1111/1475-679x.70053",
-      "url": "https://doi.org/10.1111/1475-679x.70053"
     }
   ]
 }
