@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T08:37:04.702Z",
+  "lastUpdated": "2026-11-05T08:56:54.544Z",
   "count": 494,
   "papers": [
     {
@@ -61,6 +61,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104388",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104388"
+    },
+    {
+      "title": "Shadow banks on the rise: Evidence across market segments",
+      "authors": "Kim Fe Cramer, Pulak Ghosh, Nirupama Kulkarni, Nishant Vats",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104398",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104398"
+    },
+    {
+      "title": "China Walls",
+      "authors": "Tomy Lee, Daniel Nathan, Chaojun Wang",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104403",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104403"
     },
     {
       "title": "Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation",
@@ -4921,26 +4941,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Recent work within accounting and finance has highlighted that modern AI systems exhibit superhuman performance on a variety of foundational activities within these fields. However, the literature often does not provide economic rationale for\n                    <jats:italic>why</jats:italic>\n                    AI models seem to outperform, largely because these models are a black box. Through a series of experiments, I set out to open the black box and provide direct evidence on\n                    <jats:italic>how</jats:italic>\n                    and\n                    <jats:italic>why</jats:italic>\n                    AI models appear to perform so well on accounting and finance‐related tasks. I show that much of the superior performance of AI models can be attributed to artifacts of the modeling itself, rather than to mechanisms grounded in economics. Focusing on two key components of AI models, which may bias inferences in papers that rely on them, I first show that Large Language Model (LLMs) exhibit extremely poor numerical reasoning and thus application in these settings should proceed with caution. Second, I highlight that commercial LLMs suffer from significant look‐ahead bias, which may explain a large portion of their predictive ability in various settings.\n                  </jats:p>",
       "doi": "10.1111/1475-679x.70058",
       "url": "https://doi.org/10.1111/1475-679x.70058"
-    },
-    {
-      "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
-      "authors": "Marcella Alsan, Yousra Neberai",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-05-05",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article examines how the American Medical Association (AMA) helped shape the development of the U.S. health insurance system in the critical period after World War II. Working with the political public relations firm Campaigns, Inc., the AMA launched a nationwide campaign to weaken support for national health insurance by framing it as “socialized medicine,” while simultaneously enrolling people in private health insurance plans to shift demand away from a public alternative. Drawing on newly assembled archival data, we find that greater exposure to the campaign explains about 20% of the rise in private health insurance enrollment and a comparable decline in public support for a national program. The campaign also appears to have influenced policy making through coordinated messaging, resolutions passed by civic organizations, congressional rhetoric, and political donations. These findings suggest that the rise of private health insurance in the United States was not solely due to macroeconomic forces or collective bargaining; rather, it was also enabled by a strategic, interest group–financed effort to shape citizen views and influence policy.</jats:p>",
-      "doi": "10.1093/qje/qjag024",
-      "url": "https://doi.org/10.1093/qje/qjag024"
-    },
-    {
-      "title": "The Value of a Loss: The Impact of Restricting Tax Loss Transfers",
-      "authors": "Theresa Bührle, Elisa Casi, Barbara Stage, Johannes Voget",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-05-05",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the economic consequences of anti‐loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&amp;A) declining by 18%, driven by loss‐making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti‐loss trafficking rules is related to decreased (increased) industry productivity, especially in R&amp;D‐intensive industries that are more prone to loss‐making. Finally, tighter anti‐loss trafficking rules are associated with lower deal synergies and risk‐taking. All effects concentrate in strict regimes.</jats:p>",
-      "doi": "10.1111/1475-679x.70070",
-      "url": "https://doi.org/10.1111/1475-679x.70070"
     }
   ]
 }
