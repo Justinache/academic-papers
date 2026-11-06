@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T08:56:54.544Z",
-  "count": 494,
+  "lastUpdated": "2026-11-06T08:56:58.440Z",
+  "count": 500,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -83,6 +83,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104403"
     },
     {
+      "title": "Financial constraints and the transmission of monetary policy: Evidence from relaxation of collateral constraints",
+      "authors": "Nishant Vats",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104405",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104405"
+    },
+    {
+      "title": "Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data",
+      "authors": "Pierre-Loup Beauregard, Thomas Lemieux, Derek Messacar, Raffaele Saggio",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-11-05",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use Canadian matched employer-employee data to assess the sources of the union pay premium. After controlling for worker heterogeneity using the two-way fixed effects approach of Abowd, Kramarz, and Margolis (AKM), we find that unionized firms pay about 15 log points more than non-unionized firms. Forty percent of this gap is linked to productivity differences between unionized and non-unionized firms as measured by value added per worker. The remaining gap reflects unions’ ability to extract more rents for workers. Our estimates imply that unions raise pay among unionized workers by around 9 log points, with considerable heterogeneity by industry and firm birth cohorts. The union effect grows to about 11 log points in an extension of the AKM approach where unions also affect the returns to unobservable worker characteristics.</jats:p>",
+      "doi": "10.1093/qje/qjag054",
+      "url": "https://doi.org/10.1093/qje/qjag054"
+    },
+    {
       "title": "Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation",
       "authors": "Ferhat Akbas, Minjie Huang, Felix Meschke",
       "journal": "Journal of Finance",
@@ -91,6 +111,16 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We reinvestigate Anderson, Reeb, and Zhao's findings that informed short selling is unique to family firms and driven by information leakage from internal disputes. Using the same firm sample and more comprehensive short‐selling data, we find that short selling predicts future returns in both family and nonfamily firms. We also find no significant difference in abnormal short selling before negative earnings announcements. In extended sample periods, short selling continues to predict returns for nonfamily firms under both ownership‐based and familial‐link definitions. Overall, our evidence suggests that short sellers are broadly informed and that family firms are not uniquely vulnerable.</jats:p>",
       "doi": "10.1111/jofi.70098",
       "url": "https://doi.org/10.1111/jofi.70098"
+    },
+    {
+      "title": "The Anti‐SLAPP Statutes and Corporate Environmental Policies",
+      "authors": "Kevin C.w. Chen, Zhihong Chen, Chengzhu Sun",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-11-04",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine whether legal protection for civic participation affects corporate pollution. Polluters may deter public discipline through strategic lawsuits. Anti‐SLAPP (Strategic Lawsuit Against Public Participation) statutes mitigate this threat by enabling prompt dismissal and recovery of legal costs. Using a difference‐in‐differences design, we find that enacting an anti‐SLAPP statute in a state significantly reduces toxic emissions from that state by increasing local public pressure. The reduction is greater when the statutes provide stronger protection, when local stakeholders have stronger incentives and abilities to discipline polluters, and when local public pressure increases more after the enactment. Plants lower emissions by improving abatement rather than by reducing output or relocating emissions. Our paper underscores the role of legal protection in environmental governance and informs policy debates over anti‐SLAPP legislation.</jats:p>",
+      "doi": "10.1111/1475-679x.70095",
+      "url": "https://doi.org/10.1111/1475-679x.70095"
     },
     {
       "title": "Forward Return Expectations",
@@ -541,6 +571,36 @@
       "abstract": "<jats:p>We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)</jats:p>",
       "doi": "10.1257/aer.20250081",
       "url": "https://doi.org/10.1257/aer.20250081"
+    },
+    {
+      "title": "Board–CEO Trust and Concealing Adverse News",
+      "authors": "Kee-Hong Bae, Sadok El Ghoul, Zhaoran Gong, Omrane Guedhami, Lixin Su",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate how generalized trust, a culturally rooted belief in the trustworthiness of unfamiliar others, influences board oversight. Using an ancestry-based measure of board–CEO trust based on ancestral origins and bilateral trust scores across countries, we find a significant positive relation between board–CEO trust and stock price crash risk, indicating higher bad-news hoarding. This relation remains robust across alternative crash risk measures, sample specifications, and trust measures. Firms with high board–CEO trust exhibit more asymmetric stock market reactions to good news versus bad news and a higher likelihood of material restatements. Analyses of insider trading patterns show that directors in high-trust firms are less informed than CEOs about adverse developments, supporting lax board monitoring rather than collusion between directors and CEOs. Overall, the evidence suggests that culturally inherited trust can weaken board oversight and reduce corporate transparency, consistent with an underexplored governance friction even within well-structured boards.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from public sources identified in the study.</jats:p>\n                  <jats:p>JEL Classifications: G14; G34; G41; M12.</jats:p>",
+      "doi": "10.2308/tar-2024-0298",
+      "url": "https://doi.org/10.2308/tar-2024-0298"
+    },
+    {
+      "title": "The Cost of Regulatory Inaction: Evidence from IFRS Nonadoption",
+      "authors": "Miao Liu, Wanrong Xu, Rachel Xi Zhang",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Although extensive research examines the costs and benefits of adopting new disclosure regulations, little addresses the consequences of regulatory inaction. We investigate whether firms in nonadopting countries incur additional information losses, beyond the forgone benefits, when their foreign peers adopt International Financial Reporting Standards (IFRS). Nonadopters bear an absolute liquidity cost as foreign peers adopt IFRS, consistent with negative externalities from IFRS and accompanying reforms. Exploiting heterogeneity across nonadopting countries, we observe more pronounced liquidity declines among firms with greater institutional ownership overlap with IFRS peers. This effect appears more pronounced when IFRS peers are domiciled in countries with concurrent enforcement reforms or greater comparability improvements. Further evidence shows shared intermediaries—investors and analysts—reduce information production for nonadopters as other firms in their portfolios adopt IFRS. Overall, regulatory inaction degrades information environments: resources shift to the new regime, worsening liquidity for firms in the old regime.</jats:p>\n                  <jats:p>Data Availability: Data used in this study are available from commercial sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: G1; K22; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0304",
+      "url": "https://doi.org/10.2308/tar-2023-0304"
+    },
+    {
+      "title": "National Audit Oversight and Foreign Investment",
+      "authors": "James J. Blann, Phillip T. Lamoreaux, Beverly J. Larson",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public audit oversight bodies have become ubiquitous following the establishment of the U.S. PCAOB in 2002. However, despite their cost and prominence, little is known of their economic implications, if any. We examine the relation between establishment of public audit oversight bodies (POBs) and cross-border investment. Using a difference-in-differences design, we find that after a country establishes a POB, the country attracts more foreign capital. Our results suggest that total foreign portfolio investment (FPI) increases by approximately $11 billion for the average country that establishes a POB. The impact of POBs on foreign investment is dependent on the effectiveness of the POB in improving audit quality and the strength of a country’s existing institutional environment. Our study provides evidence of real economic effects of public audit oversight around the world, which adds to the literature on auditor oversight and to the broader literature on economic consequences of regulation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42; M48; F21; L51; G15; G18.</jats:p>",
+      "doi": "10.2308/tar-2024-0320",
+      "url": "https://doi.org/10.2308/tar-2024-0320"
     },
     {
       "title": "A Theory of Redistribution and Public Good Provision under Nondemocracy",
