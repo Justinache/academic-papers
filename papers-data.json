@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-06T08:56:58.440Z",
-  "count": 500,
+  "lastUpdated": "2026-11-07T08:19:34.534Z",
+  "count": 498,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -3458,7 +3458,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-07-29",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how investing in venture capital (VC) affects the entrepreneurial outcomes of individual limited partners (LPs). Using comprehensive administrative data on entrepreneurial activities and VC fundraising and investments in China, we find that after investing in a successfully launched VC fund, individual LPs create significantly more ventures than do LPs in funds that failed to launch. These new ventures tend to be high-tech firms with better employment outcomes and more patent activity. Our results suggest that venture investments are a channel through which individual LPs learn. (JEL D83, G23, G24, L25, L26)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how investing in venture capital (VC) affects the entrepreneurial outcomes of individual limited partners (LPs). Using comprehensive administrative data on entrepreneurial activities and VC fundraising and investments in China, we find that after investing in a successfully launched VC fund, individual LPs create significantly more ventures than do LPs in funds that failed to launch. These new ventures tend to be high-tech firms with better employment outcomes and more patent activity. Our results suggest that venture investments are a channel through which individual LPs learn.</jats:p>",
       "doi": "10.1093/rfs/hhag069",
       "url": "https://doi.org/10.1093/rfs/hhag069"
     },
@@ -4981,26 +4981,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how macroeconomic expectations affect consumer decisions, using an experiment with 2,872 credit card customers at a large commercial bank. In the experiment, participants are randomized into receiving expert forecasts of inflation and the nominal exchange rate. We find that forecasts shift inflation and exchange rate expectations, but do not change spending or self-reported consumption plans as predicted by standard models of intertemporal choice. Results from a supplementary survey experiment suggest that consumers are sophisticated enough to anticipate nominal rigidities and reduce spending on durables for precautionary reasons, counteracting the effects predicted by standard models of intertemporal optimization.</jats:p>",
       "doi": "10.1093/rfs/hhaf079",
       "url": "https://doi.org/10.1093/rfs/hhaf079"
-    },
-    {
-      "title": "A Dynamic Model of the Racial Wealth Gap",
-      "authors": "Sylvain Catherine, Ellen Jiayang Lu, James D Paron",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-06",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>What explains wealth and portfolio differences between black and white Americans? We find that disparities in economic factors explain portfolios well, but only partly explain the wealth gap. In a dynamic setting, economic factors often change optimal saving rates in ways that offset their effects on income and returns. Consequently, their net wealth effect is often limited, making the wealth gap harder to explain. We estimate that differences in income levels, income risk, family structures, mortality, health expenditures, property taxes, mortgage rates, and asset returns explain half of the differential between the racial wealth gap and the racial income gap.</jats:p>",
-      "doi": "10.1093/rfs/hhag047",
-      "url": "https://doi.org/10.1093/rfs/hhag047"
-    },
-    {
-      "title": "Caution Ahead: Numerical Reasoning and Look‐Ahead Bias in AI Models",
-      "authors": "Bradford Levy",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-05-06",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Recent work within accounting and finance has highlighted that modern AI systems exhibit superhuman performance on a variety of foundational activities within these fields. However, the literature often does not provide economic rationale for\n                    <jats:italic>why</jats:italic>\n                    AI models seem to outperform, largely because these models are a black box. Through a series of experiments, I set out to open the black box and provide direct evidence on\n                    <jats:italic>how</jats:italic>\n                    and\n                    <jats:italic>why</jats:italic>\n                    AI models appear to perform so well on accounting and finance‐related tasks. I show that much of the superior performance of AI models can be attributed to artifacts of the modeling itself, rather than to mechanisms grounded in economics. Focusing on two key components of AI models, which may bias inferences in papers that rely on them, I first show that Large Language Model (LLMs) exhibit extremely poor numerical reasoning and thus application in these settings should proceed with caution. Second, I highlight that commercial LLMs suffer from significant look‐ahead bias, which may explain a large portion of their predictive ability in various settings.\n                  </jats:p>",
-      "doi": "10.1111/1475-679x.70058",
-      "url": "https://doi.org/10.1111/1475-679x.70058"
     }
   ]
 }
