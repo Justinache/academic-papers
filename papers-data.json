@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-07T08:19:34.534Z",
-  "count": 498,
+  "lastUpdated": "2026-11-08T08:34:06.405Z",
+  "count": 495,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -4951,36 +4951,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how capital supply from mutual funds affects municipal bond financing, making three key contributions. First, we introduce an identification strategy using the rule-based update of Morningstar ratings for 5-year-old funds, isolating supply-side effects from fund and issuer fundamentals. The results indicate that exogenous fund flows increase bond issuance probability and decrease yields. Second, these fund flows lead to more issuances when funds and issuers are connected through underwriters, highlighting relationship lending in municipal bond financing. Third, municipal issuers leverage favorable financing conditions for new issuance of revenue bonds, which translates into higher local house prices.</jats:p>",
       "doi": "10.1093/rfs/hhag048",
       "url": "https://doi.org/10.1093/rfs/hhag048"
-    },
-    {
-      "title": "Partisan Entrepreneurship",
-      "authors": "Joseph Engelberg, Jorge Guzman, Runjing Lu, William Mullins",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-08",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Republicans start more firms than Democrats. In a sample of 40 million party‐identified Americans between 2005 and 2017, we find that 5.5% of Republicans and 3.7% of Democrats become entrepreneurs. This partisan entrepreneurship gap is time‐varying—Republicans increase their relative entrepreneurship during Republican administrations and decrease it during Democratic administrations, amounting to a partisan reallocation of 170,000 new firms over our 13‐year sample. We find sharp changes in partisan entrepreneurship around the elections of President Obama and President Trump, with the strongest effects among the most politically active partisans: those that donate and vote.</jats:p>",
-      "doi": "10.1111/jofi.70042",
-      "url": "https://doi.org/10.1111/jofi.70042"
-    },
-    {
-      "title": "Learning in the Limit: Income Inference from Credit Extensions",
-      "authors": "Xiao Yin",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-07",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Combining a randomized controlled trial with administrative and survey data, this paper shows that credit limit extensions significantly increase total spending and income expectations. By controlling for changes in personal income expectations, the spending response to credit limit extensions weakens by approximately 30%. For financially unconstrained consumers, expectation changes account for around two‐thirds of the spending responses to limit extensions. These findings are consistent with consumers inferring future income from credit supply.</jats:p>",
-      "doi": "10.1111/jofi.70040",
-      "url": "https://doi.org/10.1111/jofi.70040"
-    },
-    {
-      "title": "Macroeconomic Expectations and Credit Card Spending",
-      "authors": "Mikhail Galashin, Martin Kanz, Ricardo Perez-Truglia",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-07",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how macroeconomic expectations affect consumer decisions, using an experiment with 2,872 credit card customers at a large commercial bank. In the experiment, participants are randomized into receiving expert forecasts of inflation and the nominal exchange rate. We find that forecasts shift inflation and exchange rate expectations, but do not change spending or self-reported consumption plans as predicted by standard models of intertemporal choice. Results from a supplementary survey experiment suggest that consumers are sophisticated enough to anticipate nominal rigidities and reduce spending on durables for precautionary reasons, counteracting the effects predicted by standard models of intertemporal optimization.</jats:p>",
-      "doi": "10.1093/rfs/hhaf079",
-      "url": "https://doi.org/10.1093/rfs/hhaf079"
     }
   ]
 }
