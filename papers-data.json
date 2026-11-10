@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T09:04:30.505Z",
-  "count": 495,
+  "lastUpdated": "2026-11-10T09:12:14.981Z",
+  "count": 494,
   "papers": [
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -4941,16 +4941,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We assemble and describe a sample of 174,782 lawsuits filed against 218,437 public‐company lawsuit‐defendants in federal district court from 2006 to 2021. These lawsuits involve an array of allegations, including product liability, civil rights discrimination, contract breaches, improper compensation and labor practices, antitrust violations, corruption, securities violations, pollution, and intellectual property infringement. The sample exhibits rich variation across firms, industries, time, suit type, plaintiffs, and outcomes—reflecting not only firm activities but also social, political, and regulatory trends. Although many claims matter very little, some are important individually or in aggregate. We observe 23% of defendants experience a market value decline exceeding 10% of current assets around the lawsuit filing. Consistent with the notion that even low‐stakes claims, when numerous or persistent, can introduce frictions or reflect underlying issues, we find that aggregate legal exposure is associated with increased return volatility and decreased profitability. Subsequent tests indicate that materiality, public and private enforcement, and firms’ information environments (as well as other firm traits) are associated with managers’ decisions to disclose these claims. Collectively, our descriptive evidence establishes a foundation for further research into underexplored types of corporate litigation that represent a broad range of alleged wrongdoing and socially irresponsible behavior.</jats:p>",
       "doi": "10.1111/1475-679x.70071",
       "url": "https://doi.org/10.1111/1475-679x.70071"
-    },
-    {
-      "title": "Mutual Fund Flows and the Supply of Capital in Municipal Financing",
-      "authors": "Manuel Adelino, Sophia Chiyoung Cheong, Jaewon Choi, Ji Yeol Jimmy Oh",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-09",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates how capital supply from mutual funds affects municipal bond financing, making three key contributions. First, we introduce an identification strategy using the rule-based update of Morningstar ratings for 5-year-old funds, isolating supply-side effects from fund and issuer fundamentals. The results indicate that exogenous fund flows increase bond issuance probability and decrease yields. Second, these fund flows lead to more issuances when funds and issuers are connected through underwriters, highlighting relationship lending in municipal bond financing. Third, municipal issuers leverage favorable financing conditions for new issuance of revenue bonds, which translates into higher local house prices.</jats:p>",
-      "doi": "10.1093/rfs/hhag048",
-      "url": "https://doi.org/10.1093/rfs/hhag048"
     }
   ]
 }
