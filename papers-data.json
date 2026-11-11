@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-11-10T09:12:14.981Z",
-  "count": 494,
+  "lastUpdated": "2026-11-11T08:51:38.938Z",
+  "count": 495,
   "papers": [
+    {
+      "title": "The role of financial markets in the unraveling of credit",
+      "authors": "Elena Asparouhova, Peter Bossaerts, Anh Tran",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2027-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104400",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104400"
+    },
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
       "authors": "Seongjin Park, Arkodipta Sarkar, Nishant Vats",
@@ -91,6 +101,26 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104405",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104405"
+    },
+    {
+      "title": "Private debt versus bank debt in corporate borrowing",
+      "authors": "Sharjil Haque, Simon Mayer, Irina Stefanescu",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2026-12-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104401",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
+    },
+    {
+      "title": "Presidential Address: Human Finance: Incorporating Insights from the Life Sciences",
+      "authors": "Ulrike Malmendier",
+      "journal": "Journal of Finance",
+      "field": "Finance",
+      "date": "2026-11-09",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Many of the key determinants of human behavior identified in the life sciences, such as stress response, impulse control, and mood regulation, remain absent from standard economic and finance models. This paper illustrates how such insights can enhance economic models in the context of inflation expectations. Combining a retrospective survey that elicits personal inflation histories with an experimental intervention that induces the reexperiencing of historic inflation, I show that physiological, emotional, and cognitive stress markers predict heightened inflation expectations and sharper memory recall, while also shaping personal economic narratives. These findings suggest novel policy tools to counter the persistent scars of economic distress and crisis experiences, for example, by designing experiences to provide predictability and control.</jats:p>",
+      "doi": "10.1111/jofi.70096",
+      "url": "https://doi.org/10.1111/jofi.70096"
     },
     {
       "title": "Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data",
@@ -4903,26 +4933,6 @@
       "url": "https://doi.org/10.1093/rfs/hhag050"
     },
     {
-      "title": "Praying for Rain",
-      "authors": "José-Antonio Espín-Sánchez, Salvador Gil-Guirado, Nicholas Ryan",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-05-11",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study rainmaking as an instrumental religious belief. We present a model in which a religious leader tries to persuade people to believe. Praying for rain can persuade only where the hazard of rainfall during a dry spell is increasing over time, so that prayer is most likely to succeed when people most want rain. We present evidence from prayers for rain in Murcia, Spain, where the hazard rate is increasing, that the church’s prayers for rain predict rainfall over two centuries. To generalize this finding, we gather an original data set of whether ethnic groups around the world traditionally prayed for rain. We find that ethnic groups facing an increasing rainfall hazard are 47% more likely to pray for rain, consistent with our model’s prediction that societies are more likely to pray for rain where prayer is persuasive.</jats:p>",
-      "doi": "10.1093/qje/qjag026",
-      "url": "https://doi.org/10.1093/qje/qjag026"
-    },
-    {
-      "title": "Risk‐Free Rates and Convenience Yields around the World",
-      "authors": "William Diamond, Peter Van Tassel",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-11",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We infer risk‐free rates from index option prices to estimate safe asset convenience yields in 10 G11 currencies. Countries' convenience yields increase with the level of their interest rates, with U.S. convenience yields fifth largest. During financial crises, convenience yields grow, but the difference between United States and foreign convenience yields generally does not. Covered interest parity (CIP) deviations using our option‐implied rates are a similar size between the United States and each other country. A model in which convenience yields depend on domestic financial intermediaries, but CIP deviations reflect the funding costs of international arbitrageurs financed with dollar‐denominated debt, explains these results.</jats:p>",
-      "doi": "10.1111/jofi.70045",
-      "url": "https://doi.org/10.1111/jofi.70045"
-    },
-    {
       "title": "The Equilibrium Effects of Eviction Policies",
       "authors": "Boaz Abramson",
       "journal": "Journal of Finance",
@@ -4933,14 +4943,14 @@
       "url": "https://doi.org/10.1111/jofi.70046"
     },
     {
-      "title": "Incidence, Risk, and Disclosure of Corporate Litigation: Insights from Federal Court Filings",
-      "authors": "Mary Brooke Billings, Robert W. Holthausen, Christine Petrovits, Danye Wang",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
+      "title": "Risk‐Free Rates and Convenience Yields around the World",
+      "authors": "William Diamond, Peter Van Tassel",
+      "journal": "Journal of Finance",
+      "field": "Finance",
       "date": "2026-05-11",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We assemble and describe a sample of 174,782 lawsuits filed against 218,437 public‐company lawsuit‐defendants in federal district court from 2006 to 2021. These lawsuits involve an array of allegations, including product liability, civil rights discrimination, contract breaches, improper compensation and labor practices, antitrust violations, corruption, securities violations, pollution, and intellectual property infringement. The sample exhibits rich variation across firms, industries, time, suit type, plaintiffs, and outcomes—reflecting not only firm activities but also social, political, and regulatory trends. Although many claims matter very little, some are important individually or in aggregate. We observe 23% of defendants experience a market value decline exceeding 10% of current assets around the lawsuit filing. Consistent with the notion that even low‐stakes claims, when numerous or persistent, can introduce frictions or reflect underlying issues, we find that aggregate legal exposure is associated with increased return volatility and decreased profitability. Subsequent tests indicate that materiality, public and private enforcement, and firms’ information environments (as well as other firm traits) are associated with managers’ decisions to disclose these claims. Collectively, our descriptive evidence establishes a foundation for further research into underexplored types of corporate litigation that represent a broad range of alleged wrongdoing and socially irresponsible behavior.</jats:p>",
-      "doi": "10.1111/1475-679x.70071",
-      "url": "https://doi.org/10.1111/1475-679x.70071"
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We infer risk‐free rates from index option prices to estimate safe asset convenience yields in 10 G11 currencies. Countries' convenience yields increase with the level of their interest rates, with U.S. convenience yields fifth largest. During financial crises, convenience yields grow, but the difference between United States and foreign convenience yields generally does not. Covered interest parity (CIP) deviations using our option‐implied rates are a similar size between the United States and each other country. A model in which convenience yields depend on domestic financial intermediaries, but CIP deviations reflect the funding costs of international arbitrageurs financed with dollar‐denominated debt, explains these results.</jats:p>",
+      "doi": "10.1111/jofi.70045",
+      "url": "https://doi.org/10.1111/jofi.70045"
     }
   ]
 }
