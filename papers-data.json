@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-11T08:51:38.938Z",
-  "count": 495,
+  "lastUpdated": "2026-11-12T09:17:37.925Z",
+  "count": 496,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -111,6 +111,56 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104401",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
+    },
+    {
+      "title": "Collusion through Common Leadership",
+      "authors": "Alejandro Herrera-Caicedo, Jessica Jeffers, Elena Prager",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-11",
+      "abstract": "",
+      "doi": "10.1086/743900",
+      "url": "https://doi.org/10.1086/743900"
+    },
+    {
+      "title": "Beliefs and the Incentive Effects of Preferential College Admissions: Evidence from an Experiment and a Structural Model",
+      "authors": "Michela Maria Tincani, Fabian Kosse, Enrico Miglino",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-11",
+      "abstract": "",
+      "doi": "10.1086/744916",
+      "url": "https://doi.org/10.1086/744916"
+    },
+    {
+      "title": "Two-Sided Search in International Markets",
+      "authors": "Jonathan Eaton, David Jinkins, James Tybout, Daniel Yi Xu",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-11",
+      "abstract": "",
+      "doi": "10.1086/744914",
+      "url": "https://doi.org/10.1086/744914"
+    },
+    {
+      "title": "Channeled Attention and Stable Errors",
+      "authors": "Tristan Gagnon-Bartsch, Matthew Rabin, Joshua Schwartzstein",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-11-10",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>People persist in mistaken beliefs even in settings with high stakes, abundant data, and repeated opportunities to learn—settings where standard arguments imply they should correct their errors. We develop an attention-based framework for understanding why errors persist. When a person channels his attention through the lens of his potentially misspecified model, exposure to data is not the same as tracking the statistics necessary to tell him his model is wrong. A model is attentionally stable when the data the person deems relevant will, in the long run, fail to make the model look implausible. Models that erroneously rule things out—e.g., beliefs that a variable doesn’t matter or that a distinction doesn’t exist—tend to be attentionally stable because they divert attention away from data that would refute the models. Conversely, models that erroneously rule things in are less likely to be stable. Whether an error is discovered depends on the structure of the decision problem but is not tightly linked to its level of harm; arbitrarily costly errors can persist while trivially inexpensive ones may be detected. Nevertheless, no error is robust both to changes in the decision environment and to shocks that expand attention: every channeled-attention error is vulnerable to some perturbation that would reveal it. We use the framework to analyze the stability of psychological biases and empirical misconceptions, as well as to explain why fresh eyes catch mistakes, why people use overly coarse rather than overly fine categorizations, and why people recognize errors in others that they miss in themselves.</jats:p>",
+      "doi": "10.1093/qje/qjag055",
+      "url": "https://doi.org/10.1093/qje/qjag055"
+    },
+    {
+      "title": "When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets",
+      "authors": "Parinitha Sastry, Ishita Sen, Ana-Maria Tenekedjieva",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-11-10",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper uses a range of natural experiments to show how mispricing of climate risk in mortgages and property insurance creates large taxpayer exposures and leads to excess credit flows to risky areas. Our central finding is that the government-sponsored enterprises’ (GSEs) policies for evaluating property insurers are a crucial source of this mispricing. We assemble a comprehensive new dataset on both mortgages and insurance to analyze these dynamics in Florida from 2009-2018. We begin by documenting a breakdown in the quality of insurance provision, with new under-capitalized and under-diversified insurers dominating insurance markets. These fragile insurers have high rates of insolvency, which we show causally increases mortgage defaults after natural disasters. We find that the GSEs’ reliance on third-party ratings of insurers leads them to accept insurance from companies at high risk of insolvency without pricing for it. This creates large taxpayer exposures, with an estimated 25% of the GSEs’ expected losses in Florida coming from insurance fragility. Most starkly, we show that private lenders strategically respond to the GSE mispricing. Mortgage denial rates are sensitive to insurance quality in the jumbo segment where loans are retained, but not in the conforming segment where loans are offloaded to the GSEs. This suggests that, all else equal, fewer conforming mortgages would have been originated if lenders screened insurance fragility as they do in jumbos.</jats:p>",
+      "doi": "10.1093/qje/qjag053",
+      "url": "https://doi.org/10.1093/qje/qjag053"
     },
     {
       "title": "Presidential Address: Human Finance: Incorporating Insights from the Life Sciences",
@@ -688,7 +738,7 @@
       "journal": "Review of Financial Studies",
       "field": "Finance",
       "date": "2026-10-28",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment. (JEL G1, G2)</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment.</jats:p>",
       "doi": "10.1093/rfs/hhag094",
       "url": "https://doi.org/10.1093/rfs/hhag094"
     },
@@ -2581,16 +2631,6 @@
       "abstract": "",
       "doi": "10.1086/743901",
       "url": "https://doi.org/10.1086/743901"
-    },
-    {
-      "title": "Collusion through Common Leadership",
-      "authors": "Alejandro Herrera-Caicedo, Jessica Jeffers, Elena Prager",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-31",
-      "abstract": "",
-      "doi": "10.1086/743900",
-      "url": "https://doi.org/10.1086/743900"
     },
     {
       "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
@@ -4883,14 +4923,14 @@
       "url": "https://doi.org/10.1093/rfs/hhag024"
     },
     {
-      "title": "Public Services Under Private Management",
-      "authors": "Maíra Coube, Luiz Felipe Fontes, Rudi Rocha",
+      "title": "International Reserve Management Under Rollover Crises",
+      "authors": "Mauricio Barbosa-Alves, Javier Bianchi, César Sosa-Padilla",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.</jats:p>",
-      "doi": "10.1093/qje/qjag028",
-      "url": "https://doi.org/10.1093/qje/qjag028"
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.</jats:p>",
+      "doi": "10.1093/qje/qjag025",
+      "url": "https://doi.org/10.1093/qje/qjag025"
     },
     {
       "title": "The Power of Proximity to Coworkers",
@@ -4903,24 +4943,14 @@
       "url": "https://doi.org/10.1093/qje/qjag027"
     },
     {
-      "title": "International Reserve Management Under Rollover Crises",
-      "authors": "Mauricio Barbosa-Alves, Javier Bianchi, César Sosa-Padilla",
+      "title": "Public Services Under Private Management",
+      "authors": "Maíra Coube, Luiz Felipe Fontes, Rudi Rocha",
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.</jats:p>",
-      "doi": "10.1093/qje/qjag025",
-      "url": "https://doi.org/10.1093/qje/qjag025"
-    },
-    {
-      "title": "Revenue Recognition Comparability and Analysts’ Disclosure Processing Costs",
-      "authors": "Andrea Tillet",
-      "journal": "Journal of Accounting Research",
-      "field": "Accounting",
-      "date": "2026-05-12",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I examine whether the FASB's revenue recognition guidance under ASC 606 influences revenue comparability across firms and industries and whether revenue comparability reduces analysts’ disclosure processing costs. I extract firms’ revenue policy disclosures from 10‐K filings to measure their textual similarity and compare revenue policies across firms and industries. I find an increase in revenue comparability for firms in different industries with similar revenue‐generating transactions upon adoption of ASC 606. In contrast, I find a decrease in revenue comparability for firms in the same industry with similar revenue‐generating transactions. Further, though I find that analysts are more likely to forecast revenues when firms have higher revenue comparability, this benefit of revenue comparability is less pronounced under ASC 606. This finding suggests the ASC 606‐related changes to revenue comparability impose disclosure processing costs on analysts.</jats:p>",
-      "doi": "10.1111/1475-679x.70068",
-      "url": "https://doi.org/10.1111/1475-679x.70068"
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.</jats:p>",
+      "doi": "10.1093/qje/qjag028",
+      "url": "https://doi.org/10.1093/qje/qjag028"
     },
     {
       "title": "Generative AI and Asset Management",
@@ -4931,26 +4961,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a novel measure of investment companies’ reliance on generative artificial intelligence (GenAI), we document a sharp increase in GenAI usage by hedge funds after ChatGPT’s 2022 launch. A difference-in-differences test shows that hedge funds adopting GenAI earn 2-4% higher annualized abnormal returns than nonadopters, while non-hedge funds do not benefit. The outperformance originates from funds’ AI talent and ChatGPT’s strength in analyzing firm-specific information. We conduct a new survey of fund managers’ GenAI usage to provide direct validation of our measure and offer additional new insights on how managers adopt GenAI tools in their practice.</jats:p>",
       "doi": "10.1093/rfs/hhag050",
       "url": "https://doi.org/10.1093/rfs/hhag050"
-    },
-    {
-      "title": "The Equilibrium Effects of Eviction Policies",
-      "authors": "Boaz Abramson",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-11",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I propose a dynamic equilibrium model of rental markets that endogenously gives rise to defaults on rents and evictions. In the model, eviction protections make it harder to evict delinquent renters, but higher default costs to landlords increase equilibrium rents. I quantify the model using micro data on evictions, rents, and homelessness. I find that stronger eviction protections exacerbate housing insecurity and lower welfare. The key empirical driver of this result is the persistent nature of risk underlying rent delinquencies. Rental assistance reduces housing insecurity and improves welfare because it lowers the likelihood that renters default ex ante.</jats:p>",
-      "doi": "10.1111/jofi.70046",
-      "url": "https://doi.org/10.1111/jofi.70046"
-    },
-    {
-      "title": "Risk‐Free Rates and Convenience Yields around the World",
-      "authors": "William Diamond, Peter Van Tassel",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-11",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We infer risk‐free rates from index option prices to estimate safe asset convenience yields in 10 G11 currencies. Countries' convenience yields increase with the level of their interest rates, with U.S. convenience yields fifth largest. During financial crises, convenience yields grow, but the difference between United States and foreign convenience yields generally does not. Covered interest parity (CIP) deviations using our option‐implied rates are a similar size between the United States and each other country. A model in which convenience yields depend on domestic financial intermediaries, but CIP deviations reflect the funding costs of international arbitrageurs financed with dollar‐denominated debt, explains these results.</jats:p>",
-      "doi": "10.1111/jofi.70045",
-      "url": "https://doi.org/10.1111/jofi.70045"
     }
   ]
 }
