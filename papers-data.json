@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-12T09:17:37.925Z",
-  "count": 496,
+  "lastUpdated": "2026-11-13T09:06:44.940Z",
+  "count": 493,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -111,6 +111,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104401",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
+    },
+    {
+      "title": "The Horizon of Investors’ Information and Corporate Investment",
+      "authors": "Olivier Dessaint, Thierry Foucault, Laurent Frésard",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-11-12",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The quality of investors’ information across different horizons has real effects. When managers care about the effect of investment on their stock price, a decline in the informativeness of investors’ signals about long-term cash flows leads firms with long-term projects to cut investment more than firms with short-term projects. Using a novel, hand-collected measure of project horizons, we confirm this hypothesis: relative to firms with short-term projects, the investment of firms with long-term projects decreases by 3.7% following a 1-standard-deviation drop in the quality of investors’ long-term information. This effect becomes larger when managers prioritize current stock prices. (JEL D84, G14, G17, M41).</jats:p>",
+      "doi": "10.1093/rfs/hhag097",
+      "url": "https://doi.org/10.1093/rfs/hhag097"
     },
     {
       "title": "Collusion through Common Leadership",
@@ -4921,46 +4931,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze optimal cross-country risk sharing and bank capital requirements amid collective moral hazard by governments and banks. Transfers provide insurance but weaken fiscal discipline. Since lenient fiscal policies amplify banks’ risk-shifting, optimal support must be contingent on banking system health. For fiscally weak countries, support is larger in sovereign crises with solvent banks. For fiscally strong countries, support is larger in joint sovereign and bank crises, requiring deposit insurance mutualization. Optimal contracts feature lower capital requirements than without cross-country transfers, raising the cost of joint sovereign and bank crises to strengthen fiscal discipline and enable greater risk sharing.</jats:p>",
       "doi": "10.1093/rfs/hhag024",
       "url": "https://doi.org/10.1093/rfs/hhag024"
-    },
-    {
-      "title": "International Reserve Management Under Rollover Crises",
-      "authors": "Mauricio Barbosa-Alves, Javier Bianchi, César Sosa-Padilla",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.</jats:p>",
-      "doi": "10.1093/qje/qjag025",
-      "url": "https://doi.org/10.1093/qje/qjag025"
-    },
-    {
-      "title": "The Power of Proximity to Coworkers",
-      "authors": "Natalia Emanuel, Emma Harrington, Amanda Pallais",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: the office closures in 2020 and the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a trade-off: experienced engineers write less code when sitting near teammates. In national U.S. data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022–2024) compared to pre-pandemic (2017–2019), a pattern we do not observe in non-remotable jobs.</jats:p>",
-      "doi": "10.1093/qje/qjag027",
-      "url": "https://doi.org/10.1093/qje/qjag027"
-    },
-    {
-      "title": "Public Services Under Private Management",
-      "authors": "Maíra Coube, Luiz Felipe Fontes, Rudi Rocha",
-      "journal": "Quarterly Journal of Economics",
-      "field": "Economics",
-      "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.</jats:p>",
-      "doi": "10.1093/qje/qjag028",
-      "url": "https://doi.org/10.1093/qje/qjag028"
-    },
-    {
-      "title": "Generative AI and Asset Management",
-      "authors": "Jinfei Sheng, Zheng Sun, Baozhong Yang, Alan L Zhang",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-12",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using a novel measure of investment companies’ reliance on generative artificial intelligence (GenAI), we document a sharp increase in GenAI usage by hedge funds after ChatGPT’s 2022 launch. A difference-in-differences test shows that hedge funds adopting GenAI earn 2-4% higher annualized abnormal returns than nonadopters, while non-hedge funds do not benefit. The outperformance originates from funds’ AI talent and ChatGPT’s strength in analyzing firm-specific information. We conduct a new survey of fund managers’ GenAI usage to provide direct validation of our measure and offer additional new insights on how managers adopt GenAI tools in their practice.</jats:p>",
-      "doi": "10.1093/rfs/hhag050",
-      "url": "https://doi.org/10.1093/rfs/hhag050"
     }
   ]
 }
