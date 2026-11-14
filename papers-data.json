@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-13T09:06:44.940Z",
-  "count": 493,
+  "lastUpdated": "2026-11-14T08:34:42.868Z",
+  "count": 494,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -113,6 +113,26 @@
       "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
     },
     {
+      "title": "The Welfare Effects of Price Shocks and Household Relief Packages: Evidence from an Energy Crisis",
+      "authors": "Peter Levell, Martin O'Connell, Kate Smith",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-13",
+      "abstract": "",
+      "doi": "10.1086/744933",
+      "url": "https://doi.org/10.1086/744933"
+    },
+    {
+      "title": "Noisy Global Value Chains",
+      "authors": "Ha Bui, Zhen Huo, Andrei Levchenko, Nitya Pandalai-Nayar",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-13",
+      "abstract": "",
+      "doi": "10.1086/744936",
+      "url": "https://doi.org/10.1086/744936"
+    },
+    {
       "title": "The Horizon of Investors’ Information and Corporate Investment",
       "authors": "Olivier Dessaint, Thierry Foucault, Laurent Frésard",
       "journal": "Review of Financial Studies",
@@ -151,6 +171,16 @@
       "abstract": "",
       "doi": "10.1086/744914",
       "url": "https://doi.org/10.1086/744914"
+    },
+    {
+      "title": "Labor Market Tightness and the Reversal of Inequality Trends in Germany",
+      "authors": "Christian Dustmann, Martin Friedrich, Carl Gergs, Uta Schönberg",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-11-11",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Germany experienced a sharp rise in wage inequality over the two decades leading up to the Great Recession. However, a remarkable trend reversal occurred in 2010—well before the introduction of the minimum wage in 2015—when wages at the bottom of the distribution began to grow more rapidly than those higher up. This paper attributes the reversal to an increasingly tight labor market after the Great Recession, supported by strong domestic demand, and operating through several interrelated and mutually reinforcing channels. Consistent with this hypothesis, job-to-job transition rates and between-job wage growth rose markedly after the recession, especially for workers at the lower rungs of the job ladder. Concurrently, workers increasingly moved from low-paying to higher-paying firms, compressing the worker-weighted distribution of firm wage premia. Tighter labor markets also reduced assortative matching between workers and firms, lowered the skill premium, and weakened firms’ monopsony power.</jats:p>",
+      "doi": "10.1093/qje/qjag057",
+      "url": "https://doi.org/10.1093/qje/qjag057"
     },
     {
       "title": "Channeled Attention and Stable Errors",
@@ -691,6 +721,26 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Public audit oversight bodies have become ubiquitous following the establishment of the U.S. PCAOB in 2002. However, despite their cost and prominence, little is known of their economic implications, if any. We examine the relation between establishment of public audit oversight bodies (POBs) and cross-border investment. Using a difference-in-differences design, we find that after a country establishes a POB, the country attracts more foreign capital. Our results suggest that total foreign portfolio investment (FPI) increases by approximately $11 billion for the average country that establishes a POB. The impact of POBs on foreign investment is dependent on the effectiveness of the POB in improving audit quality and the strength of a country’s existing institutional environment. Our study provides evidence of real economic effects of public audit oversight around the world, which adds to the literature on auditor oversight and to the broader literature on economic consequences of regulation.</jats:p>\n                  <jats:p>Data Availability: Data are available from the public sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: M42; M48; F21; L51; G15; G18.</jats:p>",
       "doi": "10.2308/tar-2024-0320",
       "url": "https://doi.org/10.2308/tar-2024-0320"
+    },
+    {
+      "title": "Does Free Speech Law Contribute to Corporate Social Responsibility Behavior? Empirical Evidence",
+      "authors": "Paul A. Griffin, Hyun Hong, Boochun Jung, S. Katie Moon, Jiwoo Ryou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>People’s right to free speech can have profound effects on how firms discharge their social and environmental responsibilities. We examine these effects by analyzing the impact of the staggered enactment of anti-SLAPP free speech laws across U.S. states on firms’ corporate social responsibility (CSR) behavior. We theorize that, following the enactment of anti-SLAPP laws, firms enhance their CSR activities as an economically effective means to counter negative publicity from stakeholders. Supporting this idea, we find that firm CSR activity increases after the enactment of anti-SLAPP laws, accompanied by an increase in stakeholder criticism of firms’ social and environmental practices. Further, we observe an increase in the level of CSR disclosure. The link between anti-SLAPP law enactment and subsequent CSR engagement is stronger in states with more comprehensive anti-SLAPP protections than in those with weaker protections.</jats:p>\n                  <jats:p>Data Availability: From public sources identified in the study. Some may require a subscription.</jats:p>\n                  <jats:p>JEL Classifications: A13; D80; K15; K22; L21; M14; O32.</jats:p>",
+      "doi": "10.2308/tar-2023-0659",
+      "url": "https://doi.org/10.2308/tar-2023-0659"
+    },
+    {
+      "title": "Private Firm Disclosures and Public Firms' Debt Choice",
+      "authors": "Fengqin Chen, Jeffrey Pittman, Walid Saffar",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Analyzing a cross-country sample, we provide evidence implying that private firm disclosure transparency narrows information asymmetry, which, in turn, lowers public firms' reliance on bank debt. Channel tests help substantiate that private firm disclosure elicits this positive externality, evident in lower monitoring demand, lower borrowing costs, and higher credit rating quality. Cross-sectional results suggest that the impact of private firm transparency is larger when public firms suffer worse information opacity, private firm disclosures are more important to their public peers, and bond markets are more developed. In relying on the staggered implementation of electronic business registers as a plausibly exogenous shock and a simulated disclosure scope as the instrumental variable, we continue to find that private firm disclosures reduce public firms' bank debt reliance, helping to alleviate endogeneity threats.</jats:p>\n                  <jats:p>Data Availability Statement: The data used in this study are obtained from publicly available sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G32; G21; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0646",
+      "url": "https://doi.org/10.2308/tar-2024-0646"
     },
     {
       "title": "A Theory of Redistribution and Public Good Provision under Nondemocracy",
@@ -1563,16 +1613,6 @@
       "url": "https://doi.org/10.2308/tar-2025-0361"
     },
     {
-      "title": "Does Free Speech Law Contribute to Corporate Social Responsibility Behavior? Empirical Evidence",
-      "authors": "Paul A. Griffin, Hyun Hong, Boochun Jung, S. Katie Moon, Jiwoo Ryou",
-      "journal": "The Accounting Review",
-      "field": "Accounting",
-      "date": "2026-10-01",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>People’s right to free speech can have profound effects on how firms discharge their social and environmental responsibilities. We examine these effects by analyzing the impact of the staggered enactment of anti-SLAPP free speech laws across U.S. states on firms’ corporate social responsibility (CSR) behavior. We theorize that, following the enactment of anti-SLAPP laws, firms enhance their CSR activities as an economically effective means to counter negative publicity from stakeholders. Supporting this idea, we find that firm CSR activity increases after the enactment of anti-SLAPP laws, accompanied by an increase in stakeholder criticism of firms’ social and environmental practices. Further, we observe an increase in the level of CSR disclosure. The link between anti-SLAPP law enactment and subsequent CSR engagement is stronger in states with more comprehensive anti-SLAPP protections than in those with weaker protections.</jats:p>\n                  <jats:p>Data Availability: From public sources identified in the study. Some may require a subscription.</jats:p>\n                  <jats:p>JEL Classifications: A13; D80; K15; K22; L21; M14; O32.</jats:p>",
-      "doi": "10.2308/tar-2023-0659",
-      "url": "https://doi.org/10.2308/tar-2023-0659"
-    },
-    {
       "title": "Productivity versus Efficiency: The Effect of Incentive Focus on Target Setting in Participative Budgets",
       "authors": "Jake Andrassy, Jason L. Brown, Timothy Mallon, Ashley K. Sauciuc",
       "journal": "The Accounting Review",
@@ -1788,7 +1828,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-09-30",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their effect on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.</jats:p>",
       "doi": "10.1093/qje/qjag048",
       "url": "https://doi.org/10.1093/qje/qjag048"
     },
@@ -2038,7 +2078,7 @@
       "journal": "Quarterly Journal of Economics",
       "field": "Economics",
       "date": "2026-09-16",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure which economic topics are top of mind using quarterly German household and firm panels from 2020 to 2024, a period that spans the post-pandemic inflation surge and the subsequent disinflation. With these data, we study potential determinants and consequences of having inflation top of mind. In line with goal-directed attention, the likelihood that inflation is top of mind rises with proxies for its true payoff relevance. At the same time, prior experiences predict whether respondents have inflation and energy prices top of mind conditional on a large set of controls for payoff relevance, and this relationship strengthens when the environment becomes more inflationary. Having inflation top of mind predicts stronger increases in information acquisition and inflation expectations over the shock period. At odds with goal-optimality, having inflation top of mind is associated with expectations further away from multiple ex-ante benchmarks. Finally, both key determinants of having inflation top of mind—payoff relevance and prior experiences—are associated with stronger shifts of expectations away from these benchmarks over the shock period.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure which economic topics are top of mind using quarterly German household and firm panels from 2020 to 2024, a period that spans the post-pandemic inflation surge and the subsequent disinflation. With these data, we study potential determinants and consequences of having inflation top of mind. In line with goal-directed attention, the likelihood that inflation is top of mind rises with proxies for its true payoff relevance. At the same time, prior experiences predict whether respondents have inflation and energy prices top of mind conditional on a large set of controls for payoff relevance, and this relationship strengthens when the environment becomes more inflationary. Having inflation top of mind predicts stronger increases in information acquisition and inflation expectations over the shock period. At odds with goal optimality, having inflation top of mind is associated with expectations further away from multiple ex ante benchmarks. Finally, both key determinants of having inflation top of mind—payoff relevance and prior experiences—are associated with stronger shifts of expectations away from these benchmarks over the shock period.</jats:p>",
       "doi": "10.1093/qje/qjag047",
       "url": "https://doi.org/10.1093/qje/qjag047"
     },
@@ -4901,36 +4941,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using granular data covering both regulated (brokerage‐financed) and unregulated (shadow‐financed) margin accounts in China, we provide novel evidence on retail investors' margin trading behavior and its price implications. We first show that retail investors' decisions to lever up in stock trading despite the hefty borrowing cost is related to their lottery preferences. We then show that margin borrowing affects investors' trading behavior—investors are more likely to liquidate their holdings as they approach margin calls. Finally, we show that margin‐induced trading aggregates to affect asset prices and contributes to shock spillovers across stocks (e.g., from lottery stocks to nonlottery stocks).</jats:p>",
       "doi": "10.1111/jofi.70049",
       "url": "https://doi.org/10.1111/jofi.70049"
-    },
-    {
-      "title": "Firm-Level Labor Shortage Exposure",
-      "authors": "Jarrad Harford, Qiyang He, Buhui Qiu",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We extract information from earnings call transcripts to develop a comprehensive and reliable measure of labor shortage exposure. After validating the measure at the state, industry, and firm levels, we show that firms with labor shortage exposures experience lower earnings call CARs, future stock returns and operating performance. Firms respond to labor shortages by substituting labor with capital and R&amp;D investments, and by producing more production-process patents. Such responses help mitigate the negative effects on future performance. Our measure has broad applicability, and our findings provide new insight into labor-capital substitution in imperfectly competitive labor markets.</jats:p>",
-      "doi": "10.1093/rfs/hhag049",
-      "url": "https://doi.org/10.1093/rfs/hhag049"
-    },
-    {
-      "title": "Proud to Not Own Stocks: How Identity Shapes Financial Decisions",
-      "authors": "Luca Henkel, Christian Pugnaghi-Zimpelmann",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-14",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper introduces a key factor influencing households’ decision to invest in the stock market: how people view stockholders. Using surveys we conducted with nearly 8,500 individuals from 11 countries, we document that a large majority hold negative views of stockholders based on identity-relevant characteristics. Linking survey and administrative data, we find that negative perceptions strongly predict households’ stock market participation. We show that negative perceptions causally influence household decision-making and provide evidence supporting identity concerns as the underlying mechanism. Our findings provide new perspectives on the malleability of financial decision-making and a novel explanation for low stock market participation.</jats:p>",
-      "doi": "10.1093/rfs/hhag034",
-      "url": "https://doi.org/10.1093/rfs/hhag034"
-    },
-    {
-      "title": "Collective Moral Hazard, Risk Sharing, and Banking Unions",
-      "authors": "Anatoli Segura, Sergio Vicente",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-13",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We analyze optimal cross-country risk sharing and bank capital requirements amid collective moral hazard by governments and banks. Transfers provide insurance but weaken fiscal discipline. Since lenient fiscal policies amplify banks’ risk-shifting, optimal support must be contingent on banking system health. For fiscally weak countries, support is larger in sovereign crises with solvent banks. For fiscally strong countries, support is larger in joint sovereign and bank crises, requiring deposit insurance mutualization. Optimal contracts feature lower capital requirements than without cross-country transfers, raising the cost of joint sovereign and bank crises to strengthen fiscal discipline and enable greater risk sharing.</jats:p>",
-      "doi": "10.1093/rfs/hhag024",
-      "url": "https://doi.org/10.1093/rfs/hhag024"
     }
   ]
 }
