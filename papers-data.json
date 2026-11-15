@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-14T08:34:42.868Z",
-  "count": 494,
+  "lastUpdated": "2026-11-15T08:51:10.098Z",
+  "count": 497,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -11,6 +11,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104400",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104400"
+    },
+    {
+      "title": "Bond funds and credit risk",
+      "authors": "Jaewon Choi, Amil Dasgupta, Ji Yeol Jimmy Oh",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2027-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104396",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104396"
     },
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
@@ -133,6 +143,16 @@
       "url": "https://doi.org/10.1086/744936"
     },
     {
+      "title": "Climate Risk Disclosure and Risk Sharing in Financial Markets",
+      "authors": "Kevin Smith",
+      "journal": "Review of Financial Studies",
+      "field": "Finance",
+      "date": "2026-11-13",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In this paper, I model how climate risk disclosure impacts climate risk sharing among investors. I show that this disclosure can improve risk sharing by helping investors identify stocks that effectively hedge climate risk, and I analyze the disclosure’s impact on investors’ equilibrium portfolio choices. I then study firms’ voluntary disclosure incentives and analyze when disclosure mandates enhance risk sharing. Finally, I demonstrate that, by facilitating risk sharing, climate risk disclosure reduces the climate risk premium among stocks held by climate-focused investors. Hence, disclosure can lower the valuations of firms with low climate exposures and the overall market. (JEL: D82, D84, G12, G14)</jats:p>",
+      "doi": "10.1093/rfs/hhag009",
+      "url": "https://doi.org/10.1093/rfs/hhag009"
+    },
+    {
       "title": "The Horizon of Investors’ Information and Corporate Investment",
       "authors": "Olivier Dessaint, Thierry Foucault, Laurent Frésard",
       "journal": "Review of Financial Studies",
@@ -181,6 +201,16 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Germany experienced a sharp rise in wage inequality over the two decades leading up to the Great Recession. However, a remarkable trend reversal occurred in 2010—well before the introduction of the minimum wage in 2015—when wages at the bottom of the distribution began to grow more rapidly than those higher up. This paper attributes the reversal to an increasingly tight labor market after the Great Recession, supported by strong domestic demand, and operating through several interrelated and mutually reinforcing channels. Consistent with this hypothesis, job-to-job transition rates and between-job wage growth rose markedly after the recession, especially for workers at the lower rungs of the job ladder. Concurrently, workers increasingly moved from low-paying to higher-paying firms, compressing the worker-weighted distribution of firm wage premia. Tighter labor markets also reduced assortative matching between workers and firms, lowered the skill premium, and weakened firms’ monopsony power.</jats:p>",
       "doi": "10.1093/qje/qjag057",
       "url": "https://doi.org/10.1093/qje/qjag057"
+    },
+    {
+      "title": "The Role of Supply Chains in Climate Disclosure",
+      "authors": "Pietro Bonetti, Yang (Ellen) EN, Igor Kadach, Gaizka Ormazabal",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-11-11",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine the role of supply chains in shaping the public disclosure of climate information. We leverage a unique empirical setting enabled by CDP—the leading platform for corporate climate risk reporting—which allows customers to demand climate‐related information from their suppliers. Using a large international sample of customer–supplier pairs, we find a positive association between customers’ information demand and suppliers’ public disclosure on the CDP. While the estimated association is modest on average, it exhibits substantial cross‐sectional variation reflecting the disclosure incentives of both customers and suppliers as well as their relative bargaining power. We also find descriptive evidence consistent with one potential implication of the documented association for corporate decision‐making: shifts in supply network relationships toward greener and more transparent suppliers. Overall, our findings contribute to ongoing debates on how to foster climate disclosure.</jats:p>",
+      "doi": "10.1111/1475-679x.70096",
+      "url": "https://doi.org/10.1111/1475-679x.70096"
     },
     {
       "title": "Channeled Attention and Stable Errors",
@@ -1773,7 +1803,7 @@
       "url": "https://doi.org/10.2308/tar-2024-0063"
     },
     {
-      "title": "Diversification versus Consumption Motives for Early Exercise of Employee Stock Options",
+      "title": "Diversification versus consumption motives for early exercise of employee stock options",
       "authors": "Kevin J. Murphy, Marshall Vance",
       "journal": "Journal of Accounting and Economics",
       "field": "Accounting",
