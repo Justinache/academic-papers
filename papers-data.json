@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-15T08:51:10.098Z",
-  "count": 497,
+  "lastUpdated": "2026-11-16T08:59:40.719Z",
+  "count": 495,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -4951,26 +4951,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how digital disruption affects bank competition using the staggered rollout of 3G mobile networks. 3G expansion increased mobile banking adoption among tech‐savvy households, reducing branch networks—especially in younger counties. Banks' strategies diverged: Less branch‐reliant banks closed branches and competed on price, while more branch‐reliant banks maintained branches but raised spreads. A structural model shows that perceived digital service improvements among younger consumers drove these shifts, reducing welfare for older savers. Counterfactuals demonstrate that subsidizing adoption for older savers can cost‐effectively reduce these disparities, facilitating a smoother digital transition.</jats:p>",
       "doi": "10.1111/jofi.70051",
       "url": "https://doi.org/10.1111/jofi.70051"
-    },
-    {
-      "title": "Consumption in Asset Returns",
-      "authors": "Svetlana Bryzgalova, Jiantao Huang, Christian Julliard",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-15",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using information in returns, we identify the stochastic process of consumption. We find that aggregate consumption reacts over multiple quarters to innovations spanned by financial markets. This persistent component accounts for over a quarter of consumption variation. These shocks command a large and significant risk premium, driving a large share of stocks' and a small yet significant fraction of bonds' time‐series variation. Nevertheless, we find no support for stochastic volatility of consumption driving time‐varying risk premia. Finally, an otherwise standard recursive utility model based on our estimated process explains equity premium and risk‐free rate puzzles with low‐risk aversion.</jats:p>",
-      "doi": "10.1111/jofi.70044",
-      "url": "https://doi.org/10.1111/jofi.70044"
-    },
-    {
-      "title": "The Drivers and Implications of Retail Margin Trading",
-      "authors": "Jiangze Bian, Zhi Da, Zhiguo He, Dong Lou, Kelly Shue, Hao Zhou",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-15",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using granular data covering both regulated (brokerage‐financed) and unregulated (shadow‐financed) margin accounts in China, we provide novel evidence on retail investors' margin trading behavior and its price implications. We first show that retail investors' decisions to lever up in stock trading despite the hefty borrowing cost is related to their lottery preferences. We then show that margin borrowing affects investors' trading behavior—investors are more likely to liquidate their holdings as they approach margin calls. Finally, we show that margin‐induced trading aggregates to affect asset prices and contributes to shock spillovers across stocks (e.g., from lottery stocks to nonlottery stocks).</jats:p>",
-      "doi": "10.1111/jofi.70049",
-      "url": "https://doi.org/10.1111/jofi.70049"
     }
   ]
 }
