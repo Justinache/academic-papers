@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-16T08:59:40.719Z",
-  "count": 495,
+  "lastUpdated": "2026-11-17T10:09:47.760Z",
+  "count": 496,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -121,6 +121,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104401",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
+    },
+    {
+      "title": "Partisan Banks and Creditor Coordination Within Loan Syndicates",
+      "authors": "Robert M. Bushman, Sang Woo Sohn, Jianxin (Donny) Zhao",
+      "journal": "Journal of Accounting Research",
+      "field": "Accounting",
+      "date": "2026-11-16",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We investigate how firm‐level partisanship influences interactions between banks in the syndicated loan market. Because politically divergent banks hold conflicting perceptions of economic conditions, ideological distance between banks impedes consensus and elevates expected coordination costs. We find that greater political distance between a lead arranger and a participant reduces the participant's likelihood of joining a syndicate and lowers its retained loan share relative to the lead. The relation between political distance and loan share differences intensifies during periods of high national political polarization. Moreover, greater political diversity within a syndicate is associated with less restrictive loan covenants and higher interest spreads, reflecting a trade‐off where lenders sacrifice contingent control to avoid costly renegotiation gridlock. Validating our disagreement mechanism, we show that following presidential elections, banks politically misaligned with the incoming administration issue significantly more pessimistic macroeconomic forecasts than aligned banks.</jats:p>",
+      "doi": "10.1111/1475-679x.70097",
+      "url": "https://doi.org/10.1111/1475-679x.70097"
     },
     {
       "title": "The Welfare Effects of Price Shocks and Household Relief Packages: Evidence from an Energy Crisis",
