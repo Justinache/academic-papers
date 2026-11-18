@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T10:09:47.760Z",
-  "count": 496,
+  "lastUpdated": "2026-11-18T09:42:24.325Z",
+  "count": 495,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -4951,16 +4951,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper documents a new stylized fact: the cross‐sectional variation in CEO pay levels has declined precipitously in recent years. We offer one explanation for this decline, namely, firms are increasingly benchmarking CEO compensation to industry peers closest in size, thereby creating pay clusters. Our empirical tests provide support for this explanation and suggest that the rise of industry‐size benchmarking is driven by three institutional factors: the mandatory disclosure of compensation peer groups, proxy advisory influence, and say‐on‐pay regulation. Our findings highlight a consequence of adopting a one‐size‐fits‐all standard in the pay‐setting process.</jats:p>",
       "doi": "10.1111/jofi.70050",
       "url": "https://doi.org/10.1111/jofi.70050"
-    },
-    {
-      "title": "Bank Competition Amid Digital Disruption: Implications for Financial Inclusion",
-      "authors": "Erica Xuewei Jiang, Gloria Yang Yu, Jinyuan Zhang",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-17",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine how digital disruption affects bank competition using the staggered rollout of 3G mobile networks. 3G expansion increased mobile banking adoption among tech‐savvy households, reducing branch networks—especially in younger counties. Banks' strategies diverged: Less branch‐reliant banks closed branches and competed on price, while more branch‐reliant banks maintained branches but raised spreads. A structural model shows that perceived digital service improvements among younger consumers drove these shifts, reducing welfare for older savers. Counterfactuals demonstrate that subsidizing adoption for older savers can cost‐effectively reduce these disparities, facilitating a smoother digital transition.</jats:p>",
-      "doi": "10.1111/jofi.70051",
-      "url": "https://doi.org/10.1111/jofi.70051"
     }
   ]
 }
