@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T09:42:24.325Z",
+  "lastUpdated": "2026-11-19T09:51:04.492Z",
   "count": 495,
   "papers": [
     {
@@ -121,6 +121,16 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104401",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
+    },
+    {
+      "title": "Earnings Instability",
+      "authors": "Peter Ganong, Pascal Noel, Christina Patterson, Joseph Vavra, Alexander Weinberg",
+      "journal": "Quarterly Journal of Economics",
+      "field": "Economics",
+      "date": "2026-11-17",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper uses high-frequency administrative data to show that most U.S. workers experience substantial month-to-month fluctuations in pay, even within ongoing employment relationships. Monthly earnings instability is pervasive but is masked in annual data. Moreover, this instability is unequally distributed: lower-income, hourly workers face more instability than higher-income, salaried workers. Firm-driven fluctuations in hours account for a large share of this instability. Monthly earnings instability, in turn, increases spending volatility and job separations. Short-term earnings risk is therefore a significant feature of the labor market and falls disproportionately on the most financially fragile workers.</jats:p>",
+      "doi": "10.1093/qje/qjag059",
+      "url": "https://doi.org/10.1093/qje/qjag059"
     },
     {
       "title": "Partisan Banks and Creditor Coordination Within Loan Syndicates",
@@ -4941,16 +4951,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the asset allocation and investment performance of U.S. private foundations that support the charitable sector. Large foundations generated positive risk‐adjusted returns before 2008, driven by early access to private equity and venture capital funds, but have underperformed since. The median foundation underperforms by more than 100 bps. Foundations with concentrated stock holdings achieve higher returns but assume more risk. Due to the constraints imposed by the 5% minimum spending rule and accommodating monetary policy, foundations increase risk‐taking and reach for yield. Over time, a conservative asset allocation decreases real wealth, reducing charitable giving.</jats:p>",
       "doi": "10.1111/jofi.70055",
       "url": "https://doi.org/10.1111/jofi.70055"
-    },
-    {
-      "title": "Why Have CEO Pay Levels Become Less Diverse?",
-      "authors": "Torsten Jochem, Gaizka Ormazabal, Anjana Rajamani",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-19",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper documents a new stylized fact: the cross‐sectional variation in CEO pay levels has declined precipitously in recent years. We offer one explanation for this decline, namely, firms are increasingly benchmarking CEO compensation to industry peers closest in size, thereby creating pay clusters. Our empirical tests provide support for this explanation and suggest that the rise of industry‐size benchmarking is driven by three institutional factors: the mandatory disclosure of compensation peer groups, proxy advisory influence, and say‐on‐pay regulation. Our findings highlight a consequence of adopting a one‐size‐fits‐all standard in the pay‐setting process.</jats:p>",
-      "doi": "10.1111/jofi.70050",
-      "url": "https://doi.org/10.1111/jofi.70050"
     }
   ]
 }
