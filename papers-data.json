@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T09:51:04.492Z",
-  "count": 495,
+  "lastUpdated": "2026-11-20T09:39:27.726Z",
+  "count": 496,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -121,6 +121,56 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104401",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104401"
+    },
+    {
+      "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
+      "authors": "Thomas G. Wollmann",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-19",
+      "abstract": "",
+      "doi": "10.1086/743329",
+      "url": "https://doi.org/10.1086/743329"
+    },
+    {
+      "title": "Intermediate Input Prices and the Labor Share",
+      "authors": "Juanma Castro-Vincenzi, Benny Kleinman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-19",
+      "abstract": "",
+      "doi": "10.1086/745092",
+      "url": "https://doi.org/10.1086/745092"
+    },
+    {
+      "title": "Unemployment Benefits and Unemployment in the Great Recession: The Role of Equilibrium Effects",
+      "authors": "Marcus Hagedorn, Fatih Karahan, Iourii Manovskii, Kurt Mitman",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-19",
+      "abstract": "",
+      "doi": "10.1086/745090",
+      "url": "https://doi.org/10.1086/745090"
+    },
+    {
+      "title": "Market Response to Racial Uprisings",
+      "authors": "Bocar A. Ba, Roman Rivera, Alexander Whitefield",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-19",
+      "abstract": "",
+      "doi": "10.1086/745094",
+      "url": "https://doi.org/10.1086/745094"
+    },
+    {
+      "title": "The Long-Run Economic Effects of Medical Innovation and the Role of Opportunities",
+      "authors": "Sonia Bhalotra, Damian Clarke, Atheendar Venkataramani",
+      "journal": "Journal of Political Economy",
+      "field": "Economics",
+      "date": "2026-11-18",
+      "abstract": "",
+      "doi": "10.1086/743898",
+      "url": "https://doi.org/10.1086/743898"
     },
     {
       "title": "Earnings Instability",
@@ -2733,16 +2783,6 @@
       "url": "https://doi.org/10.1086/743901"
     },
     {
-      "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
-      "authors": "Sonia Bhalotra, Damian Clarke, Atheendar Venkataramani",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-08-31",
-      "abstract": "",
-      "doi": "10.1086/743898",
-      "url": "https://doi.org/10.1086/743898"
-    },
-    {
       "title": "Strategic Wishful Thinking: Implications for Forecasts",
       "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
       "journal": "Journal of Political Economy",
@@ -3431,16 +3471,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We examine commonly used indicators of aggressive non-GAAP exclusions and find that the majority perform poorly at identifying low-quality exclusions in terms of decision usefulness for investors. We propose a new firm-quarter-specific indicator that identifies instances in which GAAP earnings quality is high (i.e., when firms have less need to provide non-GAAP metrics) but managers disclose non-GAAP earnings anyway. Our new indicator is easy to calculate, requires minimal data, and performs far better at identifying low-quality exclusions than indicators used in prior research. Using our indicator, we find instances in which managers exclude earnings components that are decision useful, consistent with regulators’ concerns about the quality of some non-GAAP earnings disclosures. Our results are robust to a variety of specification checks.</jats:p>\n                  <jats:p>Data Availability: Data are derived from a combination of publicly available sources referenced in the article and third-party subscription data bases.</jats:p>\n                  <jats:p>JEL Classifications: M40; M41.</jats:p>",
       "doi": "10.2308/tar-2023-0299",
       "url": "https://doi.org/10.2308/tar-2023-0299"
-    },
-    {
-      "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
-      "authors": "Thomas Wollmann",
-      "journal": "Journal of Political Economy",
-      "field": "Economics",
-      "date": "2026-07-31",
-      "abstract": "",
-      "doi": "10.1086/743329",
-      "url": "https://doi.org/10.1086/743329"
     },
     {
       "title": "Stocks as Lotteries? An Experimental Test of Expected Utility versus Behavioral Models",
@@ -4931,26 +4961,6 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We show that FX interventions can be effective, particularly in attenuating global financial spillovers. We exploit global financial shocks and Brazilian central bank interventions in FX derivatives using three matched administrative registers: bank credit (to firms), foreign credit to banks, and employer‐employees. After the U.S. Taper Tantrum (followed by emerging markets' FX turbulence), Brazilian banks with more foreign debt cut credit supply, reducing firm‐level employment. A subsequent large policy intervention supplying derivatives against FX risks —\n                    <jats:italic>hedger of last resort</jats:italic>\n                    — halved the negative effects. A 2008 to 2015 panel exploiting global FX shocks and local FX interventions confirms the results and the hedging channel. However, the FX policy entails fiscal and moral hazard costs.\n                  </jats:p>",
       "doi": "10.1111/jofi.70054",
       "url": "https://doi.org/10.1111/jofi.70054"
-    },
-    {
-      "title": "Do Mutual Funds Walk the Talk? Evidence from Fund Risk Disclosure",
-      "authors": "Jinfei Sheng, Nan Xu, Lu Zheng",
-      "journal": "Review of Financial Studies",
-      "field": "Finance",
-      "date": "2026-05-20",
-      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine the informativeness of fund risk disclosure by combining fund returns and textual data. We develop a novel measure, INF, to capture the explanatory power of disclosed risks for fund returns. Average INF is 55% after controlling for market risk and remains 26–29% after excluding risks related to fund name or strategy. We explain variations in INF through disclosure costs and benefits: (1) Funds with less informative disclosures face SEC comment letters and reduced flow, (2) informative disclosures attract institutional flows, and (3) performance concerns may disincentivize disclosure. Overall, funds face trade-offs between transparency and maintaining their competitive advantage.</jats:p>",
-      "doi": "10.1093/rfs/hhag020",
-      "url": "https://doi.org/10.1093/rfs/hhag020"
-    },
-    {
-      "title": "Investing with Purpose: Evidence from Private Foundations",
-      "authors": "Matteo Binfarè, Kyle E. Zimmerschied",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-20",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study the asset allocation and investment performance of U.S. private foundations that support the charitable sector. Large foundations generated positive risk‐adjusted returns before 2008, driven by early access to private equity and venture capital funds, but have underperformed since. The median foundation underperforms by more than 100 bps. Foundations with concentrated stock holdings achieve higher returns but assume more risk. Due to the constraints imposed by the 5% minimum spending rule and accommodating monetary policy, foundations increase risk‐taking and reach for yield. Over time, a conservative asset allocation decreases real wealth, reducing charitable giving.</jats:p>",
-      "doi": "10.1111/jofi.70055",
-      "url": "https://doi.org/10.1111/jofi.70055"
     }
   ]
 }
