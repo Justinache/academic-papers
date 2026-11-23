@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-22T09:18:58.332Z",
-  "count": 495,
+  "lastUpdated": "2026-11-23T10:15:28.467Z",
+  "count": 493,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -4931,26 +4931,6 @@
       "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stock markets play a dual role: they provide information about firms’ fundamentals, which improves resource allocations, and they provide liquidity. We propose a setting in which these two roles interact: if stocks are used more intensively for liquidity, then prices reveal less information about fundamentals. We structurally estimate stock price informativeness for several countries and show that it declines when alternative liquidity sources, such as banks, are in distress. To study the real effects of this mechanism, we devise a strategy to integrate our stock-trading module into a dynamic general equilibrium model with heterogeneous firms. We calibrate the model to the United States and simulate recessions with and without banking distress. In a standalone recession, prices become more informative and allocation improves, mitigating output losses by 4.4%. If the recession coincides with banking distress, agents rely more on stock markets to obtain liquidity, prices become less informative, and allocation deteriorates, magnifying output losses by 22%.</jats:p>",
       "doi": "10.1093/qje/qjag029",
       "url": "https://doi.org/10.1093/qje/qjag029"
-    },
-    {
-      "title": "Hedger of Last Resort: Evidence from Brazilian FX Interventions, Local Credit, and Global Financial Cycles",
-      "authors": "Rodrigo Barbone Gonzalez, Dmitry Khametshin, José‐luis Peydró, Andrea Polo",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We show that FX interventions can be effective, particularly in attenuating global financial spillovers. We exploit global financial shocks and Brazilian central bank interventions in FX derivatives using three matched administrative registers: bank credit (to firms), foreign credit to banks, and employer‐employees. After the U.S. Taper Tantrum (followed by emerging markets' FX turbulence), Brazilian banks with more foreign debt cut credit supply, reducing firm‐level employment. A subsequent large policy intervention supplying derivatives against FX risks —\n                    <jats:italic>hedger of last resort</jats:italic>\n                    — halved the negative effects. A 2008 to 2015 panel exploiting global FX shocks and local FX interventions confirms the results and the hedging channel. However, the FX policy entails fiscal and moral hazard costs.\n                  </jats:p>",
-      "doi": "10.1111/jofi.70054",
-      "url": "https://doi.org/10.1111/jofi.70054"
-    },
-    {
-      "title": "Quote Competition in Corporate Bonds",
-      "authors": "Terrence Hendershott, Dan Li, Dmitry Livdan, Norman Schürhoff, Kumar Venkataraman",
-      "journal": "Journal of Finance",
-      "field": "Finance",
-      "date": "2026-05-22",
-      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Dealer quotes in corporate bonds, though indicative, lower trading costs and increase trading volume. Dealers offering higher quality quotes attract more order flow and execute trades at favorable prices. Dealers advertise quotes to manage their inventories and attract orders from nonrelationship clients. However, quote competition is imperfect. The best quotes often fail to attract orders, and trade‐throughs are common. Nevertheless, quote competition is important as clients exploit quotes from other dealers in negotiations, forcing dealers with lower quality quotes to offer price improvements. Quoting is not a zero‐sum game, as more active bond‐level quoting leads to more bond‐level trading.</jats:p>",
-      "doi": "10.1111/jofi.70048",
-      "url": "https://doi.org/10.1111/jofi.70048"
     }
   ]
 }
