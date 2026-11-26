@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T10:52:10.410Z",
-  "count": 493,
+  "lastUpdated": "2026-11-26T10:26:38.176Z",
+  "count": 497,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -21,6 +21,46 @@
       "abstract": "",
       "doi": "10.1016/j.jfineco.2026.104396",
       "url": "https://doi.org/10.1016/j.jfineco.2026.104396"
+    },
+    {
+      "title": "Time-series efficient factors",
+      "authors": "Sina Ehsani, Serhiy Kozak, Juhani Linnainmaa",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2027-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104395",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104395"
+    },
+    {
+      "title": "Populism, polarization and green investment",
+      "authors": "Anders Anderson, David T. Robinson",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2027-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104404",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104404"
+    },
+    {
+      "title": "Carbon home bias",
+      "authors": "Patrick Bolton, Marc Eskildsen, Marcin Kacperczyk",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2027-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104402",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104402"
+    },
+    {
+      "title": "Keep calm and bank on: Bank run risks and the role of public communication",
+      "authors": "Damiano Sandri, Francesco Grigoli, Yuriy Gorodnichenko, Olivier Coibion",
+      "journal": "Journal of Financial Economics",
+      "field": "Finance",
+      "date": "2027-01-01",
+      "abstract": "",
+      "doi": "10.1016/j.jfineco.2026.104417",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104417"
     },
     {
       "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
