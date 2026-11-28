@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T10:30:00.693Z",
-  "count": 497,
+  "lastUpdated": "2026-11-28T09:47:20.903Z",
+  "count": 502,
   "papers": [
     {
       "title": "The role of financial markets in the unraveling of credit",
@@ -881,6 +881,56 @@
       "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Analyzing a cross-country sample, we provide evidence implying that private firm disclosure transparency narrows information asymmetry, which, in turn, lowers public firms' reliance on bank debt. Channel tests help substantiate that private firm disclosure elicits this positive externality, evident in lower monitoring demand, lower borrowing costs, and higher credit rating quality. Cross-sectional results suggest that the impact of private firm transparency is larger when public firms suffer worse information opacity, private firm disclosures are more important to their public peers, and bond markets are more developed. In relying on the staggered implementation of electronic business registers as a plausibly exogenous shock and a simulated disclosure scope as the instrumental variable, we continue to find that private firm disclosures reduce public firms' bank debt reliance, helping to alleviate endogeneity threats.</jats:p>\n                  <jats:p>Data Availability Statement: The data used in this study are obtained from publicly available sources identified in the paper.</jats:p>\n                  <jats:p>JEL Classifications: G32; G21; M41.</jats:p>",
       "doi": "10.2308/tar-2024-0646",
       "url": "https://doi.org/10.2308/tar-2024-0646"
+    },
+    {
+      "title": "Public Sentiment and Share Repurchases",
+      "authors": "Vishal P. Baloria, Alvis K. Lo, Susan Shu, Enshuai Yu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101958",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101958"
+    },
+    {
+      "title": "Editorial data",
+      "authors": "Elizabeth Blankespoor, Ed deHaan, Wayne Guay, Mark Lang, Nemit Shroff, Kevin Smith, Joanna Wu",
+      "journal": "Journal of Accounting and Economics",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "",
+      "doi": "10.1016/j.jacceco.2026.101959",
+      "url": "https://doi.org/10.1016/j.jacceco.2026.101959"
+    },
+    {
+      "title": "Rational Information Acquisition Screens",
+      "authors": "Paul E. Fischer, Mirko S. Heinle, Jung Min Kim, Christina Zhu",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We develop and empirically test a model of information acquisition in capital markets. In the model, investors are uncertain about the returns to acquiring private information before they acquire it. This results in a novel reason for why past price movements affect future capital market outcomes: investors use public information, including past prices, as a screen to estimate the returns to acquiring private information and efficiently allocate their limited information-processing capacity across firms. The model predicts that larger unexplained price movements lead to more private information acquisition, higher future price volatility, and higher future expected trading volume. Using fine-grained data measuring information acquisition on EDGAR and Bloomberg, we provide empirical evidence in support of the model’s predictions.</jats:p>\n                  <jats:p>Data Availability: All data are available from the sources cited in the text.</jats:p>\n                  <jats:p>JEL Classifications: D83; G12; G14; M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0799",
+      "url": "https://doi.org/10.2308/tar-2024-0799"
+    },
+    {
+      "title": "Target Firm Material Contract Redactions and Valuation in Acquisitions",
+      "authors": "Paul A. Griffin, Hyun A. Hong, Kyungran Lee, Jiwoo Ryou",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study whether and how the SEC’s confidential treatment program, which allows firms to redact proprietary information from material contracts, affects valuation in corporate acquisitions. We find that friendly acquisitions of redacting targets generate significantly higher positive announcement returns for both targets and acquirers compared with acquisitions of nonredacting targets. These positive returns are also more pronounced when targets are likelier to hold valuable proprietary information. In addition, friendly acquisitions of redacting targets achieve better long-term performance and recognize fewer subsequent goodwill impairments compared with acquisitions of nonredacting targets. Our findings of a robust association between target firm material contract redactions and target and acquirer announcement returns are consistent with a dual disclosure perspective, whereby redaction preserves target proprietary value, which is transferred privately to the acquirer through due diligence.</jats:p>\n                  <jats:p>Data Availability: Data are available from public sources identified in the paper; some require a subscription.</jats:p>\n                  <jats:p>JEL Classifications: D8; M41; M48.</jats:p>",
+      "doi": "10.2308/tar-2023-0169",
+      "url": "https://doi.org/10.2308/tar-2023-0169"
+    },
+    {
+      "title": "The Effect of Cost Elasticity Choice on Loss Reversal",
+      "authors": "Edmond Tapero, Dan Weiss",
+      "journal": "The Accounting Review",
+      "field": "Accounting",
+      "date": "2026-11-01",
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Although the prevalence of losses has been increasing over the years, little is known about how managerial decisions lead to reversing losses back to profits. We find cost elasticity choices, implied by operating actions made in advance, significantly increase the likelihood of loss reversal. We show loss firms with high cost elasticity exhibit significantly higher long-term survival rates and are therefore less likely to exercise the abandonment option than loss firms with low cost elasticity. The contributions are twofold. First, the findings shed light on a mechanism underlying loss reversal. We extend the loss literature by promoting the understanding of how ex ante cost elasticity choices affect the likelihood of loss reversal. Second, the findings enrich the cost accounting literature by demonstrating a unique performance implication of a cost elasticity choice.</jats:p>\n                  <jats:p>Data Availability: The data used in this study are obtained from third-party subscription databases, Compustat and CRSP, as described in the text.</jats:p>\n                  <jats:p>JEL Classifications: M41.</jats:p>",
+      "doi": "10.2308/tar-2024-0581",
+      "url": "https://doi.org/10.2308/tar-2024-0581"
     },
     {
       "title": "A Theory of Redistribution and Public Good Provision under Nondemocracy",
